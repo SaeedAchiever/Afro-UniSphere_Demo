@@ -1,0 +1,288 @@
+{
+    "id": "2",
+    "name": "Accra Business School",
+    "note": [],
+    "faculties": [
+      {
+        "faculty_id": 1,
+        "faculty_name": "Information Technology",
+        "note": ["No data available yet"],
+        "courses": [
+          {
+            "course_id": 1,
+            "course_name": "BSc IT Management",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+          {
+            "course_id": 2,
+            "course_name": "BSc Cybercrime & IT Security",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+
+          {
+            "course_id": 1,
+            "course_name": "12 Month MSc IT Management",
+            "course_type": "masters",
+            "entry_requirements": [
+              " Application Fee: USD60",
+              "Total Tuition Fee:  USD6,000"
+            ]
+          },
+
+          {
+            "course_id": 1,
+            "course_name": "Level 7 Extended Diploma in Computing Technologies",
+            "course_type": "diploma",
+            "entry_requirements": [
+              "Application Fee: GHC250",
+              "Monthly Plan : GHC1,250",
+              "Different payment plans available"
+            ]
+          },
+
+          {
+            "course_id": 1,
+            "course_name": "CyberSecurity",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: GHc 2,500", "Duration 8 weeks"]
+          }
+        ]
+      },
+      {
+        "faculty_id": 2,
+        "faculty_name": "Business",
+        "note": ["No data available yet"],
+        "courses": [
+          {
+            "course_id": 1,
+            "course_name": "Wrexham University BA(Hons) in Business & Management",
+            "note": [
+              "Tuition: $6,000(flexible payment plan)",
+              "Application: $60"
+            ],
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+
+          {
+            "course_id": 1,
+            "course_name": "Wrexham University MBA",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Tuition: $6,000(flexible payment plan)",
+              "Application: $60"
+            ]
+          },
+          {
+            "course_id": 2,
+            "course_name": "Global Executive MBA",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Fees: USD$ 5,500 per year",
+              "Application Fees : USD$60"
+            ]
+          },
+          {
+            "course_id": 3,
+            "course_name": "12 Month KNUST MBA",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Fees: GHc 24,000",
+              "Different payment plans available"
+            ]
+          },
+          {
+            "course_id": 4,
+            "course_name": "12 Month MSc Accounting & Finance",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Fees: Monthly Plan :Pay GHc 2,900 to start and GHc 2,100 every month",
+              "Different payment plans available"
+            ]
+          },
+          {
+            "course_id": 5,
+            "course_name": "12 Month MSc Human Resource Management",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Fees: GHc 21,000",
+              "Different payment plans available"
+            ]
+          },
+          {
+            "course_id": 6,
+            "course_name": "12 Month MSc Communication and International Marketing",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Fees: GHc 21,000",
+              "Different payment plans available"
+            ]
+          },
+
+          {
+            "course_id": 1,
+            "course_name": "Level 6 Extended Diploma in Management Qualification",
+            "course_type": "diploma",
+            "entry_requirements": [
+              "Application Fee: GHC250",
+              "Fees: GHc 12,000",
+              "Monthly Plan : GHS 1,500 monthly, or pay GHS 5,000 quarterly, or pay all the total of GHS 13,500 and enjoy a 10% discount"
+            ]
+          },
+          {
+            "course_id": 2,
+            "course_name": "Level 6 Extended Diploma in Theology & Management",
+            "course_type": "diploma",
+            "entry_requirements": ["No Data to display"]
+          },
+          {
+            "course_id": 3,
+            "course_name": "Advanced Programme in Project Management",
+            "course_type": "diploma",
+            "entry_requirements": ["Duration 8 weeks", "Fees: GHc 2,550"]
+          },
+          {
+            "course_id": 4,
+            "course_name": "Advanced Programme in Marketing & Communication",
+            "course_type": "diploma",
+            "entry_requirements": ["Duration 8 weeks", "Fees: GHc 2,550"]
+          },
+          {
+            "course_id": 5,
+            "course_name": "Advanced Programme in Human Resource Management",
+            "course_type": "diploma",
+            "entry_requirements": ["Duration 8 weeks", "Fees: GHc 2,550"]
+          },
+          {
+            "course_id": 6,
+            "course_name": "Certificate in Business Management",
+            "course_type": "diploma",
+            "entry_requirements": [
+              "Duration 12 weeks",
+              "Fees: GHC1,200",
+              "Fully Online"
+            ]
+          },
+          {
+            "course_id": 7,
+            "course_name": "Executive Mini-MBA",
+            "course_type": "diploma",
+            "entry_requirements": [
+              "Registration: GHC50",
+              "Cost per module: GHC500",
+              "Fully Online"
+            ]
+          },
+          {
+            "course_id": 8,
+            "course_name": "Executive Certificate in Business Administration(ECBA)",
+            "course_type": "diploma",
+            "entry_requirements": [
+              "Duration 8 weeks",
+              "Fees: Ghc1,550",
+              "Fully Online"
+            ]
+          },
+
+          {
+            "course_id": 1,
+            "course_name": "Business Administration",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
+          },
+          {
+            "course_id": 2,
+            "course_name": "Supply Chain, Logistics and Transport",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
+          },
+          {
+            "course_id": 3,
+            "course_name": "Operations Management",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
+          },
+          {
+            "course_id": 4,
+            "course_name": "Finance",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
+          },
+          {
+            "course_id": 5,
+            "course_name": "Human Resource Management",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
+          },
+          {
+            "course_id": 6,
+            "course_name": "Digital Marketing",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
+          },
+          {
+            "course_id": 7,
+            "course_name": "Project Management",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
+          },
+          {
+            "course_id": 8,
+            "course_name": "Procurement and Contract Management",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
+          },
+          {
+            "course_id": 9,
+            "course_name": "Sales, Marketing and advertising",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
+          }
+        ]
+      },
+      {
+        "faculty_id": 1,
+        "faculty_name": "Social Science",
+        "note": ["No data available yet"],
+        "courses": [
+          {
+            "course_id": 1,
+            "course_name": "12 Month MSc Public Affairs",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Fees: GHc 21,000",
+              "Different payment plans available"
+            ]
+          },
+          {
+            "course_id": 2,
+            "course_name": "12 Month MSc International Relations",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Fees: GHc 21,000",
+              "Different payment plans available"
+            ]
+          }
+        ]
+      },
+      {
+        "faculty_id": 1,
+        "faculty_name": "Communication and Media Studies",
+        "note": ["No data available yet"],
+        "courses": [
+          {
+            "course_id": 1,
+            "course_name": "Communication and Journalism",
+            "course_type": "certificate",
+            "entry_requirements": [
+              "Fees: GHc 2,500",
+              "Application Fee: GHC100",
+              "Duration 8 weeks"
+            ]
+          }
+        ]
+      }
+    ]
+  }

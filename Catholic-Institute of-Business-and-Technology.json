@@ -1,0 +1,130 @@
+{
+  "id": "5",
+  "name": "Catholic Institute of Business and Technology",
+  "faculties": [
+    {
+      "faculty_id": 1,
+      "faculty_name": "Business",
+      "note": ["No data available yet"],
+      "courses": [
+        {
+          "course_id": 1,
+          "course_name": "BSc. Banking and Finance",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        },
+        {
+          "course_id": 2,
+          "course_name": "BSc. Accounting",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        },
+        {
+          "course_id": 3,
+          "course_name": "Bsc Marketing",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        },
+        {
+          "course_id": 4,
+          "course_name": "BSc. Human Resource Management",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        }
+      ]
+    },
+    {
+      "faculty_id": 2,
+      "faculty_name": "Computer Science",
+      "note": ["No data available yet"],
+      "courses": [
+        {
+          "course_id": 1,
+          "course_name": " ",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        },
+        {
+          "course_id": 2,
+          "course_name": "Information Technology",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        },
+        {
+          "course_id": 3,
+          "course_name": "Introductory courses in Computer Literacy",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        }
+      ]
+    },
+    {
+      "faculty_id": 3,
+      "faculty_name": "Public Administration",
+      "note": ["No data available yet"],
+      "courses": [
+        {
+          "course_id": 1,
+          "course_name": "Public Administration",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        },
+        {
+          "course_id": 2,
+          "course_name": "Local Government",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        },
+        {
+          "course_id": 3,
+          "course_name": "Procurement and Chain Supply Management",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        }
+      ]
+    },
+    {
+      "faculty_id": 4,
+      "faculty_name": "Religious and Church Administration",
+      "note": ["No data available yet"],
+      "courses": [
+        {
+          "course_id": 1,
+          "course_name": "Religious and Church Administration",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        },
+        {
+          "course_id": 2,
+          "course_name": "Religious and Church Administration",
+          "course_type": "undergraduate",
+          "entry_requirements": [
+            "Requirements : Refer to faculty/department note"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "4",
+    "name": "Anglican University College of Technology",
+    "faculties": [
+      {
+        "faculty_id": 1,
+        "faculty_name": "Health Science",
+        "note": ["No data available yet"],
+        "courses": [
+          {
+            "course_id": 1,
+            "course_name": "Bsc. Nursing",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+          {
+            "course_id": 2,
+            "course_name": "BSc. Physician Assistantship",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+
+          {
+            "course_id": 1,
+            "course_name": "12 Month MSc IT Management",
+            "course_type": "masters",
+            "entry_requirements": [
+              " Application Fee: USD60",
+              "Total Tuition Fee:  USD6,000"
+            ]
+          },
+
+          {
+            "course_id": 1,
+            "course_name": "Level 7 Extended Diploma in Computing Technologies",
+            "course_type": "diploma",
+            "entry_requirements": [
+              "Application Fee: GHC250",
+              "Monthly Plan : GHC1,250",
+              "Different payment plans available"
+            ]
+          },
+
+          {
+            "course_id": 1,
+            "course_name": "CyberSecurity",
+            "course_type": "certificate",
+            "entry_requirements": ["Fees: GHc 2,500", "Duration 8 weeks"]
+          }
+        ]
+      },
+      {
+        "faculty_id": 2,
+        "faculty_name": "Business",
+        "note": ["No data available yet"],
+        "courses": [
+          {
+            "course_id": 1,
+            "course_name": "BSc. Banking and Finance",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+          {
+            "course_id": 2,
+            "course_name": "BSc. General Management",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+          {
+            "course_id": 3,
+            "course_name": "BSc. Logistics and Supply Chain Management",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+          {
+            "course_id": 4,
+            "course_name": "BSc. Accounting",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+          {
+            "course_id": 5,
+            "course_name": "Bsc Marketing",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          },
+          {
+            "course_id": 6,
+            "course_name": "BSc. Human Resource Management",
+            "course_type": "undergraduate",
+            "entry_requirements": ["Refer to the General Entry Requirements"]
+          }
+        ]
+      },
+      {
+        "faculty_id": 1,
+        "faculty_name": "Social Science",
+        "note": ["No data available yet"],
+        "courses": [
+          {
+            "course_id": 1,
+            "course_name": "12 Month MSc Public Affairs",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Fees: GHc 21,000",
+              "Different payment plans available"
+            ]
+          },
+          {
+            "course_id": 2,
+            "course_name": "12 Month MSc International Relations",
+            "course_type": "masters",
+            "entry_requirements": [
+              "Fees: GHc 21,000",
+              "Different payment plans available"
+            ]
+          }
+        ]
+      },
+      {
+        "faculty_id": 1,
+        "faculty_name": "Communication and Media Studies",
+        "note": ["No data available yet"],
+        "courses": [
+          {
+            "course_id": 1,
+            "course_name": "Communication and Journalism",
+            "course_type": "certificate",
+            "entry_requirements": [
+              "Fees: GHc 2,500",
+              "Application Fee: GHC100",
+              "Duration 8 weeks"
+            ]
+          }
+        ]
+      }
+    ]
+  }
