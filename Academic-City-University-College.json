@@ -325,171 +325,604 @@
     "courses": [
       {
         "course_name": "Accounting",
-        "career": [],
+        "career": [
+          "Accountant",
+          "Financial Accountant",
+          "Accounting Manager",
+          "Budget Analyst",
+          "Tax Manager",
+          "Forensic Accountant",
+          "Audit Director",
+          "Financial Controller",
+          "Cost Accountant",
+          "Credit Manager"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵22,275 per semester (equivalent to $1,650)",
+              "International Students: $1,650 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Financial Accounting",
+                  "Management",
+                  "Business Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 28,680 - GHS 91,380 (Accountant to Accounting Manager)",
+              "USA: $45,000 - $75,000 (entry to mid-level)",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cut_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with practical training",
+              "Hands-on learning with modern facilities",
+              "Industry internship opportunities included"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE/A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level"
+            ],
+            "level_note": [
+              "Program includes industry internship",
+              "Practical training with certified accountants",
+              "Access to modern accounting software and tools"
+            ]
           }
         ]
       },
       {
-        "course_name": "Banking & Finance",
-        "career": [],
+        "course_name": "Banking and Finance",
+        "career": [
+          "Banking Operations Manager",
+          "Investment Analyst",
+          "Financial Advisor",
+          "Corporate Investment Banker",
+          "Risk Manager",
+          "Credit Manager",
+          "Financial Analyst",
+          "Portfolio Manager",
+          "Finance Manager",
+          "Treasury Manager"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵22,275 per semester (equivalent to $1,650)",
+              "International Students: $1,650 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Financial Accounting",
+                  "Elective Mathematics",
+                  "Business Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 30,840 - GHS 115,260 (Banking Officer to Finance Manager)",
+              "USA: $50,000 - $85,000 (entry to mid-level)",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cut_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with practical exposure",
+              "Industry partnerships with major banks",
+              "Real-world banking simulations and case studies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE/A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level"
+            ],
+            "level_note": [
+              "Taught by chartered global bankers",
+              "Focus on modern banking practices and fintech",
+              "Strong emphasis on financial markets and institutions"
+            ]
           }
         ]
       },
       {
         "course_name": "Human Resource Management",
-        "career": [],
+        "career": [
+          "Human Resource Manager",
+          "Training and Development Officer",
+          "Recruitment Specialist",
+          "Compensation and Benefits Manager",
+          "HR Analyst",
+          "Labor Relations Specialist",
+          "Organizational Development Consultant",
+          "Performance Management Specialist",
+          "HR Business Partner",
+          "Talent Acquisition Manager"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₢22,275 per semester (equivalent to $1,650)",
+              "International Students: $1,650 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Management",
+                  "Economics",
+                  "Business Law",
+                  "Psychology"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - GHS 85,000 (HR Officer to HR Manager)",
+              "USA: $45,000 - $80,000 (entry to mid-level)",
+              "Europe: €38,000 - €65,000"
+            ],
+            "cut_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with practical case studies",
+              "Interactive learning with HR professionals",
+              "Real workplace scenarios and simulations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE/A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level"
+            ],
+            "level_note": [
+              "Comprehensive coverage of people management",
+              "Focus on modern HR practices and employment law",
+              "Industry internship and practical training opportunities"
+            ]
           }
         ]
       },
       {
         "course_name": "Marketing",
-        "career": [],
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Market Research Analyst",
+          "Advertising Account Executive",
+          "Marketing Coordinator",
+          "Product Manager",
+          "Sales Manager",
+          "Social Media Manager",
+          "Marketing Consultant"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵22,275 per semester (equivalent to $1,650)",
+              "International Students: $1,650 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Business Management",
+                  "Visual Arts",
+                  "Communication Studies"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - GHS 75,000 (Marketing Officer to Marketing Manager)",
+              "USA: $42,000 - $75,000 (entry to mid-level)",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cut_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with digital marketing focus",
+              "Customer-centric approach with practical campaigns",
+              "Integration of traditional and digital marketing strategies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE/A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level"
+            ],
+            "level_note": [
+              "Focus on consumer behavior and market psychology",
+              "Hands-on experience with digital marketing tools",
+              "Real marketing campaign development and execution"
+            ]
           }
         ]
       },
       {
         "course_name": "Entrepreneurship",
-        "career": [],
+        "career": [
+          "Business Founder/Entrepreneur",
+          "Business Development Manager",
+          "Innovation Manager",
+          "Startup Consultant",
+          "Product Manager",
+          "Venture Capital Analyst",
+          "Business Analyst",
+          "Project Manager",
+          "Corporate Strategy Analyst",
+          "Small Business Advisor"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵22,275 per semester (equivalent to $1,650)",
+              "International Students: $1,650 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Business Management",
+                  "Innovation Studies",
+                  "Digital Technology"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - GHS 80,000+ (varies greatly with business success)",
+              "USA: $40,000 - $90,000+ (highly variable based on ventures)",
+              "Europe: €35,000 - €75,000+ (depends on business outcomes)"
+            ],
+            "cut_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with experiential learning",
+              "Practical business development and startup incubation",
+              "Integration with Technology and Entrepreneurship Centre"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE/A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level"
+            ],
+            "level_note": [
+              "Multi-disciplinary approach to business innovation",
+              "Access to startup incubation facilities",
+              "Focus on identifying and commercializing business opportunities"
+            ]
           }
         ]
       }
     ]
   },
   {
-    "faculty_name": "Infomatics",
-    "note": [],
+    "faculty_name": "Informatics",
+    "note": [
+      "Academic City University is the first African university to offer a BSc in Artificial Intelligence",
+      "All Informatics programs emphasize hands-on, practical learning with modern facilities",
+      "Strong focus on emerging technologies including AI, Machine Learning, IoT, and Cybersecurity",
+      "Industry partnerships provide internship and career opportunities",
+      "Small class sizes with 5:1 student-to-faculty ratio"
+    ],
     "courses": [
       {
         "course_name": "Artificial Intelligence",
-        "career": [],
+        "career": [
+          "Machine Learning Engineer",
+          "Data Scientist",
+          "AI Research Scientist",
+          "Computer Vision Engineer",
+          "Natural Language Processing Engineer",
+          "Robotics Engineer",
+          "AI Consultant",
+          "Deep Learning Specialist",
+          "AI Product Manager",
+          "Autonomous Systems Developer"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵33,775 per semester (equivalent to $2,500)",
+              "International Students: $2,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Elective Mathematics",
+                  "Physics",
+                  "Economics",
+                  "Further Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - GHS 150,000 (Junior AI Engineer to Senior AI Specialist)",
+              "USA: $90,000 - $180,000 (entry to senior level)",
+              "Europe: €65,000 - €120,000"
+            ],
+            "cutt_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with extensive hands-on projects",
+              "Access to AI labs with cutting-edge hardware and software",
+              "Project-based learning with real-world AI applications"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE/A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level"
+            ],
+            "level_note": [
+              "Africa's first undergraduate AI degree program",
+              "Covers machine learning, deep learning, computer vision, and NLP",
+              "Focus on ethical AI development and societal impact",
+              "Integration with robotics and data analytics programs"
+            ]
           }
         ]
       },
       {
-        "course_name": "Information Technolog",
-        "career": [],
+        "course_name": "Information Technology",
+        "career": [
+          "Information Systems Manager",
+          "Database Administrator",
+          "Network Administrator",
+          "Cybersecurity Analyst",
+          "Cloud Solutions Architect",
+          "IT Project Manager",
+          "Systems Analyst",
+          "Software Developer",
+          "Data Analyst",
+          "IT Consultant"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵24,300 per semester (equivalent to $1,800)",
+              "International Students: $1,800 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Physics",
+                  "Business Management",
+                  "Applied Electricity"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - GHS 120,000 (IT Officer to IT Manager)",
+              "USA: $55,000 - $95,000 (entry to senior level)",
+              "Europe: €45,000 - €75,000"
+            ],
+            "cutt_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with practical IT labs",
+              "Hands-on training with industry-standard tools",
+              "Emphasis on emerging technologies and cloud computing"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE/A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level"
+            ],
+            "level_note": [
+              "Comprehensive coverage of IT infrastructure and systems",
+              "Strong focus on cybersecurity and data science",
+              "Electives in cloud computing, IoT, and mobile app development",
+              "Industry internship opportunities included"
+            ]
           }
         ]
       },
       {
         "course_name": "Computer Science",
-        "career": [],
+        "career": [
+          "Software Engineer",
+          "Software Architect",
+          "Machine Learning Engineer",
+          "Data Scientist",
+          "Full Stack Developer",
+          "Computer Systems Analyst",
+          "Research Scientist",
+          "Product Manager",
+          "Technical Lead",
+          "Startup Founder"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵28,350 per semester (equivalent to $2,100)",
+              "International Students: $2,100 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Elective Mathematics",
+                  "Physics",
+                  "Further Mathematics",
+                  "Applied Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 47,720 - GHS 139,100 (Junior Developer to Senior Computer Scientist)",
+              "USA: $70,000 - $150,000 (entry to senior level)",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with extensive programming labs",
+              "Project-based approach combining concepts across courses",
+              "Access to Digital Makerspace and Technology & Entrepreneurship Center"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE/A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level"
+            ],
+            "level_note": [
+              "Strong foundation in algorithms, data structures, and software engineering",
+              "Electives in AI, machine learning, blockchain, and IoT",
+              "70% practical lessons with experienced industry faculty",
+              "Opportunities for research in computational sciences"
+            ]
           }
         ]
       },
       {
         "course_name": "Data Science and Analytics",
-        "career": [],
+        "career": [
+          "Data Scientist",
+          "Machine Learning Engineer",
+          "Business Intelligence Analyst",
+          "Data Engineer",
+          "Analytics Consultant",
+          "Quantitative Analyst",
+          "Research Analyst",
+          "Data Architect",
+          "Statistical Modeler",
+          "AI Specialist"
+        ],
         "levels": [
           {
             "level_name": "Masters",
-            "fees": [],
-            "duration": "",
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵47,250 per semester",
+              "International Students: $3,500 per semester"
+            ],
+            "duration": "2 years (4 semesters)",
+            "mode": [
+              "Full-time on-campus with advanced analytics labs",
+              "Hands-on experience with big data tools and technologies",
+              "Industry partnerships for practical project exposure"
+            ],
+            "entry_requirements": [
+              "BSc from accredited university with at least second-class upper or lower division",
+              "GPA of at least 2.0 on 4.0 scale or CWA greater than 50%",
+              "Preference for graduates with backgrounds in Statistics, Mathematics, Computer Science, Engineering",
+              "Graduates from other backgrounds considered case-by-case"
+            ],
+            "level_note": [
+              "Comprehensive curriculum covering foundations to advanced data science",
+              "Focus on big data management, machine learning, and deep learning",
+              "Final thesis project required",
+              "Strong emphasis on real-world applications and business insights"
+            ]
           }
         ]
       },
       {
         "course_name": "Cyber Security",
-        "career": [],
+        "career": [
+          "Cybersecurity Analyst",
+          "Information Security Manager",
+          "Penetration Tester",
+          "Security Consultant",
+          "Incident Response Specialist",
+          "Security Architect",
+          "Digital Forensics Analyst",
+          "Risk Management Specialist",
+          "Compliance Officer",
+          "Chief Information Security Officer"
+        ],
         "levels": [
           {
             "level_name": "Masters",
-            "fees": [],
-            "duration": "",
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵47,250 per semester",
+              "International Students: $3,500 per semester"
+            ],
+            "duration": "2 years (4 semesters)",
+            "mode": [
+              "Full-time on-campus with state-of-the-art cybersecurity labs",
+              "Hands-on training with industry-standard security tools",
+              "Simulated cyber attack and defense scenarios"
+            ],
+            "entry_requirements": [
+              "BSc from accredited university with at least second-class upper or lower division",
+              "GPA of at least 2.0 on 4.0 scale or CWA greater than 50%",
+              "Preference for graduates with backgrounds in Computer Science, IT, Engineering",
+              "Professional experience in IT or related fields considered advantageous"
+            ],
+            "level_note": [
+              "Comprehensive coverage of network security, digital forensics, and cryptography",
+              "Focus on cyber warfare, terrorism, and behavioral aspects of security",
+              "Case studies of real cybersecurity breaches",
+              "Final thesis research project required"
+            ]
           }
         ]
       }
@@ -497,39 +930,151 @@
   },
   {
     "faculty_name": "Communication Arts",
-    "note": [],
+    "note": [
+      "Part of the Faculty of Business & Communication Arts under Dean Prof. Enoch Opoku Antwi",
+      "Head of Department: Dr. Ransford Antwi - award-winning leadership and management professor",
+      "Focus on practical, hands-on learning with state-of-the-art facilities",
+      "Emphasis on digital media and emerging communication technologies",
+      "Strong industry partnerships providing internship and career opportunities",
+      "Programs designed to prepare graduates for the evolving media landscape"
+    ],
     "courses": [
       {
         "course_name": "Journalism & Mass Communication",
-        "career": [],
+        "career": [
+          "Broadcast Journalist",
+          "Editorial Assistant",
+          "Magazine Feature Editor",
+          "Digital Copywriter",
+          "Market Researcher",
+          "Web Content Manager",
+          "Writer",
+          "Multimedia Specialist",
+          "Public Relations Officer",
+          "Advertising Copywriter"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵20,250 per semester (equivalent to $1,500)",
+              "International Students: $1,500 per semester (upfront) or $1,800 per semester (payment plan)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Literature",
+                  "History",
+                  "Government",
+                  "Geography",
+                  "Economics",
+                  "French"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 25,100 - GHS 86,500 (Junior Journalist to Senior Editor)",
+              "USA: $35,000 - $73,000 (entry to experienced level)",
+              "Europe: €28,000 - €55,000"
+            ],
+            "cutt_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with practical newsroom experience",
+              "Hands-on training in print, broadcast, and digital journalism",
+              "Access to modern media production facilities and equipment"
+            ],
+            "entry_requirements": [
+              "WASSCE/NECO: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE O-Level & A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level",
+              "English IB: Minimum score of 4 in 3 higher level subjects including English and Mathematics",
+              "American High School: Minimum GPA of 3.0"
+            ],
+            "level_note": [
+              "Comprehensive curriculum covering print, broadcast, and online journalism",
+              "Focus on convergence of traditional and new media platforms",
+              "Strong emphasis on research methods and communication ethics",
+              "Mandatory internship opportunities with established media houses",
+              "Training in critical thinking and analytical skills for media evaluation"
+            ]
           }
         ]
       },
       {
         "course_name": "Advertising & Public Relations",
-        "career": [],
+        "career": [
+          "Advertising Account Executive",
+          "Public Relations Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Creative Director",
+          "Communications Coordinator",
+          "Media Planner",
+          "Marketing Communications Manager",
+          "Corporate Communications Officer",
+          "Crisis Communications Specialist"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GH₵20,250 per semester (equivalent to $1,500)",
+              "International Students: $1,500 per semester (upfront) or $1,800 per semester (payment plan)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Core Mathematics",
+                  "English Language",
+                  "Integrated Science or Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Visual Arts",
+                  "Economics",
+                  "Management",
+                  "Psychology",
+                  "French",
+                  "Literature"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 39,200 - GHS 137,400 (PR Officer to Communications Manager)",
+              "USA: $42,000 - $85,000 (entry to senior level)",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["2024: ~36", "2025: ~36"],
+            "mode": [
+              "Full-time on-campus with creative workshops and practical training",
+              "Focus on digital advertising and social media marketing",
+              "Hands-on experience with campaign development and execution"
+            ],
+            "entry_requirements": [
+              "WASSCE/NECO: Minimum C6 in 6 subjects including 3 core subjects (Mathematics and English mandatory) and 3 elective subjects",
+              "SSSCE: Minimum D or pass in 6 subjects including 3 core subjects",
+              "IGCSE O-Level & A-Level: Minimum 5 credit passes in O-Level and 3 passes in A-Level",
+              "English IB: Minimum score of 4 in 3 higher level subjects including English and Mathematics",
+              "American High School: Minimum GPA of 3.0"
+            ],
+            "level_note": [
+              "Comprehensive curriculum covering advertising, marketing communications, and public relations",
+              "Strong focus on digital media and social media marketing strategies",
+              "Emphasis on brand management and reputation management",
+              "Portfolio development throughout the program",
+              "Industry exposure through internships at advertising agencies and PR firms",
+              "Training in crisis communications and reputation management"
+            ]
           }
         ]
       }
