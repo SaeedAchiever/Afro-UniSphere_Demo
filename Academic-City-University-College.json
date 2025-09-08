@@ -10,316 +10,6 @@
     "Certificate": "GHC 3,000 - GHC 5,000"
   },
   {
-    "faculty_name": "Engineering",
-    "note": [
-      "Applicants who do not meet the entry requirements may enroll in our 6-month Pre-Engineering course. Successful completion of this course will automatically qualify them for admission"
-    ],
-    "courses": [
-      {
-        "course_name": "Electronics & Communication Engineering",
-        "career": [
-          "Communications Engineer",
-          "Electronics Engineer",
-          "Electrical Engineer",
-          "Telecom Engineer",
-          "Electronics Technician",
-          "Radio Maintenance Technician",
-          "Power Engineer",
-          "Network/Hardware Engineer",
-          "Customer Service Engineer (Telecoms)",
-          "Technical Manager (Electronics)"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Elective Math", "Physics"]
-              },
-              {
-                "additional": [
-                  "Chemistry",
-                  "Applied Electricity",
-                  "Electronics"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS57,320 - GHS60,020",
-              "USA: $88,896 - $92,343",
-              "Europe: €40,000 - €65,000"
-            ],
-            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
-            "mode": [
-              "Primarily in-person on-campus with hands-on lab work",
-              "Blended learning with online lectures and weekend options"
-            ],
-            "entry_requirements": ["Refer to the cut off points and electives"],
-            "level_note": []
-          }
-        ]
-      },
-      {
-        "course_name": "Computer Engineering",
-        "career": [
-          "Computer Hardware Engineer",
-          "Systems Engineer",
-          "Network Engineer",
-          "Software Developer (embedded systems)",
-          "IT Support Engineer",
-          "Cybersecurity Engineer",
-          "Computer Systems Analyst",
-          "Firmware Engineer",
-          "Data Engineer",
-          "Robotics Engineer"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Elective Math", "Physics", "Chemistry"]
-              },
-              {
-                "additional": ["Geography"]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS50,000  (estimated)",
-              "USA: $85,000 - $105,000 (estimated)",
-              "Europe: €38,000 - €60,000 (estimated)"
-            ],
-            "cutt_off": ["2024 : ~ 6", "2025 : ~ 6"],
-            "mode": [
-              "In-person practical labs and computer facilities",
-              "Online components and weekend classes available"
-            ],
-            "entry_requirements": ["Refer to the cut off points and electives"],
-            "level_note": []
-          }
-        ]
-      },
-      {
-        "course_name": "Mechanical Engineering",
-        "career": [
-          "Mechanical Design Engineer",
-          "Manufacturing Engineer",
-          "Maintenance Engineer",
-          "Quality Control Engineer",
-          "HVAC Engineer",
-          "Automotive Engineer",
-          "Project Engineer",
-          "Plant Engineer",
-          "Production Engineer",
-          "Technical Sales Engineer"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Elective Math", "Physics"]
-              },
-              {
-                "additional": ["Chemistry", "Technical Drawing", "Metal Work"]
-              }
-            ],
-            "salary": [
-              "Ghana: ~45,000 - 55,000 GHS (estimated)",
-              "USA: $70,000 - $95,000 (estimated)",
-              "Europe: €35,000 - €55,000 (estimated)"
-            ],
-            "cutt_off": ["2024 : ~ 6", "2025 : ~ 6"],
-            "mode": [
-              "In-person practical labs and computer facilities",
-              "Online components and weekend classes available"
-            ],
-            "entry_requirements": ["Refer to the cut off points and electives"],
-            "level_note": []
-          }
-        ]
-      },
-      {
-        "course_name": "Electrical & Electronics Engineering",
-        "career": [
-          "Electrical Engineer",
-          "Electronics Engineer",
-          "Electrical Design Engineer",
-          "Instrumentation Engineer",
-          "Electrical Maintenance Engineer",
-          "Power Systems Engineer",
-          "Control Systems Engineer",
-          "Electrical Project Manager",
-          "Electrical Technician",
-          "Energy Analyst"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
-            "duration": "4 Years (Full-time)",
-            "electives": [
-              {
-                "required": ["Elective Mathematics", "Physics"]
-              },
-              {
-                "additional": [
-                  "Chemistry",
-                  "Applied Electricity",
-                  "Electronics"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: ~36,000 - 60,000 GHS",
-              "USA: $75,000 - $95,000 (estimated)",
-              "Europe: €40,000 - €60,000 (estimated)"
-            ],
-            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
-            "mode": [
-              "Mixed hands-on and theory approach",
-              "On-campus labs with blended online materials"
-            ],
-            "entry_requirements": ["Refer to the cut off points and electives"],
-            "level_note": []
-          }
-        ]
-      },
-      {
-        "course_name": "Industrial & Systems Engineering",
-        "career": [
-          "Industrial Engineer",
-          "Systems Analyst",
-          "Process Improvement Engineer",
-          "Operations Manager",
-          "Production Planner",
-          "Quality Assurance Engineer",
-          "Supply Chain Analyst",
-          "Logistics Engineer",
-          "Facilities Manager",
-          "Safety Engineer"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
-            "duration": "4 Years (Full-time)",
-            "electives": [
-              {
-                "required": ["Elective Mathematics", "Physics"]
-              },
-              {
-                "additional": ["Chemistry", "ICT", "Technical Drawing"]
-              }
-            ],
-            "salary": [
-              "Ghana: ~50,000 GHS (estimated)",
-              "USA: $70,000 - $90,000 (estimated)",
-              "Europe: €40,000 - €58,000 (estimated)"
-            ],
-            "cutt_off": ["Not publicly documented"],
-            "mode": [
-              "Hands-on, project-oriented",
-              "Flexible options with some online delivery"
-            ],
-            "entry_requirements": ["Refer to the cut off points and electives"],
-            "level_note": []
-          }
-        ]
-      },
-      {
-        "course_name": "Robotics Engineering",
-        "career": [
-          "Robotics Engineer",
-          "Automation Engineer",
-          "Control Systems Engineer",
-          "Mechatronics Engineer",
-          "Robotics Technician",
-          "R&D Engineer",
-          "AI Systems Engineer (Robotics focus)",
-          "Robot Programmer",
-          "Systems Integration Engineer",
-          "Field Service Engineer (Robotics)"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
-            "duration": "4 Years (Full-time)",
-            "electives": [
-              {
-                "required": ["Elective Mathematics", "Physics"]
-              },
-              {
-                "additional": ["Engineering Science", "Robotics"]
-              }
-            ],
-            "salary": [
-              "Ghana: ~50,000 - 60,000 GHS (estimated)",
-              "USA: $80,000 - $100,000 (estimated)",
-              "Europe: €45,000 - €65,000 (estimated)"
-            ],
-            "cutt_off": ["No Data Available"],
-            "mode": [
-              "In-person labs with robotics kits and simulation tools",
-              "Blended learning with online theory and weekend workshops"
-            ],
-            "entry_requirements": ["Refer to the cut off points and electives"],
-            "level_note": []
-          }
-        ]
-      },
-      {
-        "course_name": "Biomedical Engineering",
-        "career": [
-          "Biomedical Engineer",
-          "Clinical Engineer",
-          "Medical Device Engineer",
-          "Research Scientist",
-          "Quality Assurance Specialist",
-          "Rehabilitation Engineer",
-          "Regulatory Affairs Specialist",
-          "Hospital Equipment Manager",
-          "Product Development Engineer",
-          "Sales Engineer (Medical Devices)"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
-            "duration": "4 Years (Full-time)",
-            "electives": [
-              {
-                "required": ["Biology", "Chemistry", "Physics", "Mathematics"]
-              },
-              {
-                "additional": []
-              }
-            ],
-            "salary": [
-              "Ghana: ~40,000 - 55,000 GHS (estimated)",
-              "USA: $75,000 - $110,000 (estimated)",
-              "Europe: €45,000 - €70,000 (estimated)"
-            ],
-            "cutt_off": ["2024 : 7", "2025 : 7"],
-            "mode": [
-              "Laboratory-intensive, integration of biology with engineering",
-              "Blended theory and hands-on clinical equipment training"
-            ],
-            "entry_requirements": ["Refer to the cut off points and electives"],
-            "level_note": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "faculty_name": "Business",
     "note": [],
     "courses": [
@@ -635,6 +325,316 @@
               "Access to startup incubation facilities",
               "Focus on identifying and commercializing business opportunities"
             ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Engineering",
+    "note": [
+      "Applicants who do not meet the entry requirements may enroll in our 6-month Pre-Engineering course. Successful completion of this course will automatically qualify them for admission"
+    ],
+    "courses": [
+      {
+        "course_name": "Electronics & Communication Engineering",
+        "career": [
+          "Communications Engineer",
+          "Electronics Engineer",
+          "Electrical Engineer",
+          "Telecom Engineer",
+          "Electronics Technician",
+          "Radio Maintenance Technician",
+          "Power Engineer",
+          "Network/Hardware Engineer",
+          "Customer Service Engineer (Telecoms)",
+          "Technical Manager (Electronics)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Math", "Physics"]
+              },
+              {
+                "additional": [
+                  "Chemistry",
+                  "Applied Electricity",
+                  "Electronics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS57,320 - GHS60,020",
+              "USA: $88,896 - $92,343",
+              "Europe: €40,000 - €65,000"
+            ],
+            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
+            "mode": [
+              "Primarily in-person on-campus with hands-on lab work",
+              "Blended learning with online lectures and weekend options"
+            ],
+            "entry_requirements": ["Refer to the cut off points and electives"],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Computer Engineering",
+        "career": [
+          "Computer Hardware Engineer",
+          "Systems Engineer",
+          "Network Engineer",
+          "Software Developer (embedded systems)",
+          "IT Support Engineer",
+          "Cybersecurity Engineer",
+          "Computer Systems Analyst",
+          "Firmware Engineer",
+          "Data Engineer",
+          "Robotics Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Math", "Physics", "Chemistry"]
+              },
+              {
+                "additional": ["Geography"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS50,000  (estimated)",
+              "USA: $85,000 - $105,000 (estimated)",
+              "Europe: €38,000 - €60,000 (estimated)"
+            ],
+            "cutt_off": ["2024 : ~ 6", "2025 : ~ 6"],
+            "mode": [
+              "In-person practical labs and computer facilities",
+              "Online components and weekend classes available"
+            ],
+            "entry_requirements": ["Refer to the cut off points and electives"],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Mechanical Engineering",
+        "career": [
+          "Mechanical Design Engineer",
+          "Manufacturing Engineer",
+          "Maintenance Engineer",
+          "Quality Control Engineer",
+          "HVAC Engineer",
+          "Automotive Engineer",
+          "Project Engineer",
+          "Plant Engineer",
+          "Production Engineer",
+          "Technical Sales Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Math", "Physics"]
+              },
+              {
+                "additional": ["Chemistry", "Technical Drawing", "Metal Work"]
+              }
+            ],
+            "salary": [
+              "Ghana: ~45,000 - 55,000 GHS (estimated)",
+              "USA: $70,000 - $95,000 (estimated)",
+              "Europe: €35,000 - €55,000 (estimated)"
+            ],
+            "cutt_off": ["2024 : ~ 6", "2025 : ~ 6"],
+            "mode": [
+              "In-person practical labs and computer facilities",
+              "Online components and weekend classes available"
+            ],
+            "entry_requirements": ["Refer to the cut off points and electives"],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Electrical & Electronics Engineering",
+        "career": [
+          "Electrical Engineer",
+          "Electronics Engineer",
+          "Electrical Design Engineer",
+          "Instrumentation Engineer",
+          "Electrical Maintenance Engineer",
+          "Power Systems Engineer",
+          "Control Systems Engineer",
+          "Electrical Project Manager",
+          "Electrical Technician",
+          "Energy Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
+            "duration": "4 Years (Full-time)",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": [
+                  "Chemistry",
+                  "Applied Electricity",
+                  "Electronics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: ~36,000 - 60,000 GHS",
+              "USA: $75,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €60,000 (estimated)"
+            ],
+            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
+            "mode": [
+              "Mixed hands-on and theory approach",
+              "On-campus labs with blended online materials"
+            ],
+            "entry_requirements": ["Refer to the cut off points and electives"],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Industrial & Systems Engineering",
+        "career": [
+          "Industrial Engineer",
+          "Systems Analyst",
+          "Process Improvement Engineer",
+          "Operations Manager",
+          "Production Planner",
+          "Quality Assurance Engineer",
+          "Supply Chain Analyst",
+          "Logistics Engineer",
+          "Facilities Manager",
+          "Safety Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
+            "duration": "4 Years (Full-time)",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": ["Chemistry", "ICT", "Technical Drawing"]
+              }
+            ],
+            "salary": [
+              "Ghana: ~50,000 GHS (estimated)",
+              "USA: $70,000 - $90,000 (estimated)",
+              "Europe: €40,000 - €58,000 (estimated)"
+            ],
+            "cutt_off": ["Not publicly documented"],
+            "mode": [
+              "Hands-on, project-oriented",
+              "Flexible options with some online delivery"
+            ],
+            "entry_requirements": ["Refer to the cut off points and electives"],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Robotics Engineering",
+        "career": [
+          "Robotics Engineer",
+          "Automation Engineer",
+          "Control Systems Engineer",
+          "Mechatronics Engineer",
+          "Robotics Technician",
+          "R&D Engineer",
+          "AI Systems Engineer (Robotics focus)",
+          "Robot Programmer",
+          "Systems Integration Engineer",
+          "Field Service Engineer (Robotics)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
+            "duration": "4 Years (Full-time)",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": ["Engineering Science", "Robotics"]
+              }
+            ],
+            "salary": [
+              "Ghana: ~50,000 - 60,000 GHS (estimated)",
+              "USA: $80,000 - $100,000 (estimated)",
+              "Europe: €45,000 - €65,000 (estimated)"
+            ],
+            "cutt_off": ["No Data Available"],
+            "mode": [
+              "In-person labs with robotics kits and simulation tools",
+              "Blended learning with online theory and weekend workshops"
+            ],
+            "entry_requirements": ["Refer to the cut off points and electives"],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Biomedical Engineering",
+        "career": [
+          "Biomedical Engineer",
+          "Clinical Engineer",
+          "Medical Device Engineer",
+          "Research Scientist",
+          "Quality Assurance Specialist",
+          "Rehabilitation Engineer",
+          "Regulatory Affairs Specialist",
+          "Hospital Equipment Manager",
+          "Product Development Engineer",
+          "Sales Engineer (Medical Devices)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 59,400 per semester"],
+            "duration": "4 Years (Full-time)",
+            "electives": [
+              {
+                "required": ["Biology", "Chemistry", "Physics", "Mathematics"]
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: ~40,000 - 55,000 GHS (estimated)",
+              "USA: $75,000 - $110,000 (estimated)",
+              "Europe: €45,000 - €70,000 (estimated)"
+            ],
+            "cutt_off": ["2024 : 7", "2025 : 7"],
+            "mode": [
+              "Laboratory-intensive, integration of biology with engineering",
+              "Blended theory and hands-on clinical equipment training"
+            ],
+            "entry_requirements": ["Refer to the cut off points and electives"],
+            "level_note": []
           }
         ]
       }
