@@ -1,288 +1,1602 @@
-{
-    "id": "2",
-    "name": "Accra Business School",
+[
+  {
+    "name": "Accra Business School"
+  },
+  {
+    "faculty_name": "Masters",
     "note": [],
-    "faculties": [
+    "courses": [
       {
-        "faculty_id": 1,
-        "faculty_name": "Information Technology",
-        "note": ["No data available yet"],
-        "courses": [
+        "course_name": "MBA in Finance",
+        "career": [
+          "Financial Manager",
+          "Investment Analyst",
+          "Corporate Finance Manager",
+          "Treasury Manager",
+          "Financial Planning Manager",
+          "Risk Management Specialist",
+          "Banking Manager",
+          "Financial Consultant",
+          "Private Equity Analyst",
+          "Hedge Fund Manager"
+        ],
+        "levels": [
           {
-            "course_id": 1,
-            "course_name": "BSc IT Management",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-          {
-            "course_id": 2,
-            "course_name": "BSc Cybercrime & IT Security",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-
-          {
-            "course_id": 1,
-            "course_name": "12 Month MSc IT Management",
-            "course_type": "masters",
-            "entry_requirements": [
-              " Application Fee: USD60",
-              "Total Tuition Fee:  USD6,000"
-            ]
-          },
-
-          {
-            "course_id": 1,
-            "course_name": "Level 7 Extended Diploma in Computing Technologies",
-            "course_type": "diploma",
-            "entry_requirements": [
-              "Application Fee: GHC250",
-              "Monthly Plan : GHC1,250",
-              "Different payment plans available"
-            ]
-          },
-
-          {
-            "course_id": 1,
-            "course_name": "CyberSecurity",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: GHc 2,500", "Duration 8 weeks"]
-          }
-        ]
-      },
-      {
-        "faculty_id": 2,
-        "faculty_name": "Business",
-        "note": ["No data available yet"],
-        "courses": [
-          {
-            "course_id": 1,
-            "course_name": "Wrexham University BA(Hons) in Business & Management",
-            "note": [
-              "Tuition: $6,000(flexible payment plan)",
-              "Application: $60"
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 24,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Financial Analysis",
+              "Corporate Finance",
+              "Investment Management",
+              "Financial Markets",
+              "Risk Management"
             ],
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-
-          {
-            "course_id": 1,
-            "course_name": "Wrexham University MBA",
-            "course_type": "masters",
+            "salary": [
+              "Ghana: GHS 60,000 - 120,000 annually",
+              "USA: $120,000 - $200,000",
+              "Europe: \u20ac80,000 - \u20ac150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One full weekend per month (highly flexible for working professionals)",
+              "Blended learning with online and in-person components"
+            ],
             "entry_requirements": [
-              "Tuition: $6,000(flexible payment plan)",
-              "Application: $60"
-            ]
-          },
-          {
-            "course_id": 2,
-            "course_name": "Global Executive MBA",
-            "course_type": "masters",
-            "entry_requirements": [
-              "Fees: USD$ 5,500 per year",
-              "Application Fees : USD$60"
-            ]
-          },
-          {
-            "course_id": 3,
-            "course_name": "12 Month KNUST MBA",
-            "course_type": "masters",
-            "entry_requirements": [
-              "Fees: GHc 24,000",
-              "Different payment plans available"
-            ]
-          },
-          {
-            "course_id": 4,
-            "course_name": "12 Month MSc Accounting & Finance",
-            "course_type": "masters",
-            "entry_requirements": [
-              "Fees: Monthly Plan :Pay GHc 2,900 to start and GHc 2,100 every month",
-              "Different payment plans available"
-            ]
-          },
-          {
-            "course_id": 5,
-            "course_name": "12 Month MSc Human Resource Management",
-            "course_type": "masters",
-            "entry_requirements": [
-              "Fees: GHc 21,000",
-              "Different payment plans available"
-            ]
-          },
-          {
-            "course_id": 6,
-            "course_name": "12 Month MSc Communication and International Marketing",
-            "course_type": "masters",
-            "entry_requirements": [
-              "Fees: GHc 21,000",
-              "Different payment plans available"
-            ]
-          },
-
-          {
-            "course_id": 1,
-            "course_name": "Level 6 Extended Diploma in Management Qualification",
-            "course_type": "diploma",
-            "entry_requirements": [
-              "Application Fee: GHC250",
-              "Fees: GHc 12,000",
-              "Monthly Plan : GHS 1,500 monthly, or pay GHS 5,000 quarterly, or pay all the total of GHS 13,500 and enjoy a 10% discount"
-            ]
-          },
-          {
-            "course_id": 2,
-            "course_name": "Level 6 Extended Diploma in Theology & Management",
-            "course_type": "diploma",
-            "entry_requirements": ["No Data to display"]
-          },
-          {
-            "course_id": 3,
-            "course_name": "Advanced Programme in Project Management",
-            "course_type": "diploma",
-            "entry_requirements": ["Duration 8 weeks", "Fees: GHc 2,550"]
-          },
-          {
-            "course_id": 4,
-            "course_name": "Advanced Programme in Marketing & Communication",
-            "course_type": "diploma",
-            "entry_requirements": ["Duration 8 weeks", "Fees: GHc 2,550"]
-          },
-          {
-            "course_id": 5,
-            "course_name": "Advanced Programme in Human Resource Management",
-            "course_type": "diploma",
-            "entry_requirements": ["Duration 8 weeks", "Fees: GHc 2,550"]
-          },
-          {
-            "course_id": 6,
-            "course_name": "Certificate in Business Management",
-            "course_type": "diploma",
-            "entry_requirements": [
-              "Duration 12 weeks",
-              "Fees: GHC1,200",
-              "Fully Online"
-            ]
-          },
-          {
-            "course_id": 7,
-            "course_name": "Executive Mini-MBA",
-            "course_type": "diploma",
-            "entry_requirements": [
-              "Registration: GHC50",
-              "Cost per module: GHC500",
-              "Fully Online"
-            ]
-          },
-          {
-            "course_id": 8,
-            "course_name": "Executive Certificate in Business Administration(ECBA)",
-            "course_type": "diploma",
-            "entry_requirements": [
-              "Duration 8 weeks",
-              "Fees: Ghc1,550",
-              "Fully Online"
-            ]
-          },
-
-          {
-            "course_id": 1,
-            "course_name": "Business Administration",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
-          },
-          {
-            "course_id": 2,
-            "course_name": "Supply Chain, Logistics and Transport",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
-          },
-          {
-            "course_id": 3,
-            "course_name": "Operations Management",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
-          },
-          {
-            "course_id": 4,
-            "course_name": "Finance",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
-          },
-          {
-            "course_id": 5,
-            "course_name": "Human Resource Management",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
-          },
-          {
-            "course_id": 6,
-            "course_name": "Digital Marketing",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
-          },
-          {
-            "course_id": 7,
-            "course_name": "Project Management",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
-          },
-          {
-            "course_id": 8,
-            "course_name": "Procurement and Contract Management",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
-          },
-          {
-            "course_id": 9,
-            "course_name": "Sales, Marketing and advertising",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: Ghc2,500", "Duration 8 weeks"]
-          }
-        ]
-      },
-      {
-        "faculty_id": 1,
-        "faculty_name": "Social Science",
-        "note": ["No data available yet"],
-        "courses": [
-          {
-            "course_id": 1,
-            "course_name": "12 Month MSc Public Affairs",
-            "course_type": "masters",
-            "entry_requirements": [
-              "Fees: GHc 21,000",
-              "Different payment plans available"
-            ]
-          },
-          {
-            "course_id": 2,
-            "course_name": "12 Month MSc International Relations",
-            "course_type": "masters",
-            "entry_requirements": [
-              "Fees: GHc 21,000",
-              "Different payment plans available"
+              "Bachelor's degree with minimum Second Class Lower division",
+              "Minimum 2 years work experience",
+              "GMAT/GRE not required but may be considered"
+            ],
+            "level_note": [
+              "Fastest MBA in Ghana while you work",
+              "Among the most affordable MBAs in Ghana"
             ]
           }
         ]
       },
       {
-        "faculty_id": 1,
-        "faculty_name": "Communication and Media Studies",
-        "note": ["No data available yet"],
-        "courses": [
+        "course_name": "MBA in Marketing & Communication",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Manager",
+          "Communication Manager",
+          "Market Research Manager",
+          "Advertising Manager",
+          "Product Manager",
+          "Marketing Director",
+          "Social Media Manager",
+          "Public Relations Manager"
+        ],
+        "levels": [
           {
-            "course_id": 1,
-            "course_name": "Communication and Journalism",
-            "course_type": "certificate",
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 24,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Digital Marketing Strategy",
+              "Brand Management",
+              "International Marketing",
+              "Communication Strategy",
+              "Marketing Analytics"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 110,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: \u20ac70,000 - \u20ac130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One full weekend per month",
+              "Blended learning environment"
+            ],
             "entry_requirements": [
-              "Fees: GHc 2,500",
-              "Application Fee: GHC100",
-              "Duration 8 weeks"
+              "Bachelor's degree (Second Class Lower or better)",
+              "Minimum 2 years work experience",
+              "Strong communication skills preferred"
+            ],
+            "level_note": [
+              "Accredited by GTEC",
+              "Industry-driven curriculum with input from marketing professionals"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA in Entrepreneurship & Innovation",
+        "career": [
+          "Entrepreneur/Business Founder",
+          "Innovation Manager",
+          "Startup Consultant",
+          "Business Development Manager",
+          "Venture Capitalist",
+          "Corporate Innovation Director",
+          "Social Enterprise Leader",
+          "Strategy Manager",
+          "Incubator Manager",
+          "Accelerator Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 24,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Venture Creation & Development",
+              "Financing for Entrepreneurs",
+              "Innovation Management Strategy",
+              "Social Entrepreneurship",
+              "Business Model Innovation"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 150,000+ (Variable based on venture)",
+              "USA: $80,000 - $250,000+",
+              "Europe: \u20ac60,000 - \u20ac180,000+"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Venture-lab based learning",
+              "Hands-on practical projects",
+              "One weekend per month schedule"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (Second Class Lower or better)",
+              "2 years work experience or entrepreneurial background",
+              "Business plan or innovation pitch advantage"
+            ],
+            "level_note": [
+              "Focus on Africa's startup ecosystem",
+              "Direct mentorship from successful entrepreneurs"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA in Business Intelligence & Analytics",
+        "career": [
+          "Business Intelligence Analyst",
+          "Data Scientist",
+          "Analytics Manager",
+          "Business Analyst",
+          "Data Engineer",
+          "Decision Analytics Manager",
+          "Operations Manager",
+          "Strategy Analyst",
+          "Technology Consultant",
+          "Data Visualization Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 24,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Advanced Data Analytics",
+              "Business Intelligence & Data Visualization",
+              "Data Mining & Machine Learning",
+              "Big Data Technologies",
+              "Strategic Decision-Making with Data",
+              "Data Ethics and Governance"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 150,000 annually",
+              "USA: $140,000 - $280,000",
+              "Europe: \u20ac100,000 - \u20ac200,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Blended learning with hands-on analytics tools",
+              "One full weekend per month",
+              "Practical project-based assessments"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in any field",
+              "Strong analytical skills preferred",
+              "Basic programming knowledge advantageous"
+            ],
+            "level_note": [
+              "Three recognitions: MBA + CMI Level 7 Certificate + Chartered Manager Status",
+              "Industry-driven curriculum with data professionals"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA in Human Resource Management",
+        "career": [
+          "HR Manager",
+          "HR Director",
+          "Talent Acquisition Manager",
+          "Training & Development Manager",
+          "Compensation & Benefits Manager",
+          "Employee Relations Manager",
+          "Organizational Development Manager",
+          "HR Consultant",
+          "Change Management Manager",
+          "Performance Management Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 24,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Strategic HR Management",
+              "Training & Development",
+              "Compensation & Benefits",
+              "Employee Relations",
+              "Performance Management",
+              "Organizational Behavior"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 120,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: \u20ac75,000 - \u20ac140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One full weekend per month",
+              "Blended online and face-to-face"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (Second Class Lower or better)",
+              "Minimum 2 years HR or management experience",
+              "Understanding of organizational dynamics"
+            ],
+            "level_note": [
+              "Contemporary global workforce focus",
+              "Practical HR skills and case studies"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA in Operations & Supply Chain Management",
+        "career": [
+          "Operations Manager",
+          "Supply Chain Manager",
+          "Logistics Manager",
+          "Procurement Manager",
+          "Production Manager",
+          "Quality Manager",
+          "Project Manager",
+          "Supply Chain Director",
+          "Demand Planner",
+          "Operations Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 24,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Supply Chain Strategy",
+              "Procurement Management",
+              "Logistics & Transportation",
+              "Quality Management",
+              "Operations Analytics",
+              "Sustainable Supply Chain"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 130,000 annually",
+              "USA: $120,000 - $220,000",
+              "Europe: \u20ac90,000 - \u20ac160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Practical industry-focused delivery",
+              "One full weekend per month"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (Second Class Lower or better)",
+              "2 years work experience preferred",
+              "Industry background advantageous"
+            ],
+            "level_note": [
+              "Three Recognitions: MBA + CMI Level 7 Certificate + Chartered Manager Status",
+              "Input from logistics, manufacturing, retail, agriculture, and technology leaders"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "UGC MBA (General)",
+        "career": [
+          "General Manager",
+          "Business Manager",
+          "Director",
+          "Management Consultant",
+          "Senior Executive",
+          "Business Development Manager",
+          "Strategic Planner",
+          "Operations Director",
+          "Entrepreneur",
+          "Corporate Executive"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 24,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Strategic Management",
+              "Financial Management",
+              "Marketing Management",
+              "Organizational Behavior",
+              "Research Methods",
+              "Business Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 130,000 annually",
+              "USA: $110,000 - $200,000",
+              "Europe: \u20ac80,000 - \u20ac150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Highly flexible one weekend per month",
+              "Blended learning approach"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower)",
+              "2 years work experience required",
+              "Strong academic background"
+            ],
+            "level_note": [
+              "Among the most affordable MBAs in Ghana",
+              "Practice-oriented education"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc in Accounting & Finance",
+        "career": [
+          "Accountant",
+          "Financial Analyst",
+          "Auditor",
+          "Tax Specialist",
+          "Financial Manager",
+          "Investment Advisor",
+          "Cost Accountant",
+          "Internal Auditor",
+          "Finance Controller",
+          "CFO"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": [
+              "Students with Accounting/Finance Background: GHC 21,000",
+              "Students without Background: GHC 24,000"
+            ],
+            "duration": "12 months",
+            "electives": [
+              "Financial Analysis",
+              "Management Accounting",
+              "Tax Planning",
+              "Auditing",
+              "Financial Reporting",
+              "Corporate Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 130,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: \u20ac80,000 - \u20ac150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One full weekend per month",
+              "Blended online and face-to-face delivery"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in related field",
+              "IFA-UK pathway available",
+              "2 years work experience preferred"
+            ],
+            "level_note": [
+              "Route to full IFA-UK membership",
+              "Hybrid faculty of industry professionals and academics"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc in Human Resource Management",
+        "career": [
+          "HR Manager",
+          "HR Director",
+          "HR Business Partner",
+          "Talent Manager",
+          "Training Manager",
+          "Employee Relations Manager",
+          "Compensation Manager",
+          "HR Consultant",
+          "Organizational Development Specialist",
+          "Learning & Development Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 21,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Strategic HRM",
+              "Training & Development",
+              "Performance Management",
+              "Employee Relations",
+              "Compensation & Benefits"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 120,000 annually",
+              "USA: $95,000 - $175,000",
+              "Europe: \u20ac75,000 - \u20ac140,000"
+            ],
+            "cutt_off": [],
+            "mode": ["One full weekend per month", "Flexible delivery"],
+            "entry_requirements": [
+              "Bachelor's degree (Second Class Lower or better)",
+              "Minimum 2 years work experience",
+              "HR or related background preferred"
+            ],
+            "level_note": [
+              "One of most affordable MScs in Ghana",
+              "GTEC accredited"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc in Communication & International Marketing",
+        "career": [
+          "Marketing Manager",
+          "International Marketing Manager",
+          "Communication Manager",
+          "Brand Manager",
+          "Market Research Manager",
+          "Digital Marketing Manager",
+          "PR Manager",
+          "Advertising Manager",
+          "Marketing Consultant",
+          "Product Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 21,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "International Business Strategy",
+              "Digital Marketing",
+              "Brand Management",
+              "Marketing Analytics",
+              "Cross-cultural Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 110,000 annually",
+              "USA: $90,000 - $170,000",
+              "Europe: \u20ac70,000 - \u20ac130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Multidisciplinary approach",
+              "One full weekend per month"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree",
+              "Marketing or communications background preferred",
+              "2 years work experience"
+            ],
+            "level_note": [
+              "One of the most affordable MScs in Ghana",
+              "Flexible payment plan ensures pay-as-you-go model"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc in International Relations",
+        "career": [
+          "Diplomat",
+          "Foreign Service Officer",
+          "International Relations Analyst",
+          "Policy Advisor",
+          "NGO Director",
+          "International Organization Official",
+          "Research Analyst",
+          "Security Specialist",
+          "UN Official",
+          "Think Tank Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 21,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Foreign Policy Analysis",
+              "Diplomacy",
+              "International Security",
+              "Global Governance",
+              "Trade Relations"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 130,000 annually",
+              "USA: $110,000 - $190,000",
+              "Europe: \u20ac90,000 - \u20ac160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One full weekend per month",
+              "Practice-oriented education"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower)",
+              "2 years work experience",
+              "Related background in politics, international studies"
+            ],
+            "level_note": [
+              "Unique focus on African perspectives",
+              "Multi-dimensional complexities of foreign policy"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc in International Law, Security & Diplomacy",
+        "career": [
+          "International Lawyer",
+          "Diplomat",
+          "Security Analyst",
+          "Policy Officer",
+          "Legal Advisor",
+          "Consultant",
+          "NGO Executive",
+          "Government Official",
+          "Academic Researcher",
+          "International Relations Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Estimated: GHC 24,000 - 27,000"],
+            "duration": "12 months",
+            "electives": [
+              "International Law Principles",
+              "Security Studies",
+              "Diplomatic Negotiations",
+              "Conflict Resolution",
+              "Global Governance"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 150,000 annually",
+              "USA: $120,000 - $220,000",
+              "Europe: \u20ac100,000 - \u20ac200,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Intensive study combining theory and practice",
+              "Blended delivery"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (preferably in Law or Political Science)",
+              "Strong analytical and writing skills",
+              "2 years relevant work experience"
+            ],
+            "level_note": [
+              "Advanced programme in International Law, Diplomacy and Security",
+              "12-week intensive online option also available"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "LLM in International Law, Securities & Diplomacy",
+        "career": [
+          "International Lawyer",
+          "Corporate Counsel",
+          "Securities Lawyer",
+          "Legal Advisor",
+          "Government Attorney",
+          "In-house Counsel",
+          "Legal Consultant",
+          "Academia/Researcher",
+          "Policy Advisor",
+          "International Organization Attorney"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Estimated: GBP 2,500 - 4,000 equivalent"],
+            "duration": "12-18 months",
+            "electives": [
+              "International Business Law",
+              "Securities Regulation",
+              "Diplomatic Law",
+              "International Contracts",
+              "Global Trade Law"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 200,000 annually",
+              "USA: $150,000 - $300,000",
+              "Europe: \u20ac120,000 - \u20ac250,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "100% Online (no fixed attendance requirements)",
+              "Study at your own pace",
+              "Mobile app for offline access"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or equivalent",
+              "Legal background preferred",
+              "Proficiency in English language"
+            ],
+            "level_note": [
+              "Globally recognized British LLM degree",
+              "Open book assessment (no traditional exams)"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA in Biblical Studies & Practical Theology",
+        "career": [
+          "Pastor/Minister",
+          "Chaplain",
+          "Theological Educator",
+          "Church Administrator",
+          "Mission Director",
+          "Christian Counselor",
+          "Youth Minister",
+          "Academic Theologian",
+          "Seminary Instructor",
+          "Ministry Leader"
+        ],
+        "levels": [
+          {
+            "level_name": "Master",
+            "fees": ["Ghanaian Students: GHC 18,000 (Total)"],
+            "duration": "12 months (full-time) or 24-48 months (part-time)",
+            "electives": [
+              "Biblical Interpretation",
+              "Pastoral Care",
+              "Christian Leadership",
+              "Practical Ministry",
+              "Theological Foundations"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 100,000 annually (varies by denomination/role)",
+              "USA: $50,000 - $120,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular, evening, or weekend classes",
+              "Blended face-to-face and online",
+              "Ministry integration and practicum"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree",
+              "Christian background/commitment",
+              "Ministry experience or aspirations"
+            ],
+            "level_note": [
+              "Transformative program for Christian leaders",
+              "Biblically literate and practically-minded graduates",
+              "Founded on academic rigor with spiritual formation"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Undergraduate",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "BSc (Hons) Business",
+        "career": [
+          "Business Manager",
+          "General Manager",
+          "Business Analyst",
+          "Operations Manager",
+          "Business Consultant",
+          "Entrepreneur",
+          "Administrative Manager",
+          "Project Manager",
+          "Business Development Manager",
+          "Management Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 per semester (approximately)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Accounting",
+              "Economics",
+              "Finance",
+              "Marketing",
+              "Human Resource Management",
+              "Strategic Management"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 85,000 annually",
+              "USA: $60,000 - $100,000",
+              "Europe: \u20ac50,000 - \u20ac90,000"
+            ],
+            "cutt_off": ["Competitive based on WASSCE aggregate"],
+            "mode": [
+              "Flexible weekend classes (for working students)",
+              "Full-time on-campus options available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, and three electives",
+              "Aggregate of 24 (WASSCE) or 36 points maximum",
+              "Alternative: Diploma/HND holders"
+            ],
+            "level_note": [
+              "Affordable first degree option",
+              "Practical business skills focus"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc IT Management",
+        "career": [
+          "IT Manager",
+          "Systems Manager",
+          "IT Consultant",
+          "Network Manager",
+          "Database Administrator",
+          "IT Director",
+          "Project Manager (IT)",
+          "Business Analyst",
+          "IT Support Manager",
+          "Vendor Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 3,000 - 4,000 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Information Systems",
+              "Database Management",
+              "Network Management",
+              "IT Project Management",
+              "Data & Information Systems",
+              "Vendor & Service Management"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 120,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: \u20ac70,000 - \u20ac130,000"
+            ],
+            "cutt_off": ["Competitive WASSCE aggregate score required"],
+            "mode": [
+              "Blended learning (theory + practical labs)",
+              "Flexible schedules for working students"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in Math, English, and IT/Computing",
+              "Strong analytical and problem-solving skills",
+              "Computing background preferred"
+            ],
+            "level_note": [
+              "Irish university accredited degree",
+              "Industry-standard IT management curriculum"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Cybercrime & IT Security",
+        "career": [
+          "Cybersecurity Analyst",
+          "Security Manager",
+          "Network Security Engineer",
+          "Penetration Tester",
+          "Information Security Manager",
+          "Security Architect",
+          "Incident Response Specialist",
+          "Forensics Specialist",
+          "Security Consultant",
+          "Security Operations Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 3,000 - 4,000 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Network Security",
+              "Cryptography",
+              "Ethical Hacking",
+              "Digital Forensics",
+              "Malware Analysis",
+              "Security Policies"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 150,000 annually",
+              "USA: $90,000 - $180,000",
+              "Europe: \u20ac80,000 - \u20ac160,000"
+            ],
+            "cutt_off": ["Competitive WASSCE aggregate"],
+            "mode": [
+              "Lab-intensive with hands-on security tools",
+              "Blended online and practical sessions",
+              "Flexible weekend options"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in Math, English, and Computing/IT",
+              "Strong logical reasoning skills",
+              "Interest in information security"
+            ],
+            "level_note": [
+              "High demand field with excellent salary prospects",
+              "Practical security training and certifications"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Diploma",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Diploma in Management Qualification (Level 6 Extended Diploma)",
+        "career": [
+          "Management Professional",
+          "Operations Manager",
+          "Senior Administrator",
+          "Team Leader",
+          "Supervisor",
+          "Project Coordinator",
+          "Business Analyst",
+          "HR Specialist",
+          "Finance Officer",
+          "Quality Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 12,000 - 13,500 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Leadership and Management",
+              "Accounting",
+              "Managing Finance",
+              "Economics",
+              "Risk Management",
+              "Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 70,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: \u20ac45,000 - \u20ac80,000"
+            ],
+            "cutt_off": ["WASSCE passes or Diploma entry requirements"],
+            "mode": [
+              "One weekend per month (highly flexible)",
+              "Blended learning"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes in 3 core and 3 elective subjects",
+              "Diploma holder",
+              "HND with 2 years work experience"
+            ],
+            "level_note": [
+              "Equivalent to Bachelor's first degree on completion",
+              "Pathway to MBA/MSc progression",
+              "Flexible professional pathway"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Theology & Management",
+        "career": [
+          "Ministry Leader",
+          "Church Administrator",
+          "Pastor",
+          "Chaplain",
+          "Church Manager",
+          "Faith-based Organization Director",
+          "Youth Leader",
+          "Pastoral Care Coordinator",
+          "Biblical Educator",
+          "Church Finance Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Estimated: GHC 12,000 - 15,000"],
+            "duration": "12 months",
+            "electives": [
+              "Biblical Studies",
+              "Theology",
+              "Church Management",
+              "Leadership",
+              "Pastoral Care",
+              "Organizational Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually (varies by role/denomination)",
+              "USA: $40,000 - $100,000",
+              "Europe: \u20ac40,000 - \u20ac90,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Flexible schedule", "Weekend and evening options"],
+            "entry_requirements": [
+              "Secondary education or equivalent",
+              "Christian background",
+              "Ministry interest or experience"
+            ],
+            "level_note": [
+              "Combines theological and management training",
+              "Pathway for church leaders and administrators"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Level 7 Extended Diploma in Strategic Management",
+        "career": [
+          "Strategic Manager",
+          "Director",
+          "Senior Manager",
+          "C-Suite Executive",
+          "Strategic Consultant",
+          "Business Director",
+          "Operations Director",
+          "Change Management Director",
+          "Strategy Officer",
+          "Executive Leader"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 12,000 - 14,000 (Total)"],
+            "duration": "12 months",
+            "electives": [
+              "Strategic Leadership",
+              "Strategic Planning",
+              "Organizational Strategy",
+              "Change Management",
+              "Strategic Decision Making",
+              "Business Strategy"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 150,000 annually",
+              "USA: $120,000 - $240,000",
+              "Europe: \u20ac100,000 - \u20ac200,000"
+            ],
+            "cutt_off": [],
+            "mode": ["One weekend per month", "Advanced level study"],
+            "entry_requirements": [
+              "Bachelor's degree or Level 6 Diploma",
+              "Significant management experience",
+              "Executive-level aspirations"
+            ],
+            "level_note": [
+              "Equivalent to postgraduate diploma/MBA foundation",
+              "Taught at MBA comparable level",
+              "Direct MBA progression pathway"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Level 6 Extended Diploma in Finance",
+        "career": [
+          "Finance Manager",
+          "Finance Officer",
+          "Accountant",
+          "Financial Analyst",
+          "Bookkeeper",
+          "Treasury Officer",
+          "Cost Accountant",
+          "Financial Planner",
+          "Auditor",
+          "Finance Controller"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 12,000 - 13,500"],
+            "duration": "12 months",
+            "electives": [
+              "Financial Decision Making",
+              "Accounting",
+              "Finance Management",
+              "Economics",
+              "Risk Management",
+              "Financial Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 90,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: \u20ac60,000 - \u20ac110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One weekend per month",
+              "Blended learning with financial software"
+            ],
+            "entry_requirements": [
+              "WASSCE passes including Math",
+              "Diploma in accounting/business",
+              "HND in Finance/Accounting"
+            ],
+            "level_note": [
+              "Finance-focused professional qualification",
+              "Pathway to MSc Finance or MBA"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Certificate",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Professional Development Certificate in Communication & Journalism",
+        "career": [
+          "Journalist",
+          "Communication Officer",
+          "Content Writer",
+          "PR Officer",
+          "Media Manager",
+          "Broadcast Journalist",
+          "Communication Specialist",
+          "News Editor",
+          "Social Media Manager",
+          "Communications Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "News Writing",
+              "Reporting Skills",
+              "Interviewing Techniques",
+              "Media Law",
+              "Digital Media Tools",
+              "Broadcast Journalism"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $40,000 - $90,000",
+              "Europe: \u20ac35,000 - \u20ac80,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "100% Online",
+              "Self-paced intensive program",
+              "Flexible week-by-week structure"
+            ],
+            "entry_requirements": [
+              "19 years or older",
+              "Secondary education minimum",
+              "Interest in journalism/communication"
+            ],
+            "level_note": [
+              "Practical journalism training",
+              "Digital media skills included",
+              "Media law component"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Operations Management",
+        "career": [
+          "Operations Manager",
+          "Operations Analyst",
+          "Production Manager",
+          "Quality Manager",
+          "Process Improvement Manager",
+          "Supply Chain Coordinator",
+          "Project Coordinator",
+          "Facilities Manager",
+          "Logistics Manager",
+          "Operations Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Operations Planning",
+              "Inventory Management",
+              "Quality Management",
+              "Supply Chain Management",
+              "Project Management",
+              "Lean Operations"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 85,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: \u20ac50,000 - \u20ac110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "100% Online",
+              "Intensive 8-week program",
+              "Flexible self-paced learning"
+            ],
+            "entry_requirements": [
+              "Work experience preferred",
+              "Secondary education minimum",
+              "Interest in operations"
+            ],
+            "level_note": [
+              "Practical operations skills",
+              "Tools and techniques included",
+              "Real-world case studies"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Cybersecurity",
+        "career": [
+          "Security Analyst",
+          "Cybersecurity Specialist",
+          "Security Administrator",
+          "Network Security Engineer",
+          "Security Officer",
+          "Information Security Analyst",
+          "Security Technician",
+          "SOC Analyst",
+          "Security Consultant",
+          "IT Security Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Cybersecurity Fundamentals",
+              "Risk Management",
+              "Security Architecture",
+              "Cryptography",
+              "Network Security",
+              "Security Incident Response"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 100,000 annually",
+              "USA: $70,000 - $150,000",
+              "Europe: \u20ac60,000 - \u20ac130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "100% Online",
+              "8-week intensive course",
+              "Practical hands-on labs"
+            ],
+            "entry_requirements": [
+              "Basic IT knowledge",
+              "Secondary education",
+              "Interest in cybersecurity"
+            ],
+            "level_note": [
+              "High-demand field",
+              "Practical security skills",
+              "Defense and mitigation strategies"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Finance",
+        "career": [
+          "Finance Analyst",
+          "Finance Officer",
+          "Accountant",
+          "Financial Planner",
+          "Investment Analyst",
+          "Treasury Officer",
+          "Budget Analyst",
+          "Financial Controller",
+          "Audit Officer",
+          "Banking Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Financial Analysis",
+              "Financial Management",
+              "Corporate Finance",
+              "Investment Fundamentals",
+              "Financial Markets",
+              "Portfolio Management"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 80,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: \u20ac50,000 - \u20ac100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "100% Online",
+              "Intensive 8-week program",
+              "Flexible schedule"
+            ],
+            "entry_requirements": [
+              "Basic math skills",
+              "Secondary education",
+              "Interest in finance"
+            ],
+            "level_note": [
+              "Comprehensive finance training",
+              "Financial statement analysis",
+              "Practical finance tools"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Human Resource Management",
+        "career": [
+          "HR Officer",
+          "HR Administrator",
+          "Recruitment Officer",
+          "HR Coordinator",
+          "Training Officer",
+          "Employee Relations Officer",
+          "Payroll Officer",
+          "HR Specialist",
+          "HR Executive",
+          "Talent Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Recruitment & Selection",
+              "Training & Development",
+              "Compensation & Benefits",
+              "Employee Relations",
+              "Performance Management",
+              "HR Compliance"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 70,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: \u20ac45,000 - \u20ac90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "100% Online",
+              "8-week intensive",
+              "Flexible participation"
+            ],
+            "entry_requirements": [
+              "Secondary education",
+              "Work experience beneficial",
+              "Interest in HR"
+            ],
+            "level_note": [
+              "Practical HR skills",
+              "Recruitment and selection techniques",
+              "Employee engagement strategies"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Digital Marketing",
+        "career": [
+          "Digital Marketing Manager",
+          "Social Media Manager",
+          "Content Marketing Manager",
+          "SEO Specialist",
+          "Digital Marketing Analyst",
+          "Marketing Coordinator",
+          "Email Marketing Specialist",
+          "PPC Specialist",
+          "Marketing Consultant",
+          "Social Media Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Digital Marketing Strategy",
+              "Social Media Marketing",
+              "Content Marketing",
+              "SEO & SEM",
+              "Email Marketing",
+              "Analytics & Reporting"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 85,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: \u20ac45,000 - \u20ac100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "100% Online",
+              "Intensive 8-week course",
+              "Self-paced learning"
+            ],
+            "entry_requirements": [
+              "Basic digital literacy",
+              "Secondary education",
+              "Interest in marketing"
+            ],
+            "level_note": [
+              "Social media strategy",
+              "Digital marketing tools and platforms",
+              "Campaign creation and optimization"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Project Management",
+        "career": [
+          "Project Manager",
+          "Project Coordinator",
+          "Project Administrator",
+          "Program Manager",
+          "PMO Officer",
+          "Portfolio Manager",
+          "Scrum Master",
+          "Project Sponsor",
+          "Quality Assurance Manager",
+          "Project Lead"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Project Planning",
+              "Project Scheduling",
+              "Risk Management",
+              "Quality Management",
+              "Stakeholder Management",
+              "Project Closure"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: \u20ac60,000 - \u20ac120,000"
+            ],
+            "cutt_off": [],
+            "mode": ["100% Online", "8-week program", "Flexible self-paced"],
+            "entry_requirements": [
+              "Work experience preferred",
+              "Secondary education",
+              "Interest in project management"
+            ],
+            "level_note": [
+              "Project management methodologies",
+              "PMI-aligned content",
+              "Real-world project scenarios"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Procurement & Contract Management",
+        "career": [
+          "Procurement Officer",
+          "Procurement Manager",
+          "Contract Manager",
+          "Supplier Manager",
+          "Purchasing Officer",
+          "Procurement Specialist",
+          "Vendor Manager",
+          "Procurement Director",
+          "Sourcing Manager",
+          "Procurement Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Procurement Fundamentals",
+              "Contract Negotiation",
+              "Supplier Relationship Management",
+              "Procurement Law",
+              "Risk Management",
+              "Ethical Procurement"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: \u20ac55,000 - \u20ac115,000"
+            ],
+            "cutt_off": [],
+            "mode": ["100% Online", "8-week intensive", "Flexible schedule"],
+            "entry_requirements": [
+              "Work experience in procurement/supply chain preferred",
+              "Secondary education",
+              "Interest in procurement"
+            ],
+            "level_note": [
+              "Contract management best practices",
+              "Legal and ethical procurement",
+              "Supplier negotiation techniques"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Supply Chain, Logistics & Transport",
+        "career": [
+          "Logistics Manager",
+          "Supply Chain Coordinator",
+          "Transport Manager",
+          "Warehouse Manager",
+          "Supply Chain Analyst",
+          "Logistics Officer",
+          "Fleet Manager",
+          "Distribution Manager",
+          "Supply Chain Manager",
+          "Inventory Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Supply Chain Fundamentals",
+              "Logistics Management",
+              "Transport Operations",
+              "Inventory Control",
+              "Distribution Strategy",
+              "Sustainability in Supply Chain"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $65,000 - $125,000",
+              "Europe: \u20ac60,000 - \u20ac115,000"
+            ],
+            "cutt_off": [],
+            "mode": ["100% Online", "8-week program", "Self-paced learning"],
+            "entry_requirements": [
+              "Work experience in logistics/supply chain beneficial",
+              "Secondary education",
+              "Interest in supply chain"
+            ],
+            "level_note": [
+              "Global supply chain perspective",
+              "Sustainability and compliance",
+              "Practical logistics case studies"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Sales, Marketing & Advertising",
+        "career": [
+          "Sales Manager",
+          "Marketing Manager",
+          "Advertising Manager",
+          "Sales Representative",
+          "Marketing Coordinator",
+          "Brand Manager",
+          "Sales Executive",
+          "Market Research Analyst",
+          "Marketing Analyst",
+          "Account Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Sales Strategy",
+              "Marketing Fundamentals",
+              "Advertising Strategy",
+              "Brand Management",
+              "Customer Relationship",
+              "Sales & Marketing Analytics"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 80,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: \u20ac50,000 - \u20ac110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "100% Online",
+              "8-week intensive",
+              "Flexible participation"
+            ],
+            "entry_requirements": [
+              "Work experience in sales/marketing beneficial",
+              "Secondary education",
+              "Interest in sales and marketing"
+            ],
+            "level_note": [
+              "Sales closing techniques",
+              "Marketing campaign development",
+              "Consumer behavior insights"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Development Certificate in Business Administration",
+        "career": [
+          "Business Administrator",
+          "Office Manager",
+          "Administrative Manager",
+          "Executive Assistant",
+          "Administrative Officer",
+          "Administrative Coordinator",
+          "Business Support Officer",
+          "Operations Administrator",
+          "Administrative Specialist",
+          "Business Operations Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,500"],
+            "duration": "8 weeks",
+            "electives": [
+              "Strategic Management",
+              "Finance",
+              "Marketing",
+              "Operations Management",
+              "Organizational Behavior",
+              "Business Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 65,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: \u20ac40,000 - \u20ac80,000"
+            ],
+            "cutt_off": [],
+            "mode": ["100% Online", "8-week program", "Flexible learning"],
+            "entry_requirements": [
+              "Secondary education",
+              "Work experience beneficial",
+              "Interest in business administration"
+            ],
+            "level_note": [
+              "Comprehensive business foundation",
+              "Administrative and operational excellence",
+              "Business problem-solving"
             ]
           }
         ]
       }
     ]
   }
+]
