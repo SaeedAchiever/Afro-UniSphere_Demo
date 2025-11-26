@@ -1,138 +1,912 @@
-{
-    "id": "4",
-    "name": "Anglican University College of Technology",
-    "faculties": [
+[
+  {
+    "name": "Anglican University College of Technology (AUCT/ANG.U.TECH)"
+  },
+  {
+    "faculty_name": "Health Science",
+    "note": [
+      "Practical, hands-on training with access to medical facilities",
+      "Clinical internships and practicum components",
+      "Alignment with international health standards",
+      "Strong industry partnerships with healthcare institutions"
+    ],
+    "courses": [
       {
-        "faculty_id": 1,
-        "faculty_name": "Health Science",
-        "note": ["No data available yet"],
-        "courses": [
+        "course_name": "BSc Nursing",
+        "career": [
+          "Registered Nurse",
+          "Clinical Nurse Specialist",
+          "Nurse Manager",
+          "Hospital Nurse",
+          "Community Health Nurse",
+          "Health Educator",
+          "Midwife",
+          "Intensive Care Nurse",
+          "Surgical Nurse",
+          "Public Health Nurse"
+        ],
+        "levels": [
           {
-            "course_id": 1,
-            "course_name": "Bsc. Nursing",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-          {
-            "course_id": 2,
-            "course_name": "BSc. Physician Assistantship",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-
-          {
-            "course_id": 1,
-            "course_name": "12 Month MSc IT Management",
-            "course_type": "masters",
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 5,000 - 5,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "English Language",
+                  "Mathematics"
+                ]
+              },
+              {
+                "additional": [
+                  "Medical-Surgical Nursing",
+                  "Community Health Nursing",
+                  "Maternal and Child Health",
+                  "Mental Health Nursing",
+                  "Nursing Pharmacology",
+                  "Clinical Practice"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 65,000 annually",
+              "USA: $65,000 - $95,000",
+              "Europe: €55,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate 36 or better / SSSCE aggregate 36 or better"
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Clinical placements and hospital rotations",
+              "Practical hands-on training"
+            ],
             "entry_requirements": [
-              " Application Fee: USD60",
-              "Total Tuition Fee:  USD6,000"
-            ]
-          },
-
-          {
-            "course_id": 1,
-            "course_name": "Level 7 Extended Diploma in Computing Technologies",
-            "course_type": "diploma",
-            "entry_requirements": [
-              "Application Fee: GHC250",
-              "Monthly Plan : GHC1,250",
-              "Different payment plans available"
-            ]
-          },
-
-          {
-            "course_id": 1,
-            "course_name": "CyberSecurity",
-            "course_type": "certificate",
-            "entry_requirements": ["Fees: GHc 2,500", "Duration 8 weeks"]
-          }
-        ]
-      },
-      {
-        "faculty_id": 2,
-        "faculty_name": "Business",
-        "note": ["No data available yet"],
-        "courses": [
-          {
-            "course_id": 1,
-            "course_name": "BSc. Banking and Finance",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-          {
-            "course_id": 2,
-            "course_name": "BSc. General Management",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-          {
-            "course_id": 3,
-            "course_name": "BSc. Logistics and Supply Chain Management",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-          {
-            "course_id": 4,
-            "course_name": "BSc. Accounting",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-          {
-            "course_id": 5,
-            "course_name": "Bsc Marketing",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          },
-          {
-            "course_id": 6,
-            "course_name": "BSc. Human Resource Management",
-            "course_type": "undergraduate",
-            "entry_requirements": ["Refer to the General Entry Requirements"]
-          }
-        ]
-      },
-      {
-        "faculty_id": 1,
-        "faculty_name": "Social Science",
-        "note": ["No data available yet"],
-        "courses": [
-          {
-            "course_id": 1,
-            "course_name": "12 Month MSc Public Affairs",
-            "course_type": "masters",
-            "entry_requirements": [
-              "Fees: GHc 21,000",
-              "Different payment plans available"
-            ]
-          },
-          {
-            "course_id": 2,
-            "course_name": "12 Month MSc International Relations",
-            "course_type": "masters",
-            "entry_requirements": [
-              "Fees: GHc 21,000",
-              "Different payment plans available"
+              "WASSCE/SSSCE: 6 passes in core and elective subjects including Biology, Chemistry, English Language, Mathematics",
+              "Biology and Chemistry are compulsory",
+              "GCE 'O' Level: Credits in at least 5 subjects including English and Mathematics",
+              "GCE 'A' Level: At least 2 passes in relevant subjects"
+            ],
+            "level_note": [
+              "Focus on practical nursing skills",
+              "International nursing standards alignment",
+              "Access to modern healthcare facilities"
             ]
           }
         ]
       },
       {
-        "faculty_id": 1,
-        "faculty_name": "Communication and Media Studies",
-        "note": ["No data available yet"],
-        "courses": [
+        "course_name": "BSc Physician Assistant",
+        "career": [
+          "Physician Assistant",
+          "Clinical Assistant",
+          "Hospital Assistant",
+          "Primary Care Provider",
+          "Emergency Medical Technician",
+          "Clinical Support Officer",
+          "Healthcare Practitioner",
+          "Medical Assistant",
+          "Health Screening Officer",
+          "Patient Care Coordinator"
+        ],
+        "levels": [
           {
-            "course_id": 1,
-            "course_name": "Communication and Journalism",
-            "course_type": "certificate",
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 5,500 - 6,000 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Biology", "Chemistry", "English", "Mathematics"]
+              },
+              {
+                "additional": [
+                  "Clinical Diagnosis",
+                  "Pharmacy and Pharmacotherapy",
+                  "Patient Assessment",
+                  "Clinical Procedures",
+                  "Medical Jurisprudence",
+                  "Hospital Practice"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 70,000 annually",
+              "USA: $70,000 - $110,000",
+              "Europe: €65,000 - €95,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 36 or better"],
+            "mode": [
+              "Clinical and laboratory-based learning",
+              "Hospital placements",
+              "Supervised practical training"
+            ],
             "entry_requirements": [
-              "Fees: GHc 2,500",
-              "Application Fee: GHC100",
-              "Duration 8 weeks"
+              "WASSCE: 6 passes including Biology, Chemistry, English, Mathematics (compulsory)",
+              "GCE 'O' Level: 5 credits including English and Mathematics",
+              "Strong science background required"
+            ],
+            "level_note": [
+              "Hands-on clinical training",
+              "Patient care focus",
+              "Modern healthcare facility access"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Business",
+    "note": [
+      "Industry-oriented curriculum with practical case studies",
+      "Internship and work experience integration",
+      "Strong business and corporate partnerships",
+      "Focus on entrepreneurship and management skills"
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Banking and Finance",
+        "career": [
+          "Banking Officer",
+          "Finance Manager",
+          "Investment Analyst",
+          "Financial Advisor",
+          "Loan Officer",
+          "Credit Manager",
+          "Compliance Officer",
+          "Audit Officer",
+          "Treasury Manager",
+          "Financial Controller"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 4,500 - 5,000 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Math", "English", "Economics"]
+              },
+              {
+                "additional": [
+                  "Financial Management",
+                  "Banking Operations",
+                  "Investment Analysis",
+                  "Corporate Finance",
+                  "Risk Management",
+                  "Financial Reporting"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 85,000 annually",
+              "USA: $65,000 - $115,000",
+              "Europe: €60,000 - €105,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 36 or better"],
+            "mode": [
+              "Classroom-based instruction",
+              "Industry placements",
+              "Business simulations"
+            ],
+            "entry_requirements": [
+              "WASSCE: 6 passes including Math, English, Economics (preferred)",
+              "Strong numeracy skills required",
+              "GCE passes acceptable"
+            ],
+            "level_note": [
+              "Banking and financial sector focus",
+              "Professional certifications pathway (ACCA, CPA)",
+              "Industry practitioner lectures"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc General Management",
+        "career": [
+          "Manager",
+          "Business Manager",
+          "Operations Manager",
+          "Project Manager",
+          "Department Head",
+          "Administrator",
+          "Business Analyst",
+          "Management Consultant",
+          "Entrepreneur",
+          "Executive Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 4,500 - 5,000 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English Language", "Mathematics"]
+              },
+              {
+                "additional": [
+                  "Strategic Management",
+                  "Operations Management",
+                  "Financial Management",
+                  "Marketing Management",
+                  "Human Resource Management",
+                  "Organizational Behavior"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 80,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 36 or better"],
+            "mode": [
+              "In-person classroom teaching",
+              "Case studies and simulations",
+              "Practical business projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: 6 passes in core and elective subjects",
+              "English Language and Mathematics required",
+              "Economics beneficial"
+            ],
+            "level_note": [
+              "Broad business management foundation",
+              "Flexible specialization options",
+              "Entrepreneurship focus"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Logistics and Supply Chain Management",
+        "career": [
+          "Logistics Manager",
+          "Supply Chain Manager",
+          "Operations Manager",
+          "Procurement Officer",
+          "Distribution Manager",
+          "Warehouse Manager",
+          "Transportation Manager",
+          "Supply Chain Analyst",
+          "Inventory Manager",
+          "Fleet Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 4,500 - 5,000 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Math", "English"]
+              },
+              {
+                "additional": [
+                  "Supply Chain Management",
+                  "Logistics Operations",
+                  "Inventory Control",
+                  "Distribution Strategy",
+                  "Procurement Management",
+                  "Transportation Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 90,000 annually",
+              "USA: $70,000 - $120,000",
+              "Europe: €65,000 - €110,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 36 or better"],
+            "mode": [
+              "Classroom learning",
+              "Industry site visits",
+              "Practical case studies"
+            ],
+            "entry_requirements": [
+              "WASSCE: 6 passes including Math and English",
+              "Economics or ICT beneficial",
+              "GCE qualifications acceptable"
+            ],
+            "level_note": [
+              "High-demand field in Ghana's economy",
+              "Port and logistics industry connections",
+              "Real-world supply chain projects"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Accounting",
+        "career": [
+          "Accountant",
+          "Financial Accountant",
+          "Management Accountant",
+          "Auditor",
+          "Tax Accountant",
+          "Bookkeeper",
+          "Cost Accountant",
+          "Internal Auditor",
+          "Finance Officer",
+          "Accounting Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 4,500 - 5,000 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Math", "English"]
+              },
+              {
+                "additional": [
+                  "Financial Accounting",
+                  "Management Accounting",
+                  "Auditing",
+                  "Tax Law",
+                  "Accounting Information Systems",
+                  "Corporate Accounting"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 95,000 annually",
+              "USA: $70,000 - $125,000",
+              "Europe: €65,000 - €115,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 36 or better"],
+            "mode": [
+              "Classroom teaching",
+              "Lab-based accounting software training",
+              "Industry internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: 6 passes with Math and English compulsory",
+              "Strong numeracy and analytical skills",
+              "Economics beneficial"
+            ],
+            "level_note": [
+              "Professional accounting pathway (CPA/ACCA)",
+              "Modern accounting software training",
+              "International accounting standards focus"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Marketing Officer",
+          "Sales Manager",
+          "Market Research Analyst",
+          "Digital Marketing Specialist",
+          "Advertising Manager",
+          "Product Manager",
+          "Marketing Consultant",
+          "Business Development Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 4,500 - 5,000 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English Language"]
+              },
+              {
+                "additional": [
+                  "Marketing Management",
+                  "Consumer Behavior",
+                  "Digital Marketing",
+                  "Brand Management",
+                  "Market Research",
+                  "Sales Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 80,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 36 or better"],
+            "mode": [
+              "Classroom instruction",
+              "Marketing campaigns (practical)",
+              "Industry projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: 6 passes including English Language",
+              "Math and Economics beneficial",
+              "GCE qualifications acceptable"
+            ],
+            "level_note": [
+              "Digital marketing emphasis",
+              "Real-world campaign development",
+              "Consumer insights focus"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Human Resource Management",
+        "career": [
+          "HR Manager",
+          "Recruitment Officer",
+          "Training Manager",
+          "HR Administrator",
+          "Employee Relations Officer",
+          "Compensation Manager",
+          "HR Business Partner",
+          "Talent Manager",
+          "Learning & Development Manager",
+          "HR Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 4,500 - 5,000 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English Language"]
+              },
+              {
+                "additional": [
+                  "Human Resource Management",
+                  "Recruitment & Selection",
+                  "Training & Development",
+                  "Employee Relations",
+                  "Compensation & Benefits",
+                  "Organizational Behavior"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 75,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 36 or better"],
+            "mode": [
+              "Classroom-based learning",
+              "HR case studies",
+              "Organizational visits"
+            ],
+            "entry_requirements": [
+              "WASSCE: 6 passes including English Language",
+              "Math beneficial",
+              "GCE qualifications acceptable"
+            ],
+            "level_note": [
+              "People management focus",
+              "Labour law and compliance training",
+              "Industry HR partnerships"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Information Technology",
+    "note": [
+      "Hands-on IT training with modern equipment",
+      "Cybersecurity focus for digital age",
+      "Industry-relevant programming and systems",
+      "Lab-based practical training"
+    ],
+    "courses": [
+      {
+        "course_name": "MSc IT Management",
+        "career": [
+          "IT Manager",
+          "Systems Manager",
+          "IT Director",
+          "IT Consultant",
+          "CIO (Chief Information Officer)",
+          "IT Operations Manager",
+          "Strategic IT Planner",
+          "Technology Manager",
+          "IT Service Manager",
+          "Enterprise Systems Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Master's",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 18,000 - 21,000 (estimated total)"
+            ],
+            "duration": "12 months",
+            "electives": [
+              {
+                "required": [
+                  "Bachelor's degree (preferably in IT or related field)"
+                ]
+              },
+              {
+                "additional": [
+                  "IT Management Fundamentals",
+                  "Strategic Enterprise Information Systems",
+                  "IT Project Management",
+                  "Information Security",
+                  "IT Service Management",
+                  "Digital Transformation"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 150,000 annually",
+              "USA: $120,000 - $200,000",
+              "Europe: €100,000 - €180,000"
+            ],
+            "cutt_off": ["CGPA 2.0 or higher"],
+            "mode": [
+              "Weekend intensive format",
+              "Blended online and in-person",
+              "Practical lab sessions"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (preferably in IT or related field)",
+              "CGPA 2.0 or higher",
+              "3 years IT work experience required",
+              "Basic programming knowledge"
+            ],
+            "level_note": [
+              "Strategic IT leadership focus",
+              "Digital transformation alignment",
+              "Enterprise systems emphasis"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Cybersecurity",
+        "career": [
+          "Cybersecurity Analyst",
+          "Security Administrator",
+          "Network Security Technician",
+          "Security Specialist",
+          "Information Security Officer",
+          "Security Technician",
+          "SOC Analyst",
+          "System Security Officer",
+          "IT Security Support",
+          "Security Operations Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: Approximately GHC 2,500 - 3,000"],
+            "duration": "8 weeks to 3 months",
+            "electives": [
+              {
+                "required": ["Secondary education minimum"]
+              },
+              {
+                "additional": [
+                  "Cybersecurity Fundamentals",
+                  "Network Security",
+                  "Cryptography",
+                  "Ethical Hacking",
+                  "Digital Forensics",
+                  "Incident Response"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 80,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €65,000 - €130,000"
+            ],
+            "cutt_off": ["No specific cutoff"],
+            "mode": [
+              "Intensive short course",
+              "Hands-on labs and practical training",
+              "Evening/weekend options"
+            ],
+            "entry_requirements": [
+              "Secondary education minimum",
+              "Basic computer knowledge",
+              "Interest in cybersecurity",
+              "No prior certification required"
+            ],
+            "level_note": [
+              "High-demand cybersecurity certification",
+              "Practical security skills",
+              "Fast-track entry to IT security field"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Computer Technologies",
+        "career": [
+          "IT Support Technician",
+          "Network Technician",
+          "Computer Technician",
+          "Systems Administrator",
+          "Help Desk Support",
+          "Technical Support Officer",
+          "Network Support Technician",
+          "System Support Specialist",
+          "IT Technician",
+          "Computer Support Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 3,500 - 4,000 per year"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["WASSCE passes or Secondary education certificate"]
+              },
+              {
+                "additional": [
+                  "Computer Hardware",
+                  "Networking Fundamentals",
+                  "Operating Systems",
+                  "System Administration",
+                  "Technical Support",
+                  "IT Troubleshooting"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 60,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": ["WASSCE passes or equivalent"],
+            "mode": [
+              "Lab-intensive hands-on training",
+              "Classroom theory",
+              "Industry internships"
+            ],
+            "entry_requirements": [
+              "WASSCE passes or Secondary education certificate",
+              "Basic computer literacy",
+              "Interest in IT support and systems",
+              "Math beneficial"
+            ],
+            "level_note": [
+              "Practical IT support skills",
+              "Industry-ready technician training",
+              "Pathway to degree programmes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Social Sciences",
+    "note": [
+      "Focus on public policy and international affairs",
+      "Research-oriented programmes",
+      "Contemporary global issues emphasis",
+      "Industry and government partnerships"
+    ],
+    "courses": [
+      {
+        "course_name": "MSc Public Affairs",
+        "career": [
+          "Policy Officer",
+          "Government Administrator",
+          "Public Affairs Manager",
+          "Policy Analyst",
+          "Civil Service Officer",
+          "Public Sector Manager",
+          "Government Consultant",
+          "Political Analyst",
+          "NGO Executive",
+          "Development Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Master's",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 18,000 - 21,000 (estimated total)"
+            ],
+            "duration": "12 months",
+            "electives": [
+              {
+                "required": ["Bachelor's degree (any discipline)"]
+              },
+              {
+                "additional": [
+                  "Public Policy",
+                  "Political Science",
+                  "Public Administration",
+                  "Governance",
+                  "Development Studies",
+                  "Comparative Politics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 120,000 annually",
+              "USA: $90,000 - $160,000",
+              "Europe: €80,000 - €150,000"
+            ],
+            "cutt_off": ["CGPA 2.0 or above"],
+            "mode": [
+              "Weekend intensive classes",
+              "Blended learning",
+              "Seminar and workshop format"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (any discipline)",
+              "CGPA 2.0 or above",
+              "2 years work experience",
+              "Interest in public policy"
+            ],
+            "level_note": [
+              "Ghana's public affairs focus",
+              "Policy research emphasis",
+              "Government and civil service pathway"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc International Relations",
+        "career": [
+          "Diplomat",
+          "Foreign Service Officer",
+          "International Relations Specialist",
+          "UN Official",
+          "Policy Advisor",
+          "International Organization Staff",
+          "Researcher",
+          "NGO Executive",
+          "Trade Specialist",
+          "Development Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Master's",
+            "fees": [
+              "Ghanaian Students: Approximately GHC 18,000 - 21,000 (estimated total)"
+            ],
+            "duration": "12 months",
+            "electives": [
+              {
+                "required": ["Bachelor's degree (preferably in related field)"]
+              },
+              {
+                "additional": [
+                  "International Politics",
+                  "Diplomacy & Negotiation",
+                  "International Law",
+                  "Global Governance",
+                  "Regional Relations",
+                  "Trade & Economics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 130,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €90,000 - €160,000"
+            ],
+            "cutt_off": ["CGPA 2.0 or higher"],
+            "mode": [
+              "Weekend intensive format",
+              "Blended online and face-to-face",
+              "Seminar discussions"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (preferably in related field)",
+              "CGPA 2.0 or higher",
+              "2 years work experience",
+              "Strong writing and analytical skills"
+            ],
+            "level_note": [
+              "African international affairs focus",
+              "Diplomatic service pathway",
+              "Contemporary global issues"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Communication and Media Studies",
+    "note": [
+      "Practical media training and production",
+      "Industry professional instructors",
+      "Access to broadcast and media facilities",
+      "Contemporary communication focus"
+    ],
+    "courses": [
+      {
+        "course_name": "Certificate in Communication and Journalism",
+        "career": [
+          "Journalist",
+          "News Reporter",
+          "Content Writer",
+          "Communications Officer",
+          "Social Media Manager",
+          "PR Officer",
+          "Media Producer",
+          "Broadcast Technician",
+          "Documentary Maker",
+          "Editorial Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: Approximately GHC 2,500 - 3,000"],
+            "duration": "8 weeks to 3 months",
+            "electives": [
+              {
+                "required": ["Secondary education or equivalent"]
+              },
+              {
+                "additional": [
+                  "Journalism Basics",
+                  "News Writing",
+                  "Reporting Skills",
+                  "Media Production",
+                  "Digital Communication",
+                  "Media Ethics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 60,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": ["No specific cutoff"],
+            "mode": [
+              "Practical hands-on training",
+              "Media labs and studios",
+              "Evening/weekend intensive"
+            ],
+            "entry_requirements": [
+              "Secondary education or equivalent",
+              "Strong communication skills",
+              "Interest in journalism/media",
+              "English language proficiency"
+            ],
+            "level_note": [
+              "Professional journalism basics",
+              "Media production skills",
+              "Digital media emphasis"
             ]
           }
         ]
       }
     ]
   }
+]
