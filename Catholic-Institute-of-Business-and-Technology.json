@@ -1,130 +1,517 @@
-{
-  "id": "5",
-  "name": "Catholic Institute of Business and Technology",
-  "faculties": [
-    {
-      "faculty_id": 1,
-      "faculty_name": "Business",
-      "note": ["No data available yet"],
-      "courses": [
-        {
-          "course_id": 1,
-          "course_name": "BSc. Banking and Finance",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        },
-        {
-          "course_id": 2,
-          "course_name": "BSc. Accounting",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        },
-        {
-          "course_id": 3,
-          "course_name": "Bsc Marketing",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        },
-        {
-          "course_id": 4,
-          "course_name": "BSc. Human Resource Management",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        }
-      ]
-    },
-    {
-      "faculty_id": 2,
-      "faculty_name": "Computer Science",
-      "note": ["No data available yet"],
-      "courses": [
-        {
-          "course_id": 1,
-          "course_name": " ",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        },
-        {
-          "course_id": 2,
-          "course_name": "Information Technology",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        },
-        {
-          "course_id": 3,
-          "course_name": "Introductory courses in Computer Literacy",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        }
-      ]
-    },
-    {
-      "faculty_id": 3,
-      "faculty_name": "Public Administration",
-      "note": ["No data available yet"],
-      "courses": [
-        {
-          "course_id": 1,
-          "course_name": "Public Administration",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        },
-        {
-          "course_id": 2,
-          "course_name": "Local Government",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        },
-        {
-          "course_id": 3,
-          "course_name": "Procurement and Chain Supply Management",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        }
-      ]
-    },
-    {
-      "faculty_id": 4,
-      "faculty_name": "Religious and Church Administration",
-      "note": ["No data available yet"],
-      "courses": [
-        {
-          "course_id": 1,
-          "course_name": "Religious and Church Administration",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        },
-        {
-          "course_id": 2,
-          "course_name": "Religious and Church Administration",
-          "course_type": "undergraduate",
-          "entry_requirements": [
-            "Requirements : Refer to faculty/department note"
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Catholic Institute of Business and Technology (CIBT)"
+  },
+  {
+    "faculty_name": "School of Business and Management Studies",
+    "note": [
+      "Affiliated to the University of Ghana",
+      "Focus on ethical business leadership",
+      "Industry-relevant curriculum with practical training"
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Business Administration - Accounting",
+        "career": [
+          "Chartered Accountant",
+          "External Auditor",
+          "Tax Consultant",
+          "Financial Controller",
+          "Internal Auditor",
+          "Forensic Accountant",
+          "Budget Analyst",
+          "Accounts Manager",
+          "Treasury Officer",
+          "Cost Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students (Freshers): Approximately GHS 2,476.50 - 2,800.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English",
+                  "Mathematics",
+                  "Integrated Science/Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Financial Accounting",
+                  "Cost & Management Accounting",
+                  "Auditing & Assurance",
+                  "Taxation",
+                  "Public Sector Accounting",
+                  "Accounting Information Systems"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 90,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24 or better (Direct Entry)"],
+            "mode": ["Regular (Morning)", "Evening", "Weekend"],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in 3 core subjects (English, Math, Integrated Science/Social Studies) and 3 elective subjects",
+              "SSSCE: Credit passes (A-D) in 3 core and 3 electives",
+              "Mature Applicants: 25+ years, 2 years work experience, pass entrance exam"
+            ],
+            "level_note": [
+              "Pathway to professional certification (ICA, ACCA)",
+              "Strong emphasis on computerized accounting",
+              "Internship opportunities with partner firms"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration - Banking and Finance",
+        "career": [
+          "Bank Manager",
+          "Investment Banker",
+          "Credit Analyst",
+          "Financial Analyst",
+          "Loan Officer",
+          "Risk Manager",
+          "Wealth Manager",
+          "Stockbroker",
+          "Insurance Underwriter",
+          "Treasury Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students (Freshers): Approximately GHS 2,476.50 - 2,800.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English",
+                  "Mathematics",
+                  "Integrated Science/Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Money & Banking",
+                  "Corporate Finance",
+                  "Investment Analysis",
+                  "Financial Markets",
+                  "International Finance",
+                  "Risk Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 100,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24 or better"],
+            "mode": ["Regular", "Evening", "Weekend"],
+            "entry_requirements": [
+              "WASSCE/SSSCE credit passes in core and elective subjects",
+              "Strong mathematics background preferred",
+              "Diploma holders (Second Class Lower or better) for top-up"
+            ],
+            "level_note": [
+              "Partnerships with major banks for internships",
+              "Focus on modern banking software",
+              "CIB Ghana professional exam support"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration - Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Sales Manager",
+          "Market Research Analyst",
+          "Digital Marketing Specialist",
+          "Public Relations Officer",
+          "Advertising Executive",
+          "Product Manager",
+          "Customer Relationship Manager",
+          "Social Media Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students (Freshers): Approximately GHS 2,476.50 - 2,800.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English",
+                  "Mathematics",
+                  "Integrated Science/Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Consumer Behavior",
+                  "Marketing Management",
+                  "Digital Marketing",
+                  "International Marketing",
+                  "Services Marketing",
+                  "Strategic Marketing"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24 or better"],
+            "mode": ["Regular", "Evening", "Weekend"],
+            "entry_requirements": [
+              "WASSCE/SSSCE credit passes",
+              "Mature applicant route available",
+              "HND Marketing holders for Level 300 entry"
+            ],
+            "level_note": [
+              "Practical marketing projects and campaigns",
+              "Digital marketing tools training",
+              "CIM UK/Ghana alignment"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration - Human Resource Management",
+        "career": [
+          "HR Manager",
+          "Recruitment Specialist",
+          "Training & Development Officer",
+          "Compensation & Benefits Manager",
+          "Employee Relations Manager",
+          "HR Consultant",
+          "Talent Acquisition Manager",
+          "Organizational Development Specialist",
+          "Performance Management Analyst",
+          "HR Generalist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students (Freshers): Approximately GHS 2,476.50 - 2,800.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English",
+                  "Mathematics",
+                  "Integrated Science/Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Human Resource Management",
+                  "Labour Law",
+                  "Organizational Behavior",
+                  "Performance Management",
+                  "Industrial Relations",
+                  "Human Resource Planning"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 80,000 annually",
+              "USA: $60,000 - $105,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24 or better"],
+            "mode": ["Regular", "Evening", "Weekend"],
+            "entry_requirements": [
+              "WASSCE/SSSCE credit passes",
+              "Mature entry (25+ years)",
+              "Diploma/HND HR holders eligible for advanced placement"
+            ],
+            "level_note": [
+              "Focus on Ghanaian labour laws",
+              "Practical HR software training",
+              "IHRMP Ghana student membership support"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Procurement and Supply Chain Management",
+        "career": [
+          "Procurement Manager",
+          "Supply Chain Manager",
+          "Logistics Coordinator",
+          "Purchasing Officer",
+          "Inventory Manager",
+          "Contract Manager",
+          "Warehouse Manager",
+          "Sourcing Specialist",
+          "Operations Manager",
+          "Logistics Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students (Freshers): Approximately GHS 2,476.50 - 2,800.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English",
+                  "Mathematics",
+                  "Integrated Science/Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Procurement Management",
+                  "Supply Chain Strategy",
+                  "Logistics & Transport",
+                  "Inventory Management",
+                  "Public Procurement Law",
+                  "Negotiation Skills"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 90,000 annually",
+              "USA: $65,000 - $115,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24 or better"],
+            "mode": ["Regular", "Evening", "Weekend"],
+            "entry_requirements": [
+              "WASSCE/SSSCE credit passes",
+              "General Arts, Business, or Science backgrounds accepted",
+              "HND Purchasing & Supply holders for top-up"
+            ],
+            "level_note": [
+              "Accredited by CIPS (Charted Institute of Procurement & Supply) curriculum alignment",
+              "Focus on public procurement act of Ghana",
+              "Industrial visits to ports and logistics hubs"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Information Technology",
+        "career": [
+          "IT Manager",
+          "Software Developer",
+          "Network Administrator",
+          "Systems Analyst",
+          "Database Administrator",
+          "IT Consultant",
+          "Web Developer",
+          "Cybersecurity Analyst",
+          "IT Support Specialist",
+          "Mobile App Developer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students (Freshers): Approximately GHS 2,600.00 - 3,000.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English",
+                  "Mathematics",
+                  "Integrated Science/Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Programming (Java, C++, Python)",
+                  "Database Management Systems",
+                  "Data Communication & Networking",
+                  "Web Technologies",
+                  "System Analysis & Design",
+                  "Information Security"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 120,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €60,000 - €110,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24 or better"],
+            "mode": ["Regular", "Evening", "Weekend"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in core subjects and electives (Science/Math electives preferred)",
+              "General Arts with Elective Math accepted",
+              "Mature applicants with IT background considered"
+            ],
+            "level_note": [
+              "Practical coding projects",
+              "Industry certification prep (Cisco, Microsoft)",
+              "Tech entrepreneurship support"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Arts and Social Sciences",
+    "note": [
+      "Designed for future public sector leaders",
+      "Combines political science with management principles",
+      "Strong focus on governance and ethics"
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Public Administration",
+        "career": [
+          "Public Administrator",
+          "Civil Servant",
+          "Policy Analyst",
+          "Local Government Officer",
+          "NGO Project Manager",
+          "Diplomat",
+          "Administrative Officer",
+          "Public Sector Consultant",
+          "Community Development Officer",
+          "Parliamentary Staff"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students (Freshers): Approximately GHS 2,476.50 - 2,800.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English",
+                  "Mathematics",
+                  "Integrated Science/Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Public Administration Theory",
+                  "Public Policy Analysis",
+                  "Local Government Administration",
+                  "Public Sector Management",
+                  "Constitutional Law",
+                  "Development Administration"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24 or better"],
+            "mode": ["Regular", "Evening", "Weekend"],
+            "entry_requirements": [
+              "WASSCE/SSSCE credit passes in 3 core and 3 elective subjects",
+              "Government or History electives advantageous",
+              "Mature applicants accepted"
+            ],
+            "level_note": [
+              "Ideal for civil service career",
+              "Internships in government ministries and agencies",
+              "Leadership seminars"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Theology",
+    "note": [
+      "Holistic training for church ministry and administration",
+      "Combines theology with management principles",
+      "Ecumenical approach"
+    ],
+    "courses": [
+      {
+        "course_name": "BA Religious Studies: Religious Studies and Church Administration",
+        "career": [
+          "Church Administrator",
+          "Pastor/Clergy",
+          "Religious Education Teacher",
+          "Missionary",
+          "NGO Director (Faith-based)",
+          "Pastoral Counselor",
+          "Chaplain",
+          "Church Secretary",
+          "Youth Minister",
+          "Community Development Leader"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students (Freshers): Approximately GHS 2,400.00 - 2,700.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English",
+                  "Mathematics",
+                  "Integrated Science/Social Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Old & New Testament Studies",
+                  "Church History",
+                  "Systematic Theology",
+                  "Church Administration & Management",
+                  "Pastoral Care & Counseling",
+                  "Christian Ethics",
+                  "Leadership in Ministry",
+                  "Financial Management for Churches"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 70,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24 or better"],
+            "mode": ["Regular", "Weekend (Sandwich options often available)"],
+            "entry_requirements": [
+              "WASSCE/SSSCE credit passes in core and elective subjects",
+              "Mature applicants (25+) with ministry experience highly encouraged",
+              "Diploma in Theology holders for top-up"
+            ],
+            "level_note": [
+              "Unique blend of spiritual formation and administrative skills",
+              "Practical ministry attachments",
+              "Ideal for church leaders seeking formal management training"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
