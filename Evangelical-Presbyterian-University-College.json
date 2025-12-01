@@ -1,0 +1,927 @@
+[
+  {
+    "name": "Evangelical Presbyterian University College"
+  },
+  {
+    "faculty_name": "School of Business",
+    "note": [
+      "Affiliated with University of Cape Coast (UCC)",
+      "Curriculum designed to meet industry standards"
+    ],
+    "courses": [
+      {
+        "course_name": "B. Sc. Business Administration (Accounting and Finance Option)",
+        "career": [
+          "Chartered Accountant",
+          "Auditor",
+          "Financial Analyst",
+          "Tax Consultant",
+          "Finance Manager",
+          "Banker",
+          "Investment Analyst",
+          "Cost Accountant",
+          "Budget Analyst",
+          "Treasury Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Freshers (L100-300): ~GH₵ 1,637.00 per semester",
+              "Continuing (L200-300): ~GH₵ 1,515.00 per semester",
+              "Continuing (L400): ~GH₵ 1,565.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting I & II",
+              "Cost & Management Accounting",
+              "Auditing & Assurance",
+              "Taxation",
+              "Corporate Finance",
+              "Public Sector Accounting",
+              "Accounting Information Systems",
+              "Financial Management"
+            ],
+            "salary": [
+              "Ghana: GHS 27,380 - 82,520 annually (Avg ~52,820)",
+              "USA: $55,000 - $90,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate: 36 or better",
+              "SSSCE Aggregate: 24 or better"
+            ],
+            "mode": ["Regular (Ho Campus)", "Weekend"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English, Core Math, Integrated Science/Social Studies + 3 Electives",
+              "Mature Applicants: 25+ years with entrance exam"
+            ],
+            "level_note": [
+              "Pathway to ICA/ACCA certification",
+              "Internship opportunities available"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B. Sc. Business Administration (Marketing option)",
+        "career": [
+          "Marketing Manager",
+          "Sales Manager",
+          "Brand Manager",
+          "Market Research Analyst",
+          "Digital Marketer",
+          "Advertising Executive",
+          "Public Relations Officer",
+          "Product Manager",
+          "Social Media Manager",
+          "Customer Relationship Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Freshers: ~GH₵ 1,637.00 per semester",
+              "Continuing: ~GH₵ 1,515.00 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Marketing Management",
+              "Consumer Behaviour",
+              "Marketing Research",
+              "Integrated Marketing Communications",
+              "Services Marketing",
+              "International Marketing",
+              "Sales Management",
+              "Digital Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 75,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 36 or better"],
+            "mode": ["Regular", "Weekend"],
+            "entry_requirements": [
+              "WASSCE passes in Core and Elective subjects"
+            ],
+            "level_note": ["Focus on strategic marketing and consumer insights"]
+          }
+        ]
+      },
+      {
+        "course_name": "B. Sc. Business Administration (Human Resource Management and Organization Development Option)",
+        "career": [
+          "HR Manager",
+          "Recruitment Specialist",
+          "Training Coordinator",
+          "Organizational Development Consultant",
+          "Employee Relations Manager",
+          "HR Business Partner",
+          "Talent Manager",
+          "Compensation & Benefits Analyst",
+          "HR Generalist",
+          "Workforce Planner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Human Resource Management",
+              "Organizational Behaviour",
+              "Labour Law & Industrial Relations",
+              "Training & Development",
+              "Performance Management",
+              "Compensation Administration",
+              "Human Resource Planning",
+              "Recruitment & Selection"
+            ],
+            "salary": [
+              "Ghana: GHS 48,640 - 137,400 annually (Avg ~91,380)",
+              "USA: $60,000 - $110,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 36 or better"],
+            "mode": ["Regular", "Weekend"],
+            "entry_requirements": ["WASSCE/SSSCE passes or Mature entry"],
+            "level_note": [
+              "Aligned with IHRMP Ghana standards",
+              "Practical HR workshops"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B. Sc. Business Administration (Credit Management and Finance Option)",
+        "career": [
+          "Credit Manager",
+          "Loan Officer",
+          "Risk Analyst",
+          "Credit Analyst",
+          "Debt Recovery Manager",
+          "Financial Advisor",
+          "Banking Officer",
+          "Portfolio Manager",
+          "Investment Banker",
+          "Microfinance Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Credit Management",
+              "Financial Markets & Institutions",
+              "Risk Management",
+              "Banking Operations",
+              "Corporate Finance",
+              "Investment Analysis",
+              "Microfinance Management",
+              "Financial Statement Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $65,000 - $115,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 36 or better"],
+            "mode": ["Regular", "Weekend"],
+            "entry_requirements": [],
+            "level_note": [
+              "Specialized for banking and microfinance sectors",
+              "Strong focus on credit risk assessment"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B. A. Corporate Secretaryship and Management",
+        "career": [
+          "Company Secretary",
+          "Corporate Governance Officer",
+          "Administrative Manager",
+          "Compliance Officer",
+          "Office Manager",
+          "Executive Assistant",
+          "Board Secretary",
+          "Corporate Affairs Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Company Law",
+              "Corporate Secretaryship",
+              "Administrative Management",
+              "Business Law",
+              "Corporate Governance",
+              "Office Administration",
+              "Strategic Management",
+              "Communication Skills"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 80,000 annually",
+              "USA: $55,000 - $95,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 36 or better"],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": [
+              "Prepares for ICSA certification",
+              "Focus on corporate compliance and administration"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Human Resource Management",
+        "career": [
+          "HR Assistant",
+          "Recruitment Assistant",
+          "Payroll Clerk",
+          "HR Administrator",
+          "Training Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Tuition: ~GH₵ 1,744.50 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to HRM",
+              "Business Communication",
+              "Office Practice",
+              "Basic Psychology",
+              "Employee Relations"
+            ],
+            "salary": ["Ghana: GHS 20,000 - 45,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": ["WASSCE/SSSCE passes (D7/E8 accepted)"],
+            "level_note": ["Pathway to degree programme"]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Financial Management",
+        "career": [
+          "Accounts Clerk",
+          "Finance Assistant",
+          "Cashier",
+          "Bookkeeper",
+          "Audit Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Tuition: ~GH₵ 1,744.50 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Basic Accounting",
+              "Elements of Finance",
+              "Business Mathematics",
+              "Economics",
+              "Computer Literacy"
+            ],
+            "salary": ["Ghana: GHS 20,000 - 45,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Marketing",
+        "career": [
+          "Marketing Assistant",
+          "Sales Representative",
+          "Customer Service Agent",
+          "Merchandiser",
+          "Promotions Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Tuition: ~GH₵ 1,744.50 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Principles of Marketing",
+              "Salesmanship",
+              "Consumer Behaviour Basics",
+              "Business Communication",
+              "Introduction to Business"
+            ],
+            "salary": ["Ghana: GHS 20,000 - 45,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Arts and Social Sciences",
+    "note": [
+      "Emphasis on community impact and governance",
+      "UCC affiliated curriculum"
+    ],
+    "courses": [
+      {
+        "course_name": "B. Sc. Integrated Development Studies",
+        "career": [
+          "Development Planner",
+          "NGO Project Manager",
+          "Social Policy Analyst",
+          "Community Development Officer",
+          "Research Officer",
+          "Local Government Administrator",
+          "Gender Advocate",
+          "M&E Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Development Theory",
+              "Project Planning & Management",
+              "Rural Sociology",
+              "Gender & Development",
+              "Environmental Management",
+              "Social Research Methods",
+              "Community Entry Techniques",
+              "Public Policy Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 36 or better"],
+            "mode": ["Regular"],
+            "entry_requirements": [],
+            "level_note": ["Fieldwork and community immersion included"]
+          }
+        ]
+      },
+      {
+        "course_name": "B. A. Social and Community Development",
+        "career": [
+          "Social Worker",
+          "Community Mobilizer",
+          "Development Facilitator",
+          "Social Researcher",
+          "Project Coordinator",
+          "Advocacy Officer",
+          "Youth Worker",
+          "Case Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Social Work",
+              "Community Development Strategies",
+              "Social Psychology",
+              "Counselling Skills",
+              "Social Policy",
+              "Human Behaviour in Social Environment",
+              "Conflict Resolution",
+              "NGO Management"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 70,000 annually",
+              "USA: $45,000 - $80,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "B. A. Governance Studies",
+        "career": [
+          "Policy Analyst",
+          "Public Administrator",
+          "Governance Consultant",
+          "Political Researcher",
+          "Civil Servant",
+          "Parliamentary Researcher",
+          "Diplomat",
+          "Civic Education Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Political Science",
+              "Public Administration",
+              "Local Government Systems",
+              "Constitutional Law",
+              "Democracy & Governance",
+              "International Relations",
+              "Public Sector Management",
+              "Political Thought"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": [
+              "Ideal for careers in public service and international organizations"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B. Ed. Arts",
+        "career": [
+          "Subject Teacher (SHS)",
+          "Education Administrator",
+          "Curriculum Developer",
+          "School Head",
+          "Educational Consultant",
+          "Examiner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Educational Psychology",
+              "Curriculum Studies",
+              "Methods of Teaching Arts",
+              "Subject Specialization (English, History, etc.)",
+              "Educational Technology",
+              "Guidance & Counselling",
+              "Assessment in Schools",
+              "School Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 65,000 annually",
+              "USA: $45,000 - $75,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": ["Includes teaching practice/internship"]
+          }
+        ]
+      },
+      {
+        "course_name": "B. Ed. Basic Education",
+        "career": [
+          "Basic School Teacher",
+          "Head Teacher",
+          "District Education Officer",
+          "Education Consultant",
+          "Early Childhood Educator",
+          "Literacy Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Child Development",
+              "Psychology of Learning",
+              "Methods of Teaching (Math, Science, English)",
+              "Basic Education Curriculum",
+              "Inclusive Education",
+              "Classroom Management",
+              "Educational Leadership",
+              "ICT in Education"
+            ],
+            "salary": ["Ghana: GHS 30,000 - 60,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "B. A. French",
+        "career": [
+          "French Teacher",
+          "Translator",
+          "Interpreter",
+          "Bilingual Secretary",
+          "International Relations Officer",
+          "Tourism Manager",
+          "Diplomatic Staff"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "French Grammar & Usage",
+              "French Literature",
+              "Oral Communication",
+              "Translation Studies",
+              "Francophone African Literature",
+              "French Culture & Civilization",
+              "Professional French",
+              "Linguistics"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": ["Mandatory year abroad (immersion) usually included"]
+          }
+        ]
+      },
+      {
+        "course_name": "B. A. English",
+        "career": [
+          "Editor",
+          "Writer/Author",
+          "English Teacher",
+          "Journalist",
+          "Communications Specialist",
+          "Public Relations Officer",
+          "Content Strategist",
+          "Copywriter"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "English Grammar & Syntax",
+              "Introduction to Literature",
+              "Creative Writing",
+              "African Literature",
+              "Literary Theory",
+              "Phonetics & Phonology",
+              "Stylistics",
+              "Media Writing"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 75,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "B. A. (Music Studies)",
+        "career": [
+          "Music Director",
+          "Choirmaster",
+          "Music Teacher",
+          "Performer",
+          "Music Producer",
+          "Worship Leader",
+          "Ethnomusicologist",
+          "Arts Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Music Theory",
+              "History of Western Music",
+              "African Music",
+              "Composition",
+              "Choral Conducting",
+              "Music Education",
+              "Performance (Instrument/Voice)",
+              "Music Technology"
+            ],
+            "salary": ["Ghana: GHS 30,000 - 70,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Music Studies",
+        "career": [],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Tuition: ~GH₵ 1,744.50 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Rudiments of Music",
+              "Basic Conducting",
+              "African Music Appreciation",
+              "Keyboard Skills",
+              "Voice Training"
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Agriculture and Environmental Sciences",
+    "note": ["Practical training for sustainable development"],
+    "courses": [
+      {
+        "course_name": "B. Sc. Agribusiness",
+        "career": [
+          "Agribusiness Manager",
+          "Farm Manager",
+          "Agricultural Consultant",
+          "Supply Chain Manager (Agri)",
+          "Agricultural Loan Officer",
+          "Agri-Entrepreneur",
+          "Market Analyst",
+          "Export Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Agricultural Economics",
+              "Farm Management",
+              "Agricultural Marketing",
+              "Entrepreneurship in Agriculture",
+              "Supply Chain Management",
+              "Agricultural Policy",
+              "Project Analysis",
+              "Rural Development"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 115,000 annually (Avg ~72,740)",
+              "USA: $55,000 - $100,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 36 or better"],
+            "mode": [],
+            "entry_requirements": ["Science/Agricultural background preferred"],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "B. Sc. Animal Science and Fisheries",
+        "career": [
+          "Animal Scientist",
+          "Fisheries Officer",
+          "Livestock Manager",
+          "Aquaculture Manager",
+          "Veterinary Technician",
+          "Research Scientist",
+          "Feed Mill Manager",
+          "Hatchery Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Animal Nutrition",
+              "Animal Breeding & Genetics",
+              "Aquaculture",
+              "Fisheries Management",
+              "Livestock Production (Poultry/Ruminants)",
+              "Animal Health",
+              "Meat Science",
+              "Fish Biology"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 80,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "B. Sc. Environmental Science",
+        "career": [
+          "Environmental Consultant",
+          "Conservation Officer",
+          "Environmental Impact Assessor",
+          "Waste Management Officer",
+          "Sustainability Officer",
+          "Ecologist",
+          "Safety Officer",
+          "Natural Resource Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Ecology",
+              "Environmental Chemistry",
+              "Pollution Control",
+              "Waste Management",
+              "Environmental Law & Policy",
+              "Climate Change Adaptation",
+              "Biodiversity Conservation",
+              "GIS & Remote Sensing"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $60,000 - $105,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "B. Sc. Crop and Soil Science",
+        "career": [
+          "Agronomist",
+          "Soil Scientist",
+          "Crop Production Manager",
+          "Plant Breeder",
+          "Agricultural Extension Officer",
+          "Farm Manager",
+          "Greenhouse Manager",
+          "Seed Technologist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Freshers: ~GH₵ 1,637.00 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Soil Chemistry",
+              "Crop Physiology",
+              "Plant Pathology",
+              "Entomology",
+              "Soil Conservation",
+              "Horticulture",
+              "Plant Breeding",
+              "Weed Science"
+            ],
+            "salary": ["Ghana: GHS 38,000 - 115,000 annually (Avg ~72,740)"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Certificate Programmes",
+    "note": ["Short-term skill development"],
+    "courses": [
+      {
+        "course_name": "Certificate in Christian Ministry Leadership",
+        "career": [
+          "Church Lay Leader",
+          "Ministry Assistant",
+          "Sunday School Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Contact EPUC for current short course fees"],
+            "duration": "Short course",
+            "electives": [
+              "Biblical Interpretation",
+              "Christian Leadership",
+              "Pastoral Care Basics",
+              "Church Administration"
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Music Studies",
+        "career": [
+          "Choir Member",
+          "Assistant Organist",
+          "Music Tutor Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "Short course",
+            "electives": [
+              "Music Theory Basics",
+              "Practical Instrument",
+              "Voice Training"
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Postgraduate Certificate in Theology and Christian Leadership",
+        "career": [
+          "Ordained Minister (if applicable)",
+          "Church Administrator",
+          "Theologian"
+        ],
+        "levels": [
+          {
+            "level_name": "Postgraduate Certificate",
+            "fees": [],
+            "duration": "1 year",
+            "electives": [
+              "Advanced Theology",
+              "Leadership Ethics",
+              "Pastoral Counselling",
+              "Homiletics"
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "2-years Enrichment Certificate in Music Studies for BECE candidates",
+        "career": ["Musician", "Band Member", "Music Assistant"],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "2 years",
+            "electives": [
+              "Music Fundamentals",
+              "Performance Skills",
+              "Ensemble Playing",
+              "Aural Training"
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": ["BECE qualification"],
+            "level_note": ["Bridging programme for BECE graduates"]
+          }
+        ]
+      }
+    ]
+  }
+]

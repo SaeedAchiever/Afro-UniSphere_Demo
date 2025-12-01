@@ -1,0 +1,576 @@
+[
+  {
+    "name": "Dominion University College (DUC)"
+  },
+  {
+    "faculty_name": "School of Science and Technology",
+    "note": [
+      "Modern labs and practical training focus",
+      "Partnerships with tech industry leaders"
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Computer Science with Management",
+        "career": [
+          "Software Developer",
+          "IT Project Manager",
+          "Systems Analyst",
+          "Technology Consultant",
+          "Data Analyst",
+          "IT Manager",
+          "Business Intelligence Analyst",
+          "Software Architect",
+          "Database Administrator",
+          "Tech Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Local Students: GH₵ 4,400.00 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English", "Core Math", "Integrated Science", "Elective Math"]
+              },
+              {
+                "additional": [
+                  "Software Engineering",
+                  "Database Systems",
+                  "Strategic Management",
+                  "Organizational Behaviour",
+                  "Artificial Intelligence",
+                  "E-Business"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 100,000 annually",
+              "USA: $70,000 - $120,000",
+              "Europe: €55,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 24 or better"],
+            "mode": ["On campus", "Regular and Weekend options"],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Math, Integrated Science and 3 Electives (including Elective Math)",
+              "SSSCE: Credit passes (A-D) in relevant subjects",
+              "Diploma holders with good standing for top-up"
+            ],
+            "level_note": [
+              "Unique blend of tech and business skills",
+              "Entrepreneurial focus"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Aerial Robotics",
+        "career": [
+          "Drone Pilot",
+          "Aerial Surveyor",
+          "Drone Technician",
+          "UAV Operator",
+          "Robotics Technician",
+          "Precision Agriculture Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Contact institution for current fees"],
+            "duration": "1-2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": ["Ghana: GHS 40,000 - 80,000 annually"],
+            "cutt_off": [],
+            "mode": ["On campus", "Practical field training"],
+            "entry_requirements": [],
+            "level_note": [
+              "Hands-on drone technology training",
+              "Industry application focus (Agriculture, Surveillance, Media)"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Media AI",
+        "career": [
+          "AI Media Specialist",
+          "Digital Content Creator",
+          "Media Analyst",
+          "AI Tool Operator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [],
+            "duration": "1-2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["On campus", "Lab-intensive"],
+            "entry_requirements": [],
+            "level_note": [
+              "Focus on AI in content creation and analysis",
+              "Emerging technology skills"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Statistics",
+        "career": [
+          "Statistician",
+          "Data Analyst",
+          "Research Scientist",
+          "Biostatistician",
+          "Quantitative Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Master's",
+            "fees": [],
+            "duration": "1-2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["Regular", "Weekend"],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Data Science",
+        "career": [
+          "Data Scientist",
+          "Machine Learning Engineer",
+          "Big Data Architect",
+          "Data Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Master's",
+            "fees": [],
+            "duration": "1-2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["Regular", "Weekend"],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Business",
+    "note": ["Industry-aligned curriculum", "Leadership and ethics focus"],
+    "courses": [
+      {
+        "course_name": "BBA in Human Resource Management",
+        "career": [
+          "HR Manager",
+          "Recruitment Specialist",
+          "Training Coordinator",
+          "Employee Relations Officer",
+          "HR Consultant",
+          "Talent Acquisition Manager",
+          "Compensation Analyst",
+          "HR Business Partner",
+          "Organizational Development Specialist",
+          "People Operations Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Local Students: GH₵ 4,100.00 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Core subjects"]
+              },
+              {
+                "additional": [
+                  "Labour Law",
+                  "Performance Management",
+                  "Organizational Behaviour",
+                  "Compensation Management",
+                  "Strategic HRM"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 40,000 - 85,000 annually"],
+            "cutt_off": ["WASSCE Aggregate: 24"],
+            "mode": ["On campus", "Regular / Weekend"],
+            "entry_requirements": [
+              "WASSCE credit passes in Core subjects and Electives"
+            ],
+            "level_note": ["Practical HR simulations", "IHRMP alignment"]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA in Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Strategist",
+          "Digital Marketing Specialist",
+          "Sales Manager",
+          "Market Researcher",
+          "Advertising Executive",
+          "Product Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Local Students: GH₵ 4,100.00 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["On campus"],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "BBA in Accounting",
+        "career": [
+          "Accountant",
+          "Auditor",
+          "Tax Consultant",
+          "Financial Analyst",
+          "Budget Analyst",
+          "Forensic Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Local Students: GH₵ 4,100.00 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["On campus"],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "BBA in Banking and Finance",
+        "career": [
+          "Banker",
+          "Credit Analyst",
+          "Investment Advisor",
+          "Financial Planner",
+          "Risk Manager",
+          "Loan Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Local Students: GH₵ 4,100.00 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["On campus"],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Humanities and Media",
+    "note": [
+      "State-of-the-art studio facilities",
+      "Hands-on media production training"
+    ],
+    "courses": [
+      {
+        "course_name": "Diploma in Journalism and Media Studies",
+        "career": [
+          "Journalist",
+          "TV Presenter",
+          "Media Producer",
+          "News Editor",
+          "Reporter",
+          "Content Creator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Local Students: GH₵ 8,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["On campus"],
+            "entry_requirements": [],
+            "level_note": [
+              "Practical studio sessions",
+              "Focus on modern media trends"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Film and Tv Production",
+        "career": [
+          "Film Director",
+          "TV Producer",
+          "Cinematographer",
+          "Video Editor",
+          "Screenwriter",
+          "Production Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Local Students: GH₵ 8,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": [
+                  "Directing",
+                  "Camera & Lighting",
+                  "Editing",
+                  "Sound Production"
+                ]
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["On campus"],
+            "entry_requirements": [],
+            "level_note": [
+              "Industry-standard equipment training",
+              "Portfolio development"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Theology",
+    "note": [
+      "Interdenominational approach",
+      "Focus on practical ministry and counselling"
+    ],
+    "courses": [
+      {
+        "course_name": "BA in Theology",
+        "career": [
+          "Pastor",
+          "Theologian",
+          "Missionary",
+          "Religious Educator",
+          "Church Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Local Students: GH₵ 3,076.00 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["On campus"],
+            "entry_requirements": [],
+            "level_note": [
+              "Critical analysis of theological concepts",
+              "Spiritual formation"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA in Pastoral care and Counselling",
+        "career": [
+          "Pastoral Counsellor",
+          "Chaplain",
+          "Grief Counsellor",
+          "Youth Worker",
+          "Family Support Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Local Students: GH₵ 3,076.00 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["On campus"],
+            "entry_requirements": [],
+            "level_note": [
+              "Psychology and theology integration",
+              "Supervised practical placements"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Certificate & Short Courses",
+    "note": [
+      "Skill-based intensive training",
+      "Certificate awarded upon completion"
+    ],
+    "courses": [
+      {
+        "course_name": "GeoAg Indoor Certificate",
+        "career": [],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Local/International: GH₵ 650.00 per year"],
+            "duration": "8 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["Hybrid (Online & In-person)"],
+            "entry_requirements": [],
+            "level_note": ["Indoor farming focus", "Sustainability skills"]
+          }
+        ]
+      },
+      {
+        "course_name": "GeoAg Outdoor Certificate",
+        "career": [],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Local/International: GH₵ 650.00 per year"],
+            "duration": "8 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["Hybrid"],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "GeoAg Professional Certificate",
+        "career": [],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Local/International: GH₵ 650.00 per year"],
+            "duration": "24 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [],
+            "cutt_off": [],
+            "mode": ["Hybrid"],
+            "entry_requirements": [],
+            "level_note": [
+              "Business focus for GeoAg",
+              "Entrepreneurship training"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

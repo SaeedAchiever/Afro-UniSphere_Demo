@@ -1,0 +1,827 @@
+[
+  {
+    "name": "Christian Service University College (CSUC)"
+  },
+  {
+    "faculty_name": "School of Health and Applied Sciences",
+    "note": [
+      "Clinical training with partnerships in major hospitals",
+      "Licensed by Nursing & Midwifery Council of Ghana",
+      "Modern simulation laboratories available"
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Nursing",
+        "career": [
+          "Registered Nurse",
+          "Clinical Nurse Specialist",
+          "Nurse Manager",
+          "Community Health Nurse",
+          "Critical Care Nurse",
+          "Pediatric Nurse",
+          "Mental Health Nurse",
+          "Nurse Educator",
+          "Public Health Nurse",
+          "Nurse Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵9,052 per semester (2024/2025)"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English", "Math", "Integrated Science", "Biology", "Chemistry", "Physics/Elective Math"]
+              },
+              {
+                "additional": [
+                  "Medical-Surgical Nursing",
+                  "Maternal & Child Health Nursing",
+                  "Community Health Nursing",
+                  "Mental Health Nursing",
+                  "Nursing Research",
+                  "Nursing Administration"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 70,000 annually",
+              "USA: $65,000 - $110,000",
+              "Europe: €50,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 24 or better"],
+            "mode": [
+              "Full-time regular",
+              "Clinical rotations required",
+              "Weekend clinicals available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Math, Integrated Science + Biology, Chemistry, Physics/Elective Math",
+              "SSSCE: Credits (A-D) in 3 core + 3 science electives",
+              "Science background compulsory"
+            ],
+            "level_note": [
+              "Nursing & Midwifery Council accredited",
+              "Clinical attachments at Komfo Anokye Teaching Hospital",
+              "NCLEX preparation support available"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Midwifery",
+        "career": [
+          "Midwife",
+          "Maternal Health Specialist",
+          "Neonatal Nurse",
+          "Community Midwife",
+          "Midwifery Educator",
+          "Women's Health Nurse",
+          "Labour & Delivery Nurse",
+          "Public Health Midwife",
+          "Midwifery Manager",
+          "Reproductive Health Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵9,052 per semester (2024/2025)"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English", "Math", "Science", "Biology", "Chemistry", "Physics"]
+              },
+              {
+                "additional": [
+                  "Normal Midwifery",
+                  "Complicated Midwifery",
+                  "Neonatal Nursing",
+                  "Reproductive Health",
+                  "Community Midwifery",
+                  "Midwifery Research"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 65,000 annually",
+              "USA: $70,000 - $115,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 24 or better"],
+            "mode": [
+              "Full-time with clinical placements",
+              "Maternity hospital rotations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Math, Science + Biology, Chemistry, Physics",
+              "Registered midwives with diploma for top-up (Level 300 entry)"
+            ],
+            "level_note": [
+              "Midwifery Council of Ghana accredited",
+              "Focus on safe motherhood initiative",
+              "Clinical practice at major maternity centres"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Computing and Information Technology",
+    "note": [
+      "Modern computer laboratories",
+      "Cisco and Microsoft certified training",
+      "Industry partnerships for internships"
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Computer Science",
+        "career": [
+          "Software Developer",
+          "Systems Analyst",
+          "Database Administrator",
+          "AI/ML Engineer",
+          "Data Scientist",
+          "Software Architect",
+          "DevOps Engineer",
+          "Cloud Engineer",
+          "IT Consultant",
+          "Technical Lead"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵3,250 per semester (2024/2025)"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English", "Math", "Science", "Elective Math", "Physics/ICT"]
+              },
+              {
+                "additional": [
+                  "Algorithms & Data Structures",
+                  "Artificial Intelligence",
+                  "Database Systems",
+                  "Software Engineering",
+                  "Computer Networks",
+                  "Operating Systems"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $80,000 - $140,000",
+              "Europe: €60,000 - €110,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 24 or better"],
+            "mode": [
+              "Regular morning classes",
+              "Evening programme available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Math, Science + Elective Math, Physics/ICT",
+              "Diploma holders with GPA 3.0+ for Level 100"
+            ],
+            "level_note": [
+              "Hands-on programming projects",
+              "Preparation for international certifications",
+              "Tech startup incubation support"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Information Technology",
+        "career": [
+          "IT Manager",
+          "Network Administrator",
+          "Systems Administrator",
+          "IT Support Specialist",
+          "Cloud Administrator",
+          "IT Project Manager",
+          "Business Analyst",
+          "IT Consultant",
+          "Technical Support Engineer",
+          "ERP Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵3,250 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Math", "ICT/Elective Math"]
+              },
+              {
+                "additional": [
+                  "Network Administration",
+                  "Database Management",
+                  "Web Development",
+                  "Cybersecurity Fundamentals",
+                  "Cloud Computing",
+                  "IT Project Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $70,000 - $120,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 24 or better"],
+            "mode": ["Regular and evening sessions"],
+            "entry_requirements": [
+              "WASSCE credits including Math and ICT/Elective Math"
+            ],
+            "level_note": [
+              "Cisco CCNA preparation",
+              "Microsoft certification pathways",
+              "Enterprise IT focus"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Cyber Security",
+        "career": [
+          "Cybersecurity Analyst",
+          "Security Operations Analyst",
+          "Penetration Tester",
+          "Security Architect",
+          "Incident Response Analyst",
+          "Forensic Analyst",
+          "Security Consultant",
+          "CISO (future)",
+          "Threat Intelligence Analyst",
+          "Compliance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵3,250 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Math", "English", "ICT/Physics"]
+              },
+              {
+                "additional": [
+                  "Ethical Hacking",
+                  "Network Security",
+                  "Cryptography",
+                  "Digital Forensics",
+                  "Security Operations",
+                  "Risk Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $85,000 - $150,000",
+              "Europe: €65,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 24 or better"],
+            "mode": ["Lab-intensive with security labs", "Regular sessions"],
+            "entry_requirements": [
+              "WASSCE credits in Math, English, ICT/Physics"
+            ],
+            "level_note": [
+              "CEH and CompTIA Security+ preparation",
+              "Capture The Flag competitions",
+              "High industry demand"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Business",
+    "note": [
+      "ACCA and CIMA approved learning partner",
+      "Professional certification pathways",
+      "Strong alumni network in corporate Ghana"
+    ],
+    "courses": [
+      {
+        "course_name": "BBA Accounting",
+        "career": [
+          "Chartered Accountant",
+          "Auditor",
+          "Tax Consultant",
+          "Financial Controller",
+          "Forensic Accountant",
+          "Management Accountant",
+          "Internal Auditor",
+          "Finance Manager",
+          "CFO (future)",
+          "Financial Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵6,500 per semester (Business Admin)"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English", "Math", "Economics/Business"]
+              },
+              {
+                "additional": [
+                  "Financial Accounting",
+                  "Cost Accounting",
+                  "Auditing",
+                  "Taxation",
+                  "Management Accounting",
+                  "Accounting Information Systems"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 95,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 24 or better"],
+            "mode": ["Regular, evening, weekend"],
+            "entry_requirements": [
+              "WASSCE credits in English, Math, Economics/Business"
+            ],
+            "level_note": [
+              "9/14 ACCA exemptions",
+              "ICAG professional exam preparation",
+              "Audit firm internships"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA Banking and Finance",
+        "career": [
+          "Bank Manager",
+          "Investment Banker",
+          "Credit Analyst",
+          "Risk Manager",
+          "Treasury Manager",
+          "Financial Advisor",
+          "Compliance Officer",
+          "Portfolio Manager",
+          "Relationship Manager",
+          "Fintech Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵6,500 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Math"]
+              },
+              {
+                "additional": [
+                  "Corporate Finance",
+                  "Investment Analysis",
+                  "Banking Operations",
+                  "Risk Management",
+                  "Financial Markets"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 100,000 annually",
+              "USA: $70,000 - $130,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate: 24"],
+            "mode": ["Flexible delivery modes"],
+            "entry_requirements": ["WASSCE credits including Math"],
+            "level_note": [
+              "Banking sector partnerships",
+              "Fintech focus emerging",
+              "CIB charter preparation"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA Human Resource Management",
+        "career": [
+          "HR Manager",
+          "Recruitment Specialist",
+          "Training Manager",
+          "Employee Relations Manager",
+          "Compensation Manager",
+          "HR Business Partner",
+          "Talent Manager",
+          "OD Specialist",
+          "HR Consultant",
+          "CHRO (future)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵6,500 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Core subjects"]
+              },
+              {
+                "additional": [
+                  "HR Planning",
+                  "Performance Management",
+                  "Labour Law",
+                  "Organizational Behaviour",
+                  "Compensation Management"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 40,000 - 85,000 annually"],
+            "cutt_off": ["WASSCE Aggregate: 24"],
+            "mode": [],
+            "entry_requirements": ["WASSCE credits in core subjects"],
+            "level_note": [
+              "IHRM Ghana affiliation",
+              "Practical HR simulations",
+              "Corporate internships"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Sales Manager",
+          "Market Research Analyst",
+          "Advertising Manager",
+          "Product Manager",
+          "Business Development Manager",
+          "Customer Experience Manager",
+          "CMO (future)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵6,500 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": [
+                  "Consumer Behaviour",
+                  "Digital Marketing",
+                  "Brand Management",
+                  "Marketing Research",
+                  "Sales Management"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 40,000 - 90,000 annually"],
+            "cutt_off": ["WASSCE Aggregate: 24"],
+            "mode": [],
+            "entry_requirements": ["WASSCE credits"],
+            "level_note": [
+              "Live marketing campaigns",
+              "Digital tools training",
+              "CIM alignment"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Business Administration",
+        "career": [
+          "Business Administrator",
+          "Office Manager",
+          "Sales Supervisor",
+          "Accounts Assistant",
+          "HR Assistant",
+          "Marketing Assistant",
+          "Operations Supervisor",
+          "Administrative Officer",
+          "Customer Service Manager",
+          "Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Estimated GH₵2,500 - 3,000 per semester"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["WASSCE 6 passes (A1-E8)"]
+              },
+              {
+                "additional": [
+                  "Business Mathematics",
+                  "Principles of Management",
+                  "Business Law",
+                  "Marketing Fundamentals",
+                  "Accounting Basics"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 25,000 - 50,000 annually"],
+            "cutt_off": ["WASSCE passes required"],
+            "mode": ["Regular and weekend"],
+            "entry_requirements": ["WASSCE 6 passes (A1-E8)"],
+            "level_note": [
+              "Pathway to degree top-up",
+              "Practical business skills",
+              "Flexible for working students"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Humanities and Social Sciences",
+    "note": [
+      "Interdisciplinary approach",
+      "Community development focus",
+      "Research opportunities available"
+    ],
+    "courses": [
+      {
+        "course_name": "BA Communication Studies",
+        "career": [
+          "Journalist",
+          "Public Relations Officer",
+          "Corporate Communications Manager",
+          "Media Producer",
+          "Advertising Executive",
+          "Content Strategist",
+          "Social Media Manager",
+          "Broadcast Producer",
+          "Communications Consultant",
+          "Marketing Communications Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵3,270 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English"]
+              },
+              {
+                "additional": [
+                  "Broadcast Journalism",
+                  "Print Journalism",
+                  "Public Relations",
+                  "Advertising",
+                  "Development Communication",
+                  "Digital Media"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 30,000 - 70,000 annually"],
+            "cutt_off": ["WASSCE Aggregate: 24"],
+            "mode": ["Regular programme"],
+            "entry_requirements": [
+              "WASSCE credits in English and relevant electives"
+            ],
+            "level_note": [
+              "Studio facilities available",
+              "Media production training",
+              "Internships with media houses"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA Planning and Social Development",
+        "career": [
+          "Development Planner",
+          "NGO Project Manager",
+          "Social Policy Analyst",
+          "Community Development Officer",
+          "Urban Planner",
+          "Programme Coordinator",
+          "Monitoring & Evaluation Officer",
+          "Social Researcher",
+          "Policy Advisor",
+          "District Development Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵3,490 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": [
+                  "Development Planning",
+                  "Social Policy Analysis",
+                  "Community Development",
+                  "Project Management",
+                  "Research Methods"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 35,000 - 75,000 annually"],
+            "cutt_off": ["WASSCE Aggregate: 24"],
+            "mode": [],
+            "entry_requirements": ["WASSCE credits in relevant subjects"],
+            "level_note": [
+              "Fieldwork and community projects",
+              "NGO partnerships",
+              "Sustainable development focus"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA Theology with Administration",
+        "career": [
+          "Church Administrator",
+          "Pastor with Management Skills",
+          "Mission Coordinator",
+          "Christian NGO Director",
+          "Church Business Manager",
+          "Denominational Executive",
+          "Theological Educator",
+          "Christian Entrepreneur",
+          "Ministry Financial Officer",
+          "Church Planting Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Fresh Students: GH₵2,394 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": [
+                  "Biblical Studies",
+                  "Church Administration",
+                  "Christian Leadership",
+                  "Pastoral Theology",
+                  "Church Financial Management"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 25,000 - 60,000 annually"],
+            "cutt_off": ["WASSCE Aggregate: 24"],
+            "mode": ["Regular and weekend"],
+            "entry_requirements": [
+              "WASSCE credits, ministry experience advantageous"
+            ],
+            "level_note": [
+              "Unique theology + management blend",
+              "Church leadership preparation",
+              "Practical ministry training"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Postgraduate School",
+    "note": [
+      "Evening and weekend classes",
+      "Working professionals focus",
+      "Research supervision available"
+    ],
+    "courses": [
+      {
+        "course_name": "MSc Corporate Planning & Governance",
+        "career": [
+          "Corporate Planner",
+          "Strategy Manager",
+          "Governance Officer",
+          "Risk Manager",
+          "Compliance Officer",
+          "Board Secretary",
+          "Policy Advisor",
+          "Internal Auditor",
+          "Corporate Affairs Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Master's",
+            "fees": ["Estimated GH₵12,000 - 15,000 total programme"],
+            "duration": "18-24 months",
+            "electives": [
+              {
+                "required": ["2nd Class degree + 2 years work experience"]
+              },
+              {
+                "additional": [
+                  "Strategic Planning",
+                  "Corporate Governance",
+                  "Risk Management",
+                  "Board Administration"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 70,000 - 150,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "2nd Class degree + 2 years work experience"
+            ],
+            "level_note": [
+              "Boardroom governance focus",
+              "High corporate demand"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Monitoring and Evaluation",
+        "career": [
+          "M&E Specialist",
+          "Project Evaluator",
+          "Research Analyst",
+          "Data Analyst",
+          "Programme Manager",
+          "Impact Assessment Officer",
+          "NGO M&E Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Master's",
+            "fees": ["Semester fees: GH₵6,000+"],
+            "duration": "18 months",
+            "electives": [
+              {
+                "required": ["Good degree + 2 years experience"]
+              },
+              {
+                "additional": [
+                  "M&E Frameworks",
+                  "Quantitative Methods",
+                  "Qualitative Research",
+                  "Impact Evaluation"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 60,000 - 130,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": ["Good degree + 2 years experience"],
+            "level_note": [
+              "NGO and development sector focus",
+              "SPSS/Stata training included"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Christian Ministry with Management",
+        "career": [
+          "Senior Pastor",
+          "Church General Overseer",
+          "Christian NGO CEO",
+          "Mission Director",
+          "Denominational Leader",
+          "Seminary Principal"
+        ],
+        "levels": [
+          {
+            "level_name": "Master's",
+            "fees": ["Fresh Students: GH₵10,103 total (2024/2025)"],
+            "duration": "18 months",
+            "electives": [
+              {
+                "required": ["Degree + ministry experience preferred"]
+              },
+              {
+                "additional": [
+                  "Christian Leadership",
+                  "Church Management",
+                  "Theology of Ministry",
+                  "Pastoral Counselling"
+                ]
+              }
+            ],
+            "salary": ["Ghana: GHS 50,000 - 120,000 annually"],
+            "cutt_off": [],
+            "mode": ["Evening/weekend delivery"],
+            "entry_requirements": ["Degree + ministry experience preferred"],
+            "level_note": [
+              "Designed for church leaders",
+              "Evening/weekend delivery"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
