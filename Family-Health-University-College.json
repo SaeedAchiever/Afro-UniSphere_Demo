@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Family Health University College (FHUC)"
+  },
+  {
+    "faculty_name": "Family Health Nursing & Midwifery School",
+    "note": [
+      "Affiliated to University for Development Studies (UDS)",
+      "Accredited by Nursing and Midwifery Council (NMC)",
+      "Modern skills laboratories and demonstration rooms"
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Nursing",
+        "career": [
+          "Registered Nurse",
+          "Public Health Nurse",
+          "Clinical Nurse Specialist",
+          "Nurse Educator",
+          "Nurse Manager",
+          "Research Nurse",
+          "Occupational Health Nurse",
+          "School Nurse",
+          "Critical Care Nurse",
+          "Pediatric Nurse"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Application Fee: GH¢ 250.00",
+              "Tuition: Contact institution for current tuition fees (Estimated competitive private university rates)",
+              "Acceptance Fee applies upon admission"
+            ],
+            "duration": "4 years (Regular)",
+            "electives": [
+              "Medical-Surgical Nursing",
+              "Paediatric Nursing",
+              "Mental Health Nursing",
+              "Public Health Nursing",
+              "Obstetric Nursing",
+              "Nursing Research",
+              "Nursing Administration"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 70,000 annually",
+              "USA: $65,000 - $110,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 36 or better (A1-C6)",
+              "SSSCE Aggregate 24 or better (A-D)"
+            ],
+            "mode": ["Regular", "Evening", "Weekend"],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in 3 Core (English, Math, Science) + 3 Electives (Science/General Arts/Home Economics/Agric)",
+              "Diploma Holders (RGN) enter Level 300 (2 Years)",
+              "HAC/NAC holders enter Level 200 after Access Course"
+            ],
+            "level_note": [
+              "Practical clinical training at Family Health Hospital",
+              "Post-NAC/HAC Top-up option available (3 Years)"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Midwifery",
+        "career": [
+          "Registered Midwife",
+          "Community Midwife",
+          "Maternity Unit Manager",
+          "Midwifery Educator",
+          "Reproductive Health Specialist",
+          "Neonatal Nurse",
+          "Family Planning Coordinator",
+          "Lactation Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Application Fee: GH¢ 250.00",
+              "Tuition: Contact institution for current rates"
+            ],
+            "duration": "4 years (Regular)",
+            "electives": [
+              "Midwifery Practice",
+              "Obstetrics & Gynaecology",
+              "Neonatology",
+              "Reproductive Health",
+              "Family Planning",
+              "Community Midwifery",
+              "Midwifery Management"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 75,000 annually",
+              "USA: $75,000 - $120,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 36 or better",
+              "SSSCE Aggregate 24 or better"
+            ],
+            "mode": ["Regular", "Evening", "Weekend"],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in Core Math, English, Science + 3 Electives",
+              "Diploma Midwifery holders enter Level 300 (2 Years)",
+              "HAC/NAC holders eligible for Top-up"
+            ],
+            "level_note": [
+              "Focus on maternal and child health",
+              "Clinical rotations in partner hospitals"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Registered General Nursing (Diploma)",
+        "career": [
+          "Staff Nurse",
+          "Ward Nurse",
+          "Clinic Nurse",
+          "Community Health Nurse",
+          "Industrial Nurse"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Application Fee: GH¢ 220.00",
+              "Tuition: Moderate fees (Installment options available)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Basic Nursing",
+              "Anatomy & Physiology",
+              "First Aid",
+              "Community Health",
+              "Pharmacology Basics"
+            ],
+            "salary": ["Ghana: GHS 25,000 - 50,000 annually"],
+            "cutt_off": [
+              "WASSCE Aggregate 36 or better",
+              "SSSCE Aggregate 24 or better"
+            ],
+            "mode": ["Regular"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6/A-D) in Core English, Math, Science + 3 Electives",
+              "GCE O-Level: 5 Credits including Math, English, Science"
+            ],
+            "level_note": [
+              "Pathway to BSc Nursing Top-up",
+              "NMC Licensure Examination preparation"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Registered Midwifery (Diploma)",
+        "career": [
+          "Staff Midwife",
+          "Maternity Nurse",
+          "Community Midwife Assistant",
+          "Antenatal Clinic Nurse"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Application Fee: GH¢ 220.00"],
+            "duration": "3 years",
+            "electives": [
+              "Antenatal Care",
+              "Intrapartum Care",
+              "Postnatal Care",
+              "Neonatal Care Basics",
+              "Midwifery Ethics"
+            ],
+            "salary": ["Ghana: GHS 25,000 - 55,000 annually"],
+            "cutt_off": [],
+            "mode": ["Regular"],
+            "entry_requirements": [
+              "WASSCE/SSSCE Passes in Core and Elective subjects"
+            ],
+            "level_note": [
+              "Hands-on delivery training",
+              "Accredited professional diploma"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Nurse Assistant Clinical (NAC)",
+        "career": [
+          "Clinical Assistant",
+          "Healthcare Assistant",
+          "Ward Assistant",
+          "Nursing Aide"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Application Fee: GH¢ 220.00"],
+            "duration": "2 years",
+            "electives": [
+              "Basic Patient Care",
+              "Vital Signs Monitoring",
+              "Infection Prevention",
+              "Bed Making & Hygiene",
+              "First Aid"
+            ],
+            "salary": ["Ghana: GHS 15,000 - 30,000 annually"],
+            "cutt_off": [],
+            "mode": ["Regular"],
+            "entry_requirements": [
+              "WASSCE/SSSCE Passes (A1-E8) in Core and Elective subjects"
+            ],
+            "level_note": [
+              "Entry-level nursing qualification",
+              "Pathway to Diploma/Degree via Access Course"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "name": "Ghana Christian University College (GCUC)"
+  },
+  {
+    "faculty_name": "School of Theology and Ministry",
+    "note": [
+      "The founding focus of the university",
+      "Interdenominational theological training"
+    ],
+    "courses": [
+      {
+        "course_name": "Theology",
+        "career": [
+          "Pastor/Minister",
+          "Theologian",
+          "Missionary",
+          "Religious Educator",
+          "Church Administrator",
+          "Chaplain",
+          "NGO Counsellor",
+          "Bible Translator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Estimated Tuition: ~GH₵ 1,605 per semester",
+              "Other academic charges may apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Biblical Studies (Old & New Testament)",
+              "Systematic Theology",
+              "Pastoral Care and Counselling",
+              "Homiletics (Preaching)",
+              "Church History",
+              "Christian Ethics",
+              "Mission and Evangelism",
+              "Liturgical Studies"
+            ],
+            "salary": [
+              "Ghana: Varies widely based on denomination/role, GHS 20,000 - 50,000+ annually",
+              "USA: $40,000 - $70,000",
+              "Europe: €30,000 - €60,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate: 36 or better",
+              "SSSCE Aggregate: 24 or better"
+            ],
+            "mode": ["Regular (Full-Time)", "Weekend"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in 3 Core (Eng, Maths, Sci/Social) and 3 Electives",
+              "Mature Applicants: 25+ years, pass entrance examination"
+            ],
+            "level_note": [
+              "Provides a strong foundation for pastoral ministry and further theological research."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Professional Studies",
+    "note": ["Focus on developing business leaders with ethical principles"],
+    "courses": [
+      {
+        "course_name": "Accounting",
+        "career": [
+          "Accountant",
+          "Auditor",
+          "Tax Consultant",
+          "Financial Controller",
+          "Budget Analyst",
+          "Forensic Accountant",
+          "Management Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Estimated Tuition: ~GH₵ 1,605 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Management Accounting",
+              "Taxation",
+              "Auditing",
+              "Corporate Finance",
+              "Public Sector Accounting"
+            ],
+            "salary": ["Ghana: GHS 30,000 - 70,000 annually"],
+            "cutt_off": ["WASSCE Aggregate: 36 or better"],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Human Resource Management",
+        "career": [
+          "HR Manager",
+          "Recruitment Specialist",
+          "Training & Development Officer",
+          "Industrial Relations Manager",
+          "HR Consultant",
+          "Talent Acquisition Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Estimated Tuition: ~GH₵ 1,605 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Human Resource Management",
+              "Organizational Behaviour",
+              "Labour Law",
+              "Performance Management",
+              "Compensation & Benefits",
+              "Strategic HRM"
+            ],
+            "salary": ["Ghana: GHS 35,000 - 80,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Market Research Analyst",
+          "Sales Manager",
+          "Advertising Professional"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Estimated Tuition: ~GH₵ 1,605 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Marketing",
+              "Consumer Behaviour",
+              "Sales Management",
+              "Digital Marketing",
+              "Services Marketing",
+              "Marketing Strategy"
+            ],
+            "salary": ["Ghana: GHS 30,000 - 75,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Banking and Finance",
+        "career": [
+          "Banker",
+          "Investment Analyst",
+          "Credit Analyst",
+          "Financial Planner",
+          "Risk Manager",
+          "Stockbroker"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Estimated Tuition: ~GH₵ 1,605 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Corporate Finance",
+              "Investment Management",
+              "Banking Operations",
+              "Financial Markets",
+              "International Finance",
+              "Credit Management"
+            ],
+            "salary": ["Ghana: GHS 35,000 - 85,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Health and Development Studies",
+    "note": ["Programmes aimed at community and national development"],
+    "courses": [
+      {
+        "course_name": "Public Health",
+        "career": [
+          "Public Health Officer",
+          "Health Educator",
+          "Community Health Manager",
+          "Disease Control Officer",
+          "Health Policy Analyst",
+          "NGO Health Project Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Estimated Tuition: ~GH₵ 1,605 - 2,000 per semester (Health sciences may be higher)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Epidemiology",
+              "Biostatistics",
+              "Health Policy and Management",
+              "Environmental Health",
+              "Maternal and Child Health",
+              "Health Promotion"
+            ],
+            "salary": ["Ghana: GHS 35,000 - 75,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "WASSCE credits in Core subjects and Science/General Arts electives"
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Health Information Management",
+        "career": [
+          "Health Information Manager",
+          "Medical Records Administrator",
+          "Clinical Data Analyst",
+          "Health Informatics Specialist",
+          "Data Quality Manager",
+          "Health IT Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Estimated Tuition: ~GH₵ 1,605 - 2,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Health Information Systems",
+              "Medical Terminology",
+              "Healthcare Data Management",
+              "Legal Aspects of Health Information",
+              "Biostatistics",
+              "Epidemiology"
+            ],
+            "salary": ["Ghana: GHS 40,000 - 90,000 annually"],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": ["A critical role in the digitization of healthcare."]
+          }
+        ]
+      }
+    ]
+  }
+]
