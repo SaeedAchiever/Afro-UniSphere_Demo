@@ -31,7 +31,14 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": ["English", "Math", "Integrated Science", "Biology", "Chemistry", "Physics/Elective Math"]
+                "required": [
+                  "English",
+                  "Math",
+                  "Integrated Science",
+                  "Biology",
+                  "Chemistry",
+                  "Physics/Elective Math"
+                ]
               },
               {
                 "additional": [
@@ -89,7 +96,14 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": ["English", "Math", "Science", "Biology", "Chemistry", "Physics"]
+                "required": [
+                  "English",
+                  "Math",
+                  "Science",
+                  "Biology",
+                  "Chemistry",
+                  "Physics"
+                ]
               },
               {
                 "additional": [
@@ -155,7 +169,13 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": ["English", "Math", "Science", "Elective Math", "Physics/ICT"]
+                "required": [
+                  "English",
+                  "Math",
+                  "Science",
+                  "Elective Math",
+                  "Physics/ICT"
+                ]
               },
               {
                 "additional": [
@@ -174,10 +194,7 @@
               "Europe: €60,000 - €110,000"
             ],
             "cutt_off": ["WASSCE Aggregate: 24 or better"],
-            "mode": [
-              "Regular morning classes",
-              "Evening programme available"
-            ],
+            "mode": ["Regular morning classes", "Evening programme available"],
             "entry_requirements": [
               "WASSCE: Credits in English, Math, Science + Elective Math, Physics/ICT",
               "Diploma holders with GPA 3.0+ for Level 100"
@@ -714,7 +731,7 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
+            "level_name": "Masters",
             "fees": ["Estimated GH₵12,000 - 15,000 total programme"],
             "duration": "18-24 months",
             "electives": [
@@ -756,7 +773,7 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
+            "level_name": "Masters",
             "fees": ["Semester fees: GH₵6,000+"],
             "duration": "18 months",
             "electives": [
@@ -795,7 +812,7 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
+            "level_name": "Masters",
             "fees": ["Fresh Students: GH₵10,103 total (2024/2025)"],
             "duration": "18 months",
             "electives": [

@@ -33,10 +33,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "Physics"
-                ]
+                "required": ["Mathematics", "Physics"]
               },
               {
                 "additional": [
@@ -51,10 +48,7 @@
               "USA: $65,000 - $110,000",
               "Europe: €50,000 - €85,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 12",
-              "2025 : ~ 12"
-            ],
+            "cutt_off": ["2024 : ~ 12", "2025 : ~ 12"],
             "mode": [
               "In-person lectures with hands-on programming labs",
               "Blended learning with online tutorials and practical sessions"
@@ -94,10 +88,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "Physics"
-                ]
+                "required": ["Mathematics", "Physics"]
               },
               {
                 "additional": [
@@ -112,10 +103,7 @@
               "USA: $72,000 - $105,000",
               "Europe: €58,000 - €88,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 10",
-              "2025 : ~ 10"
-            ],
+            "cutt_off": ["2024 : ~ 10", "2025 : ~ 10"],
             "mode": [
               "In-person practical labs and workshop facilities",
               "Project-based learning with industry-standard equipment"
@@ -148,10 +136,8 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
-            "fees": [
-              "Ghanaian Students : GHC 32,000 - GHC 38,000 Total"
-            ],
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 32,000 - GHC 38,000 Total"],
             "duration": "2 years",
             "electives": [
               "Machine Learning",
@@ -221,7 +207,7 @@
               "Seminars, lectures, and independent research projects"
             ],
             "entry_requirements": [
-              "Master's degree in Civil Engineering or related discipline",
+              "Masters degree in Civil Engineering or related discipline",
               "Demonstrated research capability and academic excellence",
               "Strong proposal on intended research area",
               "GRE/GMAT or equivalent qualification"
@@ -267,10 +253,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Social Sciences"
-                ]
+                "required": ["English Language", "Social Sciences"]
               },
               {
                 "additional": [
@@ -286,10 +269,7 @@
               "USA: $45,000 - $85,000",
               "Europe: €40,000 - €75,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 20",
-              "2025 : ~ 20"
-            ],
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
             "mode": [
               "Classroom lectures with archival and museum visits",
               "Seminar-based learning with independent research projects"
@@ -329,10 +309,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Literature in English"
-                ]
+                "required": ["English Language", "Literature in English"]
               },
               {
                 "additional": [
@@ -348,10 +325,7 @@
               "USA: $50,000 - $90,000",
               "Europe: €45,000 - €80,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 24",
-              "2025 : ~ 24"
-            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
               "Classroom discussions and literary analysis seminars",
               "Creative workshops with published authors and editors"
@@ -391,10 +365,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Communication Studies"
-                ]
+                "required": ["English Language", "Communication Studies"]
               },
               {
                 "additional": [
@@ -411,10 +382,7 @@
               "USA: $55,000 - $100,000",
               "Europe: €48,000 - €90,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 18",
-              "2025 : ~ 18"
-            ],
+            "cutt_off": ["2024 : ~ 18", "2025 : ~ 18"],
             "mode": [
               "Studio-based production work with modern equipment",
               "Project-based learning with real-world media campaigns"
@@ -447,10 +415,8 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
-            "fees": [
-              "Ghanaian Students : GHC 28,000 - GHC 34,000 Total"
-            ],
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 28,000 - GHC 34,000 Total"],
             "duration": "2 years",
             "electives": [
               "Epistemology",
@@ -515,10 +481,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "English Language"
-                ]
+                "required": ["Mathematics", "English Language"]
               },
               {
                 "additional": [
@@ -534,10 +497,7 @@
               "USA: $70,000 - $130,000",
               "Europe: €60,000 - €115,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 18",
-              "2025 : ~ 18"
-            ],
+            "cutt_off": ["2024 : ~ 18", "2025 : ~ 18"],
             "mode": [
               "Classroom lectures with accounting software training",
               "Case study analysis and practical accounting exercises"
@@ -577,10 +537,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Business Studies"
-                ]
+                "required": ["English Language", "Business Studies"]
               },
               {
                 "additional": [
@@ -596,10 +553,7 @@
               "USA: $65,000 - $120,000",
               "Europe: €55,000 - €105,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 20",
-              "2025 : ~ 20"
-            ],
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
             "mode": [
               "Interactive classroom learning with marketing campaigns",
               "Real-world project work with local and international brands"
@@ -632,10 +586,8 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
-            "fees": [
-              "Ghanaian Students : GHC 28,000 - GHC 34,000 Total"
-            ],
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 28,000 - GHC 34,000 Total"],
             "duration": "18 months - 2 years",
             "electives": [
               "Strategic Management",
@@ -682,10 +634,8 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
-            "fees": [
-              "Ghanaian Students : GHC 30,000 - GHC 36,000 Total"
-            ],
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 30,000 - GHC 36,000 Total"],
             "duration": "2 years",
             "electives": [
               "Corporate Finance",
@@ -750,11 +700,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "English Language"
-                ]
+                "required": ["Biology", "Chemistry", "English Language"]
               },
               {
                 "additional": [
@@ -770,10 +716,7 @@
               "USA: $65,000 - $120,000",
               "Europe: €55,000 - €100,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 12",
-              "2025 : ~ 12"
-            ],
+            "cutt_off": ["2024 : ~ 12", "2025 : ~ 12"],
             "mode": [
               "Theory-based classroom learning combined with clinical practice",
               "Practicum in accredited hospitals and healthcare facilities"
@@ -814,11 +757,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "Physics"
-                ]
+                "required": ["Biology", "Chemistry", "Physics"]
               },
               {
                 "additional": [
@@ -834,10 +773,7 @@
               "USA: $60,000 - $110,000",
               "Europe: €55,000 - €100,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 14",
-              "2025 : ~ 14"
-            ],
+            "cutt_off": ["2024 : ~ 14", "2025 : ~ 14"],
             "mode": [
               "Lecture-based teaching with extensive laboratory work",
               "Field studies and research projects in natural settings"
@@ -870,10 +806,8 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
-            "fees": [
-              "Ghanaian Students : GHC 32,000 - GHC 40,000 Total"
-            ],
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 32,000 - GHC 40,000 Total"],
             "duration": "2 years",
             "electives": [
               "Epidemiology",
@@ -943,7 +877,7 @@
               "Seminars, advanced coursework, and dissertation research"
             ],
             "entry_requirements": [
-              "Master's degree in Environmental Science, Biology, or related discipline",
+              "Masters degree in Environmental Science, Biology, or related discipline",
               "Demonstrated research capability and academic excellence",
               "Detailed research proposal on environmental or conservation topic",
               "GRE/GMAT or equivalent qualification"

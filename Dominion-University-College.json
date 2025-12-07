@@ -30,7 +30,12 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": ["English", "Core Math", "Integrated Science", "Elective Math"]
+                "required": [
+                  "English",
+                  "Core Math",
+                  "Integrated Science",
+                  "Elective Math"
+                ]
               },
               {
                 "additional": [
@@ -139,7 +144,7 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
+            "level_name": "Masters",
             "fees": [],
             "duration": "1-2 years",
             "electives": [
@@ -168,7 +173,7 @@
         ],
         "levels": [
           {
-            "level_name": "Master's",
+            "level_name": "Masters",
             "fees": [],
             "duration": "1-2 years",
             "electives": [
