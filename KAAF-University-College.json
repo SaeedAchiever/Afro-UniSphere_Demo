@@ -1,0 +1,1948 @@
+[
+  {
+    "name": "KAAF University College"
+  },
+  {
+    "faculty_name": "Engineering and Computer Science",
+    "note": [
+      "Engineering and Computer Science programmes at KAAF University College are practice-oriented with strong industry collaboration.",
+      "Modern laboratories, studios, and workshops support hands-on learning and applied research.",
+      "Programmes prepare graduates for professional certification, entrepreneurship, and further studies in engineering and technology."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. in Civil Engineering",
+        "career": [
+          "Civil Engineer",
+          "Structural Engineer",
+          "Construction Engineer",
+          "Project Engineer",
+          "Site Engineer",
+          "Highway Engineer",
+          "Water Resources Engineer",
+          "Geotechnical Engineer",
+          "Infrastructure Planning Engineer",
+          "Consulting Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 45,000 - GHC 55,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": [
+                  "Chemistry",
+                  "Technical Drawing",
+                  "Applied Electricity"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - GHS 90,000 (estimated)",
+              "USA: $70,000 - $110,000 (estimated)",
+              "Europe: €55,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 12 - 18"],
+            "mode": [
+              "Full-time on-campus with intensive field work and design studios",
+              "Blended learning with selected online components"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in Core Mathematics, English Language, Integrated Science, and three relevant electives including Elective Mathematics and Physics.",
+              "Mature applicants and HND/Diploma holders may be admitted to higher levels subject to assessment."
+            ],
+            "level_note": [
+              "Strong emphasis on structural design, construction technology, and infrastructure development.",
+              "Site visits and industry projects integrated into the curriculum."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Electrical/Electronic Engineering",
+        "career": [
+          "Electrical Engineer",
+          "Electronics Engineer",
+          "Power Systems Engineer",
+          "Control Systems Engineer",
+          "Telecommunications Engineer",
+          "Instrumentation Engineer",
+          "Maintenance Engineer",
+          "Automation Engineer",
+          "Renewable Energy Engineer",
+          "Electrical Design Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 45,000 - GHC 55,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": [
+                  "Chemistry",
+                  "Applied Electricity",
+                  "Electronics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 85,000 (estimated)",
+              "USA: $75,000 - $115,000 (estimated)",
+              "Europe: €55,000 - €100,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 12 - 18"],
+            "mode": [
+              "On-campus laboratory and workshop-based teaching",
+              "Blended theoretical and practical training"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in Core Mathematics, English Language, Integrated Science and relevant electives including Elective Mathematics and Physics.",
+              "HND and Diploma holders in related fields may gain advanced standing."
+            ],
+            "level_note": [
+              "Focus on electrical power systems, electronics, and telecommunications.",
+              "Prepares graduates for careers in utilities, manufacturing, and telecommunications industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Mechanical Engineering",
+        "career": [
+          "Mechanical Engineer",
+          "Manufacturing Engineer",
+          "Maintenance Engineer",
+          "Plant Engineer",
+          "Automotive Engineer",
+          "HVAC Engineer",
+          "Production Engineer",
+          "Quality Control Engineer",
+          "Project Engineer",
+          "Technical Sales Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 45,000 - GHC 55,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": ["Chemistry", "Technical Drawing", "Metal Work"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 80,000 (estimated)",
+              "USA: $70,000 - $100,000 (estimated)",
+              "Europe: €50,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 12 - 18"],
+            "mode": [
+              "Workshop and lab-based mechanical design and manufacturing training",
+              "Project-based learning and industrial attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in Core Mathematics, English Language, Integrated Science and relevant electives including Elective Mathematics and Physics.",
+              "HND and Diploma holders in Mechanical or related disciplines may be admitted to higher levels."
+            ],
+            "level_note": [
+              "Covers thermodynamics, machine design, manufacturing technology, and maintenance engineering.",
+              "Strong links with industry for internships and projects."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Geomatic Engineering",
+        "career": [
+          "Geomatic Engineer",
+          "Surveyor",
+          "GIS Specialist",
+          "Cartographer",
+          "Remote Sensing Analyst",
+          "Land Administration Officer",
+          "Hydrographic Surveyor",
+          "Mining Surveyor",
+          "Urban Planner (Technical Support)",
+          "Spatial Data Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 40,000 - GHC 50,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": ["Geography", "Technical Drawing", "ICT"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - GHS 80,000 (estimated)",
+              "USA: $65,000 - $100,000 (estimated)",
+              "Europe: €50,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 14 - 20"],
+            "mode": [
+              "Field-based surveying practice with GIS labs",
+              "Integration of remote sensing and spatial analysis tools"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in Core Mathematics, English Language, Integrated Science and relevant electives including Elective Mathematics and Physics.",
+              "Diploma holders in surveying and related areas may gain advanced standing."
+            ],
+            "level_note": [
+              "Emphasis on land surveying, mapping, and geospatial technologies.",
+              "Field camps and practical surveying exercises are integral."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Construction Technology",
+        "career": [
+          "Construction Technologist",
+          "Site Supervisor",
+          "Construction Project Manager",
+          "Quantity Surveying Assistant",
+          "Building Inspector",
+          "Construction Planner",
+          "Materials Supervisor",
+          "Health and Safety Officer (Construction)",
+          "Clerk of Works",
+          "Facilities Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 40,000 - GHC 50,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": [
+                  "Technical Drawing",
+                  "Building Construction",
+                  "Geography"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - GHS 80,000 (estimated)",
+              "USA: $60,000 - $105,000 (estimated)",
+              "Europe: €50,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 14 - 20"],
+            "mode": [
+              "Studio-based construction planning and design",
+              "Site visits and industry projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in Core Mathematics, English Language, Integrated Science and relevant electives including Elective Mathematics and Physics.",
+              "Construction-related diploma holders may gain exemptions."
+            ],
+            "level_note": [
+              "Focus on construction methods, materials, and project management.",
+              "Prepares graduates for supervisory and technical roles in the construction industry."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Computer Science",
+        "career": [
+          "Software Developer",
+          "Systems Analyst",
+          "Software Engineer",
+          "Database Administrator",
+          "IT Consultant",
+          "Web/Mobile Application Developer",
+          "Systems Administrator",
+          "Data Analyst",
+          "DevOps Engineer",
+          "Cybersecurity Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics"]
+              },
+              {
+                "additional": ["Physics", "ICT", "Further Mathematics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - GHS 100,000 (estimated)",
+              "USA: $70,000 - $120,000 (estimated)",
+              "Europe: €55,000 - €105,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 10 - 16"],
+            "mode": [
+              "Lab-based programming and systems development",
+              "Blended learning with online coding resources"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in Core Mathematics, English Language, Integrated Science and relevant electives including Elective Mathematics.",
+              "Applicants with strong ICT background are preferred."
+            ],
+            "level_note": [
+              "Covers programming, algorithms, databases, networks, and software engineering.",
+              "Industry internships and final-year projects solve real-world problems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Information Technology",
+        "career": [
+          "IT Officer",
+          "Systems Administrator",
+          "Network Administrator",
+          "IT Support Specialist",
+          "IT Project Assistant",
+          "Database Support Officer",
+          "Technical Support Engineer",
+          "ICT Trainer",
+          "Web Administrator",
+          "IT Operations Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics"]
+              },
+              {
+                "additional": ["ICT", "Physics", "Business Management"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 85,000 (estimated)",
+              "USA: $60,000 - $105,000 (estimated)",
+              "Europe: €50,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 12 - 18"],
+            "mode": [
+              "Hands-on IT infrastructure and systems training",
+              "Blended classroom and lab sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in Core Mathematics, English Language, Integrated Science and relevant electives including Elective Mathematics or ICT.",
+              "Diploma and HND holders in ICT-related fields may receive exemptions."
+            ],
+            "level_note": [
+              "Focus on practical IT systems management, networks, and user support.",
+              "Graduates support IT operations across sectors."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Business Administration",
+    "note": [
+      "Business programmes are designed to build strong foundations in accounting, finance, marketing, and people management.",
+      "Emphasis on entrepreneurship, ethical leadership, and practical business problem-solving.",
+      "Students engage with industry through internships, projects, and seminars."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. in Accounting",
+        "career": [
+          "Accountant",
+          "Finance Officer",
+          "Auditor",
+          "Tax Consultant",
+          "Cost Accountant",
+          "Budget Analyst",
+          "Internal Auditor",
+          "Accounts Supervisor",
+          "Financial Analyst",
+          "Payroll Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["Core Mathematics", "English Language"] },
+              { "additional": ["Business Management", "Costing", "Economics"] }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 90,000 (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 14 - 24"],
+            "mode": [
+              "Classroom lectures with accounting software practice",
+              "Case studies and group projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in English Language, Core Mathematics, and three business-related electives such as Accounting, Business Management, and Economics."
+            ],
+            "level_note": [
+              "Prepares students for professional exams such as ICAG and ACCA.",
+              "Strong focus on financial reporting, taxation, and auditing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Marketing",
+        "career": [
+          "Marketing Officer",
+          "Sales Executive",
+          "Brand Assistant",
+          "Market Research Assistant",
+          "Digital Marketing Assistant",
+          "Customer Relations Officer",
+          "Product Promotion Officer",
+          "Business Development Officer",
+          "Advertising Officer",
+          "Communications Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["English Language", "Core Mathematics"] },
+              { "additional": ["Business Management", "Economics", "Costing"] }
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - GHS 80,000 (estimated)",
+              "USA: $55,000 - $100,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 16 - 26"],
+            "mode": [
+              "Interactive lectures, projects, and presentations",
+              "Exposure to digital marketing tools and campaigns"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in English Language, Core Mathematics, and three electives preferably in business or social sciences."
+            ],
+            "level_note": [
+              "Develops skills in market research, branding, sales, and digital marketing.",
+              "Students often participate in marketing competitions and projects."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Banking and Finance",
+        "career": [
+          "Banking Officer",
+          "Credit Officer",
+          "Loans Officer",
+          "Treasury Assistant",
+          "Branch Operations Officer",
+          "Investment Officer",
+          "Risk Management Assistant",
+          "Microfinance Officer",
+          "Customer Relationship Officer",
+          "Finance Analyst Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["Core Mathematics", "English Language"] },
+              {
+                "additional": ["Economics", "Business Management", "Accounting"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 85,000 (estimated)",
+              "USA: $60,000 - $115,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 14 - 24"],
+            "mode": [
+              "Classroom teaching with case studies from banking and finance",
+              "Practical exposure through internships in financial institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in English Language, Core Mathematics, and three electives including Economics or Accounting."
+            ],
+            "level_note": [
+              "Equips students with knowledge of banking operations, financial markets, and risk management.",
+              "Graduates can work in banks, microfinance institutions, and other financial services firms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Human Resource Management",
+        "career": [
+          "HR Assistant",
+          "Recruitment Officer",
+          "Training and Development Assistant",
+          "Payroll Assistant",
+          "Employee Relations Assistant",
+          "Administrative Officer",
+          "HR Generalist (entry-level)",
+          "Talent Acquisition Assistant",
+          "Compensation and Benefits Assistant",
+          "Organisational Development Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["English Language", "Core Mathematics"] },
+              {
+                "additional": [
+                  "Business Management",
+                  "Social Studies",
+                  "Economics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - GHS 80,000 (estimated)",
+              "USA: $55,000 - $100,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 16 - 26"],
+            "mode": [
+              "Lectures combined with role plays, group work, and case studies",
+              "Practical exposure to HR information systems and practices"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in English Language, Core Mathematics, and three electives preferably in business or social sciences."
+            ],
+            "level_note": [
+              "Programme emphasises people management, organisational behaviour, and labour law.",
+              "Prepares students for HR roles across various sectors."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Health and Allied Sciences",
+    "note": [
+      "Health programmes are regulated by relevant professional bodies in Ghana.",
+      "Students undergo extensive clinical placements in accredited health facilities.",
+      "Focus on evidence-based practice, patient-centred care, and community health."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. in General Nursing",
+        "career": [
+          "Registered Nurse",
+          "Clinical Nurse",
+          "Ward Nurse",
+          "Community Health Nurse",
+          "Public Health Nurse",
+          "Nurse Educator (with further study)",
+          "Nurse Manager",
+          "Occupational Health Nurse",
+          "Emergency Nurse",
+          "Home Care Nurse"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 45,000 - GHC 55,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["Biology", "Chemistry", "English Language"] },
+              {
+                "additional": [
+                  "Physics",
+                  "Health Science",
+                  "Elective Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 85,000 (estimated)",
+              "USA: $65,000 - $120,000 (estimated)",
+              "Europe: €55,000 - €100,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 8 - 14"],
+            "mode": [
+              "Classroom instruction with skills lab practice",
+              "Clinical rotations in hospitals and clinics"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in English Language, Core Mathematics, Integrated Science, Biology and Chemistry.",
+              "Applicants must satisfy health and fitness requirements."
+            ],
+            "level_note": [
+              "Graduates are eligible to register with the Nursing and Midwifery Council subject to meeting all conditions.",
+              "Programme includes community health outreach and practical projects."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Midwifery",
+        "career": [
+          "Registered Midwife",
+          "Community Midwife",
+          "Maternal Health Nurse",
+          "Labour Ward Midwife",
+          "Neonatal Care Nurse",
+          "Reproductive Health Educator",
+          "Public Health Midwife",
+          "Midwifery Tutor (with further study)",
+          "Family Planning Officer",
+          "Maternal and Child Health Advocate"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 45,000 - GHC 55,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["Biology", "Chemistry", "English Language"] },
+              { "additional": ["Physics", "Health Science"] }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 85,000 (estimated)",
+              "USA: $65,000 - $120,000 (estimated)",
+              "Europe: €55,000 - €100,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 8 - 14"],
+            "mode": [
+              "Theory, skills lab, and clinical midwifery practice",
+              "Rotations in maternity and reproductive health units"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in English Language, Core Mathematics, Integrated Science, Biology and Chemistry.",
+              "Satisfy health screening and fitness requirements."
+            ],
+            "level_note": [
+              "Programme prepares graduates to support safe pregnancy, childbirth, and postnatal care.",
+              "Graduates may register with the Nursing and Midwifery Council upon meeting regulatory requirements."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Public Health Nursing",
+        "career": [
+          "Public Health Nurse",
+          "Community Health Nurse",
+          "Health Promotion Officer",
+          "School Health Nurse",
+          "Disease Control Officer",
+          "Community Outreach Coordinator",
+          "NGO Health Programme Officer",
+          "Immunisation Officer",
+          "Health Policy Advocate",
+          "Health Surveillance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 40,000 - GHC 50,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["Biology", "Chemistry", "English Language"] },
+              {
+                "additional": [
+                  "Physics",
+                  "Elective Mathematics",
+                  "Health Science"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - GHS 80,000 (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 10 - 18"],
+            "mode": [
+              "Classroom teaching, community fieldwork, and clinical practice",
+              "Engagement in public health campaigns and outreach"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in English Language, Core Mathematics, Integrated Science, Biology and Chemistry.",
+              "Interest in community and public health issues."
+            ],
+            "level_note": [
+              "Strong emphasis on community-oriented primary health care.",
+              "Graduates support preventive health services and health education."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. in Medical Laboratory Science",
+        "career": [
+          "Medical Laboratory Scientist",
+          "Laboratory Technologist",
+          "Diagnostics Scientist",
+          "Clinical Laboratory Supervisor",
+          "Blood Bank Technologist",
+          "Microbiology Laboratory Scientist",
+          "Hematology Technologist",
+          "Chemical Pathology Technologist",
+          "Research Laboratory Scientist",
+          "Public Health Laboratory Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 45,000 - GHC 55,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["Biology", "Chemistry", "English Language"] },
+              { "additional": ["Physics", "Elective Mathematics"] }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 90,000 (estimated)",
+              "USA: $60,000 - $115,000 (estimated)",
+              "Europe: €50,000 - €100,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 8 - 14"],
+            "mode": [
+              "Laboratory-based teaching and clinical placements",
+              "Rotations in diagnostic and research laboratories"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in English Language, Core Mathematics, Integrated Science, Biology and Chemistry.",
+              "Meet additional professional and health requirements as specified by regulators."
+            ],
+            "level_note": [
+              "Programme trains students in laboratory diagnostics and quality assurance.",
+              "Graduates support clinical decision-making through accurate laboratory testing."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Law and Political Science",
+    "note": [
+      "Law and Political Science programmes develop analytical thinking, advocacy, and understanding of legal and political systems.",
+      "Qualified faculty include experienced lawyers, judges, and political scientists.",
+      "Programmes prepare graduates for legal practice, public service, and policy-related careers."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Laws (LLB) - 4 years (direct applicants)",
+        "career": [
+          "Lawyer (after professional law school)",
+          "Legal Officer",
+          "Compliance Officer",
+          "Corporate Legal Advisor",
+          "Legal Researcher",
+          "Human Rights Advocate",
+          "Public Prosecutor (with training)",
+          "Judicial Service Staff",
+          "Policy Analyst",
+          "Legal Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate LLB (4 years)",
+            "fees": [
+              "Ghanaian Students : GHC 40,000 - GHC 55,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["English Language"] },
+              {
+                "additional": [
+                  "Literature in English",
+                  "Government",
+                  "History",
+                  "Christian Religious Studies / Islamic Religious Studies"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - GHS 150,000+ (after full legal qualification, estimated)",
+              "USA: $80,000 - $200,000 (estimated)",
+              "Europe: €70,000 - €180,000 (estimated)"
+            ],
+            "cutt_off": [
+              "Highly competitive aggregates; strong grades in humanities and language subjects"
+            ],
+            "mode": [
+              "Face-to-face lectures, tutorials, and moot court sessions",
+              "Research and case law analysis"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with strong passes in English Language and good grades in three elective subjects preferably including Government, History, and CRS/IRS.",
+              "Admission is competitive and may involve interviews or additional assessments."
+            ],
+            "level_note": [
+              "Programme provides foundational legal education required for entry into the Ghana School of Law (subject to national requirements)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Laws (LLB) - 3 years (degree holders)",
+        "career": [
+          "Lawyer (after professional law school)",
+          "Corporate Legal Advisor",
+          "Compliance and Regulatory Officer",
+          "Policy and Legal Analyst",
+          "NGO Legal and Advocacy Officer",
+          "Public Service Legal Officer",
+          "Legal Researcher",
+          "In-house Counsel",
+          "Academic (with further study)",
+          "Mediator / Arbitrator (with training)"
+        ],
+        "levels": [
+          {
+            "level_name": "Graduate Entry LLB (3 years)",
+            "fees": [
+              "Ghanaian Students : GHC 40,000 - GHC 55,000 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [],
+            "salary": [
+              "Ghana: GHS 50,000 - GHS 150,000+ (after full legal qualification, estimated)",
+              "USA: $80,000 - $200,000 (estimated)",
+              "Europe: €70,000 - €180,000 (estimated)"
+            ],
+            "cutt_off": [
+              "Requires good first degree, usually Second Class Lower or better"
+            ],
+            "mode": [
+              "Intensive legal training with lectures, tutorials, and moot courts",
+              "Research, seminar presentations, and case analysis"
+            ],
+            "entry_requirements": [
+              "A good first degree from a recognised university, usually a minimum of Second Class Lower.",
+              "Additional selection processes may apply (e.g., interviews)."
+            ],
+            "level_note": [
+              "Designed for degree holders seeking to convert to law within a shorter period.",
+              "Meets academic requirements for professional law programmes subject to national regulations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Political Science",
+        "career": [
+          "Policy Analyst",
+          "Research Officer",
+          "Public Relations Officer",
+          "Political Aide",
+          "NGO Programme Officer",
+          "Parliamentary/Legislative Assistant",
+          "Diplomatic Service Officer (with further training)",
+          "Media and Communications Staff",
+          "Civil/Public Servant",
+          "Local Government Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 28,000 - GHC 38,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              { "required": ["English Language"] },
+              {
+                "additional": [
+                  "Government",
+                  "History",
+                  "Economics",
+                  "Geography"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - GHS 75,000 (estimated)",
+              "USA: $45,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical competitive aggregate: ~ 16 - 26"],
+            "mode": [
+              "Lectures, seminars, debates, and policy analysis projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits in English Language and three relevant electives, preferably including Government and History."
+            ],
+            "level_note": [
+              "Programme explores political systems, governance, international relations, and public policy.",
+              "Prepares graduates for careers in public service, NGOs, and policy-related fields."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Certificate Programmes",
+    "note": [
+      "Certificate programmes provide targeted, practical skills for quick entry or upskilling in specialised areas.",
+      "Suitable for working professionals, graduates, and SHS leavers seeking applied training.",
+      "Short duration, flexible delivery, and industry-relevant curricula."
+    ],
+    "courses": [
+      {
+        "course_name": "Data Science with Python",
+        "career": [
+          "Junior Data Analyst",
+          "Data Science Assistant",
+          "Business Intelligence Assistant",
+          "Reporting Analyst",
+          "Research Assistant (Data)",
+          "Database and Data Entry Specialist",
+          "Operations Analyst (entry-level)",
+          "Analytics Support Officer",
+          "Junior Machine Learning Assistant",
+          "IT/Data Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 4,000 - GHC 7,000 Total (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "Python Programming Basics",
+              "Data Analysis with Pandas",
+              "Data Visualisation",
+              "Introduction to Machine Learning",
+              "SQL for Data",
+              "Practical Data Projects"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - GHS 60,000 (estimated entry-level)",
+              "USA: $50,000 - $80,000 (estimated)",
+              "Europe: €45,000 - €75,000 (estimated)"
+            ],
+            "mode": [
+              "Evening and weekend classes",
+              "Hands-on labs and project-based learning"
+            ],
+            "entry_requirements": [
+              "Basic computer literacy and numeracy.",
+              "Background in IT, statistics, or science is an advantage but not mandatory."
+            ],
+            "level_note": [
+              "Ideal for those seeking an introduction to data science and analytics using Python.",
+              "Participants build portfolio-ready data projects."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Broadcasting and Journalism",
+        "career": [
+          "Radio/TV Presenter (entry-level)",
+          "Reporter",
+          "News Writer",
+          "Production Assistant",
+          "Content Creator",
+          "Social Media Officer",
+          "Researcher (Media)",
+          "Voice-over Artist",
+          "Programme Assistant",
+          "Field Reporter"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 3,000 - GHC 6,000 Total (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "Basics of Broadcasting",
+              "News Writing and Reporting",
+              "Interviewing Skills",
+              "Presentation and Voice Training",
+              "Media Law and Ethics",
+              "Digital Journalism"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - GHS 50,000 (estimated entry-level)",
+              "USA: $35,000 - $65,000 (estimated)",
+              "Europe: €30,000 - €60,000 (estimated)"
+            ],
+            "mode": [
+              "Studio-based practical training",
+              "Field reporting and newsroom simulations"
+            ],
+            "entry_requirements": [
+              "SHS/WASSCE qualification or equivalent.",
+              "Strong interest in media and communication."
+            ],
+            "level_note": [
+              "Provides foundational broadcasting and journalism skills.",
+              "Prepares participants for entry roles in radio, TV, and online media."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Videography and Photography",
+        "career": [
+          "Freelance Photographer",
+          "Videographer",
+          "Camera Operator",
+          "Photo Editor",
+          "Video Editor",
+          "Content Creator",
+          "Event Photographer/Videographer",
+          "Studio Assistant",
+          "Media Production Assistant",
+          "Social Media Visual Content Producer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 3,000 - GHC 6,000 Total (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "Fundamentals of Photography",
+              "Fundamentals of Videography",
+              "Lighting Techniques",
+              "Photo and Video Editing",
+              "Storytelling and Composition",
+              "Content Creation for Social Media"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - GHS 60,000 (estimated, varies widely)",
+              "USA: $35,000 - $70,000 (estimated)",
+              "Europe: €30,000 - €65,000 (estimated)"
+            ],
+            "mode": [
+              "Hands-on studio and field shoots",
+              "Project-based portfolio development"
+            ],
+            "entry_requirements": [
+              "SHS/WASSCE qualification or equivalent.",
+              "Interest in creative media and visual storytelling."
+            ],
+            "level_note": [
+              "Participants build a portfolio of photo and video projects.",
+              "Suitable for aspiring creatives and media professionals."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Graduate Health Programmes",
+    "note": [
+      "Graduate health programmes at KAAF University College focus on advanced clinical practice, leadership, and research.",
+      "Programmes are designed for practising professionals aiming to deepen expertise and assume advanced roles.",
+      "Collaboration with health facilities ensures relevant and applied training."
+    ],
+    "courses": [
+      {
+        "course_name": "Doctor of Pharmacy (PharmD)",
+        "career": [
+          "Clinical Pharmacist",
+          "Hospital Pharmacist",
+          "Community Pharmacist",
+          "Industrial Pharmacist",
+          "Regulatory Affairs Pharmacist",
+          "Pharmaceutical Research Scientist",
+          "Drug Safety Officer",
+          "Public Health Pharmacist",
+          "Academic Pharmacist",
+          "Consultant Pharmacist"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate (Professional)",
+            "fees": [
+              "Ghanaian Students : GHC 55,000 - GHC 70,000 per year (estimated)"
+            ],
+            "duration": "6 years (typical from SHS entry) or as per programme structure",
+            "electives": [
+              "Clinical Pharmacy",
+              "Pharmacotherapy",
+              "Pharmacology",
+              "Pharmaceutics",
+              "Pharmaceutical Care",
+              "Pharmacy Practice Management"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - GHS 180,000 (estimated)",
+              "USA: $110,000 - $160,000 (estimated)",
+              "Europe: €80,000 - €140,000 (estimated)"
+            ],
+            "mode": [
+              "Intensive clinical and classroom training",
+              "Rotations in hospitals, community pharmacies, and industry"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE science background with strong passes in Biology, Chemistry, Physics, Mathematics, and English (for first-entry route).",
+              "Other professional or degree entry routes may apply as defined by the university and regulators."
+            ],
+            "level_note": [
+              "Programme prepares graduates as clinical pharmacy experts and pharmaceutical care leaders."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Doctor of Medical Laboratory Science (MLS.D)",
+        "career": [
+          "Senior Medical Laboratory Scientist",
+          "Laboratory Director",
+          "Diagnostics Consultant",
+          "Research Scientist",
+          "Public Health Laboratory Specialist",
+          "Quality Assurance Manager",
+          "Academic/Faculty in Medical Laboratory Science",
+          "Diagnostic Product Specialist",
+          "Laboratory Policy Advisor",
+          "Consultant in Laboratory Systems"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate (Professional)",
+            "fees": [
+              "Ghanaian Students : GHC 55,000 - GHC 70,000 per year (estimated)"
+            ],
+            "duration": "Varies (typically 3 - 4 years beyond bachelor level)",
+            "electives": [
+              "Advanced Clinical Laboratory Practice",
+              "Molecular Diagnostics",
+              "Laboratory Management",
+              "Quality Systems in Laboratories",
+              "Research Methods",
+              "Epidemiology and Public Health Laboratory Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - GHS 200,000 (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €85,000 - €160,000 (estimated)"
+            ],
+            "mode": [
+              "Advanced coursework and intensive research or practicum",
+              "Leadership and management-focused laboratory training"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Medical Laboratory Science or related field with good standing.",
+              "Professional registration and relevant practice experience usually required."
+            ],
+            "level_note": [
+              "Programme develops advanced practitioners and leaders in medical laboratory science."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Philosophy (MPhil) in Midwifery",
+        "career": [
+          "Senior Midwife",
+          "Midwifery Lecturer",
+          "Research Midwife",
+          "Clinical Coordinator",
+          "Maternal Health Programme Manager",
+          "Policy Advisor (Maternal and Child Health)",
+          "Midwifery Consultant",
+          "Public Health Midwifery Specialist",
+          "Training and Development Lead",
+          "NGO Maternal Health Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 per year (estimated)"
+            ],
+            "duration": "2 years (typical)",
+            "electives": [
+              "Advanced Midwifery Practice",
+              "Research Methods",
+              "Maternal and Newborn Health",
+              "Reproductive Health Policy",
+              "Education and Leadership in Midwifery",
+              "Evidence-Based Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - GHS 130,000 (estimated)",
+              "USA: $80,000 - $140,000 (estimated)",
+              "Europe: €70,000 - €130,000 (estimated)"
+            ],
+            "mode": ["Combination of coursework and thesis research"],
+            "entry_requirements": [
+              "Bachelor's degree in Midwifery or related field with at least Second Class Lower.",
+              "Professional registration and clinical experience in midwifery are usually required."
+            ],
+            "level_note": [
+              "Programme is research-intensive and prepares graduates for academic and leadership roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Philosophy (MPhil) in Nursing",
+        "career": [
+          "Senior Nurse",
+          "Nurse Educator/Lecturer",
+          "Nursing Researcher",
+          "Clinical Nurse Specialist",
+          "Nursing Manager",
+          "Policy and Quality Improvement Officer",
+          "NGO Health Programme Specialist",
+          "Public Health Nurse Leader",
+          "Nursing Consultant",
+          "Training and Development Manager (Nursing)"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 per year (estimated)"
+            ],
+            "duration": "2 years (typical)",
+            "electives": [
+              "Advanced Nursing Practice",
+              "Nursing Research Methods",
+              "Health Policy and Management",
+              "Education in Nursing",
+              "Clinical Leadership",
+              "Evidence-Based Nursing Care"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - GHS 130,000 (estimated)",
+              "USA: $80,000 - $140,000 (estimated)",
+              "Europe: €70,000 - €130,000 (estimated)"
+            ],
+            "mode": [
+              "Coursework plus thesis",
+              "May include clinical leadership practicums"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Nursing with at least Second Class Lower.",
+              "Valid professional registration and relevant practice experience."
+            ],
+            "level_note": [
+              "Prepares nurses for leadership, education, and advanced practice roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science (MSc) in Nursing",
+        "career": [
+          "Clinical Nurse Specialist",
+          "Nurse Manager",
+          "Nurse Educator",
+          "Nursing Supervisor",
+          "Health Services Manager",
+          "Quality Improvement Officer",
+          "Public Health Nursing Specialist",
+          "NGO Health Programme Officer",
+          "Nursing Policy Advisor",
+          "Advanced Practice Nurse"
+        ],
+        "levels": [
+          {
+            "level_name": "MSc",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "2 years (typical)",
+            "electives": [
+              "Clinical Nursing Specialties",
+              "Health Systems Management",
+              "Research Methods",
+              "Nursing Informatics",
+              "Leadership in Nursing",
+              "Evidence-Based Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - GHS 120,000 (estimated)",
+              "USA: $75,000 - $135,000 (estimated)",
+              "Europe: €65,000 - €120,000 (estimated)"
+            ],
+            "mode": ["Coursework-focused with project or minor thesis"],
+            "entry_requirements": [
+              "Bachelor's degree in Nursing or related field.",
+              "Professional registration and relevant experience recommended."
+            ],
+            "level_note": [
+              "Emphasises advanced clinical and managerial skills for nursing practice."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Masters in Business Administration",
+    "note": [
+      "MBA programmes provide advanced knowledge in key business functional areas.",
+      "Programmes are suitable for graduates and professionals seeking leadership and management roles.",
+      "Flexible delivery modes support working professionals."
+    ],
+    "courses": [
+      {
+        "course_name": "MBA Accounting",
+        "career": [
+          "Senior Accountant",
+          "Finance Manager",
+          "Financial Controller",
+          "Audit Manager",
+          "Tax Manager",
+          "Chief Financial Officer (CFO)",
+          "Consultant (Accounting and Finance)",
+          "Budget Director",
+          "Risk and Compliance Manager",
+          "Corporate Reporting Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "MBA",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 Total (estimated)"
+            ],
+            "duration": "1.5 - 2 years",
+            "electives": [
+              "Advanced Financial Reporting",
+              "Corporate Finance",
+              "Strategic Management Accounting",
+              "Taxation and Fiscal Policy",
+              "Audit and Assurance",
+              "Risk Management"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - GHS 180,000 (estimated)",
+              "USA: $110,000 - $220,000 (estimated)",
+              "Europe: €90,000 - €180,000 (estimated)"
+            ],
+            "mode": [
+              "Weekend or evening classes for working executives",
+              "Case-based learning and practical projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Accounting, Finance, or related field, usually with at least Second Class Lower.",
+              "Relevant work experience is an advantage."
+            ],
+            "level_note": [
+              "Prepares graduates for senior accounting and financial leadership roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Product Manager",
+          "Business Development Manager",
+          "Sales and Marketing Director",
+          "Customer Experience Manager",
+          "Market Research Manager",
+          "Digital Marketing Manager",
+          "Communications Manager",
+          "Commercial Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "MBA",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 Total (estimated)"
+            ],
+            "duration": "1.5 - 2 years",
+            "electives": [
+              "Strategic Marketing Management",
+              "Consumer Behaviour",
+              "Digital and Social Media Marketing",
+              "Brand Strategy",
+              "Sales and Distribution Management",
+              "Marketing Research and Analytics"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - GHS 170,000 (estimated)",
+              "USA: $100,000 - $200,000 (estimated)",
+              "Europe: €85,000 - €170,000 (estimated)"
+            ],
+            "mode": [
+              "Weekend/evening delivery",
+              "Live projects and case analysis"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in any discipline (marketing or business background advantageous).",
+              "Relevant work experience recommended."
+            ],
+            "level_note": [
+              "Equips professionals to lead marketing and commercial functions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Human Resources Management",
+        "career": [
+          "HR Manager",
+          "Talent Manager",
+          "Training and Development Manager",
+          "Organisational Development Manager",
+          "Employee Relations Manager",
+          "HR Business Partner",
+          "Compensation and Benefits Manager",
+          "HR Director",
+          "Labour Relations Specialist",
+          "HR Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "MBA",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 Total (estimated)"
+            ],
+            "duration": "1.5 - 2 years",
+            "electives": [
+              "Strategic Human Resource Management",
+              "Performance Management",
+              "Compensation and Benefits",
+              "Labour Law and Industrial Relations",
+              "Organisational Behaviour",
+              "Talent Management and Succession Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - GHS 160,000 (estimated)",
+              "USA: $95,000 - $190,000 (estimated)",
+              "Europe: €80,000 - €160,000 (estimated)"
+            ],
+            "mode": [
+              "Weekend/evening format",
+              "Case studies and role-play exercises"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in any discipline (HR or business background beneficial).",
+              "Professional HR experience is an advantage."
+            ],
+            "level_note": [
+              "Prepares graduates to lead HR and people management functions in organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Procurement and Supply Chain Management",
+        "career": [
+          "Procurement Manager",
+          "Supply Chain Manager",
+          "Logistics Manager",
+          "Sourcing Manager",
+          "Warehouse and Distribution Manager",
+          "Inventory Manager",
+          "Operations Manager",
+          "Contracts Manager",
+          "Supply Chain Analyst",
+          "Purchasing Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "MBA",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 Total (estimated)"
+            ],
+            "duration": "1.5 - 2 years",
+            "electives": [
+              "Strategic Procurement",
+              "Supply Chain Management",
+              "Logistics and Transportation",
+              "Inventory and Warehouse Management",
+              "Contract and Risk Management",
+              "Global Supply Chains"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - GHS 180,000 (estimated)",
+              "USA: $110,000 - $210,000 (estimated)",
+              "Europe: €90,000 - €180,000 (estimated)"
+            ],
+            "mode": [
+              "Weekend/evening teaching",
+              "Practical case work with supply chain scenarios"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in any discipline (business, logistics, or engineering background useful).",
+              "Relevant professional or industry experience advantageous."
+            ],
+            "level_note": [
+              "Aligns with professional bodies in procurement and supply chain (e.g., CIPS) where applicable."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Health Services Administration",
+        "career": [
+          "Health Services Manager",
+          "Hospital Administrator",
+          "Clinic Manager",
+          "Programme Manager (Health NGO)",
+          "Health Policy Analyst",
+          "Quality Improvement Manager (Health)",
+          "Operations Manager (Health Facility)",
+          "Public Health Programme Coordinator",
+          "Health Insurance Manager",
+          "Health Systems Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "MBA",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 Total (estimated)"
+            ],
+            "duration": "1.5 - 2 years",
+            "electives": [
+              "Health Systems Management",
+              "Health Policy and Planning",
+              "Hospital Administration",
+              "Health Economics",
+              "Quality and Patient Safety",
+              "Strategic Management in Health Care"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - GHS 160,000 (estimated)",
+              "USA: $95,000 - $190,000 (estimated)",
+              "Europe: €80,000 - €160,000 (estimated)"
+            ],
+            "mode": [
+              "Weekend/evening format for health professionals",
+              "Case studies and health facility-based projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in any discipline (health-related background advantageous).",
+              "Work experience in health sector preferred."
+            ],
+            "level_note": [
+              "Designed for health professionals transitioning into management and leadership roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Management Information System",
+        "career": [
+          "IT Manager",
+          "Business Systems Manager",
+          "IT Project Manager",
+          "Information Systems Analyst",
+          "Digital Transformation Manager",
+          "Technology Consultant",
+          "Enterprise Systems Manager",
+          "Business Analyst",
+          "Chief Information Officer (CIO) (with experience)",
+          "IT Governance and Compliance Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "MBA",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 Total (estimated)"
+            ],
+            "duration": "1.5 - 2 years",
+            "electives": [
+              "Management of Information Systems",
+              "IT Strategy and Governance",
+              "Business Analytics and Intelligence",
+              "Systems Analysis and Design",
+              "Project Management",
+              "Digital Innovation and Transformation"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - GHS 180,000 (estimated)",
+              "USA: $110,000 - $210,000 (estimated)",
+              "Europe: €90,000 - €180,000 (estimated)"
+            ],
+            "mode": [
+              "Weekend/evening teaching",
+              "Projects integrating IT and business strategy"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in IT, Computer Science, Business, or related field.",
+              "Industry experience in IT or business analysis recommended."
+            ],
+            "level_note": [
+              "Prepares professionals to bridge business and technology at managerial level."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "LLM & MSc. Law Programmes",
+    "note": [
+      "Postgraduate law programmes focus on advanced legal knowledge and specialisation.",
+      "Suitable for practising lawyers and graduates seeking expertise in taxation and corporate law.",
+      "Programmes may combine coursework, research, and case-based learning."
+    ],
+    "courses": [
+      {
+        "course_name": "LLM in Taxation Law",
+        "career": [
+          "Tax Lawyer",
+          "Tax Consultant",
+          "Corporate Tax Advisor",
+          "Revenue Authority Legal Officer",
+          "International Tax Specialist",
+          "Legal Researcher (Tax)",
+          "Tax Policy Analyst",
+          "In-house Tax Counsel",
+          "Academic in Tax Law",
+          "Transfer Pricing Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "LLM",
+            "fees": [
+              "Ghanaian Students : GHC 40,000 - GHC 55,000 Total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Principles of Taxation",
+              "Corporate Tax",
+              "International Tax Law",
+              "Indirect Taxation (VAT, Customs)",
+              "Tax Policy and Administration",
+              "Comparative Tax Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 90,000 - GHS 220,000 (estimated)",
+              "USA: $130,000 - $260,000 (estimated)",
+              "Europe: €110,000 - €230,000 (estimated)"
+            ],
+            "mode": [
+              "Weekend/evening lectures for practitioners",
+              "Case analysis and research"
+            ],
+            "entry_requirements": [
+              "Bachelor of Laws (LLB) or equivalent legal qualification.",
+              "Background or interest in tax practice or policy."
+            ],
+            "level_note": [
+              "Provides specialist knowledge in taxation law for practice and policy work."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Sc. in Taxation Law",
+        "career": [
+          "Tax Consultant",
+          "Revenue Authority Officer",
+          "Corporate Tax Specialist",
+          "Policy Analyst (Tax)",
+          "Compliance Manager",
+          "Financial Services Tax Advisor",
+          "NGO/International Organisation Tax Policy Officer",
+          "Academic/Researcher in Tax Policy",
+          "Transfer Pricing Analyst",
+          "Tax Risk Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "MSc",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 Total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Tax Law and Policy",
+              "Corporate and Business Taxation",
+              "International Taxation",
+              "Tax Administration and Compliance",
+              "Public Finance and Fiscal Policy",
+              "Research Methods in Taxation"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - GHS 200,000 (estimated)",
+              "USA: $120,000 - $230,000 (estimated)",
+              "Europe: €100,000 - €210,000 (estimated)"
+            ],
+            "mode": [
+              "Weekend/evening or block delivery",
+              "Research project or dissertation"
+            ],
+            "entry_requirements": [
+              "Good first degree in Law, Accounting, Finance, Economics, or related field.",
+              "Relevant work experience advantageous."
+            ],
+            "level_note": [
+              "Emphasises tax policy, administration, and law from an interdisciplinary perspective."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Sc. in Corporate & Commercial Law",
+        "career": [
+          "Corporate Legal Advisor",
+          "Commercial Lawyer",
+          "In-house Counsel",
+          "Compliance and Governance Officer",
+          "Contracts Manager",
+          "Legal Consultant (Business)",
+          "Company Secretary",
+          "Banking and Finance Legal Officer",
+          "Mergers and Acquisitions Lawyer",
+          "Academic/Researcher in Corporate Law"
+        ],
+        "levels": [
+          {
+            "level_name": "MSc",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 Total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Company Law",
+              "Commercial Transactions",
+              "Corporate Governance",
+              "Banking and Finance Law",
+              "International Business Law",
+              "Mergers and Acquisitions"
+            ],
+            "salary": [
+              "Ghana: GHS 90,000 - GHS 220,000 (estimated)",
+              "USA: $130,000 - $260,000 (estimated)",
+              "Europe: €110,000 - €230,000 (estimated)"
+            ],
+            "mode": [
+              "Flexible delivery for practising professionals",
+              "Case-based analysis and dissertation"
+            ],
+            "entry_requirements": [
+              "Good first degree in Law or related discipline.",
+              "Professional legal experience beneficial."
+            ],
+            "level_note": [
+              "Focuses on corporate, commercial, and financial legal frameworks."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "LLM in Corporate & Commercial Law",
+        "career": [
+          "Corporate Lawyer",
+          "Commercial Legal Advisor",
+          "In-house Counsel",
+          "Corporate Governance Advisor",
+          "Banking and Finance Lawyer",
+          "M&A Lawyer",
+          "International Business Lawyer",
+          "Corporate Compliance Officer",
+          "Legal Consultant (Corporate)",
+          "Academic/Researcher in Corporate and Commercial Law"
+        ],
+        "levels": [
+          {
+            "level_name": "LLM",
+            "fees": [
+              "Ghanaian Students : GHC 40,000 - GHC 55,000 Total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Advanced Company Law",
+              "Corporate Finance Law",
+              "International Commercial Arbitration",
+              "Commercial Contracts",
+              "Corporate Governance and Compliance",
+              "Banking and Securities Law"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - GHS 250,000 (estimated)",
+              "USA: $140,000 - $280,000 (estimated)",
+              "Europe: €120,000 - €250,000 (estimated)"
+            ],
+            "mode": [
+              "Weekend/evening schedule",
+              "Case law analysis and research thesis"
+            ],
+            "entry_requirements": [
+              "Bachelor of Laws (LLB) or equivalent.",
+              "Practice experience in corporate or commercial law advantageous."
+            ],
+            "level_note": [
+              "Provides advanced specialisation for lawyers in corporate and commercial practice."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Educational Science",
+    "note": [
+      "Educational Science programmes focus on early childhood education, pedagogy, and educational leadership.",
+      "Programmes are ideal for teachers and professionals seeking advanced expertise in early childhood education.",
+      "Emphasis on research, curriculum development, and child-centred learning."
+    ],
+    "courses": [
+      {
+        "course_name": "M.Sc. in Early Childhood Education",
+        "career": [
+          "Early Childhood Education Specialist",
+          "Kindergarten/Preschool Coordinator",
+          "Curriculum Developer (Early Childhood)",
+          "Education Officer (Early Childhood)",
+          "NGO Programme Officer (Child Education)",
+          "Teacher Trainer",
+          "School Administrator (Early Childhood)",
+          "Education Consultant",
+          "Child Development Specialist",
+          "Policy Officer (Early Childhood Education)"
+        ],
+        "levels": [
+          {
+            "level_name": "MSc",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 Total (estimated)"
+            ],
+            "duration": "1.5 - 2 years",
+            "electives": [
+              "Child Development and Learning",
+              "Curriculum Design for Early Childhood",
+              "Assessment in Early Childhood",
+              "Family and Community Engagement",
+              "Inclusive Education",
+              "Research Methods in Education"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - GHS 100,000 (estimated)",
+              "USA: $55,000 - $100,000 (estimated)",
+              "Europe: €45,000 - €95,000 (estimated)"
+            ],
+            "mode": [
+              "Evening/weekend or blended format",
+              "Coursework plus project or minor thesis"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Education or related field, preferably with early childhood focus.",
+              "Teaching experience recommended."
+            ],
+            "level_note": [
+              "Strengthens knowledge and skills for leaders in early childhood education."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil in Early Childhood Education",
+        "career": [
+          "Early Childhood Education Lecturer",
+          "Senior Curriculum Specialist",
+          "Education Researcher",
+          "Policy Advisor (Early Childhood)",
+          "Programme Director (Early Childhood)",
+          "Teacher Trainer",
+          "Consultant in Early Childhood Education",
+          "School Owner/Director (Early Childhood)",
+          "NGO Education Specialist",
+          "Educational Planner"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 Total (estimated)"
+            ],
+            "duration": "2 years (typical)",
+            "electives": [
+              "Advanced Studies in Early Childhood",
+              "Educational Research Design",
+              "Policy and Leadership in Early Childhood",
+              "Child Psychology",
+              "Curriculum Theory",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - GHS 120,000 (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €50,000 - €105,000 (estimated)"
+            ],
+            "mode": [
+              "Research-intensive with limited taught modules",
+              "Thesis writing under supervision"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Education or related field, usually with strong performance.",
+              "Some background in early childhood education and research is expected."
+            ],
+            "level_note": [
+              "Prepares graduates for academic, research, and high-level policy roles in early childhood education."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
