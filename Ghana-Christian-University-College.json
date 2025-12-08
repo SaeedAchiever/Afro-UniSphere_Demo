@@ -11,7 +11,7 @@
     ],
     "courses": [
       {
-        "course_name": "Computer Science B.Sc.",
+        "course_name": "Computer Science",
         "career": [
           "Software Developer",
           "Systems Analyst",
@@ -66,7 +66,7 @@
         ]
       },
       {
-        "course_name": "Mechanical Engineering B.Eng.",
+        "course_name": "Mechanical Engineering",
         "career": [
           "Mechanical Design Engineer",
           "Manufacturing Engineer",
@@ -121,7 +121,7 @@
         ]
       },
       {
-        "course_name": "Artificial Intelligence M.Sc.",
+        "course_name": "Artificial Intelligence",
         "career": [
           "AI Research Scientist",
           "Machine Learning Engineer",
@@ -169,7 +169,7 @@
         ]
       },
       {
-        "course_name": "Civil Engineering Ph.D.",
+        "course_name": "Civil Engineering",
         "career": [
           "Civil Engineer (Senior/Principal)",
           "Research Scientist",
@@ -231,7 +231,7 @@
     ],
     "courses": [
       {
-        "course_name": "History B.A.",
+        "course_name": "History",
         "career": [
           "Historian",
           "Archivist",
@@ -287,7 +287,7 @@
         ]
       },
       {
-        "course_name": "English Literature B.A.",
+        "course_name": "English Literature",
         "career": [
           "Editor",
           "Author/Writer",
@@ -343,7 +343,7 @@
         ]
       },
       {
-        "course_name": "Digital Media & Communications B.A.",
+        "course_name": "Digital Media & Communications",
         "career": [
           "Digital Content Creator",
           "Social Media Manager",
@@ -400,7 +400,7 @@
         ]
       },
       {
-        "course_name": "Philosophy M.A.",
+        "course_name": "Philosophy",
         "career": [
           "Philosopher",
           "University Lecturer/Researcher",
@@ -459,7 +459,7 @@
     ],
     "courses": [
       {
-        "course_name": "Accounting B.Com.",
+        "course_name": "Accounting",
         "career": [
           "Accountant",
           "Financial Analyst",
@@ -515,7 +515,7 @@
         ]
       },
       {
-        "course_name": "Marketing BBA",
+        "course_name": "Marketing",
         "career": [
           "Marketing Manager",
           "Brand Manager",
@@ -571,7 +571,7 @@
         ]
       },
       {
-        "course_name": "Master of Business Administration MBA",
+        "course_name": "Master of Business Administration",
         "career": [
           "General Manager",
           "Business Director",
@@ -619,7 +619,7 @@
         ]
       },
       {
-        "course_name": "Finance M.Sc.",
+        "course_name": "Finance",
         "career": [
           "Financial Analyst",
           "Investment Manager",
@@ -678,7 +678,7 @@
     ],
     "courses": [
       {
-        "course_name": "Nursing B.Sc.N.",
+        "course_name": "Nursing",
         "career": [
           "Registered Nurse",
           "Clinical Nurse",
@@ -735,7 +735,7 @@
         ]
       },
       {
-        "course_name": "Biology B.Sc.",
+        "course_name": "Biology",
         "career": [
           "Biologist",
           "Research Scientist",
@@ -791,7 +791,7 @@
         ]
       },
       {
-        "course_name": "Public Health MPH",
+        "course_name": "Public Health",
         "career": [
           "Public Health Officer",
           "Epidemiologist",
@@ -806,7 +806,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "MPhil",
             "fees": ["Ghanaian Students : GHC 32,000 - GHC 40,000 Total"],
             "duration": "2 years",
             "electives": [
@@ -839,7 +839,7 @@
         ]
       },
       {
-        "course_name": "Environmental Science Ph.D.",
+        "course_name": "Environmental Science",
         "career": [
           "Environmental Scientist",
           "Research Scientist",

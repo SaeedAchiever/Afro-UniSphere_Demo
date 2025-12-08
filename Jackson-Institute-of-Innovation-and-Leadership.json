@@ -1,0 +1,733 @@
+[
+  {
+    "name": "Jackson Institute of Innovation and Leadership"
+  },
+  {
+    "faculty_name": "Business",
+    "note": [
+      "Business programs focus on practical application of business theory and real-world case studies",
+      "Strong emphasis on entrepreneurship, innovation, and leadership development",
+      "Industry partnerships provide networking opportunities and career advancement pathways",
+      "Curriculum aligned with international business standards and best practices"
+    ],
+    "courses": [
+      {
+        "course_name": "Business Administration Marketing Undergraduate",
+        "career": [
+          "Marketing Manager",
+          "Business Manager",
+          "Sales Manager",
+          "Brand Manager",
+          "Product Manager",
+          "Marketing Consultant",
+          "Business Development Manager",
+          "Entrepreneur",
+          "Digital Marketing Specialist",
+          "Marketing Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 per semester"
+            ],
+            "duration": "3-4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Business Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Marketing Management",
+                  "Business Administration",
+                  "Entrepreneurship",
+                  "Digital Marketing"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - GHS 90,000",
+              "USA: $55,000 - $110,000",
+              "Europe: €48,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 22",
+              "2025 : ~ 22"
+            ],
+            "mode": [
+              "Classroom lectures with practical business projects",
+              "Case study analysis and real-world marketing campaigns"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language and three business/social science electives",
+              "Minimum aggregate score of 24",
+              "Strong communication and analytical skills"
+            ],
+            "level_note": [
+              "Focus on innovation and entrepreneurial thinking",
+              "Mentorship from successful business leaders and entrepreneurs"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Healthcare & Nursing",
+    "note": [
+      "All nursing and healthcare programs are accredited by regulatory health bodies",
+      "Clinical training in partnership with leading hospitals and healthcare facilities",
+      "Strong emphasis on patient care, compassion, and professional ethics",
+      "Modern laboratory and clinical simulation facilities for hands-on learning"
+    ],
+    "courses": [
+      {
+        "course_name": "General Nursing Undergraduate",
+        "career": [
+          "Registered Nurse",
+          "Hospital Nurse",
+          "Clinical Nurse",
+          "Community Health Nurse",
+          "Nurse Manager",
+          "Nursing Educator",
+          "Public Health Nurse",
+          "Occupational Health Nurse",
+          "Emergency Room Nurse",
+          "Nursing Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 48,000 - GHC 58,000 per semester"
+            ],
+            "duration": "3 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Human Anatomy",
+                  "Physiology",
+                  "Pharmacology",
+                  "Clinical Nursing Practice"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - GHS 85,000",
+              "USA: $62,000 - $115,000",
+              "Europe: €52,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 10",
+              "2025 : ~ 10"
+            ],
+            "mode": [
+              "Theory-based classroom learning combined with clinical practice",
+              "Practicum in accredited hospitals and healthcare centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology, Chemistry, and Physics",
+              "Minimum aggregate score of 12",
+              "Physical and mental fitness for healthcare work",
+              "Compassion and patient-care commitment"
+            ],
+            "level_note": [
+              "Registration with Ghana Health Professions Regulatory Bodies upon completion",
+              "International career pathways with nursing qualifications recognized globally"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Mental Health Nurses Undergraduate",
+        "career": [
+          "Mental Health Nurse",
+          "Psychiatric Nurse",
+          "Community Mental Health Worker",
+          "Hospital Psychiatric Nurse",
+          "Forensic Nurse",
+          "Rehabilitation Specialist",
+          "Counselor",
+          "Mental Health Program Manager",
+          "Nursing Educator (Mental Health)",
+          "Clinical Psychologist Support"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 48,000 - GHC 58,000 per semester"
+            ],
+            "duration": "3 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Psychology",
+                  "Psychiatric Nursing",
+                  "Mental Health Assessment",
+                  "Behavioral Health"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 43,000 - GHS 88,000",
+              "USA: $63,000 - $120,000",
+              "Europe: €53,000 - €100,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 11",
+              "2025 : ~ 11"
+            ],
+            "mode": [
+              "Classroom instruction combined with psychiatric facility placements",
+              "Clinical rotation in mental health institutions and community settings"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology, Chemistry, and Psychology or Social Studies",
+              "Minimum aggregate score of 13",
+              "Strong interpersonal and empathetic skills",
+              "Physical and mental resilience for challenging environments"
+            ],
+            "level_note": [
+              "Specialized training in mental health assessment and intervention",
+              "Growing demand for mental health professionals in Ghana and globally"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Midwives Undergraduate",
+        "career": [
+          "Midwife",
+          "Registered Midwife",
+          "Community Midwife",
+          "Maternal Health Officer",
+          "Hospital Midwife",
+          "Obstetric Nurse",
+          "Midwifery Educator",
+          "Sexual and Reproductive Health Officer",
+          "Midwifery Manager",
+          "Healthcare Counselor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 50,000 - GHC 60,000 per semester"
+            ],
+            "duration": "3 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Obstetrics",
+                  "Maternal Health",
+                  "Neonatal Care",
+                  "Family Planning"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - GHS 92,000",
+              "USA: $65,000 - $125,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 9",
+              "2025 : ~ 9"
+            ],
+            "mode": [
+              "Theoretical training combined with practical obstetric experience",
+              "Clinical placements in maternity units and delivery centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology, Chemistry, and Physics",
+              "Minimum aggregate score of 11",
+              "Prior nursing training or strong healthcare foundation preferred",
+              "Commitment to maternal and child health"
+            ],
+            "level_note": [
+              "Registration with Ghana Health Professions Regulatory Bodies",
+              "Critical role in reducing maternal and child mortality in Ghana and Africa"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Healthcare Assistants Undergraduate",
+        "career": [
+          "Healthcare Assistant",
+          "Patient Care Assistant",
+          "Hospital Attendant",
+          "Community Health Worker",
+          "Health Facility Support Staff",
+          "Administrative Health Assistant",
+          "Wellness Coordinator",
+          "Healthcare Support Technician",
+          "Elder Care Assistant",
+          "Medical Administrative Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 28,000 - GHC 35,000 per semester"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Basic Science"
+                ]
+              },
+              {
+                "additional": [
+                  "Patient Care Fundamentals",
+                  "Healthcare Communication",
+                  "Basic Health Administration",
+                  "Occupational Safety"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - GHS 55,000",
+              "USA: $35,000 - $65,000",
+              "Europe: €32,000 - €58,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 28",
+              "2025 : ~ 28"
+            ],
+            "mode": [
+              "Classroom-based learning with practical healthcare settings",
+              "On-the-job training in hospitals and health centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes in English Language and three subjects",
+              "Minimum aggregate score of 32",
+              "Basic health awareness and willingness to serve",
+              "Physical fitness for healthcare work"
+            ],
+            "level_note": [
+              "Entry-level qualification for healthcare support roles",
+              "Pathway to further nursing qualifications"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Continuous Professional Development",
+    "note": [
+      "CPD programs designed for working professionals seeking skill enhancement and career advancement",
+      "Flexible scheduling to accommodate busy work schedules",
+      "Industry-relevant curriculum reflecting current professional standards",
+      "Certification recognized by professional bodies and employers"
+    ],
+    "courses": [
+      {
+        "course_name": "Political Communication Undergraduate",
+        "career": [
+          "Political Communications Manager",
+          "Public Relations Officer",
+          "Communications Specialist",
+          "Political Analyst",
+          "Government Spokesperson",
+          "Campaign Manager",
+          "Policy Communicator",
+          "Media Relations Manager",
+          "Political Consultant",
+          "Communications Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 32,000 - GHC 40,000 per semester"
+            ],
+            "duration": "3 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Political Science"
+                ]
+              },
+              {
+                "additional": [
+                  "Political Communication Strategy",
+                  "Public Relations",
+                  "Media Studies",
+                  "Rhetoric and Persuasion"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - GHS 98,000",
+              "USA: $60,000 - $130,000",
+              "Europe: €55,000 - €115,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 24",
+              "2025 : ~ 24"
+            ],
+            "mode": [
+              "Interactive classroom sessions with debate and presentation practice",
+              "Real-world political communication case studies"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language and three social science electives",
+              "Minimum aggregate score of 20",
+              "Strong verbal and written communication skills",
+              "Interest in politics and public affairs"
+            ],
+            "level_note": [
+              "Training in political messaging and strategic communication",
+              "Opportunities to work with political organizations and government"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Digital Marketing & e-Commerce Certificate",
+        "career": [
+          "Digital Marketing Manager",
+          "e-Commerce Specialist",
+          "Social Media Manager",
+          "Content Marketing Manager",
+          "SEO Specialist",
+          "Email Marketing Specialist",
+          "Marketing Analyst",
+          "Online Business Manager",
+          "Digital Marketing Consultant",
+          "Marketing Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 5,000 - GHC 7,500 Total"
+            ],
+            "duration": "3-4 months",
+            "electives": [
+              "Digital Marketing Strategy",
+              "Social Media Marketing",
+              "e-Commerce Platforms",
+              "Google Analytics",
+              "SEO and SEM",
+              "Email Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - GHS 75,000",
+              "USA: $45,000 - $95,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "mode": [
+              "Online self-paced learning modules",
+              "Practical hands-on projects with real digital marketing tools"
+            ],
+            "entry_requirements": [
+              "Secondary education or equivalent",
+              "Basic computer and internet literacy",
+              "Interest in digital marketing and e-commerce"
+            ],
+            "level_note": [
+              "Industry-recognized certification in digital marketing",
+              "Hands-on experience with leading digital marketing platforms"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Monitoring & Evaluation (M&E) Training for Teachers and Education Workers Certificate",
+        "career": [
+          "M&E Specialist",
+          "Education Program Manager",
+          "School Administrator",
+          "Curriculum Development Officer",
+          "Education Consultant",
+          "Data Analysis Officer",
+          "Quality Assurance Officer",
+          "Education Project Manager",
+          "Training Coordinator",
+          "Education Policy Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 4,500 - GHC 6,500 Total"
+            ],
+            "duration": "3 months",
+            "electives": [
+              "M&E Fundamentals for Education",
+              "Data Collection Methods",
+              "Educational Indicators",
+              "Performance Analysis",
+              "Reporting and Documentation",
+              "Quality Assurance in Education"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 80,000",
+              "USA: $50,000 - $100,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "mode": [
+              "Workshop-based training with practical exercises",
+              "Collaborative learning with education professionals"
+            ],
+            "entry_requirements": [
+              "Teaching qualification or education background",
+              "Minimum secondary education",
+              "Interest in program evaluation and educational quality"
+            ],
+            "level_note": [
+              "Tailored for teachers and education system workers",
+              "Equips educators with evaluation and quality assurance skills"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Chartered Institute of Management Accountants (CIMA®)",
+    "note": [
+      "CIMA programs are globally recognized professional accountancy qualifications",
+      "Curriculum aligned with international accounting standards and best practices",
+      "Strong emphasis on management accounting, business finance, and strategic decision-making",
+      "Pathways to ACMA, FCMA membership and CGMA designation"
+    ],
+    "courses": [
+      {
+        "course_name": "CIMA Certificate in Business Accounting",
+        "career": [
+          "Accounting Technician",
+          "Finance Assistant",
+          "Bookkeeper",
+          "Accounting Administrator",
+          "Finance Clerk",
+          "Payroll Administrator",
+          "Junior Accountant",
+          "Administrative Finance Officer",
+          "Accounting Support Specialist",
+          "Finance Operations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 8,000 - GHC 11,000 Total"
+            ],
+            "duration": "6-9 months",
+            "electives": [
+              "Fundamentals of Business Accounting",
+              "Financial Accounting Basics",
+              "Business Law Fundamentals",
+              "Ethics and Governance",
+              "Accounting Software",
+              "Business Mathematics"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - GHS 68,000",
+              "USA: $48,000 - $85,000",
+              "Europe: €42,000 - €76,000"
+            ],
+            "mode": [
+              "Classroom and online blended learning",
+              "Practical accounting simulations and exercises"
+            ],
+            "entry_requirements": [
+              "Secondary education or equivalent",
+              "Basic numeracy and literacy skills",
+              "Interest in accounting and finance"
+            ],
+            "level_note": [
+              "Entry-level CIMA qualification pathway",
+              "Foundation for further CIMA professional qualifications"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "CIMA Diploma in Management Accounting",
+        "career": [
+          "Management Accountant",
+          "Cost Accountant",
+          "Finance Manager",
+          "Business Analyst",
+          "Financial Planning Manager",
+          "Management Accountant",
+          "Operations Analyst",
+          "Strategic Finance Manager",
+          "Finance Business Partner",
+          "Financial Controller"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students : GHC 14,000 - GHC 18,000 Total"
+            ],
+            "duration": "12-14 months",
+            "electives": [
+              "Management Accounting Fundamentals",
+              "Financial Management",
+              "Cost Accounting",
+              "Business Decision Making",
+              "Budgeting and Forecasting",
+              "Performance Management"
+            ],
+            "salary": [
+              "Ghana: GHS 58,000 - GHS 115,000",
+              "USA: $80,000 - $150,000",
+              "Europe: €70,000 - €135,000"
+            ],
+            "mode": [
+              "Blended learning with classroom sessions and online modules",
+              "Practical case studies reflecting real business scenarios"
+            ],
+            "entry_requirements": [
+              "Secondary education or equivalent",
+              "CIMA Certificate in Business Accounting or equivalent qualification",
+              "Basic accounting knowledge and business awareness"
+            ],
+            "level_note": [
+              "Internationally recognized management accounting qualification",
+              "Pathway to ACMA membership"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "CIMA Advanced Diploma in Management Accounting",
+        "career": [
+          "Senior Management Accountant",
+          "Finance Director",
+          "CFO (Chief Financial Officer)",
+          "Strategic Finance Manager",
+          "Financial Controller",
+          "Business Finance Manager",
+          "Chartered Manager (CGMA)",
+          "Executive Finance Advisor",
+          "Corporate Financial Strategist",
+          "Finance and Operations Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Advanced Diploma/Professional Level",
+            "fees": [
+              "Ghanaian Students : GHC 20,000 - GHC 26,000 Total"
+            ],
+            "duration": "14-18 months",
+            "electives": [
+              "Advanced Management Accounting",
+              "Strategic Financial Management",
+              "Corporate Finance",
+              "Risk Management",
+              "Strategic Analysis",
+              "Leadership and Management"
+            ],
+            "salary": [
+              "Ghana: GHS 95,000 - GHS 200,000",
+              "USA: $140,000 - $280,000",
+              "Europe: €120,000 - €240,000"
+            ],
+            "mode": [
+              "Advanced classroom instruction with executive focus",
+              "Strategic business case studies and simulations"
+            ],
+            "entry_requirements": [
+              "CIMA Diploma in Management Accounting or equivalent qualification",
+              "Minimum 3 years relevant work experience in accounting or finance",
+              "Professional standing and commitment to CIMA ethics"
+            ],
+            "level_note": [
+              "Pathway to FCMA membership and CGMA designation",
+              "Executive-level management accounting qualification",
+              "Recognized globally by employers and professional bodies"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "ACMA/FCMA Membership and CGMA Designation Undergraduate",
+        "career": [
+          "Chartered Manager (CGMA)",
+          "Associate Chartered Management Accountant (ACMA)",
+          "Fellow Chartered Management Accountant (FCMA)",
+          "Financial Director",
+          "CFO",
+          "Accounting Professional",
+          "Finance Executive",
+          "Business Consultant",
+          "Management Consultant",
+          "Chartered Professional Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Membership",
+            "fees": [
+              "Ghanaian Students : Variable based on qualification pathway and membership fees"
+            ],
+            "duration": "Varies (3-5 years depending on entry level and experience)",
+            "electives": [
+              "Management Accounting",
+              "Financial Management",
+              "Corporate Finance",
+              "Strategic Decision Making",
+              "Ethics and Governance",
+              "Leadership Development"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - GHS 250,000",
+              "USA: $150,000 - $350,000",
+              "Europe: €130,000 - €300,000"
+            ],
+            "mode": [
+              "Professional development through CIMA learning pathways",
+              "Continued professional education and networking"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or equivalent professional qualification",
+              "Completion of CIMA qualifications (Certificate, Diploma, Advanced Diploma)",
+              "Demonstrated professional experience in accounting or management",
+              "Commitment to professional ethics and continuous learning"
+            ],
+            "level_note": [
+              "ACMA (Associate Chartered Management Accountant) is the first professional designation",
+              "FCMA (Fellow Chartered Management Accountant) represents senior professional status",
+              "CGMA (Chartered Global Management Accountant) is a prestigious global designation",
+              "Access to global network of management accounting professionals"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
