@@ -1,0 +1,1157 @@
+[
+  {
+    "name": "Garden City University College"
+  },
+  {
+    "faculty_name": "Business",
+    "note": [
+      "Business programmes at Garden City University College emphasize practical business knowledge and professional development.",
+      "Strong focus on entrepreneurship, management excellence, and industry-relevant skills.",
+      "Regular engagement with business professionals and corporate partnerships for internships and mentorship.",
+      "Curriculum designed to meet international business standards and prepare graduates for professional certifications."
+    ],
+    "courses": [
+      {
+        "course_name": "Accounting and Computing",
+        "career": [
+          "Accounting Technician",
+          "Financial Analyst",
+          "Systems Accountant",
+          "Accounts Officer",
+          "Bookkeeper",
+          "Finance Administrator",
+          "Business Analyst",
+          "Accounting Software Specialist",
+          "Internal Auditor",
+          "Financial Systems Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 32,000 - GHC 42,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Mathematics",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Accounting Principles",
+                  "Business Computing",
+                  "Financial Systems",
+                  "Database Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - GHS 85,000",
+              "USA: $55,000 - $105,000",
+              "Europe: €48,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 18",
+              "2025 : ~ 18"
+            ],
+            "mode": [
+              "Classroom lectures with accounting software training",
+              "Lab-based computer systems practice"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics, and three business-related electives",
+              "Minimum aggregate score of 20",
+              "Numeracy and IT skills beneficial"
+            ],
+            "level_note": [
+              "Integration of accounting principles with computing technology.",
+              "Prepares graduates for hybrid roles in financial technology and accounting systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Economics and Statistics",
+        "career": [
+          "Economist",
+          "Data Analyst",
+          "Economic Researcher",
+          "Statistical Analyst",
+          "Policy Analyst",
+          "Research Officer",
+          "Quantitative Analyst",
+          "Business Analyst",
+          "Government Statistician",
+          "Market Research Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Mathematics",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Statistics",
+                  "Data Analysis",
+                  "Quantitative Methods"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - GHS 95,000",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 16",
+              "2025 : ~ 16"
+            ],
+            "mode": [
+              "Lectures with statistical software training",
+              "Research projects and data analysis exercises"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics, and Economics or relevant electives",
+              "Minimum aggregate score of 18",
+              "Strong analytical and mathematical ability"
+            ],
+            "level_note": [
+              "Combines economic theory with statistical methodology.",
+              "Graduates work in government, research institutions, and private sector analysis roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Economics",
+        "career": [
+          "Economist",
+          "Economic Analyst",
+          "Development Economist",
+          "Research Economist",
+          "Policy Officer",
+          "Financial Analyst",
+          "Business Consultant",
+          "Academic (with further study)",
+          "Government Economic Advisor",
+          "International Organisation Economist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 28,000 - GHC 38,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Mathematics",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Microeconomics",
+                  "Macroeconomics",
+                  "Development Economics",
+                  "International Economics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 100,000",
+              "USA: $60,000 - $125,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 18",
+              "2025 : ~ 18"
+            ],
+            "mode": [
+              "Theory-based lectures with economic case studies",
+              "Research seminars and policy analysis projects"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics, and Economics",
+              "Minimum aggregate score of 20",
+              "Strong analytical thinking capability"
+            ],
+            "level_note": [
+              "Develops expertise in economic analysis and policy.",
+              "Prepares graduates for roles in government, think tanks, and international organizations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Accounting",
+        "career": [
+          "Chartered Accountant",
+          "Auditor",
+          "Finance Officer",
+          "Tax Consultant",
+          "Cost Accountant",
+          "Management Accountant",
+          "Internal Auditor",
+          "Financial Controller",
+          "Accounts Manager",
+          "Payroll Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Mathematics",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Financial Accounting",
+                  "Management Accounting",
+                  "Taxation",
+                  "Auditing"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - GHS 95,000",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 16",
+              "2025 : ~ 16"
+            ],
+            "mode": [
+              "Classroom lectures with accounting software practice",
+              "Case studies and practical accounting exercises"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics, and Accounting or Business Studies",
+              "Minimum aggregate score of 18",
+              "Numeracy and analytical skills"
+            ],
+            "level_note": [
+              "Preparation for professional accounting certifications (ICAG, ACCA).",
+              "Focus on financial reporting, taxation, and auditing standards."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Banking and Finance",
+        "career": [
+          "Banker",
+          "Credit Officer",
+          "Loans Officer",
+          "Investment Analyst",
+          "Treasury Officer",
+          "Risk Manager",
+          "Finance Officer",
+          "Microfinance Officer",
+          "Banking Customer Service Officer",
+          "Financial Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Mathematics",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Banking Operations",
+                  "Finance",
+                  "Economics",
+                  "Risk Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - GHS 98,000",
+              "USA: $65,000 - $125,000",
+              "Europe: €55,000 - €110,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 16",
+              "2025 : ~ 16"
+            ],
+            "mode": [
+              "Classroom teaching with banking simulations",
+              "Practical exposure through internships in financial institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics, and Economics or Accounting",
+              "Minimum aggregate score of 18",
+              "Interest in financial services"
+            ],
+            "level_note": [
+              "Covers banking operations, financial markets, and risk management.",
+              "Graduates work in banks, microfinance, and other financial services."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Human Resource Management",
+        "career": [
+          "HR Officer",
+          "Recruitment Officer",
+          "Training and Development Officer",
+          "Payroll Officer",
+          "Employee Relations Officer",
+          "HR Manager",
+          "Talent Acquisition Specialist",
+          "Performance Management Officer",
+          "Compensation and Benefits Officer",
+          "Organisational Development Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 28,000 - GHC 38,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Business Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Human Resource Management",
+                  "Organisational Behaviour",
+                  "Labour Law",
+                  "Psychology"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - GHS 80,000",
+              "USA: $55,000 - $105,000",
+              "Europe: €48,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 20",
+              "2025 : ~ 20"
+            ],
+            "mode": [
+              "Lectures combined with role plays and group discussions",
+              "Case studies and practical HR simulations"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language and three business/social science electives",
+              "Minimum aggregate score of 20",
+              "Strong communication and interpersonal skills"
+            ],
+            "level_note": [
+              "Emphasis on people management, organisational behaviour, and labour relations.",
+              "Prepares graduates for HR roles across sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Management",
+        "career": [
+          "General Manager",
+          "Operations Manager",
+          "Business Manager",
+          "Project Manager",
+          "Supervisor",
+          "Team Leader",
+          "Management Consultant",
+          "Administrative Manager",
+          "Strategic Planner",
+          "Operational Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 28,000 - GHC 38,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Business Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Management Principles",
+                  "Operations Management",
+                  "Strategic Management",
+                  "Business Ethics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 90,000",
+              "USA: $60,000 - $115,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 20",
+              "2025 : ~ 20"
+            ],
+            "mode": [
+              "Classroom lectures with case study analysis",
+              "Project-based learning and management simulations"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language and three business-related electives",
+              "Minimum aggregate score of 20",
+              "Leadership potential and analytical thinking"
+            ],
+            "level_note": [
+              "Focuses on management principles, operations, and strategic planning.",
+              "Graduates prepared for management roles across industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Marketing",
+        "career": [
+          "Marketing Officer",
+          "Sales Executive",
+          "Brand Manager",
+          "Product Manager",
+          "Digital Marketing Officer",
+          "Market Research Officer",
+          "Communications Officer",
+          "Customer Relations Officer",
+          "Advertising Officer",
+          "Business Development Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 28,000 - GHC 38,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Business Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Marketing Management",
+                  "Consumer Behaviour",
+                  "Digital Marketing",
+                  "Brand Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - GHS 80,000",
+              "USA: $55,000 - $100,000",
+              "Europe: €48,000 - €90,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 22",
+              "2025 : ~ 22"
+            ],
+            "mode": [
+              "Interactive classroom learning with marketing campaigns",
+              "Real-world projects and brand engagement exercises"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language and three business/social science electives",
+              "Minimum aggregate score of 22",
+              "Creative thinking and communication skills"
+            ],
+            "level_note": [
+              "Develops skills in market research, branding, sales, and digital marketing.",
+              "Students engage in marketing competitions and industry projects."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Procurement and Supply Chain Management",
+        "career": [
+          "Procurement Officer",
+          "Supply Chain Coordinator",
+          "Logistics Officer",
+          "Warehouse Manager",
+          "Inventory Officer",
+          "Purchasing Officer",
+          "Procurement Manager",
+          "Supply Chain Analyst",
+          "Vendor Manager",
+          "Operations Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 28,000 - GHC 38,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Mathematics",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Procurement",
+                  "Supply Chain Management",
+                  "Logistics",
+                  "Operations Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 95,000",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 18",
+              "2025 : ~ 18"
+            ],
+            "mode": [
+              "Classroom lectures with supply chain case studies",
+              "Practical exposure to procurement systems and logistics"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics, and three business-related electives",
+              "Minimum aggregate score of 18",
+              "Analytical and organizational skills"
+            ],
+            "level_note": [
+              "Focus on procurement strategy, logistics, and supply chain optimization.",
+              "Graduates support supply operations across sectors."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Information Technology & Applied Science",
+    "note": [
+      "IT and Applied Science programmes emphasize practical technology skills and environmental sustainability.",
+      "Modern computer labs, software development environments, and environmental research facilities.",
+      "Strong industry partnerships for internships, projects, and technology adoption.",
+      "Graduates prepared for tech careers and environmental conservation roles."
+    ],
+    "courses": [
+      {
+        "course_name": "Computer Science",
+        "career": [
+          "Software Developer",
+          "Systems Analyst",
+          "Systems Administrator",
+          "Database Administrator",
+          "IT Consultant",
+          "Web Developer",
+          "Mobile App Developer",
+          "Software Engineer",
+          "Data Analyst",
+          "IT Support Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 32,000 - GHC 42,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Mathematics",
+                  "Physics"
+                ]
+              },
+              {
+                "additional": [
+                  "Programming",
+                  "Database Design",
+                  "Web Development",
+                  "Software Engineering"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - GHS 105,000",
+              "USA: $75,000 - $130,000",
+              "Europe: €65,000 - €115,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 12",
+              "2025 : ~ 12"
+            ],
+            "mode": [
+              "Lab-based programming and systems development",
+              "Blended learning with online coding platforms"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics, Physics, and ICT or Elective Mathematics",
+              "Minimum aggregate score of 14",
+              "Strong logical thinking and problem-solving skills"
+            ],
+            "level_note": [
+              "Covers programming languages, algorithms, databases, and software engineering.",
+              "Industry internships and capstone projects solve real-world problems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Information Technology",
+        "career": [
+          "IT Officer",
+          "Systems Administrator",
+          "Network Administrator",
+          "IT Support Officer",
+          "Systems Support Technician",
+          "IT Project Assistant",
+          "Database Support Officer",
+          "Help Desk Technician",
+          "Technical Support Engineer",
+          "IT Operations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Mathematics",
+                  "Physics"
+                ]
+              },
+              {
+                "additional": [
+                  "IT Systems",
+                  "Networking",
+                  "Database Management",
+                  "IT Security"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 90,000",
+              "USA: $60,000 - $110,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 14",
+              "2025 : ~ 14"
+            ],
+            "mode": [
+              "Hands-on IT infrastructure and systems training",
+              "Blended classroom and lab sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics, ICT or Physics",
+              "Minimum aggregate score of 16",
+              "Interest in IT systems and technical support"
+            ],
+            "level_note": [
+              "Focus on practical IT systems management, networks, and user support.",
+              "Graduates support IT operations across all sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Environmental Science",
+        "career": [
+          "Environmental Officer",
+          "Environmental Consultant",
+          "Conservation Officer",
+          "Environmental Health and Safety Officer",
+          "Sustainability Officer",
+          "Environmental Researcher",
+          "GIS Analyst (Environmental)",
+          "NGO Environmental Specialist",
+          "Government Environmental Officer",
+          "Climate Change Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 30,000 - GHC 40,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry"
+                ]
+              },
+              {
+                "additional": [
+                  "Ecology",
+                  "Environmental Management",
+                  "Sustainability",
+                  "Conservation Biology"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - GHS 85,000",
+              "USA: $55,000 - $105,000",
+              "Europe: €48,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 16",
+              "2025 : ~ 16"
+            ],
+            "mode": [
+              "Field-based environmental studies and fieldwork",
+              "Laboratory analysis and GIS mapping"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology, Chemistry, and Physics",
+              "Minimum aggregate score of 16",
+              "Interest in environmental conservation and sustainability"
+            ],
+            "level_note": [
+              "Emphasis on environmental management, conservation, and sustainability.",
+              "Graduates work in government, NGOs, and private environmental firms."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Health and Applied Sciences",
+    "note": [
+      "Health and Applied Sciences programmes are accredited by professional health regulatory bodies.",
+      "Clinical training in partnership with hospitals, health facilities, and research centres.",
+      "Focus on patient care, clinical excellence, and evidence-based practice.",
+      "Students develop competencies for healthcare delivery and research."
+    ],
+    "courses": [
+      {
+        "course_name": "Physical Assistant Studies",
+        "career": [
+          "Physician Assistant",
+          "Clinical Support Officer",
+          "Primary Healthcare Worker",
+          "Clinical Assistant",
+          "Health Facility Assistant",
+          "Community Health Worker",
+          "Medical Support Professional",
+          "Patient Care Coordinator",
+          "Clinical Technician",
+          "Health Programme Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 45,000 - GHC 55,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "Health Science",
+                  "Anatomy",
+                  "Physiology"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 82,000",
+              "USA: $58,000 - $100,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 12",
+              "2025 : ~ 12"
+            ],
+            "mode": [
+              "Classroom instruction with clinical skills training",
+              "Clinical placements in hospitals and primary health centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology, Chemistry, and Physics",
+              "Minimum aggregate score of 14",
+              "Physical and mental fitness for healthcare work"
+            ],
+            "level_note": [
+              "Prepares clinical support professionals for primary and secondary healthcare.",
+              "Strong emphasis on patient-centred care and clinical competencies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Medical Laboratory Technology",
+        "career": [
+          "Medical Laboratory Technician",
+          "Laboratory Assistant",
+          "Diagnostics Technician",
+          "Blood Bank Assistant",
+          "Microbiology Technician",
+          "Hematology Technician",
+          "Quality Control Technician",
+          "Laboratory Support Officer",
+          "Research Laboratory Technician",
+          "Public Health Laboratory Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 42,000 - GHC 52,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "Laboratory Science",
+                  "Microbiology",
+                  "Quality Assurance"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - GHS 88,000",
+              "USA: $58,000 - $110,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 12",
+              "2025 : ~ 12"
+            ],
+            "mode": [
+              "Laboratory-based practical training",
+              "Clinical placements in diagnostic and hospital laboratories"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology, Chemistry, and Physics",
+              "Minimum aggregate score of 14",
+              "Attention to detail and precision in work"
+            ],
+            "level_note": [
+              "Trains laboratory support professionals in diagnostic testing.",
+              "Graduates support clinical decision-making through laboratory analysis."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Midwifery",
+        "career": [
+          "Midwife",
+          "Registered Midwife",
+          "Community Midwife",
+          "Maternal Health Worker",
+          "Labour Ward Assistant",
+          "Postnatal Care Worker",
+          "Reproductive Health Educator",
+          "Midwifery Assistant",
+          "Antenatal Care Worker",
+          "Delivery Room Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 48,000 - GHC 58,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "Health Science",
+                  "Obstetrics",
+                  "Neonatal Care"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - GHS 90,000",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 10",
+              "2025 : ~ 10"
+            ],
+            "mode": [
+              "Theory combined with practical obstetric training",
+              "Clinical rotations in maternity units and delivery centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology, Chemistry, and Physics",
+              "Minimum aggregate score of 12",
+              "Compassion and commitment to maternal health"
+            ],
+            "level_note": [
+              "Registration with appropriate health regulatory bodies upon completion.",
+              "Critical role in reducing maternal and child mortality."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Nursing",
+        "career": [
+          "Registered Nurse",
+          "Ward Nurse",
+          "Clinical Nurse",
+          "Community Health Nurse",
+          "Public Health Nurse",
+          "Occupational Health Nurse",
+          "Emergency Nurse",
+          "Nursing Supervisor",
+          "Hospital Nurse",
+          "Home Care Nurse"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 48,000 - GHC 58,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "Health Science",
+                  "Clinical Nursing",
+                  "Health Promotion"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 85,000",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 10",
+              "2025 : ~ 10"
+            ],
+            "mode": [
+              "Classroom instruction with clinical skills practice",
+              "Clinical rotations in hospitals and health centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology, Chemistry, and Physics",
+              "Minimum aggregate score of 12",
+              "Commitment to patient care and health promotion"
+            ],
+            "level_note": [
+              "Registration with nursing regulatory bodies upon completion.",
+              "International career pathways with globally recognized qualifications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Dental Therapy",
+        "career": [
+          "Dental Therapist",
+          "Oral Health Practitioner",
+          "Dental Support Officer",
+          "Oral Health Educator",
+          "Dental Assistant",
+          "Public Dental Health Officer",
+          "Community Oral Health Worker",
+          "Dental Surgery Assistant",
+          "Preventive Dental Care Provider",
+          "Dental Hygiene Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 48,000 - GHC 58,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "English Language"
+                ]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "Dental Science",
+                  "Oral Health",
+                  "Clinical Dentistry"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 88,000",
+              "USA: $60,000 - $115,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 11",
+              "2025 : ~ 11"
+            ],
+            "mode": [
+              "Classroom theory with dental clinic training",
+              "Clinical placements in dental facilities and health centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology, Chemistry, and Physics",
+              "Minimum aggregate score of 13",
+              "Manual dexterity and interest in oral health"
+            ],
+            "level_note": [
+              "Prepares graduates for preventive and therapeutic dental roles.",
+              "Focus on community oral health and disease prevention."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Health and Applied Sciences - Graduate",
+    "note": [
+      "Graduate health programmes build on clinical expertise with advanced research and leadership focus.",
+      "Designed for practising health professionals seeking to deepen knowledge and assume advanced roles.",
+      "Strong emphasis on research methodology and evidence-based practice advancement."
+    ],
+    "courses": [
+      {
+        "course_name": "Master of Philosophy (MPhil) in Midwifery with Research",
+        "career": [
+          "Senior Midwife",
+          "Midwifery Researcher",
+          "Midwifery Lecturer",
+          "Maternal Health Specialist",
+          "Clinical Research Coordinator",
+          "Midwifery Programme Manager",
+          "Policy Advisor (Maternal Health)",
+          "Health Services Researcher",
+          "NGO Maternal Health Director",
+          "Academic Midwife (with further study)"
+        ],
+        "levels": [
+          {
+            "level_name": "Master of Philosophy (MPhil)",
+            "fees": [
+              "Ghanaian Students : GHC 38,000 - GHC 48,000 per year (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Midwifery Practice",
+              "Research Methodology",
+              "Maternal and Newborn Health Research",
+              "Statistics and Data Analysis",
+              "Evidence-Based Midwifery",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - GHS 140,000",
+              "USA: $95,000 - $170,000",
+              "Europe: €85,000 - €150,000"
+            ],
+            "mode": [
+              "Combination of advanced coursework and independent thesis research",
+              "Seminars and mentored research supervision"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Midwifery or related health field with minimum Second Class Lower",
+              "Professional registration and clinical experience in midwifery",
+              "Research proposal on area of midwifery specialisation"
+            ],
+            "level_note": [
+              "Research-intensive programme preparing graduates for academic and advanced leadership roles.",
+              "Contribution to maternal health evidence and best practice advancement."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
