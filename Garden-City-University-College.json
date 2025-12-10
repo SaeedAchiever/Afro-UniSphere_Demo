@@ -34,10 +34,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "English Language"
-                ]
+                "required": ["Mathematics", "English Language"]
               },
               {
                 "additional": [
@@ -53,10 +50,7 @@
               "USA: $55,000 - $105,000",
               "Europe: €48,000 - €95,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 18",
-              "2025 : ~ 18"
-            ],
+            "cutt_off": ["2024 : ~ 18", "2025 : ~ 18"],
             "mode": [
               "Classroom lectures with accounting software training",
               "Lab-based computer systems practice"
@@ -96,10 +90,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "English Language"
-                ]
+                "required": ["Mathematics", "English Language"]
               },
               {
                 "additional": [
@@ -115,10 +106,7 @@
               "USA: $65,000 - $120,000",
               "Europe: €55,000 - €105,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 16",
-              "2025 : ~ 16"
-            ],
+            "cutt_off": ["2024 : ~ 16", "2025 : ~ 16"],
             "mode": [
               "Lectures with statistical software training",
               "Research projects and data analysis exercises"
@@ -158,10 +146,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "English Language"
-                ]
+                "required": ["Mathematics", "English Language"]
               },
               {
                 "additional": [
@@ -177,10 +162,7 @@
               "USA: $60,000 - $125,000",
               "Europe: €50,000 - €110,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 18",
-              "2025 : ~ 18"
-            ],
+            "cutt_off": ["2024 : ~ 18", "2025 : ~ 18"],
             "mode": [
               "Theory-based lectures with economic case studies",
               "Research seminars and policy analysis projects"
@@ -220,10 +202,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "English Language"
-                ]
+                "required": ["Mathematics", "English Language"]
               },
               {
                 "additional": [
@@ -239,10 +218,7 @@
               "USA: $65,000 - $120,000",
               "Europe: €55,000 - €105,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 16",
-              "2025 : ~ 16"
-            ],
+            "cutt_off": ["2024 : ~ 16", "2025 : ~ 16"],
             "mode": [
               "Classroom lectures with accounting software practice",
               "Case studies and practical accounting exercises"
@@ -282,10 +258,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "English Language"
-                ]
+                "required": ["Mathematics", "English Language"]
               },
               {
                 "additional": [
@@ -301,10 +274,7 @@
               "USA: $65,000 - $125,000",
               "Europe: €55,000 - €110,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 16",
-              "2025 : ~ 16"
-            ],
+            "cutt_off": ["2024 : ~ 16", "2025 : ~ 16"],
             "mode": [
               "Classroom teaching with banking simulations",
               "Practical exposure through internships in financial institutions"
@@ -344,10 +314,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Business Studies"
-                ]
+                "required": ["English Language", "Business Studies"]
               },
               {
                 "additional": [
@@ -363,10 +330,7 @@
               "USA: $55,000 - $105,000",
               "Europe: €48,000 - €95,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 20",
-              "2025 : ~ 20"
-            ],
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
             "mode": [
               "Lectures combined with role plays and group discussions",
               "Case studies and practical HR simulations"
@@ -406,10 +370,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Business Studies"
-                ]
+                "required": ["English Language", "Business Studies"]
               },
               {
                 "additional": [
@@ -425,10 +386,7 @@
               "USA: $60,000 - $115,000",
               "Europe: €50,000 - €100,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 20",
-              "2025 : ~ 20"
-            ],
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
             "mode": [
               "Classroom lectures with case study analysis",
               "Project-based learning and management simulations"
@@ -468,10 +426,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Business Studies"
-                ]
+                "required": ["English Language", "Business Studies"]
               },
               {
                 "additional": [
@@ -487,10 +442,7 @@
               "USA: $55,000 - $100,000",
               "Europe: €48,000 - €90,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 22",
-              "2025 : ~ 22"
-            ],
+            "cutt_off": ["2024 : ~ 22", "2025 : ~ 22"],
             "mode": [
               "Interactive classroom learning with marketing campaigns",
               "Real-world projects and brand engagement exercises"
@@ -530,10 +482,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "English Language"
-                ]
+                "required": ["Mathematics", "English Language"]
               },
               {
                 "additional": [
@@ -549,10 +498,7 @@
               "USA: $65,000 - $120,000",
               "Europe: €55,000 - €105,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 18",
-              "2025 : ~ 18"
-            ],
+            "cutt_off": ["2024 : ~ 18", "2025 : ~ 18"],
             "mode": [
               "Classroom lectures with supply chain case studies",
               "Practical exposure to procurement systems and logistics"
@@ -603,10 +549,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "Physics"
-                ]
+                "required": ["Mathematics", "Physics"]
               },
               {
                 "additional": [
@@ -622,10 +565,7 @@
               "USA: $75,000 - $130,000",
               "Europe: €65,000 - €115,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 12",
-              "2025 : ~ 12"
-            ],
+            "cutt_off": ["2024 : ~ 12", "2025 : ~ 12"],
             "mode": [
               "Lab-based programming and systems development",
               "Blended learning with online coding platforms"
@@ -665,10 +605,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Mathematics",
-                  "Physics"
-                ]
+                "required": ["Mathematics", "Physics"]
               },
               {
                 "additional": [
@@ -684,10 +621,7 @@
               "USA: $60,000 - $110,000",
               "Europe: €50,000 - €100,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 14",
-              "2025 : ~ 14"
-            ],
+            "cutt_off": ["2024 : ~ 14", "2025 : ~ 14"],
             "mode": [
               "Hands-on IT infrastructure and systems training",
               "Blended classroom and lab sessions"
@@ -727,10 +661,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Biology",
-                  "Chemistry"
-                ]
+                "required": ["Biology", "Chemistry"]
               },
               {
                 "additional": [
@@ -746,10 +677,7 @@
               "USA: $55,000 - $105,000",
               "Europe: €48,000 - €95,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 16",
-              "2025 : ~ 16"
-            ],
+            "cutt_off": ["2024 : ~ 16", "2025 : ~ 16"],
             "mode": [
               "Field-based environmental studies and fieldwork",
               "Laboratory analysis and GIS mapping"
@@ -800,11 +728,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "English Language"
-                ]
+                "required": ["Biology", "Chemistry", "English Language"]
               },
               {
                 "additional": [
@@ -820,10 +744,7 @@
               "USA: $58,000 - $100,000",
               "Europe: €50,000 - €90,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 12",
-              "2025 : ~ 12"
-            ],
+            "cutt_off": ["2024 : ~ 12", "2025 : ~ 12"],
             "mode": [
               "Classroom instruction with clinical skills training",
               "Clinical placements in hospitals and primary health centres"
@@ -863,11 +784,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "English Language"
-                ]
+                "required": ["Biology", "Chemistry", "English Language"]
               },
               {
                 "additional": [
@@ -883,10 +800,7 @@
               "USA: $58,000 - $110,000",
               "Europe: €50,000 - €95,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 12",
-              "2025 : ~ 12"
-            ],
+            "cutt_off": ["2024 : ~ 12", "2025 : ~ 12"],
             "mode": [
               "Laboratory-based practical training",
               "Clinical placements in diagnostic and hospital laboratories"
@@ -926,11 +840,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "English Language"
-                ]
+                "required": ["Biology", "Chemistry", "English Language"]
               },
               {
                 "additional": [
@@ -946,10 +856,7 @@
               "USA: $65,000 - $120,000",
               "Europe: €55,000 - €105,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 10",
-              "2025 : ~ 10"
-            ],
+            "cutt_off": ["2024 : ~ 10", "2025 : ~ 10"],
             "mode": [
               "Theory combined with practical obstetric training",
               "Clinical rotations in maternity units and delivery centres"
@@ -989,11 +896,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "English Language"
-                ]
+                "required": ["Biology", "Chemistry", "English Language"]
               },
               {
                 "additional": [
@@ -1009,10 +912,7 @@
               "USA: $65,000 - $120,000",
               "Europe: €55,000 - €105,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 10",
-              "2025 : ~ 10"
-            ],
+            "cutt_off": ["2024 : ~ 10", "2025 : ~ 10"],
             "mode": [
               "Classroom instruction with clinical skills practice",
               "Clinical rotations in hospitals and health centres"
@@ -1052,11 +952,7 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "English Language"
-                ]
+                "required": ["Biology", "Chemistry", "English Language"]
               },
               {
                 "additional": [
@@ -1072,10 +968,7 @@
               "USA: $60,000 - $115,000",
               "Europe: €50,000 - €100,000"
             ],
-            "cutt_off": [
-              "2024 : ~ 11",
-              "2025 : ~ 11"
-            ],
+            "cutt_off": ["2024 : ~ 11", "2025 : ~ 11"],
             "mode": [
               "Classroom theory with dental clinic training",
               "Clinical placements in dental facilities and health centres"
@@ -1103,7 +996,7 @@
     ],
     "courses": [
       {
-        "course_name": "Master of Philosophy (MPhil) in Midwifery with Research",
+        "course_name": "Midwifery with Research",
         "career": [
           "Senior Midwife",
           "Midwifery Researcher",
@@ -1118,7 +1011,7 @@
         ],
         "levels": [
           {
-            "level_name": "Master of Philosophy (MPhil)",
+            "level_name": "MPhil",
             "fees": [
               "Ghanaian Students : GHC 38,000 - GHC 48,000 per year (estimated)"
             ],
