@@ -514,6 +514,481 @@
             ]
           }
         ]
+      },
+
+      /* =======================
+         NEW DIPLOMA COURSES
+         ======================= */
+
+      {
+        "course_name": "Diploma in Banking Technology and Accounting",
+        "career": [
+          "Banking Clerk",
+          "Accounts Officer",
+          "Teller",
+          "Operations Assistant",
+          "Microfinance Officer",
+          "Customer Service Officer (Banking)",
+          "Back Office Clerk",
+          "Credit Assistant",
+          "SME Banking Support Officer",
+          "Loan Processing Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students : GHC 14,000 - GHC 20,000 per year (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics"]
+              },
+              {
+                "additional": [
+                  "Principles of Banking",
+                  "Financial Accounting",
+                  "Banking Operations",
+                  "Information Systems"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - GHS 50,000",
+              "USA: $35,000 - $55,000",
+              "Europe: €30,000 - €50,000"
+            ],
+            "cutt_off": ["N/A for Diploma – competitive passes required"],
+            "mode": [
+              "Classroom teaching with basic banking software practice",
+              "Industrial attachment in banks and microfinance institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with passes in English Language, Core Mathematics and three business-related electives",
+              "Mature applicants with relevant work experience may be considered"
+            ],
+            "level_note": [
+              "Provides foundational knowledge in banking operations and accounting.",
+              "Designed as a pathway to BSc Banking and Finance or BSc Accounting top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Computerised Accounting",
+        "career": [
+          "Accounts Clerk",
+          "Accounts Assistant",
+          "Payroll Clerk",
+          "Billing Officer",
+          "Invoicing Officer",
+          "Accounting Software Operator",
+          "Bookkeeping Assistant",
+          "Receivables Clerk",
+          "Payables Clerk",
+          "Cashier (Accounting)"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students : GHC 14,000 - GHC 20,000 per year (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics"]
+              },
+              {
+                "additional": [
+                  "Financial Accounting",
+                  "Computerised Accounting Systems",
+                  "Spreadsheet Applications",
+                  "Database Basics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - GHS 48,000",
+              "USA: $32,000 - $52,000",
+              "Europe: €28,000 - €48,000"
+            ],
+            "cutt_off": ["N/A for Diploma – competitive passes required"],
+            "mode": [
+              "Classroom lectures with practical sessions in accounting software",
+              "Project-based assessment using real-life accounting scenarios"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with passes in English Language, Core Mathematics and at least two business-related electives",
+              "Applicants with work experience in accounting are encouraged"
+            ],
+            "level_note": [
+              "Strong focus on computerised accounting packages and electronic records management.",
+              "Graduates can progress to BSc Accounting or related business degree programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Business Administration",
+        "career": [
+          "Administrative Assistant",
+          "Front Desk Executive",
+          "Sales Officer",
+          "Customer Service Representative",
+          "Junior Supervisor",
+          "Office Manager Assistant",
+          "Personal Assistant",
+          "Records Clerk",
+          "Operations Assistant",
+          "Small Business Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students : GHC 13,000 - GHC 19,000 per year (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics"]
+              },
+              {
+                "additional": [
+                  "Principles of Management",
+                  "Introduction to Marketing",
+                  "Introduction to Accounting",
+                  "Business Communication"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - GHS 45,000",
+              "USA: $30,000 - $50,000",
+              "Europe: €26,000 - €45,000"
+            ],
+            "cutt_off": ["N/A for Diploma – competitive passes required"],
+            "mode": [
+              "Classroom teaching with case studies and presentations",
+              "Internships in business organisations"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with passes in English Language, Core Mathematics and three other subjects",
+              "Mature applicants with work experience may apply"
+            ],
+            "level_note": [
+              "Provides broad-based business knowledge suitable for entry-level roles.",
+              "Offers progression opportunities to BSc Business Administration and related degrees."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Liberian Studies",
+        "career": [
+          "Community Development Officer",
+          "NGO Project Assistant",
+          "Administrative Assistant",
+          "Teaching Assistant (Social Studies/Humanities)",
+          "Research Assistant",
+          "Records Officer",
+          "Development Communication Assistant",
+          "Public Relations Assistant",
+          "Social Services Assistant",
+          "Youth Development Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students : GHC 13,000 - GHC 19,000 per year (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["English Language"]
+              },
+              {
+                "additional": [
+                  "Communication Skills",
+                  "Sociology",
+                  "Psychology",
+                  "Development Studies"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 40,000",
+              "USA: $28,000 - $45,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["N/A for Diploma – competitive passes required"],
+            "mode": [
+              "Classroom teaching with group discussions",
+              "Fieldwork and community engagement projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with passes in English Language and four other subjects",
+              "Interest in humanities, social sciences and community work"
+            ],
+            "level_note": [
+              "Focuses on humanities, development and social issues.",
+              "Suitable foundation for further study in social sciences or liberal studies."
+            ]
+          }
+        ]
+      },
+
+      /* =======================
+         NEW BUSINESS CERTIFICATES
+         ======================= */
+
+      {
+        "course_name": "Advanced Certificate in Business Applications",
+        "career": [
+          "Office Assistant",
+          "Data Entry Clerk",
+          "Administrative Support Officer",
+          "Junior Business Support Officer",
+          "Customer Service Assistant",
+          "Clerical Officer",
+          "Records Clerk",
+          "Secretarial Assistant",
+          "Sales Support Assistant",
+          "Operations Support Clerk"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 2,000 - GHC 4,000 for full programme (estimated)"
+            ],
+            "duration": "6 months - 1 year",
+            "electives": [
+              "Word Processing",
+              "Spreadsheets",
+              "Presentations",
+              "Basic Databases",
+              "Internet and Email for Business"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - GHS 30,000",
+              "USA: $22,000 - $35,000",
+              "Europe: €20,000 - €32,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Hands-on computer lab sessions",
+              "Practical assessments and projects"
+            ],
+            "entry_requirements": [
+              "SHS graduate or equivalent",
+              "Basic literacy and numeracy"
+            ],
+            "level_note": [
+              "Focuses on productivity tools used in modern offices.",
+              "Ideal for administrative staff and SHS leavers seeking office-ready skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Power Excel (Analyzing Data to Make Business Decisions)",
+        "career": [
+          "Data Entry Clerk",
+          "Reports Assistant",
+          "Junior Business Analyst (entry-level)",
+          "Sales Reporting Assistant",
+          "Operations Reporting Clerk",
+          "Accounts Assistant (Excel-focused)",
+          "Inventory Records Clerk",
+          "Administrative Assistant",
+          "MIS Assistant",
+          "Analytical Support Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 2,500 - GHC 5,000 for full programme (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "Advanced Excel Functions",
+              "Pivot Tables and Charts",
+              "Dashboards and Reporting",
+              "Data Cleaning and Validation",
+              "Basic Business Data Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - GHS 35,000",
+              "USA: $24,000 - $38,000",
+              "Europe: €22,000 - €36,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Intensive lab-based Excel training",
+              "Project work using real business datasets"
+            ],
+            "entry_requirements": [
+              "SHS graduate or equivalent",
+              "Basic Excel knowledge an advantage but not mandatory"
+            ],
+            "level_note": [
+              "Highly practical, focused on Excel for business decision-making.",
+              "Suitable for business staff who work heavily with reports and spreadsheets."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Computerized Accounting Systems (CAS)",
+        "career": [
+          "Accounting Software Operator",
+          "Billing Clerk",
+          "Cashier",
+          "Accounts Assistant",
+          "Invoicing Clerk",
+          "Receivables Clerk",
+          "Payables Clerk",
+          "Billing and Records Officer",
+          "Small Business Bookkeeper",
+          "POS/Accounting System User"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 2,500 - GHC 5,000 for full programme (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "Introduction to Accounting",
+              "Computerised Accounting Packages",
+              "Spreadsheets for Accounting",
+              "Accounts Receivables and Payables",
+              "Basic Financial Reporting"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - GHS 35,000",
+              "USA: $24,000 - $38,000",
+              "Europe: €22,000 - €36,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Practical sessions using accounting software",
+              "Scenario-based exercises and projects"
+            ],
+            "entry_requirements": [
+              "SHS graduate or equivalent",
+              "Interest in accounting and finance"
+            ],
+            "level_note": [
+              "Designed for users who will operate computerised accounting systems in SMEs and corporate organisations.",
+              "Provides practical exposure to popular accounting packages."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Network Administration",
+        "career": [
+          "Network Technician",
+          "IT Support Technician",
+          "Junior Network Assistant",
+          "Helpdesk Support Officer",
+          "Technical Support Assistant",
+          "Field Support Technician",
+          "IT Operations Assistant",
+          "Cabling Technician",
+          "Network Monitoring Assistant",
+          "Junior Systems Support"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 3,000 - GHC 6,000 for full programme (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "Networking Fundamentals",
+              "Routing and Switching Basics",
+              "Network Security Fundamentals",
+              "Network Devices and Cabling",
+              "Troubleshooting and Support"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 40,000",
+              "USA: $28,000 - $45,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Hands-on lab practice with networking equipment",
+              "Simulation-based exercises and troubleshooting labs"
+            ],
+            "entry_requirements": [
+              "SHS graduate or equivalent",
+              "Interest in IT and networking concepts"
+            ],
+            "level_note": [
+              "Provides foundation knowledge for further professional certifications (e.g. Cisco).",
+              "Suitable for entry-level IT/network support roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in System Administration",
+        "career": [
+          "IT Support Officer",
+          "Helpdesk Technician",
+          "System Support Assistant",
+          "Desktop Support Technician",
+          "Junior System Administrator",
+          "IT Operations Support",
+          "Technical Support Officer",
+          "Service Desk Analyst",
+          "Computer Technician",
+          "User Support Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 3,000 - GHC 6,000 for full programme (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "Operating Systems Fundamentals",
+              "User and Group Management",
+              "Backup and Recovery",
+              "Basic Server Administration",
+              "IT Security and Best Practices"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 40,000",
+              "USA: $28,000 - $45,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Lab-based training on real or virtualised systems",
+              "Practical troubleshooting and configuration tasks"
+            ],
+            "entry_requirements": [
+              "SHS graduate or equivalent",
+              "Basic computer literacy"
+            ],
+            "level_note": [
+              "Prepares learners for entry-level system administration and IT support roles.",
+              "Good foundation for advanced system administration and certification tracks."
+            ]
+          }
+        ]
       }
     ]
   },
@@ -690,6 +1165,257 @@
             "level_note": [
               "Emphasis on environmental management, conservation, and sustainability.",
               "Graduates work in government, NGOs, and private environmental firms."
+            ]
+          }
+        ]
+      },
+
+      /* =======================
+         NEW IT & APPLIED SCIENCE CERTIFICATES
+         ======================= */
+
+      {
+        "course_name": "Computer Proficiency License",
+        "career": [
+          "Office IT User",
+          "Data Entry Clerk",
+          "Administrative Assistant",
+          "Receptionist",
+          "Customer Service Assistant",
+          "Secretarial Assistant",
+          "Records Clerk",
+          "Sales Support Assistant",
+          "Clerical Officer",
+          "Document Management Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 1,800 - GHC 3,500 for full programme (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "Introduction to Computers",
+              "Word Processing",
+              "Spreadsheets",
+              "Presentations",
+              "Internet and Email"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - GHS 28,000",
+              "USA: $20,000 - $32,000",
+              "Europe: €18,000 - €30,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Lab-based training",
+              "Practical assignments and assessments"
+            ],
+            "entry_requirements": [
+              "JHS or SHS graduate",
+              "Basic literacy and numeracy"
+            ],
+            "level_note": [
+              "Provides essential computer skills for everyday office work.",
+              "Ideal for beginners and non-IT professionals."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Database Design and Administration (Oracle/SQL Server/MySQL)",
+        "career": [
+          "Junior Database Assistant",
+          "Data Entry and DB Support Clerk",
+          "IT Support Assistant",
+          "Reporting Assistant",
+          "Data Management Assistant",
+          "Database Intern",
+          "MIS Support Assistant",
+          "Technical Support Officer",
+          "Records and Data Clerk",
+          "Junior Systems Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 3,000 - GHC 6,000 for full programme (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "SQL Fundamentals",
+              "Database Design Principles",
+              "Basic Administration Tasks",
+              "Backup and Recovery",
+              "Performance and Security Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 40,000",
+              "USA: $28,000 - $45,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Hands-on labs on Oracle/SQL Server/MySQL tools",
+              "Project building a small database solution"
+            ],
+            "entry_requirements": [
+              "SHS graduate or equivalent",
+              "Basic computer literacy",
+              "Some IT background an advantage"
+            ],
+            "level_note": [
+              "Prepares learners for junior roles in database support and administration.",
+              "Good foundation for advanced DB certifications and further IT study."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Desktop Publishing and Web Design",
+        "career": [
+          "Desktop Publishing Operator",
+          "Graphics Assistant",
+          "Web Content Assistant",
+          "Print Layout Assistant",
+          "Media Production Assistant",
+          "Social Media Content Assistant",
+          "Branding Assistant",
+          "Print Shop Operator",
+          "Web Design Trainee",
+          "Digital Content Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 2,500 - GHC 5,000 for full programme (estimated)"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              "Graphic Design Basics",
+              "Page Layout and Typography",
+              "Image Editing Tools",
+              "HTML and CSS Basics",
+              "Web Page Design and Publishing"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - GHS 35,000",
+              "USA: $24,000 - $38,000",
+              "Europe: €22,000 - €36,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Studio and lab-based practical sessions",
+              "Portfolio-based assessment"
+            ],
+            "entry_requirements": [
+              "SHS graduate or equivalent",
+              "Interest in design and creativity"
+            ],
+            "level_note": [
+              "Equips learners with entry-level skills in graphic layout and basic web design.",
+              "Suitable for printing shops, media houses and small businesses."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Computer Science",
+        "career": [
+          "IT Support Assistant",
+          "Junior Programmer Trainee",
+          "Computer Lab Assistant",
+          "Technical Support Trainee",
+          "Helpdesk Assistant",
+          "Data Entry Clerk",
+          "Hardware Support Assistant",
+          "Network Support Trainee",
+          "IT Intern",
+          "Systems Support Clerk"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 3,000 - GHC 6,000 for full programme (estimated)"
+            ],
+            "duration": "6 - 12 months",
+            "electives": [
+              "Introduction to Programming",
+              "Algorithms and Logic",
+              "Computer Hardware Basics",
+              "Operating Systems Fundamentals",
+              "Introduction to Databases"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 40,000",
+              "USA: $28,000 - $45,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Lab-based programming exercises",
+              "Mini-projects and practical assessments"
+            ],
+            "entry_requirements": [
+              "SHS graduate or equivalent",
+              "Strong interest in computing and problem solving"
+            ],
+            "level_note": [
+              "Provides a foundation in core computer science concepts.",
+              "Can serve as a bridge into full BSc Computer Science or IT programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Information Technology",
+        "career": [
+          "IT Support Assistant",
+          "Helpdesk Officer",
+          "Technical Support Trainee",
+          "IT Operations Assistant",
+          "Computer Lab Assistant",
+          "Junior Network Support",
+          "Desktop Support Assistant",
+          "Data Entry Clerk",
+          "IT Intern",
+          "User Support Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students : GHC 3,000 - GHC 6,000 for full programme (estimated)"
+            ],
+            "duration": "6 - 12 months",
+            "electives": [
+              "IT Fundamentals",
+              "Networking Basics",
+              "Operating Systems",
+              "Office Productivity Tools",
+              "Basic IT Security"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 40,000",
+              "USA: $28,000 - $45,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["Not applicable for Certificate programmes"],
+            "mode": [
+              "Classroom and lab sessions",
+              "Practical troubleshooting and support exercises"
+            ],
+            "entry_requirements": [
+              "SHS graduate or equivalent",
+              "Basic computer literacy preferred"
+            ],
+            "level_note": [
+              "Focuses on practical IT operations and user support.",
+              "Good starting point for careers in IT support and further IT study."
             ]
           }
         ]
@@ -984,6 +1710,63 @@
             ]
           }
         ]
+      },
+
+      /* =======================
+         NEW HEALTH DIPLOMA
+         ======================= */
+
+      {
+        "course_name": "Diploma in Medical Laboratory Technology",
+        "career": [
+          "Laboratory Assistant",
+          "Phlebotomy Assistant",
+          "Junior Laboratory Technician",
+          "Sample Collection Officer",
+          "Diagnostics Support Assistant",
+          "Public Health Laboratory Assistant",
+          "Clinical Laboratory Aide",
+          "Laboratory Records Clerk",
+          "Blood Bank Support Assistant",
+          "Health Facility Lab Support"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students : GHC 25,000 - GHC 35,000 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              {
+                "required": ["English Language", "Biology", "Chemistry"]
+              },
+              {
+                "additional": ["Physics", "Integrated Science", "Mathematics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - GHS 55,000",
+              "USA: $32,000 - $52,000",
+              "Europe: €28,000 - €50,000"
+            ],
+            "cutt_off": [
+              "N/A for Diploma – competitive science passes required"
+            ],
+            "mode": [
+              "Laboratory-based teaching and skills practice",
+              "Clinical attachments in hospital and diagnostic laboratories"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Biology and Chemistry plus at least a pass in Physics or Elective Mathematics",
+              "Good science background and interest in laboratory work"
+            ],
+            "level_note": [
+              "Provides technical laboratory skills at diploma level.",
+              "Graduates may progress to BSc Medical Laboratory Technology top-up programmes."
+            ]
+          }
+        ]
       }
     ]
   },
@@ -996,7 +1779,7 @@
     ],
     "courses": [
       {
-        "course_name": "Midwifery with Research",
+        "course_name": "Master of Philosophy (MPhil) in Midwifery with Research",
         "career": [
           "Senior Midwife",
           "Midwifery Researcher",
@@ -1011,7 +1794,7 @@
         ],
         "levels": [
           {
-            "level_name": "MPhil",
+            "level_name": "Master of Philosophy (MPhil)",
             "fees": [
               "Ghanaian Students : GHC 38,000 - GHC 48,000 per year (estimated)"
             ],
