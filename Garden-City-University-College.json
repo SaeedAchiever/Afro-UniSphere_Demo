@@ -515,11 +515,6 @@
           }
         ]
       },
-
-      /* =======================
-         NEW DIPLOMA COURSES
-         ======================= */
-
       {
         "course_name": "Diploma in Banking Technology and Accounting",
         "career": [
@@ -740,11 +735,6 @@
           }
         ]
       },
-
-      /* =======================
-         NEW BUSINESS CERTIFICATES
-         ======================= */
-
       {
         "course_name": "Advanced Certificate in Business Applications",
         "career": [
@@ -1169,11 +1159,6 @@
           }
         ]
       },
-
-      /* =======================
-         NEW IT & APPLIED SCIENCE CERTIFICATES
-         ======================= */
-
       {
         "course_name": "Computer Proficiency License",
         "career": [
@@ -1711,11 +1696,6 @@
           }
         ]
       },
-
-      /* =======================
-         NEW HEALTH DIPLOMA
-         ======================= */
-
       {
         "course_name": "Diploma in Medical Laboratory Technology",
         "career": [
