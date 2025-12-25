@@ -1,0 +1,436 @@
+{
+  "name": "Spiritan University College",
+  "faculty": [
+    {
+      "faculty_name": "Business Administration",
+      "note": "The Business School at Spiritan University College offers Bachelor of Science degrees in Business Administration with options in Accounting, Banking and Finance, Human Resource Management and Marketing. [web:82][web:83][web:89][web:97]",
+      "courses": [
+        {
+          "course_name": "Business Administration",
+          "career": [
+            "Business Development Officer",
+            "Operations Manager",
+            "Project Officer",
+            "Marketing and Sales Executive",
+            "Customer Relations Officer",
+            "Administrative Manager",
+            "Entrepreneur and SME Owner",
+            "NGO Programme Officer",
+            "Branch Manager (with experience)",
+            "Business Analyst (entry-level)"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 10,000 - GHS 15,000 per year (estimated within typical private Catholic business degree band; exact figures published per intake)",
+              "duration": "4 years full-time",
+              "electives": {
+                "required": [
+                  "Business Management",
+                  "Economics",
+                  "Elective Mathematics or Accounting"
+                ],
+                "additional": [
+                  "Costing",
+                  "Geography",
+                  "Government",
+                  "ICT",
+                  "French"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 28,000 - GHS 70,000 per year (business and administrative roles)",
+                "USA": "USD 45,000 - USD 90,000 per year",
+                "Europe": "EUR 30,000 - EUR 60,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 18 - 30 for private business programmes with required subject passes",
+              "mode": "In-person lectures, tutorials, group projects and case discussions, with weekend options for working students where available.",
+              "entry_requirements": "SSSCE/WASSCE applicants generally require six credits including three core subjects (English Language, Core Mathematics and Integrated Science or Social Studies) and three business-related electives such as Business Management, Accounting, Economics or Elective Mathematics, with an aggregate of 24 or better as specified for undergraduate admission. Diploma and mature applicants are considered according to the college’s admission regulations. [web:84][web:90][web:98]",
+              "level_note": "The BSc Business Administration provides broad grounding in management, marketing, finance, operations and entrepreneurship. Graduates are equipped for entry-level roles across sectors and for starting their own businesses."
+            }
+          ]
+        },
+        {
+          "course_name": "Accounting",
+          "career": [
+            "Accounts Officer",
+            "Audit Trainee",
+            "Tax Assistant",
+            "Financial Accountant (with experience)",
+            "Management Accountant (with experience)",
+            "Payroll Officer",
+            "Credit Control Officer",
+            "Budget Assistant",
+            "NGO Finance Assistant",
+            "Treasury Operations Assistant"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate (Option under BSc Business Administration)",
+              "fees": "Ghanaian Students: GHS 10,000 - GHS 15,000 per year (estimated, same band as Business Administration)",
+              "duration": "4 years full-time",
+              "electives": {
+                "required": [
+                  "Accounting",
+                  "Business Management",
+                  "Elective Mathematics"
+                ],
+                "additional": [
+                  "Economics",
+                  "Cost Accounting",
+                  "Business Law",
+                  "ICT",
+                  "Statistics"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 32,000 - GHS 75,000 per year (accounting roles in SMEs, corporates and NGOs)",
+                "USA": "USD 50,000 - USD 90,000 per year",
+                "Europe": "EUR 32,000 - EUR 60,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 18 - 28 for accounting options within business programmes",
+              "mode": "On-campus lectures and tutorials with practical exercises in accounting software and financial reporting.",
+              "entry_requirements": "Applicants must satisfy the general undergraduate requirements, with strong passes in Accounting, Business Management, Economics and/or Elective Mathematics in addition to three core subjects (English Language, Core Mathematics and Integrated Science or Social Studies), with an overall aggregate of about 24 or better. [web:83][web:89][web:98]",
+              "level_note": "The Accounting option focuses on financial and management accounting, auditing and taxation. It prepares students for professional qualifications and junior finance positions."
+            }
+          ]
+        },
+        {
+          "course_name": "Banking and Finance",
+          "career": [
+            "Bank Teller or Customer Service Officer",
+            "Credit and Loans Officer",
+            "Retail Banking Officer",
+            "Investment Banking Assistant",
+            "Financial Analyst (entry-level)",
+            "Treasury Operations Assistant",
+            "Risk Management Assistant",
+            "Microfinance Officer",
+            "Corporate Banking Assistant",
+            "Financial Services Sales Executive"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate (Option under BSc Business Administration)",
+              "fees": "Ghanaian Students: GHS 10,000 - GHS 15,000 per year (estimated business option band)",
+              "duration": "4 years full-time",
+              "electives": {
+                "required": [
+                  "Elective Mathematics",
+                  "Economics",
+                  "Accounting or Business Management"
+                ],
+                "additional": [
+                  "Costing",
+                  "Geography",
+                  "Government",
+                  "ICT",
+                  "Statistics"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 32,000 - GHS 80,000 per year (banking and finance roles, depending on level and institution)",
+                "USA": "USD 55,000 - USD 100,000 per year",
+                "Europe": "EUR 35,000 - EUR 70,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 16 - 28 with strong Mathematics and Economics for finance-oriented options",
+              "mode": "In-person teaching combining lectures, case studies and quantitative exercises; possible weekend or evening formats for some cohorts.",
+              "entry_requirements": "Students must meet the general undergraduate admission criteria, with good grades in Mathematics and Economics plus at least one of Accounting or Business Management as electives, in addition to English Language, Core Mathematics and Integrated Science/Social Studies, with an aggregate usually not exceeding 24–30. [web:83][web:89][web:98]",
+              "level_note": "The Banking and Finance option provides knowledge in financial markets, banking operations, corporate finance and risk management. Graduates are prepared for entry roles in banks, microfinance institutions and other financial organisations."
+            }
+          ]
+        },
+        {
+          "course_name": "Human Resource Management",
+          "career": [
+            "Human Resource Officer",
+            "Recruitment and Selection Assistant",
+            "Training and Development Officer",
+            "Compensation and Benefits Assistant",
+            "Industrial Relations Assistant",
+            "HR Records and Data Management Officer",
+            "Talent Management Assistant",
+            "Administrative and HR Coordinator",
+            "Employee Welfare Officer",
+            "Office Manager (with experience)"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate (Option under BSc Business Administration)",
+              "fees": "Ghanaian Students: GHS 10,000 - GHS 15,000 per year (estimated within business band)",
+              "duration": "4 years full-time",
+              "electives": {
+                "required": [
+                  "Business Management",
+                  "Economics or Government",
+                  "Elective Mathematics or Social Studies"
+                ],
+                "additional": [
+                  "Psychology (where available)",
+                  "ICT",
+                  "Geography",
+                  "Literature in English",
+                  "French"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 30,000 - GHS 70,000 per year (HR roles across sectors)",
+                "USA": "USD 48,000 - USD 85,000 per year",
+                "Europe": "EUR 32,000 - EUR 60,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 18 - 30 with strong passes in arts/business electives and English",
+              "mode": "In-person lectures, case-based learning, role plays and project work in HR practice.",
+              "entry_requirements": "Undergraduate HR applicants must meet the general WASSCE/SSSCE requirements with credits in English Language, Core Mathematics and Integrated Science or Social Studies, plus three electives in business, social science or arts such as Business Management, Economics, Government, Elective Mathematics or related subjects, with an overall aggregate around 24 or better. [web:83][web:89][web:98]",
+              "level_note": "The Human Resource Management option covers recruitment, performance management, labour law, organisational behaviour and employee relations. It prepares graduates for HR roles in corporate, public and non-profit environments."
+            }
+          ]
+        },
+        {
+          "course_name": "Marketing",
+          "career": [
+            "Marketing Officer",
+            "Brand Assistant",
+            "Sales and Business Development Officer",
+            "Digital Marketing Assistant",
+            "Social Media Manager",
+            "Customer Relationship Officer",
+            "Market Research Assistant",
+            "Advertising Account Executive",
+            "Retail Supervisor",
+            "Product Marketing Assistant"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate (Option under BSc Business Administration)",
+              "fees": "Ghanaian Students: GHS 10,000 - GHS 15,000 per year (estimated business option band)",
+              "duration": "4 years full-time",
+              "electives": {
+                "required": [
+                  "Business Management",
+                  "Economics",
+                  "Elective Mathematics or ICT"
+                ],
+                "additional": [
+                  "Literature in English",
+                  "French",
+                  "Government",
+                  "Costing",
+                  "Graphic Design Basics"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 28,000 - GHS 65,000 per year (marketing and sales roles)",
+                "USA": "USD 45,000 - USD 90,000 per year",
+                "Europe": "EUR 30,000 - EUR 60,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 18 - 30 with good English and business/art-related electives",
+              "mode": "On-campus lectures, presentations and project-based learning including campaign design and market surveys.",
+              "entry_requirements": "Candidates must fulfil the standard undergraduate criteria (six credits including English Language, Core Mathematics and Integrated Science/Social Studies) plus three approved electives such as Business Management, Economics, Elective Mathematics, ICT or other arts/business subjects, with an aggregate of 24 or better. [web:83][web:89][web:98]",
+              "level_note": "The Marketing option introduces students to consumer behaviour, branding, marketing communications, digital marketing and sales management. It develops both analytical and creative skills for roles in agencies and corporate marketing departments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty_name": "Arts and Social Sciences",
+      "note": "Spiritan University College has a strong tradition in philosophy and the human and social sciences, offering programmes that integrate faith, reason and critical engagement with society. [web:82][web:83][web:88][web:92]",
+      "courses": [
+        {
+          "course_name": "BA of Arts in Philosophy and Social Science",
+          "career": [
+            "Teacher or Lecturer in Philosophy/Social Sciences (with further study)",
+            "Research Assistant in Social and Religious Studies",
+            "Policy and Advocacy Officer",
+            "NGO Programme Officer",
+            "Pastoral and Chaplaincy Support Worker",
+            "Development and Community Worker",
+            "Civil/Public Service Officer",
+            "Human Resource or Training Assistant",
+            "Journalism and Communications Assistant",
+            "Graduate Studies in Philosophy, Theology or Social Sciences"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 9,000 - GHS 13,000 per year (estimated humanities band for Catholic university colleges)",
+              "duration": "4 years full-time",
+              "electives": {
+                "required": [
+                  "Christian/Religious Studies or Bible Knowledge (where available)",
+                  "Literature in English",
+                  "Government or History"
+                ],
+                "additional": [
+                  "French",
+                  "Geography",
+                  "Economics",
+                  "Social Studies (if not taken as core)",
+                  "Any other approved arts or social science elective"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 24,000 - GHS 55,000 per year (education, NGO and administrative roles)",
+                "USA": "USD 40,000 - USD 80,000 per year (varied roles after further study)",
+                "Europe": "EUR 30,000 - EUR 60,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 18 - 30 with strong passes in arts and social science electives",
+              "mode": "In-person lectures, seminars and tutorials with emphasis on reading, writing and critical discussion; weekend options may be available.",
+              "entry_requirements": "WASSCE/SSSCE applicants usually need six credits including three core subjects (English Language, Core Mathematics and Integrated Science or Social Studies) and three electives in arts or social sciences such as Religious Studies, Literature in English, Government, History, Geography or Economics, with an aggregate of 24 or better. Diploma holders and mature applicants are considered according to published criteria. [web:84][web:90][web:98]",
+              "level_note": "The programme combines systematic study of philosophy with social science disciplines, helping students to engage critically with contemporary social, ethical and religious issues. It provides a strong foundation for further studies and service in church and society."
+            }
+          ]
+        },
+        {
+          "course_name": "BA of Arts in Sociology and Social Works",
+          "career": [
+            "Social Worker (with professional registration where required)",
+            "Community Development Officer",
+            "NGO Project Officer",
+            "Youth and Children’s Services Worker",
+            "Corrections and Rehabilitation Assistant",
+            "School Counselor Assistant (with further training)",
+            "Research Assistant in Social Sciences",
+            "Gender and Development Officer",
+            "Social Policy Advocacy Officer",
+            "Humanitarian and Relief Worker"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate (BA Sociology and Social Work / Sociology and Economics variant)",
+              "fees": "Ghanaian Students: GHS 9,000 - GHS 13,000 per year (estimated humanities/social science band)",
+              "duration": "4 years full-time",
+              "electives": {
+                "required": [
+                  "Economics or Government",
+                  "Geography or History",
+                  "Any other social science elective such as CRS/IRS or Social Studies"
+                ],
+                "additional": [
+                  "Literature in English",
+                  "French",
+                  "Elective Mathematics",
+                  "General Knowledge in Art",
+                  "Management in Living"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 24,000 - GHS 55,000 per year (social work and development roles dependent on organisation)",
+                "USA": "USD 38,000 - USD 70,000 per year",
+                "Europe": "EUR 30,000 - EUR 60,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 18 - 30 with strong passes in social science electives",
+              "mode": "On-campus teaching with fieldwork, community engagement and supervised practicum in social and development agencies.",
+              "entry_requirements": "Applicants should have six WASSCE/SSSCE credits including English Language, Core Mathematics and Integrated Science or Social Studies, plus three relevant electives such as Economics, Government, Geography, History, CRS/IRS or other social science subjects, achieving an aggregate of about 24 or better. [web:82][web:83][web:89][web:98]",
+              "level_note": "The programme equips students with theoretical and practical tools to understand and respond to social problems, inequality and community needs. Graduates are prepared for work in social services, NGOs and development organisations or for further study."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty_name": "Education",
+      "note": "Education programmes at Spiritan University College prepare teachers and educators with strong subject knowledge, pedagogy and values rooted in the Catholic and Spiritan tradition. [web:82][web:89][web:93]",
+      "courses": [
+        {
+          "course_name": "BEd Education Social Studies",
+          "career": [
+            "Social Studies Teacher at Basic or Secondary Level (subject to national licensure)",
+            "Civic Education Teacher",
+            "Community Education Officer",
+            "Curriculum Facilitator (with experience)",
+            "NGO Education Programme Officer",
+            "Teaching and Learning Materials Developer",
+            "Private Tutor in Social Studies",
+            "District Education Directorate Officer (with experience)",
+            "School Administrator (with further experience)",
+            "Further Studies in Education and Social Sciences"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 8,000 - GHS 12,000 per year (estimated education band for faith-based institutions)",
+              "duration": "4 years full-time",
+              "electives": {
+                "required": [
+                  "Geography",
+                  "History or Government",
+                  "Economics or CRS/IRS"
+                ],
+                "additional": [
+                  "Literature in English",
+                  "French",
+                  "Ghanaian Language",
+                  "ICT",
+                  "General Knowledge in Art"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 24,000 - GHS 55,000 per year (teaching roles in public and private schools)",
+                "USA": "USD 40,000 - USD 70,000 per year",
+                "Europe": "EUR 30,000 - EUR 60,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 18 - 30 for teacher education degrees, with strong arts/social science electives",
+              "mode": "In-person lectures, micro-teaching, school observation and supervised teaching practice in partner schools.",
+              "entry_requirements": "Prospective students must have SSSCE/WASSCE credits in English Language, Core Mathematics and either Integrated Science or Social Studies, plus three approved electives in social sciences such as Geography, History, Government, Economics, CRS/IRS or related subjects, with an aggregate of 24 or better in line with published undergraduate admission requirements. [web:84][web:93][web:98]",
+              "level_note": "The BEd Social Studies integrates content knowledge in history, geography, civic education and economics with pedagogy and classroom management. Graduates are prepared to teach Social Studies and contribute to civic education in schools and communities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty_name": "Graduate Theology",
+      "note": "Spiritan University College offers graduate-level theological education for priests, religious and lay people, with a focus on deepening theological reflection and ministry skills. [web:83][web:88][web:95][web:96]",
+      "courses": [
+        {
+          "course_name": "MA Theology",
+          "career": [
+            "Theology Lecturer or Tutor (with further progression)",
+            "Senior Pastor or Priest with Advanced Theological Training",
+            "Diocesan or Congregational Theological Advisor",
+            "Seminary or Formation House Formator",
+            "Christian Ethicist and Social Teaching Advocate",
+            "Catholic Education and Catechetics Coordinator",
+            "Faith-Based NGO Programme Coordinator",
+            "Spiritual Director or Retreat Facilitator (with appropriate formation)",
+            "Author and Theological Resource Developer",
+            "Doctoral Candidate in Theology or Religious Studies"
+          ],
+          "levels": [
+            {
+              "level_name": "Masters",
+              "fees": "Ghanaian Students: GHS 18,000 - GHS 25,000 total for the programme (estimated typical MA Theology band; exact fees set per cohort and affiliation agreements)",
+              "duration": "2 years full-time or equivalent modular format (coursework and dissertation)",
+              "electives": {
+                "required": [
+                  "Systematic Theology",
+                  "Biblical Studies (Old and New Testament)",
+                  "Church History and Patristics",
+                  "Moral Theology and Catholic Social Teaching",
+                  "Research Methods in Theology"
+                ],
+                "additional": [
+                  "African Christian Theology and Inculturation",
+                  "Spirituality and Pastoral Theology",
+                  "Ecumenism and Interreligious Dialogue",
+                  "Contextual Theologies in Africa",
+                  "Thesis/Project Seminar in Theology"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 36,000 - GHS 80,000 per year (advanced ministry, education and leadership roles, depending on institution)",
+                "USA": "USD 40,000 - USD 85,000 per year",
+                "Europe": "EUR 32,000 - EUR 75,000 per year"
+              },
+              "cutt_off": "Admission is based on quality of prior degree (normally at least Second Class Lower in Theology, Philosophy or a related field) rather than WASSCE aggregates",
+              "mode": "Combination of seminars, lectures, independent study and supervised research, with options for regular and weekend/sandwich delivery for ministry personnel.",
+              "entry_requirements": "Candidates must normally hold a good first degree in Theology, Religious Studies, Philosophy or a related discipline from a recognised institution, or an equivalent qualification approved by the National Accreditation Board, and satisfy the college’s graduate admission criteria including references and, where required, an interview and proof of English proficiency for non-English speakers. [web:96][web:95][web:88]",
+              "level_note": "The MA Theology deepens students’ understanding of Christian doctrine, scripture, history and ethics in dialogue with African realities. It equips clergy and lay leaders for teaching, preaching, pastoral ministry and further theological research."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
