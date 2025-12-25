@@ -1,0 +1,376 @@
+{
+  "name": "Lancaster University Ghana",
+  "faculty": [
+    {
+      "faculty_name": "Business and Management",
+      "note": "Programmes under this faculty focus on developing analytical, managerial and leadership skills for careers in finance, marketing, management and international business within Ghana and globally.",
+      "courses": [
+        {
+          "course_name": "Accounting and Finance",
+          "career": [
+            "Chartered Accountant",
+            "Financial Analyst",
+            "Audit Associate",
+            "Tax Consultant",
+            "Investment Banker",
+            "Corporate Finance Officer",
+            "Budget Analyst",
+            "Risk Management Officer",
+            "Bank Operations Manager",
+            "Financial Controller"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 110,000 - GHS 130,000 per year (approx. based on USD 9,000 banded fees)",
+              "duration": "3 years full-time",
+              "electives": {
+                "required": [
+                  "Elective Mathematics",
+                  "Accounting",
+                  "Business Management",
+                  "Economics"
+                ],
+                "additional": [
+                  "Cost Accounting",
+                  "Business Law",
+                  "Statistics",
+                  "Finance",
+                  "Taxation"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 48,000 - GHS 90,000 per year (early to mid-career)",
+                "USA": "USD 55,000 - USD 95,000 per year",
+                "Europe": "EUR 35,000 - EUR 65,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 8 - 18 depending on yearly competition",
+              "mode": "In-person, seminar-style teaching with case studies, group projects and occasional online components.",
+              "entry_requirements": "WASSCE applicants generally need at least C6 in six subjects including English, Core Mathematics and Integrated Science or Social Studies, plus three relevant electives such as Accounting, Business Management, Elective Mathematics or Economics, with an overall aggregate of 36 or better. Foundation programme may be required for applicants who do not meet direct undergraduate entry thresholds.",
+              "level_note": "Students gain a strong grounding in financial reporting, auditing and corporate finance with a global perspective on accounting standards. The programme blends theory with practical projects and industry engagement opportunities."
+            }
+          ]
+        },
+        {
+          "course_name": "Business Management",
+          "career": [
+            "Business Development Manager",
+            "Operations Manager",
+            "Project Manager",
+            "Management Consultant",
+            "Entrepreneur",
+            "Marketing Executive",
+            "Sales Manager",
+            "Customer Relationship Manager",
+            "Product Manager",
+            "Business Analyst"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 110,000 - GHS 130,000 per year (approx. based on USD 9,000 banded fees)",
+              "duration": "3 years full-time",
+              "electives": {
+                "required": [
+                  "Elective Mathematics",
+                  "Business Management",
+                  "Economics"
+                ],
+                "additional": [
+                  "Geography",
+                  "Government",
+                  "Accounting",
+                  "Costing",
+                  "ICT"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 42,000 - GHS 85,000 per year (early to mid-career)",
+                "USA": "USD 50,000 - USD 95,000 per year",
+                "Europe": "EUR 32,000 - EUR 60,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 10 - 20 depending on demand in a given year",
+              "mode": "In-person lectures, group workshops and presentations with blended online activities and industry projects.",
+              "entry_requirements": "WASSCE candidates normally require credit passes (A1–C6) in six subjects including English, Core Mathematics and Integrated Science or Social Studies, plus three relevant electives such as Business Management, Economics, Elective Mathematics, Accounting or other business-related subjects, with an overall aggregate not exceeding 36. Applicants who do not meet direct entry criteria may be considered for the 1-year Foundation Programme.",
+              "level_note": "The programme emphasises leadership, strategic thinking and problem-solving across different organisational contexts. Students work on case studies and real-life projects with local and international businesses."
+            }
+          ]
+        },
+        {
+          "course_name": "Economics and International Relations",
+          "career": [
+            "Economic Analyst",
+            "Policy Analyst",
+            "Research Economist",
+            "Diplomatic Service Officer",
+            "International Development Officer",
+            "Trade Policy Advisor",
+            "NGO Programme Officer",
+            "Market Research Analyst",
+            "Investment Research Associate",
+            "Political Risk Analyst"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 110,000 - GHS 130,000 per year (approx. based on USD 9,000 banded fees)",
+              "duration": "3 years full-time",
+              "electives": {
+                "required": ["Elective Mathematics", "Economics", "Government"],
+                "additional": [
+                  "Geography",
+                  "History",
+                  "French",
+                  "Literature in English",
+                  "Business Management"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 45,000 - GHS 85,000 per year (policy and analyst roles)",
+                "USA": "USD 55,000 - USD 100,000 per year",
+                "Europe": "EUR 35,000 - EUR 70,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 8 - 18, with strong performance in Mathematics and Economics preferred",
+              "mode": "On-campus lectures and seminars with debates, simulations and research-led teaching, supported by online resources.",
+              "entry_requirements": "Applicants generally need six WASSCE credits (A1–C6) including English, Core Mathematics and Integrated Science or Social Studies, plus three relevant electives such as Economics, Government, Elective Mathematics, Geography or other social science subjects, with an overall aggregate of 36 or better. Competitive applicants often present stronger grades in quantitative and social science electives.",
+              "level_note": "This interdisciplinary degree combines core economic theory with the study of global politics, diplomacy and international organisations. Students develop strong analytical and communication skills suited to policy, research and international careers."
+            }
+          ]
+        },
+        {
+          "course_name": "Marketing",
+          "career": [
+            "Marketing Executive",
+            "Brand Manager",
+            "Digital Marketing Specialist",
+            "Social Media Strategist",
+            "Market Research Analyst",
+            "Sales and Business Development Executive",
+            "Product Marketing Manager",
+            "Customer Experience Manager",
+            "Advertising Account Executive",
+            "Public Relations Officer"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 110,000 - GHS 130,000 per year (approx. based on USD 9,000 banded fees)",
+              "duration": "3 years full-time",
+              "electives": {
+                "required": [
+                  "Business Management",
+                  "Economics",
+                  "Elective Mathematics or ICT"
+                ],
+                "additional": [
+                  "Literature in English",
+                  "French",
+                  "Government",
+                  "Costing",
+                  "Accounting"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 40,000 - GHS 80,000 per year (marketing roles in agencies and corporates)",
+                "USA": "USD 48,000 - USD 90,000 per year",
+                "Europe": "EUR 32,000 - EUR 60,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 12 - 24, with stronger aggregates often required in competitive intakes",
+              "mode": "In-person lectures, case studies and creative projects with blended online content and industry briefs.",
+              "entry_requirements": "WASSCE holders should have credit passes (A1–C6) in six subjects including English, Core Mathematics and Integrated Science or Social Studies, plus three relevant electives such as Business Management, Economics, Elective Mathematics, ICT or related business and arts subjects, with an overall aggregate not exceeding 36. Candidates who fall short of direct entry may be placed on the Foundation Programme.",
+              "level_note": "Students learn how to research markets, build brands and design integrated marketing campaigns across digital and traditional channels. The programme encourages creativity, analytical thinking and real-world project experience with organisations in Ghana."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty_name": "Law and Social Sciences",
+      "note": "This faculty develops critical thinking, advocacy and analytical skills for careers in law, politics, governance and international relations, supported by strong foundations in social science research.",
+      "courses": [
+        {
+          "course_name": "Law and Social Sciences Foundation Programme",
+          "career": [
+            "Future Lawyer (LLB pathway)",
+            "Paralegal Assistant",
+            "Legal Executive Support",
+            "Compliance and Regulatory Assistant",
+            "Policy and Research Assistant",
+            "NGO Programme Assistant",
+            "Court Clerk",
+            "Administrative Officer in Public Sector",
+            "Customer Relations Officer",
+            "Junior Analyst in Think Tanks"
+          ],
+          "levels": [
+            {
+              "level_name": "Foundation",
+              "fees": "Ghanaian Students: GHS 85,000 - GHS 95,000 for the 1-year programme (approx. based on USD 7,000 banded fees)",
+              "duration": "1 year full-time",
+              "electives": {
+                "required": [
+                  "English Language",
+                  "Core Mathematics",
+                  "Social Studies or Integrated Science"
+                ],
+                "additional": [
+                  "Government",
+                  "History",
+                  "Literature in English",
+                  "French",
+                  "Religious Studies"
+                ]
+              },
+              "salary": {
+                "Ghana": "Not applicable; programme is a preparatory pathway rather than a terminal qualification",
+                "USA": "Not applicable; preparatory level for further undergraduate study",
+                "Europe": "Not applicable; preparatory level for further undergraduate study"
+              },
+              "cutt_off": "Generally accepts WASSCE aggregates up to 36 with required subject credits for pathway into undergraduate law and social science programmes",
+              "mode": "In-person teaching with skills workshops, academic writing support and study skills seminars, complemented by online learning resources.",
+              "entry_requirements": "WASSCE, SSCE, GBCE, NECO and similar qualification holders typically require at least six credits including English Language, Core Mathematics and either Social Studies or Integrated Science, plus three other acceptable subjects. The Foundation Programme provides a structured pathway for students who do not yet meet direct undergraduate entry requirements into Law or Politics and International Relations.",
+              "level_note": "The foundation year builds academic skills in writing, critical thinking and research across law and social science disciplines. Successful students can progress to related undergraduate degrees at Lancaster University Ghana subject to meeting progression requirements."
+            }
+          ]
+        },
+        {
+          "course_name": "Law (LLB)",
+          "career": [
+            "Barrister or Solicitor (after professional law school)",
+            "Corporate Lawyer",
+            "Compliance and Regulatory Officer",
+            "Legal Advisor in Corporates and NGOs",
+            "Human Rights Advocate",
+            "Contracts and Procurement Officer",
+            "Legal Researcher",
+            "Company Secretary",
+            "Policy and Legislative Drafting Officer",
+            "Judicial Service Staff"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 110,000 - GHS 130,000 per year (approx. based on USD 9,000 banded fees; law often at upper band)",
+              "duration": "3 years full-time",
+              "electives": {
+                "required": [
+                  "Literature in English",
+                  "Government",
+                  "History or CRS/IRS"
+                ],
+                "additional": [
+                  "French",
+                  "Elective Mathematics",
+                  "Economics",
+                  "Geography",
+                  "General Knowledge in Art"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 60,000 - GHS 120,000 per year (post-qualification, depending on role and experience)",
+                "USA": "USD 70,000 - USD 140,000 per year",
+                "Europe": "EUR 40,000 - EUR 90,000 per year"
+              },
+              "cutt_off": "Highly competitive; typical WASSCE aggregate 6 - 12 with strong grades in English and humanities subjects",
+              "mode": "On-campus lectures, tutorials and moots with extensive reading, case analysis and occasional blended online activities.",
+              "entry_requirements": "Undergraduate law applicants are expected to have at least six WASSCE credits (A1–C6) including English Language, Core Mathematics and either Social Studies or Integrated Science, plus three strong electives preferably in humanities such as Literature in English, Government, History, Economics or related fields. Given the competitive nature of law, aggregates significantly better than the general minimum of 36 are usually expected and many successful applicants present stronger profiles or progress from the Foundation Programme.",
+              "level_note": "The LLB provides a rigorous grounding in core legal subjects such as contract, tort, criminal law, constitutional law and company law. Students develop advocacy, research and analytical skills essential for legal practice and policy roles in Ghana and abroad."
+            }
+          ]
+        },
+        {
+          "course_name": "Politics and International Relations",
+          "career": [
+            "Diplomatic Service Officer",
+            "Foreign Affairs Analyst",
+            "Policy and Governance Officer",
+            "NGO and Development Programme Manager",
+            "Political Researcher",
+            "Public Relations and Communications Officer",
+            "International Project Coordinator",
+            "Civil Service Administrator",
+            "Think Tank Research Fellow",
+            "Humanitarian Aid Worker"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 110,000 - GHS 130,000 per year (approx. based on USD 9,000 banded fees)",
+              "duration": "3 years full-time",
+              "electives": {
+                "required": ["Government", "History", "Literature in English"],
+                "additional": [
+                  "French",
+                  "Economics",
+                  "Geography",
+                  "Elective Mathematics",
+                  "Religious Studies"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 40,000 - GHS 80,000 per year (public sector, NGOs and policy roles)",
+                "USA": "USD 48,000 - USD 95,000 per year",
+                "Europe": "EUR 32,000 - EUR 65,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 10 - 20 with strong humanities background",
+              "mode": "In-person lectures, seminars, simulations and debates with blended use of online resources and research projects.",
+              "entry_requirements": "Applicants typically require six WASSCE credits (A1–C6) including English Language, Core Mathematics and either Social Studies or Integrated Science, plus three relevant electives such as Government, History, Literature in English, Geography, Economics or related humanities and social science subjects, with an aggregate of 36 or better. Stronger grades in humanities subjects are advantageous for admission.",
+              "level_note": "The degree explores political systems, international organisations, conflict, diplomacy and global governance. Students gain research, analysis and communication skills that prepare them for roles in government, NGOs, international organisations and further postgraduate study."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty_name": "Computer Science",
+      "note": "The Computer Science faculty equips students with technical and problem-solving skills for careers in software development, data, networks and emerging digital technologies.",
+      "courses": [
+        {
+          "course_name": "Computer Science",
+          "career": [
+            "Software Developer",
+            "Full-Stack Engineer",
+            "Backend Developer",
+            "Mobile Application Developer",
+            "Data Analyst",
+            "Systems Analyst",
+            "Network and Systems Administrator",
+            "IT Support Engineer",
+            "Cybersecurity Analyst",
+            "Product Engineer in Tech Startups"
+          ],
+          "levels": [
+            {
+              "level_name": "Undergraduate",
+              "fees": "Ghanaian Students: GHS 115,000 - GHS 135,000 per year (approx. based on USD 9,000 banded fees; STEM often at higher band)",
+              "duration": "3 years full-time",
+              "electives": {
+                "required": [
+                  "Elective Mathematics",
+                  "Physics or ICT",
+                  "Any other science or ICT-related elective"
+                ],
+                "additional": [
+                  "Further Mathematics",
+                  "Chemistry",
+                  "Technical Drawing",
+                  "Economics",
+                  "Applied ICT"
+                ]
+              },
+              "salary": {
+                "Ghana": "GHS 55,000 - GHS 110,000 per year (software and IT roles)",
+                "USA": "USD 70,000 - USD 130,000 per year",
+                "Europe": "EUR 40,000 - EUR 80,000 per year"
+              },
+              "cutt_off": "Typical WASSCE aggregate 8 - 16 with strong grades in Mathematics and science/ICT subjects",
+              "mode": "On-campus, lab-intensive teaching with programming workshops, team projects and blended online learning for some modules.",
+              "entry_requirements": "Direct undergraduate entry usually requires six WASSCE credits (A1–C6) including English Language, Core Mathematics and Integrated Science, plus three electives with strong performance in Elective Mathematics and at least one of Physics, ICT or other relevant science subjects. Applicants who do not fully meet direct STEM entry requirements may be advised to start with the Foundation Programme subject to assessment.",
+              "level_note": "Students learn core computer science concepts including programming, algorithms, databases, networks and software engineering. The programme emphasises practical project work, teamwork and exposure to real-world problems in Ghana’s growing technology sector."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
