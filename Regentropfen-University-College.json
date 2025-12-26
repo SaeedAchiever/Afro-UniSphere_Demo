@@ -25,7 +25,7 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 12,000 - GHS 18,000 per year (estimated affordable private health-science band as detailed fees are via portal)",
+            "fees": ["Ghanaian Students: GHS 12,000 - GHS 18,000 per year"],
             "duration": "4 years full-time",
             "electives": {
               "required": [
@@ -46,8 +46,10 @@
               "USA": "USD 60,000 - USD 100,000 per year",
               "Europe": "EUR 35,000 - EUR 65,000 per year"
             },
-            "cutt_off": "Typical nursing admission aggregates range from 10 - 24 with strong science passes, depending on yearly competition and regulatory benchmarks",
-            "mode": "In-person classroom and skills-lab teaching with simulations, complemented by supervised clinical rotations in hospitals, clinics and community settings.",
+            "cutt_off": ["10 - 24"],
+            "mode": [
+              "In-person classroom and skills-lab teaching with simulations, complemented by supervised clinical rotations in hospitals, clinics and community settings."
+            ],
             "entry_requirements": "Undergraduate applicants generally require WASSCE/SSSCE credit passes in English Language, Core Mathematics and Integrated Science plus three relevant science electives such as Biology, Chemistry, Physics or Elective Mathematics, with a minimum aggregate of about 24 or better as stated for undergraduate programmes. Additional professional requirements from the Nursing and Midwifery Council apply for practice after graduation. [web:61][web:71][web:78]",
             "level_note": "The programme covers fundamentals of nursing, anatomy and physiology, medical-surgical nursing, maternal and child health, mental health and community health nursing. Students are prepared for compassionate, evidence-based patient care and for national licensing exams."
           }
