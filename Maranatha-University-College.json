@@ -1,248 +1,275 @@
-{
-  "name": "Maranatha University College",
-  "faculty": [
-    {
-      "faculty_name": "Health Sciences",
-      "note": "The Health Sciences faculty focuses on training competent pharmacy technicians with strong theoretical and practical skills for the Ghanaian healthcare system.",
-      "courses": [
-        {
-          "course_name": "Pharmacy Technician",
-          "career": [
-            "Pharmacy Technician",
-            "Hospital Pharmacy Assistant",
-            "Community Pharmacy Technician",
-            "Dispensing Technician",
-            "Pharmaceutical Sales Representative",
-            "Medical Stores Assistant",
-            "Drug Regulatory Assistant",
-            "Clinical Pharmacy Assistant",
-            "Pharmacy Supply Chain Assistant",
-            "Health Centre Medicines Manager"
-          ],
-          "levels": [
-            {
-              "level_name": "HND",
-              "fees": "Ghanaian Students: GHS 8,000 - GHS 10,000 per year (estimated, three-year HND band for private institutions)",
-              "duration": "3 years full-time",
-              "electives": {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "Elective Mathematics or Physics"
-                ],
+[
+  {
+    "name": "Maranatha University College"
+  },
+  {
+    "faculty_name": "Health Sciences",
+    "note": [
+      "The HND Pharmacy Technician programme is accredited and prepares students for roles in hospital and community pharmacies.",
+      "Graduates may work under the supervision of registered pharmacists in various healthcare settings."
+    ],
+    "courses": [
+      {
+        "course_name": "HND Pharmacy Technician",
+        "career": [
+          "Pharmacy Technician",
+          "Dispensing Technician",
+          "Hospital Pharmacy Assistant",
+          "Community Pharmacy Technician",
+          "Pharmaceutical Sales Representative",
+          "Medical Store Assistant",
+          "Pharmacy Inventory Officer",
+          "Drug Information Assistant",
+          "Regulatory Support Assistant",
+          "Healthcare Support Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": ["Ghanaian Students : GHC 9,000 per year"],
+            "duration": "3 years",
+            "electives": [
+              {
+                "required": ["Elective Biology", "Elective Chemistry"]
+              },
+              {
                 "additional": [
-                  "Integrated Science",
+                  "Physics",
                   "General Agriculture",
-                  "Health Science",
-                  "ICT",
-                  "Management in Living"
+                  "Health Science"
                 ]
-              },
-              "salary": {
-                "Ghana": "GHS 24,000 - GHS 48,000 per year (entry to mid-level pharmacy technician roles)",
-                "USA": "USD 32,000 - USD 55,000 per year (pharmacy technician roles)",
-                "Europe": "EUR 24,000 - EUR 40,000 per year"
-              },
-              "cutt_off": "Typical HND admission equivalent of WASSCE aggregate 18 - 30 with strong science passes, subject to Pharmacy Council standards",
-              "mode": "Primarily in-person with laboratory work, simulations and supervised clinical/dispensing placements.",
-              "entry_requirements": "Applicants generally require passes in three core subjects including English Language, Core Mathematics and Integrated Science, plus at least three relevant science electives such as Biology, Chemistry and Elective Mathematics or Physics at WASSCE level, meeting minimum aggregate requirements set for HND Health Sciences programmes. Mature applicants must be at least 25 years old with relevant work experience and pass the required entrance examination and/or interview as outlined by the university.",
-              "level_note": "The programme combines pharmaceutical chemistry, pharmacology, drug formulation and quality assurance with supervised practical training in accredited pharmacies and health facilities. Graduates are prepared to support pharmacists in hospitals, community pharmacies and other healthcare settings in line with Pharmacy Council accreditation requirements."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "faculty_name": "Theology and Ministry",
-      "note": "The Theology and Ministry faculty provides biblically grounded, contextually relevant training for Christian ministry, missions, education and leadership in Africa and beyond.",
-      "courses": [
-        {
-          "course_name": "Bachelor of Arts in Theology",
-          "career": [
-            "Pastor",
-            "Church Administrator",
-            "Missionary",
-            "Christian Educator",
-            "Youth Ministry Coordinator",
-            "Chaplain",
-            "Non-Profit Ministry Worker",
-            "Christian Counselor (with further training)",
-            "Bible School Lecturer (with further study)",
-            "Community Development Officer in Faith-Based Organisations"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 10,000 - GHS 14,000 per year (estimated private Christian university band)",
-              "duration": "4 years full-time",
-              "electives": {
+              }
+            ],
+            "salary": [
+              "Ghana: GHS24,000 - GHS36,000",
+              "USA: $30,000 - $45,000",
+              "Europe: €24,000 - €35,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "In-person lectures with laboratory and clinical practice sessions",
+              "Supervised practical training in hospital and community pharmacy settings"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: At least credit passes (A1-C6) in three science electives including Biology and Chemistry",
+              "Mature applicants: At least 25 years, relevant work experience and successful interview or entrance examination"
+            ],
+            "level_note": [
+              "The programme combines theoretical pharmacy sciences with supervised practical training.",
+              "Students acquire skills in dispensing, drug handling and basic pharmaceutical care."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Theology",
+    "note": [
+      "The Faculty of Theology provides Christian higher education with strong emphasis on biblical foundations and ministry formation.",
+      "Programmes are suitable for pastors, church workers, missionaries and Christians seeking deeper theological training."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Arts in Theology",
+        "career": [
+          "Pastor",
+          "Youth Pastor",
+          "Church Administrator",
+          "Christian Education Coordinator",
+          "Missionary",
+          "Chaplain",
+          "Christian Counselor",
+          "Bible Teacher",
+          "Non-profit or NGO Worker",
+          "Community Development Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 8,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
                 "required": [
-                  "Christian Religious Studies or Bible Knowledge (where available)",
-                  "Literature in English",
-                  "History or Government"
-                ],
-                "additional": [
-                  "Economics",
-                  "Geography",
-                  "French",
-                  "Social Studies",
-                  "Any other arts or social science elective"
+                  "Christian Religious Studies",
+                  "Literature in English"
                 ]
               },
-              "salary": {
-                "Ghana": "GHS 18,000 - GHS 42,000 per year (church and ministry roles, highly variable by denomination and organisation)",
-                "USA": "USD 30,000 - USD 65,000 per year (ministry roles, highly variable)",
-                "Europe": "EUR 24,000 - EUR 55,000 per year"
+              {
+                "additional": ["Government", "History", "Social Studies"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS18,000 - GHS30,000",
+              "USA: $35,000 - $55,000",
+              "Europe: €28,000 - €45,000"
+            ],
+            "cutt_off": ["2024 : ~ 30", "2025 : ~ 30"],
+            "mode": [
+              "In-person teaching with lectures, seminars and ministry practicums",
+              "Blended learning with weekend and evening sessions where applicable"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent with credit passes in at least five subjects including English Language",
+              "Credit in Religious Studies or any other related subject plus two additional relevant electives",
+              "Holders of Diploma in Theology or related field may be considered for advanced standing subject to interview"
+            ],
+            "level_note": [
+              "The programme provides grounding in biblical studies, church history, theology and ministry practice.",
+              "Students are trained for pastoral and ministry leadership in churches and Christian organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Masters of Arts in African Christianity",
+        "career": [
+          "Lecturer in African Christianity",
+          "Researcher in Religion and Society",
+          "Senior Pastor or Ministry Leader",
+          "Mission Strategist",
+          "Church Consultant",
+          "Christian NGO Programme Manager",
+          "Contextual Theology Writer",
+          "Christian Education Director",
+          "Community Transformation Coordinator",
+          "Intercultural Ministry Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 12,000 per session"],
+            "duration": "Three sandwich sessions",
+            "electives": [
+              {
+                "required": []
               },
-              "cutt_off": "Typical WASSCE aggregate 18 - 30 for private theology programmes with required subject passes",
-              "mode": "In-person lectures, seminars, chapel services and ministry formation activities with some blended online support for readings and assignments.",
-              "entry_requirements": "WASSCE applicants are usually required to have at least six passes including three core subjects (English Language, Core Mathematics and either Social Studies or Integrated Science) and three electives in arts or social science subjects such as Christian Religious Studies, Literature in English, History, Government or related fields, meeting an aggregate not exceeding 36. Mature applicants must normally be at least 25 years old with relevant ministry experience and pass the university’s entrance examination and/or interview as specified in its admission policies.",
-              "level_note": "The BA in Theology includes modules in biblical studies, church history, systematic theology, Christian ethics and pastoral ministry. Students are prepared for a wide range of ministry and Christian service roles and may progress to postgraduate theological studies."
-            }
-          ]
-        },
-        {
-          "course_name": "Masters of Arts in African Christianity",
-          "career": [
-            "Lecturer or Tutor in African Christianity (with further academic progression)",
-            "Researcher in Religion and Society",
-            "Senior Pastor or Denominational Leader",
-            "Mission and Missions Director",
-            "Consultant on African Christian Theology and Practice",
-            "Faith-Based NGO Programme Coordinator",
-            "Christian Writer and Resource Developer",
-            "Community Development and Advocacy Leader",
-            "Intercultural Ministry Specialist",
-            "Doctoral Candidate in Theology or Religious Studies"
-          ],
-          "levels": [
-            {
-              "level_name": "Masters",
-              "fees": "Ghanaian Students: GHS 18,000 - GHS 25,000 total for the MA (estimated sandwich postgraduate band)",
-              "duration": "Sandwich structure: 3 sessions of intensive coursework typically spread over 1.5 - 2 years",
-              "electives": {
-                "required": [
-                  "African Church History",
-                  "African Theologies",
-                  "Contextualization of the Gospel",
-                  "African Traditional Religions",
-                  "Christianity and Social Issues in Africa"
-                ],
-                "additional": [
-                  "African Pentecostalism",
-                  "Religion and Public Life",
-                  "Leadership in African Churches",
-                  "Research Methods in Theology",
-                  "Directed Study in African Christianity"
-                ]
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS24,000 - GHS45,000",
+              "USA: $40,000 - $65,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["Not applicable for postgraduate"],
+            "mode": [
+              "Sandwich mode with intensive 4-week course blocks",
+              "Blended learning combining on-campus teaching and guided independent study"
+            ],
+            "entry_requirements": [
+              "A first degree in any field from a recognised university",
+              "A first degree in Theology or Religious Studies is an added advantage",
+              "Proof of active ministry and successful admission interview"
+            ],
+            "level_note": [
+              "The programme focuses on Christianity in the African context, African theologies and church life.",
+              "Students develop advanced skills for research, teaching and leadership in African Christianity."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Masters of Arts in Biblical Studies",
+        "career": [
+          "Bible College Lecturer",
+          "Biblical Researcher",
+          "Teaching Pastor",
+          "Curriculum Developer for Christian Education",
+          "Translation or Bible Society Worker",
+          "Christian Author or Editor",
+          "Seminary Tutor",
+          "Church Training Coordinator",
+          "Academic Advisor in Theology",
+          "Conference and Seminar Speaker"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 12,000 per session"],
+            "duration": "Three sandwich sessions",
+            "electives": [
+              {
+                "required": []
               },
-              "salary": {
-                "Ghana": "GHS 30,000 - GHS 70,000 per year (senior ministry, teaching and NGO roles, depending on organisation and experience)",
-                "USA": "USD 35,000 - USD 80,000 per year (ministry and academic-related roles, highly variable)",
-                "Europe": "EUR 30,000 - EUR 70,000 per year"
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS24,000 - GHS45,000",
+              "USA: $40,000 - $65,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["Not applicable for postgraduate"],
+            "mode": [
+              "Sandwich mode with intensive 4-week course blocks",
+              "Blended learning with readings, research and supervised writing"
+            ],
+            "entry_requirements": [
+              "A first degree from a recognised university, preferably in Theology, Biblical Studies or related field",
+              "Proof of ministry or active involvement in Christian service",
+              "Successful admission interview"
+            ],
+            "level_note": [
+              "The programme offers advanced study in Old Testament, New Testament and biblical interpretation.",
+              "Students are prepared for teaching, preaching and scholarly engagement with the biblical text."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Masters of Arts in Theological Studies",
+        "career": [
+          "Theology Lecturer",
+          "Senior Pastor",
+          "Christian Ethics Consultant",
+          "Church Administrator",
+          "Denominational Leader",
+          "Researcher in Theology and Society",
+          "Christian Higher Education Administrator",
+          "Conference Speaker",
+          "Christian Writer or Theologian",
+          "Chaplain or Spiritual Care Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 12,000 per session"],
+            "duration": "Three sandwich sessions",
+            "electives": [
+              {
+                "required": []
               },
-              "cutt_off": "Postgraduate admission based on quality of first degree rather than WASSCE aggregates; typically lower-second class or better in a relevant field",
-              "mode": "Sandwich mode with 4-week intensive blocks of coursework over three sessions (September–December, January–April, May–August), combining seminars, research and independent study.",
-              "entry_requirements": "Admission typically requires a first degree in any field from a recognised university or a first degree in theology from an accredited institution, together with evidence of active Christian ministry and a successful admission interview. Applicants are expected to demonstrate readiness for postgraduate theological research and engagement with the African Christian context.",
-              "level_note": "The MA in African Christianity focuses on the history, theology and practices of Christianity in Africa, including interaction with African traditional religions and contemporary social issues. The programme equips students for advanced ministry, teaching, research and leadership within African churches and faith-based organisations."
-            }
-          ]
-        },
-        {
-          "course_name": "Masters of Arts in Biblical Studies",
-          "career": [
-            "Bible College Lecturer (with further progression)",
-            "Biblical Researcher",
-            "Expository Preacher and Teacher",
-            "Christian Education Director",
-            "Curriculum Developer for Churches and Bible Schools",
-            "Translation and Bible Resources Assistant",
-            "Academic/Research Assistant in Theological Institutions",
-            "Conference Speaker and Trainer",
-            "Ministry Leader with Strong Teaching Focus",
-            "Doctoral Candidate in Biblical Studies or Theology"
-          ],
-          "levels": [
-            {
-              "level_name": "Masters",
-              "fees": "Ghanaian Students: GHS 18,000 - GHS 25,000 total for the MA (estimated sandwich postgraduate band)",
-              "duration": "Sandwich structure: 3 sessions of intensive coursework typically completed in 1.5 - 2 years",
-              "electives": {
-                "required": [
-                  "Old Testament Studies",
-                  "New Testament Studies",
-                  "Hermeneutics",
-                  "Biblical Theology",
-                  "Research Methods in Biblical Studies"
-                ],
-                "additional": [
-                  "Biblical Languages (Greek/Hebrew, where offered)",
-                  "Exegesis of Selected Biblical Books",
-                  "Biblical Ethics and Contemporary Issues",
-                  "Bible and African Contexts",
-                  "Independent Research Project"
-                ]
-              },
-              "salary": {
-                "Ghana": "GHS 30,000 - GHS 70,000 per year (teaching and ministry roles, depending on institution and experience)",
-                "USA": "USD 35,000 - USD 80,000 per year",
-                "Europe": "EUR 30,000 - EUR 70,000 per year"
-              },
-              "cutt_off": "Postgraduate selection depends on undergraduate performance, typically a good first degree in theology or a related field, not WASSCE aggregates",
-              "mode": "MA sandwich with 4-week intensive course blocks delivered over three sessions each academic year, supported by supervised research and independent reading.",
-              "entry_requirements": "Applicants are generally required to hold a first degree in any discipline from a recognised university or a first degree in theology from an accredited institution, provide proof of involvement in Christian ministry, and pass an admission interview. Strong interest in biblical research and teaching is expected for this programme.",
-              "level_note": "The MA in Biblical Studies deepens students’ understanding of the literature, history and theology of the Old and New Testaments and trains them in careful interpretation of biblical texts. Graduates are equipped to teach the Bible responsibly in churches, Bible schools and other Christian education settings and to pursue further academic research."
-            }
-          ]
-        },
-        {
-          "course_name": "Masters of Arts in Theological Studies",
-          "career": [
-            "Theology Lecturer or Tutor (with further progression)",
-            "Senior Pastor or Ministry Leader",
-            "Christian Ethicist or Theological Advisor",
-            "Denominational Theological Trainer",
-            "Church Administrator and Strategist",
-            "Faith-Based Policy and Advocacy Officer",
-            "Writer and Theological Resource Developer",
-            "Programme Director in Christian NGOs",
-            "Conference and Seminar Facilitator",
-            "Doctoral Candidate in Theology or Ministry"
-          ],
-          "levels": [
-            {
-              "level_name": "Masters",
-              "fees": "Ghanaian Students: GHS 18,000 - GHS 25,000 total for the MA (estimated sandwich postgraduate band)",
-              "duration": "Sandwich mode: 3 intensive sessions typically over 1.5 - 2 years",
-              "electives": {
-                "required": [
-                  "Systematic Theology",
-                  "Church History",
-                  "Christian Ethics",
-                  "Biblical Studies Core",
-                  "Research Methods in Theology"
-                ],
-                "additional": [
-                  "Pastoral Ministry and Leadership",
-                  "Contemporary Theological Issues",
-                  "Contextual Theology in Africa",
-                  "Spiritual Formation and Ministry Practice",
-                  "Project or Dissertation in Theological Studies"
-                ]
-              },
-              "salary": {
-                "Ghana": "GHS 30,000 - GHS 75,000 per year (senior ministry and leadership roles, depending on context)",
-                "USA": "USD 35,000 - USD 85,000 per year",
-                "Europe": "EUR 30,000 - EUR 75,000 per year"
-              },
-              "cutt_off": "Selection is based on prior degree classification and ministry profile rather than WASSCE aggregates; usually at least a good first degree",
-              "mode": "MA sandwich with 4-week blocks of intensive coursework each session (September–December, January–April, May–August), combined with guided research and ministry-focused projects.",
-              "entry_requirements": "Candidates are expected to hold a first degree in any discipline or in theology from a recognised university, demonstrate active involvement in ministry, and successfully pass the programme’s admission interview. Applicants should show capacity for advanced theological reflection and research as described in the university’s entry requirement guidelines.",
-              "level_note": "The MA in Theological Studies provides advanced exploration of key areas of Christian theology, church history, ethics and ministry practice. The programme is designed to deepen students’ understanding of the Christian faith and to strengthen their capacity for leadership, teaching and reflection in church and society."
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS24,000 - GHS45,000",
+              "USA: $40,000 - $65,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["Not applicable for postgraduate"],
+            "mode": [
+              "Sandwich mode with intensive 4-week course blocks",
+              "Blended learning combining classroom teaching and independent research"
+            ],
+            "entry_requirements": [
+              "A first degree in any field from a recognised university",
+              "Preference for applicants with a first degree in Theology or related field",
+              "Proof of ministry and successful interview"
+            ],
+            "level_note": [
+              "The programme provides broad advanced training in biblical studies, theology, ethics and ministry.",
+              "Students are equipped for leadership roles in churches, theological education and Christian organisations."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
