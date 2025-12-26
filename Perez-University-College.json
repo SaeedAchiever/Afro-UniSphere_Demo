@@ -1,0 +1,613 @@
+[
+  {
+    "name": "Perez University College"
+  },
+  {
+    "faculty_name": "Business Administration",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "BBA Accounting",
+        "career": [
+          "Accountant",
+          "Financial Analyst",
+          "Auditor",
+          "Tax Consultant",
+          "Management Accountant",
+          "Finance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [],
+            "duration": "4 Years",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "BBA Banking and Finance",
+        "career": [
+          "Bank Teller",
+          "Loan Officer",
+          "Credit Analyst",
+          "Investment Analyst",
+          "Corporate Banker",
+          "Financial Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [],
+            "duration": "4 Years",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "BBA Management",
+        "career": [
+          "Business Manager",
+          "Operations Manager",
+          "Project Manager",
+          "Business Development Officer",
+          "Entrepreneur",
+          "Management Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [],
+            "duration": "4 Years",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "BBA Human Resource Management",
+        "career": [
+          "Human Resource Officer",
+          "Recruitment Specialist",
+          "Training and Development Officer",
+          "Compensation and Benefits Analyst",
+          "HR Business Partner",
+          "Industrial Relations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [],
+            "duration": "4 Years",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "BBA Marketing",
+        "career": [
+          "Marketing Executive",
+          "Brand Manager",
+          "Sales and Business Development Executive",
+          "Digital Marketing Specialist",
+          "Market Research Analyst",
+          "Customer Relations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [],
+            "duration": "4 Years",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Human Resource Management (ICM, UK)",
+        "career": [
+          "Human Resource Assistant",
+          "HR Officer",
+          "Recruitment Assistant",
+          "Training Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Marketing (ICM, UK)",
+        "career": [
+          "Marketing Assistant",
+          "Sales Representative",
+          "Digital Marketing Assistant",
+          "Customer Service Representative"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Theology",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "BA Biblical Studies",
+        "career": [
+          "Pastor",
+          "Bible Teacher",
+          "Christian Educator",
+          "Missionary",
+          "Church Worker",
+          "Theological Research Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [],
+            "duration": "4 Years",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "BA Church Administration",
+        "career": [
+          "Church Administrator",
+          "Ministry Coordinator",
+          "Nonprofit Administrator",
+          "Church Finance Officer",
+          "Parachurch Organization Staff"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [],
+            "duration": "4 Years",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Ministry",
+        "career": [
+          "Lay Pastor",
+          "Church Worker",
+          "Evangelism Team Member",
+          "Ministry Volunteer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "6 months",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Communication and Social Science",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "BA in Digital Media",
+        "career": [
+          "Digital Content Creator",
+          "Social Media Manager",
+          "Multimedia Producer",
+          "Video Editor",
+          "Graphic Designer",
+          "Digital Marketing Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [],
+            "duration": "4 Years",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "BA in Communication Studies",
+        "career": [
+          "Journalist",
+          "Public Relations Officer",
+          "Corporate Communications Officer",
+          "Media Relations Officer",
+          "Content Writer",
+          "Communications Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [],
+            "duration": "4 Years",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [
+              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Digital Media",
+        "career": [
+          "Junior Multimedia Designer",
+          "Digital Media Assistant",
+          "Video Editing Assistant",
+          "Social Media Content Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Communication Studies",
+        "career": [
+          "Communications Assistant",
+          "Public Relations Assistant",
+          "Media Production Assistant",
+          "Customer Relations Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Digital Media",
+        "career": [
+          "Digital Media Support Staff",
+          "Social Media Assistant",
+          "Basic Multimedia Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Communication Studies",
+        "career": [
+          "Communications Support Staff",
+          "Customer Service Representative",
+          "Office Communications Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Ministry (CIM)",
+        "career": [
+          "Lay Minister",
+          "Church Worker",
+          "Small Group Leader",
+          "Evangelism Team Member"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Certificate Programmes",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Certificate in Advance Microsoft Office Suite",
+        "career": [
+          "Administrative Assistant",
+          "Office Support Staff",
+          "Data Entry Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "The Holy Spirit, His Gifts And Ministry",
+        "career": ["Church Worker", "Prayer Team Member", "Lay Minister"],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Mission And Evangelism",
+        "career": ["Evangelist", "Outreach Worker", "Missions Support Staff"],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "The Art and Ethics of Preaching",
+        "career": ["Preacher", "Lay Preacher", "Teaching Pastor"],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Biblical Interpretation And Sound Doctrine",
+        "career": [
+          "Bible Study Leader",
+          "Christian Educator",
+          "Teaching Assistant in Church"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Media Evangelism And Technology (Advanced)",
+        "career": [
+          "Media Ministry Coordinator",
+          "Church Media Technician",
+          "Digital Evangelism Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Rural Evangelism Strategies (Advanced)",
+        "career": [
+          "Rural Missions Worker",
+          "Outreach Coordinator (Rural)",
+          "Church Planter (Rural Contexts)"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Urban Mission And Contemporary Challenges (Advanced)",
+        "career": [
+          "Urban Missions Worker",
+          "Community Outreach Coordinator",
+          "NGO or Faith-Based Urban Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Evangelism And Church Growth (Advanced)",
+        "career": [
+          "Church Growth Coordinator",
+          "Evangelism Director",
+          "Outreach Strategy Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [],
+            "duration": "",
+            "electives": [],
+            "salary": [],
+            "cutt_off": [],
+            "mode": [],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      }
+    ]
+  }
+]
