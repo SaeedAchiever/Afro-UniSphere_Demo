@@ -1,428 +1,500 @@
-{
-  "name": "Radford University College",
-  "faculty": [
-    {
-      "faculty_name": "Faculty of Business",
-      "note": "The Faculty of Business trains students for professional careers in accounting, human resource management, marketing and ICT, with strong emphasis on practical skills and entrepreneurship aligned with Ghanaian and global industry needs. [web:41][web:52][web:55]",
-      "courses": [
-        {
-          "course_name": "Accounting",
-          "career": [
-            "Chartered Accountant",
-            "Audit Associate",
-            "Tax Consultant",
-            "Financial Accountant",
-            "Management Accountant",
-            "Payroll Officer",
-            "Budget Analyst",
-            "Accounts Receivable Officer",
-            "Accounts Payable Officer",
-            "Finance Officer in SMEs and NGOs"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 18,000 - GHS 24,000 per year (estimated from private business degree bands around USD 1,500 - 2,000)",
-              "duration": "4 years full-time",
-              "electives": {
-                "required": [
-                  "Elective Mathematics",
-                  "Accounting",
-                  "Business Management"
-                ],
+[
+  {
+    "name": "Radford University College"
+  },
+  {
+    "faculty_name": "Faculty of Business",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Accounting",
+        "career": [
+          "Chartered Accountant",
+          "Financial Accountant",
+          "Auditor",
+          "Tax Consultant",
+          "Management Accountant",
+          "Financial Analyst",
+          "Budget Officer",
+          "Accounts Officer",
+          "Payroll Administrator",
+          "Credit Control Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 20,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Accounting"]
+              },
+              {
                 "additional": [
-                  "Economics",
-                  "Cost Accounting",
-                  "Financial Reporting",
-                  "Business Law",
-                  "Statistics"
-                ]
-              },
-              "salary": {
-                "Ghana": "GHS 36,000 - GHS 80,000 per year (entry to mid-level accounting roles)",
-                "USA": "USD 50,000 - USD 90,000 per year",
-                "Europe": "EUR 32,000 - EUR 60,000 per year"
-              },
-              "cutt_off": "Typical WASSCE aggregate 18 - 30 for private business programmes, with stronger aggregates preferred for accounting options",
-              "mode": "In-person lectures and tutorials with case studies, group projects and use of accounting software; some blended online resources.",
-              "entry_requirements": "WASSCE/SSSCE applicants are generally required to have credit passes in six subjects, including three core subjects (English Language, Core Mathematics and a science subject such as Integrated Science or Social Studies) and three business-related electives such as Accounting, Business Management, Economics or Elective Mathematics, with an overall aggregate around 24 - 36. Mature applicants must typically be at least 25 years old and pass a mature entrance examination as outlined in the School of Business entry requirements. [web:46][web:55]",
-              "level_note": "The programme provides a solid grounding in financial and management accounting, taxation, auditing and corporate finance. Students are prepared for entry-level professional roles and further certification with bodies such as ICAG and ACCA."
-            }
-          ]
-        },
-        {
-          "course_name": "Human Resource Management",
-          "career": [
-            "Human Resource Officer",
-            "Recruitment Consultant",
-            "Training and Development Officer",
-            "Compensation and Benefits Analyst",
-            "Industrial Relations Officer",
-            "Talent Management Officer",
-            "HR Business Partner (with experience)",
-            "Organisational Development Officer",
-            "Payroll and Records Officer",
-            "Administrative and HR Coordinator"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 18,000 - GHS 24,000 per year (estimated similar to other business programmes)",
-              "duration": "4 years full-time",
-              "electives": {
-                "required": [
                   "Business Management",
                   "Economics",
-                  "Elective Mathematics or Social Studies"
-                ],
+                  "Cost Accounting"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS70,000",
+              "USA: $55,000 - $90,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": ["2024 : ~ 15", "2025 : ~ 15"],
+            "mode": [
+              "In-person lectures with tutorials and group assignments",
+              "Blended learning using online resources and case studies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: Credit passes (A1-C6) in three electives including Accounting and Elective Mathematics or Business-related subjects",
+              "Aggregate not more than 36 for WASSCE applicants"
+            ],
+            "level_note": [
+              "The programme builds strong skills in financial reporting, auditing and taxation.",
+              "Students are prepared for professional accounting qualifications and roles in corporate finance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Human Resource Management",
+        "career": [
+          "Human Resource Officer",
+          "Recruitment Specialist",
+          "Training and Development Officer",
+          "Compensation and Benefits Officer",
+          "Industrial Relations Officer",
+          "HR Business Partner",
+          "Talent Management Specialist",
+          "Administrative Manager",
+          "Organisational Development Officer",
+          "Employee Relations Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 20,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
                 "additional": [
+                  "Economics",
                   "Government",
-                  "Costing",
-                  "Geography",
-                  "ICT",
+                  "Elective Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS60,000",
+              "USA: $50,000 - $80,000",
+              "Europe: €32,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
+            "mode": [
+              "In-person teaching with group projects and presentations",
+              "Blended learning with case studies and online discussions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: Credit passes (A1-C6) in three electives including Business Management or other business and social science subjects",
+              "Aggregate not more than 36 for WASSCE applicants"
+            ],
+            "level_note": [
+              "The programme focuses on people management, labour relations and organisational behaviour.",
+              "Students gain practical HR skills relevant for public and private sector organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Marketing",
+        "career": [
+          "Marketing Officer",
+          "Brand Executive",
+          "Digital Marketing Specialist",
+          "Sales and Business Development Officer",
+          "Market Research Assistant",
+          "Customer Relations Officer",
+          "Product Development Assistant",
+          "Advertising Account Executive",
+          "Social Media Manager",
+          "Promotions and Events Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 20,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Elective Mathematics",
+                  "Graphic Design"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS55,000",
+              "USA: $45,000 - $75,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["2024 : ~ 22", "2025 : ~ 22"],
+            "mode": [
+              "In-person lectures, projects and campaign simulations",
+              "Blended learning with digital marketing tools and online tasks"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: Credit passes (A1-C6) in three electives including Business Management or other related business and arts subjects",
+              "Aggregate not more than 36 for WASSCE applicants"
+            ],
+            "level_note": [
+              "The programme develops skills in consumer behaviour, branding and integrated marketing communications.",
+              "Students work on practical marketing projects aligned with industry trends."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Information and Communication Technology",
+        "career": [
+          "IT Support Officer",
+          "Systems Administrator",
+          "Network Technician",
+          "Web Developer",
+          "Database Assistant",
+          "IT Project Assistant",
+          "Helpdesk Technician",
+          "Junior Software Developer",
+          "ICT Instructor",
+          "Technical Sales Representative"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 21,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "ICT"]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "Further Mathematics",
+                  "Applied Electricity"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS65,000",
+              "USA: $55,000 - $90,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": ["2024 : ~ 18", "2025 : ~ 18"],
+            "mode": [
+              "In-person lectures and practical lab sessions",
+              "Blended learning with online coding and networking exercises"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in three electives including Elective Mathematics and ICT or Physics",
+              "Aggregate not more than 30 for WASSCE applicants"
+            ],
+            "level_note": [
+              "The programme blends theoretical ICT concepts with hands-on practical training.",
+              "Students are prepared for entry-level roles in IT support, networking and systems administration."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Fine Arts",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Graphic Design",
+        "career": [
+          "Graphic Designer",
+          "Brand Identity Designer",
+          "Layout Artist",
+          "Digital Illustrator",
+          "User Interface Designer",
+          "Advertising Designer",
+          "Print Production Artist",
+          "Multimedia Designer",
+          "Social Media Content Designer",
+          "Packaging Designer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 21,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Visual Arts"]
+              },
+              {
+                "additional": [
+                  "Graphic Design",
+                  "Picture Making",
                   "Literature in English"
                 ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS25,000 - GHS50,000",
+              "USA: $45,000 - $75,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Studio-based teaching with in-person critiques and project work",
+              "Blended learning using digital design tools and online submissions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: Credit passes (A1-C6) in three Visual Arts electives or related arts subjects",
+              "Portfolio or aptitude assessment may be required by the department"
+            ],
+            "level_note": [
+              "The programme emphasises visual communication, typography and digital design tools.",
+              "Students build strong portfolios for careers in advertising, branding and creative industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Fashion Design",
+        "career": [
+          "Fashion Designer",
+          "Pattern Cutter",
+          "Fashion Illustrator",
+          "Fashion Entrepreneur",
+          "Garment Production Manager",
+          "Costume Designer",
+          "Boutique Owner",
+          "Textile Designer",
+          "Stylist",
+          "Fashion Merchandiser"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 21,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Textiles", "Clothing and Textiles"]
               },
-              "salary": {
-                "Ghana": "GHS 30,000 - GHS 70,000 per year (HR roles depending on organisation and experience)",
-                "USA": "USD 48,000 - USD 85,000 per year",
-                "Europe": "EUR 32,000 - EUR 60,000 per year"
-              },
-              "cutt_off": "Typical WASSCE aggregate 18 - 30 for business degrees at private universities",
-              "mode": "In-person classroom teaching with case discussions, role plays, presentations and group projects; some blended online learning.",
-              "entry_requirements": "Applicants normally need six WASSCE/SSSCE passes with an overall aggregate of about 24 or better, including credit passes in English Language, Core Mathematics and a science subject, plus three relevant electives such as Business Management, Economics, Elective Mathematics, Government or other approved arts and business subjects. Mature students must meet minimum age requirements and pass the institution’s mature entrance examinations. [web:46][web:55]",
-              "level_note": "The programme covers key HR areas including recruitment, performance management, labour law, employee relations and organisational behaviour. Graduates are prepared to support HR functions in corporate, public sector and NGO environments."
-            }
-          ]
-        },
-        {
-          "course_name": "Marketing",
-          "career": [
-            "Marketing Officer",
-            "Brand Executive",
-            "Digital Marketing Specialist",
-            "Sales and Business Development Executive",
-            "Customer Relations Officer",
-            "Market Research Assistant",
-            "Product Marketing Officer",
-            "Social Media Manager",
-            "Advertising Account Executive",
-            "Retail and Merchandising Supervisor"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 18,000 - GHS 24,000 per year (estimated for business-related programmes)",
-              "duration": "4 years full-time",
-              "electives": {
-                "required": [
-                  "Business Management",
-                  "Economics",
-                  "Elective Mathematics or ICT"
-                ],
+              {
                 "additional": [
-                  "Literature in English",
-                  "French",
-                  "Government",
-                  "Costing",
-                  "Graphic Design Basics"
+                  "Visual Arts",
+                  "Management in Living",
+                  "Economics"
                 ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS24,000 - GHS50,000",
+              "USA: $40,000 - $70,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "In-person studio sessions, practical sewing and design projects",
+              "Blended learning with digital fashion illustration and online resources"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: Credit passes (A1-C6) in three Home Economics or Visual Arts electives such as Textiles and Clothing and Textiles",
+              "Aggregate not more than 36 for WASSCE applicants"
+            ],
+            "level_note": [
+              "The programme trains students in garment construction, pattern making and fashion business.",
+              "Students develop creative and entrepreneurial skills for the fashion industry."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Allied Science",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Physician Assistant",
+        "career": [
+          "Physician Assistant",
+          "Primary Care Clinician",
+          "Clinical Assistant in Hospitals",
+          "Outpatient Clinic PA",
+          "Community Health Practitioner",
+          "Emergency Room PA",
+          "Medical Officer Assistant",
+          "Public Health Physician Assistant",
+          "Medical Outreach Coordinator",
+          "Health Services Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 25,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Biology", "Elective Chemistry"]
               },
-              "salary": {
-                "Ghana": "GHS 28,000 - GHS 65,000 per year (marketing and sales roles)",
-                "USA": "USD 45,000 - USD 90,000 per year",
-                "Europe": "EUR 30,000 - EUR 60,000 per year"
+              {
+                "additional": [
+                  "Physics",
+                  "General Agriculture",
+                  "Elective Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS45,000 - GHS70,000",
+              "USA: $80,000 - $110,000",
+              "Europe: €45,000 - €75,000"
+            ],
+            "cutt_off": ["2024 : ~ 12", "2025 : ~ 12"],
+            "mode": [
+              "In-person lectures, laboratory sessions and clinical rotations",
+              "Hospital and community-based clinical training under supervision"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in three science electives including Biology and Chemistry",
+              "Competitive aggregate typically not more than 18 for WASSCE applicants"
+            ],
+            "level_note": [
+              "The programme prepares students to support physicians in diagnosis and patient management.",
+              "Students undergo extensive clinical training in hospitals and health centres."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Nursing",
+        "career": [
+          "Registered Nurse",
+          "Staff Nurse",
+          "Community Health Nurse",
+          "Clinical Nurse in Hospitals",
+          "School Health Nurse",
+          "Public Health Nurse",
+          "Ward Manager",
+          "Home Care Nurse",
+          "Occupational Health Nurse",
+          "Nurse Educator (with further training)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 25,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Biology", "Elective Chemistry"]
               },
-              "cutt_off": "Typical WASSCE aggregate 18 - 30 with stronger grades in English and business-related electives",
-              "mode": "In-person lectures, presentations and project-based learning including campaign design and market research projects; supported by online tools.",
-              "entry_requirements": "Prospective students should hold passes in six WASSCE/SSSCE subjects with an aggregate generally not exceeding 24 - 36, including English Language, Core Mathematics and a science subject, plus three appropriate electives such as Business Management, Economics, Elective Mathematics, ICT or related arts subjects. Mature applicants must satisfy age, experience and examination requirements specified by the university. [web:46][web:55]",
-              "level_note": "The degree introduces students to principles of marketing, consumer behaviour, marketing communications, digital marketing and sales management. Emphasis is placed on creativity, analytical skills and practical exposure to Ghana’s business environment."
-            }
-          ]
-        },
-        {
-          "course_name": "Information & Communication Technology",
-          "career": [
-            "IT Support Specialist",
-            "Network Technician",
-            "Systems Administrator (with experience)",
-            "Helpdesk Analyst",
-            "Junior Software Developer",
-            "Database Assistant",
-            "Web Administrator",
-            "ICT Instructor",
-            "Digital Transformation Assistant",
-            "Cybersecurity Support Technician"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 20,000 - GHS 26,000 per year (estimated slightly higher band for ICT programmes)",
-              "duration": "4 years full-time",
-              "electives": {
-                "required": [
+              {
+                "additional": [
+                  "Physics",
+                  "General Agriculture",
+                  "Health Science"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS65,000",
+              "USA: $60,000 - $90,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 12", "2025 : ~ 12"],
+            "mode": [
+              "In-person lectures, skills laboratory practice and ward demonstrations",
+              "Clinical placements in accredited hospitals and community facilities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in three science electives including Biology and Chemistry",
+              "Competitive aggregate typically not more than 18 for WASSCE applicants"
+            ],
+            "level_note": [
+              "The programme equips students with knowledge and skills for professional nursing practice.",
+              "Students gain hands-on experience in diverse clinical settings under supervision."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Medical Laboratory Technology",
+        "career": [
+          "Medical Laboratory Technologist",
+          "Clinical Laboratory Scientist",
+          "Haematology Technologist",
+          "Microbiology Technologist",
+          "Chemical Pathology Technologist",
+          "Blood Bank Technologist",
+          "Laboratory Quality Officer",
+          "Laboratory Manager",
+          "Public Health Laboratory Scientist",
+          "Research Laboratory Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 25,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Biology", "Elective Chemistry"]
+              },
+              {
+                "additional": [
+                  "Physics",
                   "Elective Mathematics",
-                  "Physics or ICT",
-                  "Any other science or ICT-related elective"
-                ],
-                "additional": [
-                  "Further Mathematics",
-                  "Chemistry",
-                  "Technical Drawing",
-                  "Economics",
-                  "Applied ICT"
+                  "General Agriculture"
                 ]
-              },
-              "salary": {
-                "Ghana": "GHS 35,000 - GHS 80,000 per year (IT and ICT roles, depending on experience)",
-                "USA": "USD 50,000 - USD 95,000 per year",
-                "Europe": "EUR 32,000 - EUR 70,000 per year"
-              },
-              "cutt_off": "Typical WASSCE aggregate 15 - 28 with strong performance in Mathematics and science/ICT electives",
-              "mode": "On-campus, lab-based teaching using computers and networks, with practical assignments and blended online learning platforms.",
-              "entry_requirements": "Applicants normally require six WASSCE/SSSCE passes including English Language, Core Mathematics and Integrated Science, plus three electives such as Elective Mathematics, Physics, ICT or other approved science and business subjects, with an overall aggregate around 24 or better for competitive ICT programmes. Mature candidates must meet minimum age and experience criteria and pass the required entrance examinations. [web:46][web:50][web:55]",
-              "level_note": "The ICT programme blends computer networking, databases, programming, systems administration and information systems concepts. Graduates are prepared for technical roles in corporate IT departments, SMEs and ICT service providers."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "faculty_name": "Faculty of Fine Arts",
-      "note": "The Faculty of Fine Arts provides creative and industry-focused education in graphic and fashion design, combining artistic development with entrepreneurial and technical skills. [web:51][web:58]",
-      "courses": [
-        {
-          "course_name": "Graphic Design",
-          "career": [
-            "Graphic Designer",
-            "Brand Identity Designer",
-            "UI/UX Designer",
-            "Packaging Designer",
-            "Digital Illustrator",
-            "Social Media Content Designer",
-            "Advertising Creative Designer",
-            "Print Production Artist",
-            "Motion Graphics Assistant",
-            "Freelance Design Entrepreneur"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 18,000 - GHS 24,000 per year (estimated fine arts tuition band at private design-focused institutions)",
-              "duration": "4 years full-time",
-              "electives": {
-                "required": [
-                  "Visual Art",
-                  "Graphic Design (where available at SHS)",
-                  "General Knowledge in Art"
-                ],
-                "additional": [
-                  "ICT",
-                  "Picture Making",
-                  "Photography",
-                  "Textiles",
-                  "Elective Mathematics or English Literature"
-                ]
-              },
-              "salary": {
-                "Ghana": "GHS 24,000 - GHS 60,000 per year (agency and freelance design roles)",
-                "USA": "USD 40,000 - USD 80,000 per year",
-                "Europe": "EUR 28,000 - EUR 55,000 per year"
-              },
-              "cutt_off": "Typical WASSCE aggregate 18 - 30, with strong art portfolio and passes in visual art-related subjects",
-              "mode": "Studio-based, in-person teaching with project critiques, portfolio development and use of industry-standard design software; some online support for resources and submissions.",
-              "entry_requirements": "Applicants to fine arts programmes usually need passes in six WASSCE/SSSCE subjects including English Language, Core Mathematics and a science subject, plus three visual art-related electives such as Graphic Design, General Knowledge in Art, Picture Making, Textiles or other approved art subjects, with an aggregate typically not exceeding 24 - 36. A portfolio and/or interview may be required as part of the admission process for design programmes. [web:46][web:51][web:54]",
-              "level_note": "The programme covers fundamentals of design, typography, branding, illustration, digital imaging, interface design and packaging. Students build a professional portfolio suited to employment in design studios, advertising agencies and self-employment."
-            }
-          ]
-        },
-        {
-          "course_name": "Fashion Design",
-          "career": [
-            "Fashion Designer",
-            "Apparel Pattern Maker",
-            "Fashion Illustrator",
-            "Textile Designer",
-            "Fashion Entrepreneur and Boutique Owner",
-            "Costume Designer",
-            "Stylist and Image Consultant",
-            "Production Supervisor in Garment Industry",
-            "Fashion Buyer or Merchandiser",
-            "Fashion Brand Manager"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 18,000 - GHS 24,000 per year (aligned with published private fashion design tuition bands)",
-              "duration": "4 years full-time",
-              "electives": {
-                "required": [
-                  "Textiles",
-                  "Visual Art or Clothing and Textiles",
-                  "General Knowledge in Art"
-                ],
-                "additional": [
-                  "Management in Living",
-                  "ICT",
-                  "Economics",
-                  "French",
-                  "Business Management"
-                ]
-              },
-              "salary": {
-                "Ghana": "GHS 24,000 - GHS 60,000 per year (highly variable based on entrepreneurship and brand success)",
-                "USA": "USD 35,000 - USD 80,000 per year",
-                "Europe": "EUR 28,000 - EUR 65,000 per year"
-              },
-              "cutt_off": "Typical WASSCE aggregate 18 - 30 with strong passes in textiles, clothing and other art-related subjects",
-              "mode": "Hands-on studio and workshop sessions in pattern making, garment construction and illustration, supplemented with lectures and business-focused modules.",
-              "entry_requirements": "Entry normally requires six WASSCE/SSSCE passes including English Language and Core Mathematics plus one of Integrated Science or Social Studies, and three electives in visual art, textiles, clothing and textiles, or related home economics and art subjects. Applicants must meet the general aggregate requirement (around 24 - 36) and may be required to attend an interview and present a portfolio of creative work. [web:46][web:54][web:58]",
-              "level_note": "The BA Fashion Design programme emphasises creativity, technical skills and industry awareness, covering garment design, pattern cutting, production, fashion illustration and entrepreneurship. Graduates are equipped to work in Ghana’s growing fashion industry or to build their own brands."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "faculty_name": "Faculty of Allied Science",
-      "note": "The Faculty of Allied Science prepares students for clinical and laboratory roles in Ghana’s health sector through accredited programmes in physician assistantship, nursing and medical laboratory technology. [web:46]",
-      "courses": [
-        {
-          "course_name": "Physician Assistant",
-          "career": [
-            "Physician Assistant in Hospitals and Clinics",
-            "Primary Care Clinician (under physician supervision)",
-            "Community Health Practitioner",
-            "Emergency and Urgent Care Physician Assistant",
-            "Occupational Health Physician Assistant",
-            "Clinical Research Assistant",
-            "Public Health Officer",
-            "Medical Outreach and NGO Clinician",
-            "Health Services Administrator (with experience)",
-            "Lecturer/Clinical Instructor (with further study)"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 22,000 - GHS 28,000 per year (estimated higher band for clinical health programmes)",
-              "duration": "4 years full-time",
-              "electives": {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "Elective Mathematics or Physics"
-                ],
-                "additional": [
-                  "Integrated Science",
-                  "General Agriculture",
-                  "Health Science",
-                  "ICT",
-                  "Management in Living"
-                ]
-              },
-              "salary": {
-                "Ghana": "GHS 42,000 - GHS 90,000 per year (clinical PA roles depending on facility and experience)",
-                "USA": "USD 90,000 - USD 130,000 per year (for PA roles; context differs from Ghana)",
-                "Europe": "EUR 45,000 - EUR 80,000 per year"
-              },
-              "cutt_off": "Competitive WASSCE aggregate often between 8 - 18 with strong science grades, aligned with allied health benchmarks",
-              "mode": "In-person, clinically oriented training combining classroom teaching, laboratory sessions and supervised clinical rotations in accredited health facilities.",
-              "entry_requirements": "Applicants are generally expected to have credit passes in English Language, Core Mathematics and Integrated Science, plus three science electives such as Biology, Chemistry and either Physics or Elective Mathematics at WASSCE level, with a competitive overall aggregate often not exceeding 24. Additional selection may be based on interviews and meeting professional council standards applicable to physician assistant training. [web:46]",
-              "level_note": "The programme blends basic medical sciences, clinical skills and patient care with extensive clinical placements. Graduates are prepared to sit relevant licensing examinations and work as physician assistants under the supervision of medical doctors."
-            }
-          ]
-        },
-        {
-          "course_name": "Nursing",
-          "career": [
-            "Registered Nurse (after meeting Nursing and Midwifery Council requirements)",
-            "Hospital Staff Nurse",
-            "Community Health Nurse",
-            "School Health Nurse",
-            "Occupational Health Nurse",
-            "Clinical Research Nurse",
-            "Home Care Nurse",
-            "Public Health and Health Promotion Nurse",
-            "Charge Nurse or Ward Supervisor (with experience)",
-            "Nurse Educator (with further study)"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 20,000 - GHS 26,000 per year (estimated for private nursing degree programmes)",
-              "duration": "4 years full-time",
-              "electives": {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "Elective Mathematics or Physics"
-                ],
-                "additional": [
-                  "General Agriculture",
-                  "Health Science",
-                  "Management in Living",
-                  "ICT",
-                  "Any other approved science elective"
-                ]
-              },
-              "salary": {
-                "Ghana": "GHS 30,000 - GHS 72,000 per year (nursing roles in public and private facilities)",
-                "USA": "USD 60,000 - USD 100,000 per year",
-                "Europe": "EUR 35,000 - EUR 65,000 per year"
-              },
-              "cutt_off": "Typical nursing admission aggregates range from 10 - 24 with strong science passes, depending on yearly competition",
-              "mode": "Classroom and skills-lab based teaching with simulation, complemented by supervised clinical rotations in hospitals, clinics and community settings.",
-              "entry_requirements": "Prospective nursing students normally require six WASSCE passes including English Language, Core Mathematics and Integrated Science, plus three science or health-related electives such as Biology, Chemistry, Physics, Elective Mathematics, General Agriculture or Health Science, with a good overall aggregate (often not exceeding mid-20s). Graduates are expected to meet Nursing and Midwifery Council requirements for registration upon completion. [web:46]",
-              "level_note": "The nursing programme covers foundational sciences, medical-surgical nursing, community health, maternal and child health, mental health and leadership in nursing. Emphasis is placed on compassionate, ethical and evidence-based patient care."
-            }
-          ]
-        },
-        {
-          "course_name": "Medical Laboratory Technology",
-          "career": [
-            "Medical Laboratory Technologist",
-            "Hospital Laboratory Scientist (with professional registration)",
-            "Diagnostic Laboratory Technologist",
-            "Blood Bank Technologist",
-            "Microbiology Laboratory Technologist",
-            "Clinical Chemistry Technologist",
-            "Haematology Technologist",
-            "Public Health Laboratory Officer",
-            "Research Laboratory Assistant",
-            "Quality Control Officer in Diagnostic or Pharmaceutical Labs"
-          ],
-          "levels": [
-            {
-              "level_name": "Undergraduate",
-              "fees": "Ghanaian Students: GHS 20,000 - GHS 26,000 per year (estimated comparable to nursing and allied science programmes)",
-              "duration": "4 years full-time",
-              "electives": {
-                "required": [
-                  "Biology",
-                  "Chemistry",
-                  "Elective Mathematics or Physics"
-                ],
-                "additional": [
-                  "Integrated Science",
-                  "General Agriculture",
-                  "ICT",
-                  "Electronics (for instrumentation familiarity)",
-                  "Any other approved science elective"
-                ]
-              },
-              "salary": {
-                "Ghana": "GHS 32,000 - GHS 72,000 per year (laboratory roles in hospitals and diagnostic centres)",
-                "USA": "USD 50,000 - USD 85,000 per year",
-                "Europe": "EUR 32,000 - EUR 60,000 per year"
-              },
-              "cutt_off": "Typical WASSCE aggregate 12 - 24 with strong science subjects for allied health laboratory programmes",
-              "mode": "Laboratory-intensive, in-person training with significant practical work, instrumentation handling and supervised clinical laboratory placements.",
-              "entry_requirements": "Applicants usually require credit passes in English Language, Core Mathematics and Integrated Science, plus three science electives such as Biology, Chemistry and either Physics or Elective Mathematics, achieving an overall aggregate in the low to mid-20s for competitive allied health laboratory programmes. Professional registration requirements of relevant health councils must also be satisfied after graduation. [web:46][web:27]",
-              "level_note": "The programme provides in-depth training in clinical chemistry, haematology, microbiology, parasitology and laboratory management. Graduates are prepared to support diagnosis and monitoring of diseases in hospitals, clinics and public health laboratories."
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS65,000",
+              "USA: $55,000 - $85,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 14", "2025 : ~ 14"],
+            "mode": [
+              "In-person lectures and intensive laboratory practical sessions",
+              "Clinical internships in hospital and reference laboratories"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in three science electives including Biology and Chemistry",
+              "Competitive aggregate typically not more than 20 for WASSCE applicants"
+            ],
+            "level_note": [
+              "The programme focuses on laboratory diagnosis of diseases and quality laboratory practice.",
+              "Students are trained to collect, process and analyse specimens for clinical decision making."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

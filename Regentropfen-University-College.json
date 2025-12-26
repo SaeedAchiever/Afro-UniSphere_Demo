@@ -5,53 +5,60 @@
   {
     "faculty_name": "Health Sciences",
     "note": [
-      "The Faculty of Health Sciences offers comprehensive nursing and health programmes designed to meet Ghana’s growing healthcare needs, with strong emphasis on practical training and community engagement"
+      "The Faculty of Health Sciences offers accredited nursing and midwifery programmes aimed at strengthening healthcare delivery in Ghana.",
+      "Programmes combine classroom teaching with extensive clinical placements in approved health facilities."
     ],
     "courses": [
       {
         "course_name": "BSc. General Nursing",
         "career": [
-          "Registered Nurse (after meeting Nursing and Midwifery Council requirements)",
-          "Hospital Staff Nurse",
+          "Registered General Nurse",
+          "Staff Nurse",
+          "Ward Manager",
           "Community Health Nurse",
           "School Health Nurse",
-          "Occupational Health Nurse",
           "Public Health Nurse",
-          "Clinical Research Nurse",
           "Home Care Nurse",
-          "Ward Manager or Charge Nurse (with experience)",
-          "Nurse Educator (with further study)"
+          "Occupational Health Nurse",
+          "Clinical Instructor",
+          "Nurse Research Assistant"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHS 12,000 - GHS 18,000 per year"],
-            "duration": "4 years full-time",
-            "electives": {
-              "required": [
-                "Biology",
-                "Chemistry",
-                "Elective Mathematics or Physics"
-              ],
-              "additional": [
-                "General Agriculture",
-                "Health Science",
-                "Management in Living",
-                "ICT",
-                "Any other approved science elective"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 30,000 - GHS 72,000 per year (nursing roles in public and private facilities)",
-              "USA": "USD 60,000 - USD 100,000 per year",
-              "Europe": "EUR 35,000 - EUR 65,000 per year"
-            },
-            "cutt_off": ["10 - 24"],
-            "mode": [
-              "In-person classroom and skills-lab teaching with simulations, complemented by supervised clinical rotations in hospitals, clinics and community settings."
+            "fees": ["Ghanaian Students : GHC 18,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Biology", "Elective Chemistry"]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "General Agriculture",
+                  "Elective Mathematics"
+                ]
+              }
             ],
-            "entry_requirements": "Undergraduate applicants generally require WASSCE/SSSCE credit passes in English Language, Core Mathematics and Integrated Science plus three relevant science electives such as Biology, Chemistry, Physics or Elective Mathematics, with a minimum aggregate of about 24 or better as stated for undergraduate programmes. Additional professional requirements from the Nursing and Midwifery Council apply for practice after graduation. [web:61][web:71][web:78]",
-            "level_note": "The programme covers fundamentals of nursing, anatomy and physiology, medical-surgical nursing, maternal and child health, mental health and community health nursing. Students are prepared for compassionate, evidence-based patient care and for national licensing exams."
+            "salary": [
+              "Ghana: GHS40,000 - GHS65,000",
+              "USA: $60,000 - $90,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 12", "2025 : ~ 12"],
+            "mode": [
+              "In-person lectures, skills lab practice and ward demonstrations",
+              "Clinical rotations in accredited hospitals and community facilities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in three science electives including Biology and Chemistry",
+              "Minimum aggregate 24 or better with competitive selection by the Nursing and Midwifery Council requirements"
+            ],
+            "level_note": [
+              "The programme prepares students for professional nursing practice in hospitals and communities.",
+              "Students gain strong clinical, ethical and communication skills for holistic patient care."
+            ]
           }
         ]
       },
@@ -59,89 +66,105 @@
         "course_name": "BSc. Public Health Nursing",
         "career": [
           "Public Health Nurse",
-          "Community Health Programme Officer",
-          "School Health Education Coordinator",
-          "Disease Surveillance Officer",
+          "Community Health Nurse",
+          "School Health Coordinator",
           "Health Promotion Officer",
-          "NGO Project Officer (Health Focus)",
+          "Disease Control Nurse",
           "Maternal and Child Health Nurse",
-          "Occupational and Environmental Health Nurse",
+          "NGO Health Programme Officer",
           "Community Outreach Coordinator",
-          "Primary Health Care Nurse Manager"
+          "Immunisation Programme Nurse",
+          "Health Policy Implementation Officer"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 12,000 - GHS 18,000 per year (estimated similar to general nursing fees band)",
-            "duration": "4 years full-time",
-            "electives": {
-              "required": [
-                "Biology",
-                "Chemistry",
-                "Elective Mathematics or Physics"
-              ],
-              "additional": [
-                "General Agriculture",
-                "Health Science",
-                "Geography",
-                "Economics",
-                "ICT"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 32,000 - GHS 75,000 per year (public health and community nursing roles)",
-              "USA": "USD 55,000 - USD 95,000 per year",
-              "Europe": "EUR 35,000 - EUR 65,000 per year"
-            },
-            "cutt_off": "Typical WASSCE aggregate 12 - 24 with strong science background for public health-related nursing programmes",
-            "mode": "On-campus teaching with fieldwork, community outreach and practicum placements in public health institutions and communities.",
-            "entry_requirements": "Applicants should have WASSCE/SSSCE credits in English Language, Core Mathematics and Integrated Science plus three science or health-related electives (such as Biology, Chemistry, Physics, Elective Mathematics, General Agriculture or Health Science), achieving at least the general undergraduate minimum aggregate of 24 or better, with stronger grades expected in science subjects for competitive health programmes. [web:61][web:71][web:78]",
-            "level_note": "This programme emphasises disease prevention, health promotion and community-based healthcare. Graduates are equipped to design, implement and evaluate public health interventions in collaboration with communities and health authorities."
+            "fees": ["Ghanaian Students : GHC 18,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Biology", "Elective Chemistry"]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "General Agriculture",
+                  "Elective Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS65,000",
+              "USA: $60,000 - $90,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 14", "2025 : ~ 14"],
+            "mode": [
+              "In-person lectures, community fieldwork and project work",
+              "Practical placements with public health units and NGOs"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in three science electives including Biology and Chemistry",
+              "Minimum aggregate 24 or better with focus on science background"
+            ],
+            "level_note": [
+              "The programme emphasises disease prevention, health promotion and community-based interventions.",
+              "Students are trained to plan, implement and evaluate public health programmes."
+            ]
           }
         ]
       },
       {
         "course_name": "BSc. Midwifery",
         "career": [
-          "Registered Midwife (subject to Nursing and Midwifery Council requirements)",
-          "Labour and Delivery Midwife",
-          "Antenatal and Postnatal Care Midwife",
+          "Registered Midwife",
+          "Labour Ward Midwife",
           "Community Midwife",
           "Maternal and Child Health Officer",
           "Family Planning Counselor",
+          "Antenatal Clinic Midwife",
+          "Postnatal Care Midwife",
           "Reproductive Health Programme Officer",
-          "Perinatal Educator",
-          "NGO Maternal Health Officer",
+          "Prenatal Education Specialist",
           "Midwifery Educator (with further study)"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 12,000 - GHS 18,000 per year (estimated within health sciences band)",
-            "duration": "4 years full-time",
-            "electives": {
-              "required": [
-                "Biology",
-                "Chemistry",
-                "Elective Mathematics or Physics"
-              ],
-              "additional": [
-                "General Agriculture",
-                "Health Science",
-                "Management in Living",
-                "ICT",
-                "Any other approved science elective"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 32,000 - GHS 72,000 per year (midwifery roles in public and private facilities)",
-              "USA": "USD 60,000 - USD 100,000 per year (where midwifery roles exist as regulated professions)",
-              "Europe": "EUR 35,000 - EUR 65,000 per year"
-            },
-            "cutt_off": "Typical midwifery admission aggregates range from 10 - 24 with strong passes in science subjects",
-            "mode": "Classroom, skills laboratory and clinical placements in maternity units, health centres and community settings.",
-            "entry_requirements": "Prospective students must normally have WASSCE/SSSCE credit passes in English Language, Core Mathematics and Integrated Science, plus three science electives such as Biology, Chemistry and Physics or Elective Mathematics, with an overall aggregate around 24 or better. Professional midwifery practice after graduation is regulated by the Nursing and Midwifery Council. [web:61][web:71][web:78]",
-            "level_note": "The programme focuses on reproductive health, pregnancy care, labour and childbirth, newborn care and women’s health. Graduates are prepared to support safe motherhood and child survival initiatives in Ghana and beyond."
+            "fees": ["Ghanaian Students : GHC 18,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Biology", "Elective Chemistry"]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "General Agriculture",
+                  "Health Science"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS65,000",
+              "USA: $60,000 - $90,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 12", "2025 : ~ 12"],
+            "mode": [
+              "In-person lectures, simulation lab practice and clinical placements",
+              "Rotations in maternity units, antenatal and postnatal clinics"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in three science electives including Biology and Chemistry",
+              "Minimum aggregate 24 or better meeting Nursing and Midwifery Council standards"
+            ],
+            "level_note": [
+              "The programme focuses on reproductive, maternal and newborn health across the continuum of care.",
+              "Students acquire competencies for safe pregnancy, childbirth and postnatal care."
+            ]
           }
         ]
       }
@@ -150,47 +173,60 @@
   {
     "faculty_name": "Applied Sciences",
     "note": [
-      "The Applied Sciences faculty trains students in agriculture, computing and technology to address community needs and drive social change, especially in the northern parts of Ghana."
+      "The Faculty of Applied Sciences integrates theory with practical skills to address real-world challenges.",
+      "Programmes emphasise innovation, technology and community impact."
     ],
     "courses": [
       {
-        "course_name": "BSc. Agriculture for Social Change",
+        "course_name": "BSc. Agriculture for social change",
         "career": [
           "Agricultural Extension Officer",
-          "Community Development Officer (Agriculture Focus)",
+          "Agripreneur",
           "Farm Manager",
-          "Agribusiness Entrepreneur",
-          "NGO Project Officer (Food Security and Livelihoods)",
+          "Community Development Officer",
           "Sustainable Agriculture Consultant",
-          "Value Chain Development Officer",
-          "Research Assistant in Agricultural Projects",
-          "Rural Development Planner",
-          "Agricultural Policy Assistant"
+          "NGO Project Officer (Agriculture)",
+          "Agribusiness Officer",
+          "Food Security Programme Officer",
+          "Rural Development Facilitator",
+          "Research Assistant in Agriculture"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 10,000 - GHS 15,000 per year (estimated for applied agriculture in an affordable private university)",
-            "duration": "4 years full-time",
-            "electives": {
-              "required": ["General Agriculture", "Biology", "Chemistry"],
-              "additional": [
-                "Elective Mathematics",
-                "Physics",
-                "Geography",
-                "Economics",
-                "ICT"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 28,000 - GHS 60,000 per year (agriculture and development roles)",
-              "USA": "USD 45,000 - USD 80,000 per year",
-              "Europe": "EUR 32,000 - EUR 60,000 per year"
-            },
-            "cutt_off": "Typical WASSCE aggregate 15 - 30 with relevant science and agriculture passes",
-            "mode": "Combination of classroom teaching, fieldwork, farm practice and community-based projects in rural and peri-urban settings.",
-            "entry_requirements": "Undergraduate applicants generally require WASSCE/SSSCE credits in English Language, Core Mathematics and Integrated Science plus three electives in agriculture or science such as General Agriculture, Biology, Chemistry, Physics or Elective Mathematics, with a minimum aggregate of about 24 or better for undergraduate programmes. [web:61][web:65][web:68]",
-            "level_note": "The programme integrates agricultural science with community development and social entrepreneurship. Graduates are equipped to promote sustainable agriculture and rural transformation, particularly in underserved communities."
+            "fees": ["Ghanaian Students : GHC 14,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["General Agriculture", "Elective Biology"]
+              },
+              {
+                "additional": [
+                  "Elective Chemistry",
+                  "Physics",
+                  "Elective Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS55,000",
+              "USA: $45,000 - $75,000",
+              "Europe: €32,000 - €55,000"
+            ],
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
+            "mode": [
+              "In-person lectures, farm practicals and community projects",
+              "Fieldwork with partner farms and development organisations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credits in three electives including General Agriculture or Biology and one of Chemistry, Physics or Elective Mathematics",
+              "Minimum aggregate 24 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme links agricultural science with social transformation and rural development.",
+              "Students gain technical and project management skills for sustainable agriculture initiatives."
+            ]
           }
         ]
       },
@@ -198,44 +234,52 @@
         "course_name": "BSc. Computer Science",
         "career": [
           "Software Developer",
-          "Full-Stack Developer",
-          "Backend Developer",
-          "Mobile Application Developer",
           "Systems Analyst",
+          "Database Administrator",
+          "Network Engineer",
+          "Web Developer",
+          "Mobile Application Developer",
+          "IT Consultant",
           "Data Analyst",
-          "Network and Systems Administrator",
-          "IT Support Engineer",
-          "Database Administrator (entry-level)",
-          "Cybersecurity Analyst (entry-level with further training)"
+          "DevOps Engineer",
+          "Cybersecurity Analyst"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 11,000 - GHS 17,000 per year (estimated STEM band for affordable private ICT programmes)",
-            "duration": "4 years full-time",
-            "electives": {
-              "required": [
-                "Elective Mathematics",
-                "Physics or ICT",
-                "Any other science or ICT-related elective"
-              ],
-              "additional": [
-                "Further Mathematics",
-                "Chemistry",
-                "Technical Drawing",
-                "Economics",
-                "Applied ICT"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 35,000 - GHS 90,000 per year (software and IT roles)",
-              "USA": "USD 70,000 - USD 130,000 per year",
-              "Europe": "EUR 40,000 - EUR 80,000 per year"
-            },
-            "cutt_off": "Typical WASSCE aggregate 12 - 24 with strong performance in Mathematics and science/ICT electives",
-            "mode": "On-campus, lab-intensive teaching with programming, algorithms, databases and networks, supported by blended online learning platforms.",
-            "entry_requirements": "Applicants should have WASSCE/SSSCE credits in English Language, Core Mathematics and Integrated Science plus three electives including Elective Mathematics and at least one of Physics, ICT or another science-related subject, meeting the general undergraduate minimum aggregate of 24 or better. [web:61][web:68][web:71]",
-            "level_note": "The Computer Science degree provides grounding in programming, data structures, algorithms, databases, operating systems and networking. Students gain practical project experience addressing real-world ICT problems facing communities and organisations."
+            "fees": ["Ghanaian Students : GHC 15,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": [
+                  "ICT",
+                  "Further Mathematics",
+                  "Applied Electricity"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS75,000",
+              "USA: $70,000 - $110,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["2024 : ~ 15", "2025 : ~ 15"],
+            "mode": [
+              "In-person lectures, programming labs and group projects",
+              "Blended learning with online coding tasks and virtual collaboration"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credits in three electives including Elective Mathematics and one science subject such as Physics or ICT",
+              "Minimum aggregate 24 or better with strong mathematics background"
+            ],
+            "level_note": [
+              "The programme covers programming, algorithms, databases, networks and software engineering.",
+              "Students build practical software solutions for local and global challenges."
+            ]
           }
         ]
       },
@@ -243,142 +287,167 @@
         "course_name": "BSc. Information Technology",
         "career": [
           "IT Support Specialist",
-          "Network Technician",
-          "Systems Administrator (with experience)",
+          "Network and Systems Administrator",
+          "IT Officer",
+          "Database Support Technician",
+          "ICT Trainer",
           "Helpdesk Analyst",
-          "Web Developer",
-          "Database Support Assistant",
-          "ICT Instructor",
+          "Junior Web Developer",
           "IT Project Assistant",
-          "Business Systems Support Officer",
-          "Digital Transformation Assistant"
+          "Cybersecurity Technician",
+          "Technical Sales Specialist"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 11,000 - GHS 17,000 per year (estimated similar to Computer Science fees)",
-            "duration": "4 years full-time",
-            "electives": {
-              "required": [
-                "Elective Mathematics",
-                "Physics or ICT",
-                "Any other science or business-related elective"
-              ],
-              "additional": [
-                "Economics",
-                "Business Management",
-                "ICT",
-                "Technical Drawing",
-                "Geography"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 32,000 - GHS 80,000 per year (IT support and systems roles)",
-              "USA": "USD 50,000 - USD 95,000 per year",
-              "Europe": "EUR 32,000 - EUR 70,000 per year"
-            },
-            "cutt_off": "Typical WASSCE aggregate 15 - 28 with good passes in Mathematics and ICT/science-related subjects",
-            "mode": "In-person lectures and lab sessions with practical exercises in networking, databases, web technologies and information systems, supported by e-learning tools.",
-            "entry_requirements": "Students generally need WASSCE/SSSCE credit passes in English Language, Core Mathematics and Integrated Science plus three electives such as Elective Mathematics, Physics, ICT, or other approved business and science subjects, with an overall aggregate of about 24 or better for undergraduate entry. [web:61][web:68]",
-            "level_note": "The IT programme focuses on the application of computing technologies in organisations, covering networking, databases, web technologies and systems analysis. Graduates are prepared for technical and support roles in businesses, schools and development projects."
+            "fees": ["Ghanaian Students : GHC 15,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "ICT"]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "Elective Mathematics (Additional)",
+                  "Applied Electricity"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS65,000",
+              "USA: $55,000 - $90,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 18", "2025 : ~ 18"],
+            "mode": [
+              "In-person lectures with hands-on labs in networking and systems",
+              "Blended learning using virtual labs and online support materials"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credits in three electives including Elective Mathematics and ICT or Physics",
+              "Minimum aggregate 24 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme focuses on computer systems, networks, databases and user support.",
+              "Students gain skills to manage and support IT infrastructure in organisations."
+            ]
           }
         ]
       }
     ]
   },
   {
-    "faculty_name": "Humanities and Education",
+    "faculty_name": "Humanities",
     "note": [
-      "The Humanities and Education faculty provides training in business, accounting and teacher education to support socio-economic and educational development in Ghana and the wider region."
+      "The Faculty of Humanities offers programmes in education and business for leadership in schools, organisations and communities.",
+      "Students develop communication, critical thinking and professional skills."
     ],
     "courses": [
       {
         "course_name": "B.Sc. Business Administration",
         "career": [
-          "Business Development Officer",
+          "Business Manager",
           "Operations Officer",
-          "Project Officer",
-          "Marketing and Sales Executive",
+          "Marketing Executive",
+          "Project Coordinator",
+          "Administrative Manager",
+          "Entrepreneur",
+          "Sales Manager",
           "Customer Relations Officer",
-          "Administrative Officer",
-          "Entrepreneur and SME Owner",
-          "NGO Programme Officer",
-          "Branch Manager (with experience)",
-          "Business Analyst (entry-level)"
+          "Business Development Officer",
+          "NGO Programme Officer"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 9,000 - GHS 14,000 per year (estimated affordable business band as detailed fees are via portal)",
-            "duration": "4 years full-time",
-            "electives": {
-              "required": [
-                "Business Management",
-                "Economics",
-                "Elective Mathematics or Accounting"
-              ],
-              "additional": [
-                "Costing",
-                "Geography",
-                "Government",
-                "ICT",
-                "French"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 28,000 - GHS 70,000 per year (business and administrative roles)",
-              "USA": "USD 45,000 - USD 90,000 per year",
-              "Europe": "EUR 30,000 - EUR 60,000 per year"
-            },
-            "cutt_off": "Typical WASSCE aggregate 18 - 30 for business programmes, with stronger aggregates favoured for competitive options",
-            "mode": "In-person lectures, tutorials, group projects and case studies, supplemented by online resources.",
-            "entry_requirements": "Undergraduate business applicants generally need WASSCE/SSSCE credits in English Language, Core Mathematics and either Integrated Science or Social Studies plus three relevant electives such as Business Management, Accounting, Economics or Elective Mathematics, with a minimum aggregate of about 24 or better for degree programmes. [web:61][web:68]",
-            "level_note": "The programme offers a broad foundation in management, marketing, finance, operations and entrepreneurship. Graduates are equipped for entry-level roles in organisations and for starting their own enterprises."
+            "fees": ["Ghanaian Students : GHC 14,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
+                "additional": [
+                  "Accounting",
+                  "Economics",
+                  "Elective Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS60,000",
+              "USA: $50,000 - $85,000",
+              "Europe: €32,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
+            "mode": [
+              "In-person lectures, case studies and presentations",
+              "Blended learning with group projects and online activities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Core Mathematics and either Integrated Science or Social Studies",
+              "WASSCE: Credits in three electives including Business Management or other business-related subjects",
+              "Minimum aggregate 24 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme builds foundations in management, marketing, finance and entrepreneurship.",
+              "Students are prepared for diverse roles in business and organisational leadership."
+            ]
           }
         ]
       },
       {
         "course_name": "B.Sc. Accounting",
         "career": [
+          "Financial Accountant",
+          "Management Accountant",
+          "Auditor",
+          "Tax Consultant",
+          "Budget Analyst",
           "Accounts Officer",
-          "Audit Trainee",
-          "Tax Assistant",
-          "Finance Officer",
-          "Treasury Assistant",
           "Payroll Officer",
           "Credit Control Officer",
-          "Costing Officer",
-          "Budget Assistant",
-          "NGO Finance Assistant"
+          "Compliance Officer",
+          "Financial Analyst"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 9,000 - GHS 14,000 per year (estimated similar to Business Administration)",
-            "duration": "4 years full-time",
-            "electives": {
-              "required": [
-                "Accounting",
-                "Business Management",
-                "Elective Mathematics"
-              ],
-              "additional": [
-                "Economics",
-                "Cost Accounting",
-                "Business Law",
-                "ICT",
-                "Statistics"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 32,000 - GHS 75,000 per year (accounting roles in SMEs, corporates and NGOs)",
-              "USA": "USD 50,000 - USD 90,000 per year",
-              "Europe": "EUR 32,000 - EUR 60,000 per year"
-            },
-            "cutt_off": "Typical WASSCE aggregate 18 - 28 for private accounting programmes with business electives",
-            "mode": "On-campus learning combining lectures, tutorials and practical exercises using accounting software and case studies.",
-            "entry_requirements": "Applicants should have WASSCE/SSSCE credit passes in English Language, Core Mathematics and a science subject, plus three business-related electives such as Accounting, Business Management, Economics and Elective Mathematics, achieving at least the general undergraduate minimum aggregate of 24 or better. [web:61][web:68]",
-            "level_note": "The Accounting degree builds competence in financial accounting, management accounting, auditing and taxation. Graduates can progress to professional qualifications and entry-level finance roles."
+            "fees": ["Ghanaian Students : GHC 14,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Accounting", "Elective Mathematics"]
+              },
+              {
+                "additional": [
+                  "Business Management",
+                  "Economics",
+                  "Cost Accounting"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS65,000",
+              "USA: $55,000 - $90,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": ["2024 : ~ 18", "2025 : ~ 18"],
+            "mode": [
+              "In-person lectures with tutorials and accounting labs",
+              "Blended learning with accounting software and case studies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Core Mathematics and either Integrated Science or Social Studies",
+              "WASSCE: Credits in three electives including Accounting and Elective Mathematics or other business subjects",
+              "Minimum aggregate 24 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme provides rigorous training in financial reporting, auditing and taxation.",
+              "Students develop competencies for professional accounting roles and certifications."
+            ]
           }
         ]
       },
@@ -386,43 +455,52 @@
         "course_name": "BEd. Education",
         "career": [
           "Basic School Teacher",
-          "Junior High School Teacher (depending on specialisation and national requirements)",
-          "Education Officer (with experience)",
+          "Junior High School Teacher",
+          "Education Officer",
           "School Administrator",
-          "Curriculum Facilitator at District Level",
-          "NGO Education Programme Officer",
-          "Educational Content Developer",
-          "Private Tutor",
-          "Education Consultant (with experience)",
-          "Further Studies in Education and Educational Leadership"
+          "Curriculum Facilitator",
+          "Education NGO Worker",
+          "Instructional Coordinator",
+          "Guidance and Counselling Assistant",
+          "Teacher Mentor",
+          "Educational Project Officer"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 8,000 - GHS 13,000 per year (estimated for education degrees at an affordable private institution)",
-            "duration": "4 years full-time",
-            "electives": {
-              "required": [
-                "Any two Arts or Social Science electives such as History, Government, CRS/IRS or Literature in English",
-                "A third relevant elective such as Economics, Geography or a Ghanaian Language"
-              ],
-              "additional": [
-                "ICT",
-                "Mathematics (Elective)",
-                "General Knowledge in Art",
-                "French",
-                "Music or Performing Arts (where available)"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 24,000 - GHS 55,000 per year (basic and secondary teaching roles, depending on employer and rank)",
-              "USA": "USD 40,000 - USD 70,000 per year",
-              "Europe": "EUR 30,000 - EUR 60,000 per year"
-            },
-            "cutt_off": "Typical WASSCE aggregate 18 - 30 for teacher education degrees at private universities",
-            "mode": "In-person lectures, micro-teaching, classroom observation and teaching practice in partner schools.",
-            "entry_requirements": "Students typically require WASSCE/SSSCE credits in English Language, Core Mathematics and either Integrated Science or Social Studies plus three relevant electives in arts or social sciences, with a minimum aggregate of about 24 or better for undergraduate degrees. Teaching practice and meeting national teacher licensure requirements are also part of the pathway to full professional status. [web:61][web:69][web:70]",
-            "level_note": "The BEd Education focuses on pedagogy, curriculum studies, assessment, classroom management and educational foundations. Graduates are prepared to teach and to contribute to educational improvement in Ghana."
+            "fees": ["Ghanaian Students : GHC 13,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Any two Arts or Social Science electives"]
+              },
+              {
+                "additional": [
+                  "Christian Religious Studies",
+                  "History",
+                  "Government"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS24,000 - GHS40,000",
+              "USA: $40,000 - $65,000",
+              "Europe: €30,000 - €50,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "In-person lectures, micro-teaching and school practicum",
+              "Blended learning with online pedagogy resources"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Core Mathematics and either Integrated Science or Social Studies",
+              "WASSCE: Credits in three relevant electives in General Arts, Business or Science",
+              "Minimum aggregate 24 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme emphasises pedagogy, curriculum studies and classroom management.",
+              "Students undertake supervised teaching practice in partner schools."
+            ]
           }
         ]
       },
@@ -431,43 +509,51 @@
         "career": [
           "Mathematics Teacher",
           "ICT Teacher",
-          "STEM Education Facilitator",
-          "Curriculum Resource Person (Mathematics/ICT) with experience",
-          "Educational Technology Coach",
-          "Private Tutor in Mathematics and ICT",
-          "Content Developer for E-Learning Platforms",
-          "School ICT Coordinator",
-          "Assessment Item Writer",
-          "Further Studies in Mathematics Education or Educational Technology"
+          "STEM Coordinator",
+          "Educational Content Developer",
+          "Curriculum Support Officer",
+          "Assessment Officer",
+          "Private Tutor",
+          "Education Technology Facilitator",
+          "School Data Manager",
+          "Instructional Designer"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": "Ghanaian Students: GHS 8,000 - GHS 13,000 per year (estimated similar to BEd programmes)",
-            "duration": "4 years full-time",
-            "electives": {
-              "required": [
-                "Elective Mathematics",
-                "Physics or ICT",
-                "Any other science or business-related elective"
-              ],
-              "additional": [
-                "Further Mathematics",
-                "ICT",
-                "Economics",
-                "Technical Drawing",
-                "Geography"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 26,000 - GHS 60,000 per year (teaching and ICT coordination roles)",
-              "USA": "USD 42,000 - USD 75,000 per year",
-              "Europe": "EUR 30,000 - EUR 60,000 per year"
-            },
-            "cutt_off": "Typical WASSCE aggregate 15 - 28 with strong Elective Mathematics and at least one science/ICT elective",
-            "mode": "Classroom-based teaching, computer lab practice and school teaching practice placements integrating mathematics pedagogy with ICT tools.",
-            "entry_requirements": "Applicants are expected to have WASSCE/SSSCE credit passes in English Language, Core Mathematics and either Integrated Science or Social Studies, plus three electives including Elective Mathematics and at least one of Physics, ICT or another relevant subject, meeting the general undergraduate minimum aggregate of 24 or better. [web:61][web:69]",
-            "level_note": "The programme combines strong mathematical content with ICT integration and pedagogy. Graduates are trained to teach mathematics effectively while using technology to enhance learning in Ghanaian schools."
+            "fees": ["Ghanaian Students : GHC 13,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "ICT"]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "Further Mathematics",
+                  "Any General Science elective"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS26,000 - GHS45,000",
+              "USA: $40,000 - $70,000",
+              "Europe: €30,000 - €50,000"
+            ],
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
+            "mode": [
+              "In-person lectures, computer lab work and school practicums",
+              "Blended learning using digital tools and e-learning platforms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Credits in three electives including Elective Mathematics and ICT or Physics",
+              "Minimum aggregate 24 or better with strong mathematics background"
+            ],
+            "level_note": [
+              "The programme blends mathematics content with ICT integration for effective teaching.",
+              "Students are trained to deliver engaging STEM lessons using technology."
+            ]
           }
         ]
       }
@@ -476,96 +562,113 @@
   {
     "faculty_name": "Diploma Programs",
     "note": [
-      "Diploma programmes provide flexible, practice-oriented training and pathways into degree studies for students who may not initially meet full undergraduate entry requirements."
+      "Diploma programmes provide practical and foundational training for further studies or entry-level employment.",
+      "Graduates may progress to related degree programmes subject to performance and institutional policies."
     ],
     "courses": [
       {
-        "course_name": "Diploma Agriculture for Social Change",
+        "course_name": "Diploma Agriculture for social change",
         "career": [
-          "Agricultural Extension Assistant",
           "Farm Supervisor",
+          "Extension Assistant",
+          "Agripreneur Trainee",
+          "Input Sales Assistant",
+          "Field Officer",
           "Community Agriculture Facilitator",
-          "Field Officer for Agricultural NGOs",
-          "Input Dealer or Agro-Input Sales Assistant",
-          "Farm Records and Data Assistant",
-          "Agricultural Cooperative Assistant",
-          "Rural Development Facilitator",
-          "Greenhouse or Garden Technician",
-          "Progression to BSc Agriculture for Social Change"
+          "Agricultural Project Assistant",
+          "Greenhouse Assistant",
+          "Livestock Farm Assistant",
+          "NGO Field Worker (Agriculture)"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": "Ghanaian Students: GHS 6,000 - GHS 9,000 per year (estimated lower diploma band)",
-            "duration": "2 - 3 years full-time depending on curriculum structure",
-            "electives": {
-              "required": [
-                "General Agriculture or Biology",
-                "Chemistry or Physics",
-                "Any other science or related elective"
-              ],
-              "additional": [
-                "Elective Mathematics",
-                "Geography",
-                "Economics",
-                "ICT",
-                "Environmental Science (where available)"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 18,000 - GHS 40,000 per year (field and farm-level roles)",
-              "USA": "USD 30,000 - USD 55,000 per year (context-dependent technical roles)",
-              "Europe": "EUR 24,000 - EUR 40,000 per year"
-            },
-            "cutt_off": "Diploma admission typically accepts WASSCE aggregates up to about 30 with relevant passes as per general diploma guidelines",
-            "mode": "In-person teaching with significant fieldwork, farm practicals and community-based projects.",
-            "entry_requirements": "Diploma applicants usually require WASSCE/SSSCE passes (A1–D7) in three core subjects including English Language, Mathematics and Integrated Science/Social Studies, plus passes in any three relevant electives, with at least three core and three elective subjects at credit level (A1–C6) as per general diploma requirements used in Ghana. [web:61][web:64]",
-            "level_note": "The diploma introduces students to practical agriculture, farm management and community engagement for rural development. Successful graduates may progress into the BSc Agriculture for Social Change subject to performance and credit transfer arrangements."
+            "fees": ["Ghanaian Students : GHC 9,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["General Agriculture"]
+              },
+              {
+                "additional": [
+                  "Elective Biology",
+                  "Elective Chemistry",
+                  "Physics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS18,000 - GHS30,000",
+              "USA: $28,000 - $40,000",
+              "Europe: €22,000 - €32,000"
+            ],
+            "cutt_off": ["2024 : ~ 30", "2025 : ~ 30"],
+            "mode": [
+              "In-person lectures and farm-based practical sessions",
+              "Field attachments with farms and agricultural projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Passes in three electives including Agriculture or Science-related subjects",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The diploma introduces sustainable farming and agribusiness basics.",
+              "Students gain hands-on experience for community-focused agricultural work."
+            ]
           }
         ]
       },
       {
         "course_name": "Diploma Computer Science",
         "career": [
+          "Junior Software Developer",
           "IT Support Technician",
-          "Computer Lab Assistant",
+          "Helpdesk Support",
+          "Database Assistant",
           "Junior Web Developer",
-          "Helpdesk Support Officer",
-          "Data Entry and Systems Assistant",
+          "Computer Lab Technician",
           "Network Support Assistant",
-          "ICT Trainer at Basic Level",
-          "Hardware and Software Technician",
-          "Technical Support in SMEs",
-          "Progression to BSc Computer Science or IT"
+          "Technical Support Representative",
+          "ICT Trainer Assistant",
+          "Data Entry Supervisor"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": "Ghanaian Students: GHS 6,000 - GHS 9,000 per year (estimated ICT diploma band)",
-            "duration": "2 - 3 years full-time",
-            "electives": {
-              "required": [
-                "Elective Mathematics",
-                "Physics or ICT",
-                "Any other science or business-related elective"
-              ],
-              "additional": [
-                "Economics",
-                "Business Management",
-                "ICT",
-                "Technical Drawing",
-                "Geography"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 20,000 - GHS 45,000 per year (entry-level IT support roles)",
-              "USA": "USD 35,000 - USD 60,000 per year",
-              "Europe": "EUR 26,000 - EUR 45,000 per year"
-            },
-            "cutt_off": "Diploma programmes commonly accept aggregates up to about 30 with required subject passes in Mathematics and science/ICT as per national guidelines",
-            "mode": "Lab-based teaching focusing on practical computing, basic programming and systems support, with blended e-learning resources.",
-            "entry_requirements": "WASSCE applicants must have passes (A1–D7) in three core subjects including English Language, Mathematics and Integrated Science/Social Studies, plus passes in any three elective subjects, ensuring at least three core and three elective subjects at credit level (A1–C6) for the relevant ICT-focused diploma. [web:61][web:64]",
-            "level_note": "The diploma emphasises foundational computing, programming, networking basics and IT support skills. Graduates can work in entry-level ICT roles or continue into degree programmes in Computer Science or Information Technology."
+            "fees": ["Ghanaian Students : GHC 9,500 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "ICT"]
+              },
+              {
+                "additional": [
+                  "Physics",
+                  "Further Mathematics",
+                  "Applied Electricity"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS20,000 - GHS32,000",
+              "USA: $30,000 - $45,000",
+              "Europe: €24,000 - €35,000"
+            ],
+            "cutt_off": ["2024 : ~ 30", "2025 : ~ 30"],
+            "mode": [
+              "In-person lectures and computer lab practicals",
+              "Project-based learning with basic software and networking tasks"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes in English Language, Core Mathematics and Integrated Science",
+              "WASSCE: Passes in three electives including Elective Mathematics and ICT or Physics",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The diploma provides foundational skills in programming, databases and hardware basics.",
+              "Students are prepared for entry-level IT roles or progression to degree programmes."
+            ]
           }
         ]
       },
@@ -573,44 +676,52 @@
         "course_name": "Dipl. Business Administration",
         "career": [
           "Administrative Assistant",
-          "Sales and Marketing Assistant",
-          "Customer Service Officer",
-          "Store and Inventory Clerk",
-          "Front Desk Executive",
-          "Small Business Assistant Manager",
-          "NGO Field and Admin Assistant",
-          "Data Entry and Records Clerk",
-          "Operations Assistant",
-          "Progression to BSc Business Administration"
+          "Sales Assistant",
+          "Customer Service Representative",
+          "Junior Operations Officer",
+          "Accounts Clerk",
+          "Storekeeper",
+          "Front Desk Officer",
+          "Office Supervisor",
+          "Marketing Assistant",
+          "NGO Programme Assistant"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": "Ghanaian Students: GHS 5,500 - GHS 8,500 per year (estimated business diploma band)",
-            "duration": "2 - 3 years full-time",
-            "electives": {
-              "required": [
-                "Business Management",
-                "Economics or Accounting",
-                "Any other business-related elective"
-              ],
-              "additional": [
-                "Elective Mathematics",
-                "Costing",
-                "Geography",
-                "Government",
-                "ICT"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 18,000 - GHS 40,000 per year (entry-level business and administrative roles)",
-              "USA": "USD 32,000 - USD 55,000 per year",
-              "Europe": "EUR 24,000 - EUR 40,000 per year"
-            },
-            "cutt_off": "Diploma entry commonly accommodates WASSCE aggregates up to about 30 with passes in relevant electives",
-            "mode": "In-person lectures and practical exercises in office applications, communication and basic management, with some blended learning.",
-            "entry_requirements": "Diploma business applicants typically need WASSCE/SSSCE passes in English Language, Mathematics and Integrated Science/Social Studies plus passes in three approved electives such as Business Management, Accounting, Economics or Elective Mathematics, following the general diploma rule that at least three core and three elective subjects must be at credit level (A1–C6). [web:61][web:64]",
-            "level_note": "The diploma covers fundamental business concepts, communication, accounting basics and entrepreneurship. Graduates can occupy support roles in organisations or articulate into degree programmes in business."
+            "fees": ["Ghanaian Students : GHC 8,500 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
+                "additional": [
+                  "Accounting",
+                  "Economics",
+                  "Elective Mathematics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS18,000 - GHS28,000",
+              "USA: $28,000 - $40,000",
+              "Europe: €22,000 - €32,000"
+            ],
+            "cutt_off": ["2024 : ~ 32", "2025 : ~ 32"],
+            "mode": [
+              "In-person lectures, presentations and practical assignments",
+              "Blended learning with basic business software tools"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes in English Language, Core Mathematics and either Integrated Science or Social Studies",
+              "WASSCE: Passes in three electives preferably in Business or related areas",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme introduces core business concepts in management, marketing and accounting.",
+              "Students gain practical office and administrative skills for entry-level roles."
+            ]
           }
         ]
       },
@@ -618,88 +729,105 @@
         "course_name": "Dipl. Accounting",
         "career": [
           "Accounts Clerk",
-          "Accounts Payable/Receivable Assistant",
           "Billing Assistant",
-          "Cashier/Sales Records Clerk",
-          "Payroll Assistant",
-          "Store Accounts Assistant",
-          "Bank Telltale Assistant",
-          "NGO Accounts Assistant",
-          "Audit Support Assistant",
-          "Progression to BSc Accounting or related degrees"
+          "Cashier",
+          "Payroll Clerk",
+          "Accounts Payable Assistant",
+          "Accounts Receivable Assistant",
+          "Finance Support Officer",
+          "Inventory Records Clerk",
+          "Bank Teller (entry level)",
+          "Bookkeeping Assistant"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": "Ghanaian Students: GHS 5,500 - GHS 8,500 per year (estimated similar to other business diplomas)",
-            "duration": "2 - 3 years full-time",
-            "electives": {
-              "required": [
-                "Accounting",
-                "Business Management",
-                "Elective Mathematics or Economics"
-              ],
-              "additional": [
-                "Costing",
-                "ICT",
-                "Geography",
-                "Government",
-                "Any other approved business elective"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 18,000 - GHS 40,000 per year (junior accounting and finance roles)",
-              "USA": "USD 32,000 - USD 55,000 per year",
-              "Europe": "EUR 24,000 - EUR 40,000 per year"
-            },
-            "cutt_off": "Diploma accounting programmes generally accept aggregates up to about 30 with required business elective passes",
-            "mode": "Classroom instruction with practical exercises in bookkeeping, basic accounting software and financial record-keeping.",
-            "entry_requirements": "Applicants should have WASSCE/SSSCE passes in English Language, Mathematics and Integrated Science/Social Studies plus passes in three business-related electives including Accounting and at least one of Business Management, Economics or Elective Mathematics, following the general diploma minimum where at least three core and three elective subjects must be credits. [web:61][web:64]",
-            "level_note": "The diploma provides strong grounding in bookkeeping, basic financial accounting and office accounting procedures. It prepares students for junior finance roles and progression into degree-level accounting programmes."
+            "fees": ["Ghanaian Students : GHC 8,500 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Accounting"]
+              },
+              {
+                "additional": [
+                  "Business Management",
+                  "Elective Mathematics",
+                  "Economics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS18,000 - GHS30,000",
+              "USA: $28,000 - $42,000",
+              "Europe: €22,000 - €34,000"
+            ],
+            "cutt_off": ["2024 : ~ 32", "2025 : ~ 32"],
+            "mode": [
+              "In-person lectures and practical exercises with accounting records",
+              "Use of basic accounting software in lab sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes in English Language, Core Mathematics and either Integrated Science or Social Studies",
+              "WASSCE: Passes in three electives including Accounting or other business-related subjects",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The diploma provides foundational skills in bookkeeping, financial statement preparation and payroll.",
+              "Students are equipped for support roles in finance and accounting units."
+            ]
           }
         ]
       },
       {
         "course_name": "Dipl. Basic Education",
         "career": [
-          "Basic School Teacher (subject to national teacher education and licensure requirements)",
-          "Teaching Assistant in Private Schools",
-          "Adult Literacy Facilitator",
-          "Education Support Worker",
-          "NGO Education Field Officer",
-          "Private Home Tutor",
+          "Basic School Teacher Trainee",
+          "Teaching Assistant",
           "Classroom Assistant",
-          "Early Childhood Education Assistant (depending on focus)",
-          "Community Education Facilitator",
-          "Progression to BEd Education or related degrees"
+          "Private Tuition Provider",
+          "Education Support Worker",
+          "Childcare Centre Assistant",
+          "NGO Education Field Worker",
+          "Community Literacy Facilitator",
+          "Remedial Class Tutor",
+          "After-school Programme Assistant"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": "Ghanaian Students: GHS 5,500 - GHS 8,500 per year (estimated education diploma band)",
-            "duration": "3 years full-time (typical basic education diploma length)",
-            "electives": {
-              "required": [
-                "Any two Arts or Social Science electives such as History, Government, CRS/IRS or Literature in English",
-                "A third elective such as a Ghanaian Language, Economics or Geography"
-              ],
-              "additional": [
-                "ICT",
-                "Visual Art",
-                "Music or Performing Arts",
-                "Elective Mathematics",
-                "General Knowledge in Art"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 18,000 - GHS 38,000 per year (basic teaching roles, depending on setting)",
-              "USA": "USD 30,000 - USD 50,000 per year (contextual equivalent)",
-              "Europe": "EUR 24,000 - EUR 45,000 per year"
-            },
-            "cutt_off": "Diploma basic education may accept WASSCE aggregates up to about 30 with required subject passes as per general diploma standards",
-            "mode": "On-campus lectures, micro-teaching and school-based teaching practice for basic level education.",
-            "entry_requirements": "Diploma candidates typically must have WASSCE/SSSCE passes in English Language, Mathematics and Integrated Science/Social Studies, plus passes in any three approved electives in arts or social sciences, meeting the general requirement that at least three core and three elective subjects are at credit level for education diplomas. [web:61][web:64]",
-            "level_note": "The diploma introduces learners to educational foundations, teaching methods and assessment for basic school levels. Graduates can teach at basic level subject to national regulations or transition into Bachelor of Education programmes."
+            "fees": ["Ghanaian Students : GHC 8,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Any two General Arts or related electives"]
+              },
+              {
+                "additional": [
+                  "Christian Religious Studies",
+                  "History",
+                  "Government"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS16,000 - GHS26,000",
+              "USA: $25,000 - $35,000",
+              "Europe: €20,000 - €30,000"
+            ],
+            "cutt_off": ["2024 : ~ 32", "2025 : ~ 32"],
+            "mode": [
+              "In-person lectures, micro-teaching and school observation",
+              "Practical teaching activities in basic schools"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes in English Language, Core Mathematics and either Integrated Science or Social Studies",
+              "WASSCE: Passes in three electives preferably in General Arts, Business or Science",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The diploma lays the foundation in pedagogy, child development and classroom practice.",
+              "Students are prepared for roles in basic schools and further teacher education."
+            ]
           }
         ]
       }
@@ -708,100 +836,105 @@
   {
     "faculty_name": "Graduate Programs",
     "note": [
-      "Graduate programmes at Regentropfen University College focus on developing advanced expertise for leadership, research and professional practice in specialised fields."
+      "Graduate programmes at Regentropfen University College deepen professional and research competencies.",
+      "They are suitable for graduates seeking advancement in education and applied sciences."
     ],
     "courses": [
       {
         "course_name": "MPhil Aquaculture Technology",
         "career": [
-          "Aquaculture Research Scientist",
-          "Fish Farm Manager",
-          "Aquaculture Extension Specialist",
-          "Aquaculture Consultant",
+          "Aquaculture Specialist",
+          "Fisheries Scientist",
           "Hatchery Manager",
-          "Fisheries and Aquaculture Policy Officer",
-          "NGO Project Manager in Aquaculture and Food Security",
-          "Aquaculture Entrepreneur",
-          "Technical Advisor for Aquaculture Projects",
-          "Doctoral Candidate in Aquaculture or Related Fields"
+          "Aquaculture Farm Manager",
+          "Research and Extension Officer",
+          "Aquaculture Consultant",
+          "Feed and Nutrition Specialist",
+          "Water Quality Manager",
+          "NGO Aquaculture Project Coordinator",
+          "Policy and Regulatory Advisor (Aquaculture)"
         ],
         "levels": [
           {
             "level_name": "Masters",
-            "fees": "Ghanaian Students: GHS 25,000 - GHS 32,000 total for the programme (estimated using typical postgraduate bands in Ghana)",
-            "duration": "2 years full-time (coursework and research thesis)",
-            "electives": {
-              "required": [
-                "Fish Biology and Physiology",
-                "Aquaculture Production Systems",
-                "Water Quality Management",
-                "Fish Nutrition and Feed Technology",
-                "Research Methods and Statistics"
-              ],
-              "additional": [
-                "Fish Health and Biosecurity",
-                "Post-Harvest Technology and Value Addition",
-                "Aquaculture Economics and Management",
-                "Climate Change and Aquaculture",
-                "Special Topics/Directed Readings in Aquaculture"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 40,000 - GHS 90,000 per year (research, farm management and consultancy roles)",
-              "USA": "USD 50,000 - USD 95,000 per year",
-              "Europe": "EUR 35,000 - EUR 75,000 per year"
-            },
-            "cutt_off": "Entry is based on quality of first degree (normally at least Second Class Lower in a relevant field) rather than WASSCE aggregates",
-            "mode": "Blend of advanced coursework, laboratory and field research, and thesis supervision with in-person seminars and some independent study.",
-            "entry_requirements": "Applicants must hold a good first degree (usually minimum Second Class Lower) in agriculture, fisheries, aquaculture, biological sciences or a related discipline from a recognised institution, submit academic transcripts and references, and may be invited for an interview. General graduate requirements include a relevant degree and meeting any additional programme-specific conditions. [web:61][web:68][web:69]",
-            "level_note": "The MPhil in Aquaculture Technology develops advanced skills in aquaculture science, production, management and research. Graduates are prepared to lead innovative aquaculture projects, advise policy and pursue doctoral studies."
+            "fees": ["Ghanaian Students : GHC 20,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS45,000 - GHS80,000",
+              "USA: $60,000 - $95,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["Not applicable for postgraduate"],
+            "mode": [
+              "In-person seminars, laboratory work and field research",
+              "Thesis-based research under supervision"
+            ],
+            "entry_requirements": [
+              "First degree in Agriculture, Aquaculture or related field from a recognised institution",
+              "At least Second Class Lower Division or equivalent",
+              "Submission of research proposal and successful interview where required"
+            ],
+            "level_note": [
+              "The programme provides advanced training in aquaculture systems, fish nutrition and sustainable production.",
+              "Students conduct research addressing industry and community aquaculture challenges."
+            ]
           }
         ]
       },
       {
         "course_name": "Postgraduate Diploma in Education",
         "career": [
-          "Professional Teacher (for degree holders transitioning into teaching, subject to national licensure)",
-          "Subject Teacher at Basic or Secondary Level",
-          "Education Officer (with experience)",
+          "Professional Teacher",
+          "Education Officer",
+          "Training Instructor",
           "Curriculum Facilitator",
-          "Corporate Trainer and Facilitator",
-          "Educational Consultant (with experience)",
-          "Instructional Designer",
-          "Adult Education Instructor",
-          "School Administrator (with further experience)",
-          "Pathway to MEd or other Education Masters"
+          "School Administrator",
+          "Corporate Trainer",
+          "NGO Education Programme Coordinator",
+          "Instructional Coach",
+          "Education Consultant Assistant",
+          "Assessment and Evaluation Officer"
         ],
         "levels": [
           {
             "level_name": "Postgraduate Diploma",
-            "fees": "Ghanaian Students: GHS 12,000 - GHS 18,000 total for the programme (estimated based on typical PGDE fee ranges in Ghana)",
-            "duration": "1 year full-time or equivalent modular/part-time structure",
-            "electives": {
-              "required": [
-                "Foundations of Education",
-                "Curriculum Development and Instruction",
-                "Educational Psychology",
-                "Assessment and Evaluation",
-                "Teaching Methods in Subject Specialisation"
-              ],
-              "additional": [
-                "ICT in Education",
-                "Classroom Management and Guidance",
-                "Inclusive and Special Needs Education",
-                "Educational Leadership Basics",
-                "Practicum/Teaching Practice"
-              ]
-            },
-            "salary": {
-              "Ghana": "GHS 26,000 - GHS 60,000 per year (teaching and education-related roles, depending on level and employer)",
-              "USA": "USD 40,000 - USD 75,000 per year",
-              "Europe": "EUR 30,000 - EUR 60,000 per year"
-            },
-            "cutt_off": "Selection is based on prior degree performance and suitability for teaching rather than WASSCE aggregates",
-            "mode": "Coursework and supervised teaching practice delivered through lectures, workshops, micro-teaching and school placements, possibly using modular or sandwich formats.",
-            "entry_requirements": "Candidates must possess at least a first degree from a recognised university in any discipline relevant to the subjects they intend to teach, with a minimum of Second Class Lower or equivalent, and must satisfy the general graduate admission requirements of Regentropfen University College including submission of transcripts and other documents. [web:61][web:69][web:70]",
-            "level_note": "The Postgraduate Diploma in Education equips degree holders with pedagogical skills, classroom management techniques and assessment strategies. It provides a structured pathway into professional teaching and further postgraduate education studies."
+            "fees": ["Ghanaian Students : GHC 12,000 per year"],
+            "duration": "1 year",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS28,000 - GHS45,000",
+              "USA: $40,000 - $65,000",
+              "Europe: €30,000 - €50,000"
+            ],
+            "cutt_off": ["Not applicable for postgraduate"],
+            "mode": [
+              "Weekend and modular in-person sessions for working professionals",
+              "Blended learning with online pedagogy and assessment tasks"
+            ],
+            "entry_requirements": [
+              "First degree in any discipline from a recognised university",
+              "Interest in teaching or education-related career",
+              "Submission of transcripts and successful screening by the faculty"
+            ],
+            "level_note": [
+              "The programme equips non-education graduates with professional teaching skills.",
+              "Students study pedagogy, curriculum, assessment and inclusive education practices."
+            ]
           }
         ]
       }
