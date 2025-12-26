@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Mountcrest University College"
+  },
+  {
+    "faculty_name": "Faculty of Law",
+    "note": [
+      "MountCrest is the first private tertiary institution in Ghana to offer the LLB degree.",
+      "The Faculty provides flexible learning options including Day, Evening, and Weekend sessions."
+    ],
+    "courses": [
+      {
+        "course_name": "LLB Law",
+        "career": [
+          "Barrister",
+          "Solicitor",
+          "Corporate Counsel",
+          "Legal Consultant",
+          "Judge/Magistrate",
+          "Legal Researcher",
+          "Policy Analyst",
+          "Human Rights Advocate",
+          "Company Secretary",
+          "Legal Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 13,500 per year (Regular)",
+              "Ghanaian Students : GHC 23,000 per year (Evening/Weekend)"
+            ],
+            "duration": "4 years (Regular) / 3 years (Evening/Weekend)",
+            "electives": [
+              {
+                "required": [
+                  "Legal System & Method",
+                  "Constitutional Law",
+                  "Law of Contract",
+                  "Law of Torts"
+                ]
+              },
+              {
+                "additional": [
+                  "Criminal Law",
+                  "Equity & Succession",
+                  "Commercial Law"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - GHS 120,000",
+              "USA: $90,000 - $160,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": ["2024 : ~ 15", "2025 : ~ 15"],
+            "mode": [
+              "In-person lectures with moot court sessions",
+              "Interactive tutorials and case study analysis"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, and Integrated Science/Social Studies",
+              "WASSCE: Credit passes in three elective subjects with a good aggregate",
+              "Mature applicants (25+ years) must pass an entrance examination and interview"
+            ],
+            "level_note": [
+              "This programme provides a comprehensive foundation in Ghanaian and international law.",
+              "It qualifies graduates to apply for the Professional Law Course at the Ghana School of Law."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "LLB (Post First Degree)",
+        "career": [
+          "Legal Advisor",
+          "Corporate Lawyer",
+          "Compliance Officer",
+          "Arbitrator",
+          "Legal Academic",
+          "International Law Specialist",
+          "Public Prosecutor",
+          "Legislative Drafter",
+          "Legal Consultant",
+          "Regulatory Affairs Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Post-First Degree / Professional",
+            "fees": ["Ghanaian Students : GHC 23,000 - GHC 24,700 per year"],
+            "duration": "3 years",
+            "electives": [
+              {
+                "required": [
+                  "Ghana Legal System",
+                  "Constitutional Law",
+                  "Criminal Law",
+                  "Law of Contract"
+                ]
+              },
+              {
+                "additional": [
+                  "Company Law",
+                  "Commercial Law",
+                  "Immovable Property Law"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - GHS 150,000",
+              "USA: $100,000 - $180,000",
+              "Europe: €60,000 - €100,000"
+            ],
+            "cutt_off": ["Not Applicable (Degree required)"],
+            "mode": [
+              "Evening and Weekend lectures designed for working professionals",
+              "Intensive modular study with research components"
+            ],
+            "entry_requirements": [
+              "A good First Degree in any discipline from a recognized university",
+              "Passing an entrance interview or selection process may be required"
+            ],
+            "level_note": [
+              "Designed for graduates of other disciplines who wish to pursue a career in law.",
+              "Covers all core subjects required for admission to the Ghana School of Law."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Fundamentals in Ghanaian Law",
+        "career": [
+          "Paralegal",
+          "Court Clerk",
+          "Legal Assistant",
+          "Compliance Assistant",
+          "Administrative Officer in Law Firms",
+          "Legal Secretary",
+          "Judicial Service Staff",
+          "Customs Officer",
+          "Police Officer (Legal Unit)",
+          "Immigration Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students : ~ GHC 3,000 - 5,000 (Estimated)"],
+            "duration": "6 months - 1 year",
+            "electives": [
+              {
+                "required": [
+                  "Ghana Legal System & Method",
+                  "Constitutional Law",
+                  "Criminal Law"
+                ]
+              },
+              {
+                "additional": [
+                  "Commercial Law",
+                  "Immovable Property Law",
+                  "Law of Tort"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - GHS 40,000",
+              "USA: $35,000 - $50,000",
+              "Europe: €25,000 - €40,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": [
+              "Weekend or Evening classes",
+              "Practical workshops and seminars"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE certificate or equivalent",
+              "Mature applicants with relevant work experience"
+            ],
+            "level_note": [
+              "Provides a solid introduction to the key pillars of the Ghanaian legal system.",
+              "Ideal for non-law professionals seeking legal literacy for their careers."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Specialized Legal Certificates",
+        "career": [
+          "Capital Markets Compliance Officer",
+          "Securities Analyst",
+          "Intellectual Property Consultant",
+          "Corporate Governance Specialist",
+          "Legal Researcher",
+          "Contracts Administrator",
+          "Company Secretary Assistant",
+          "Investment Banker (Legal)",
+          "Real Estate Consultant",
+          "Copyright Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students : ~ GHC 2,500 per module (Estimated)"],
+            "duration": "3 - 6 months per module",
+            "electives": [
+              {
+                "required": ["Legal Writing & Practical Legal Research"]
+              },
+              {
+                "additional": [
+                  "International Capital Markets Law & Securities",
+                  "Intellectual Property Law",
+                  "Company Law"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - GHS 60,000",
+              "USA: $45,000 - $70,000",
+              "Europe: €30,000 - €50,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": [
+              "Intensive short courses",
+              "Workshops and practical drafting sessions"
+            ],
+            "entry_requirements": [
+              "Professional background or relevant academic qualification",
+              "Interest in specific legal practice areas"
+            ],
+            "level_note": [
+              "Specialized short courses for professionals to gain expertise in niche legal areas.",
+              "Modules include Capital Markets, Intellectual Property, and Company Law."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Business",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Accounting",
+        "career": [
+          "Chartered Accountant",
+          "Auditor",
+          "Tax Consultant",
+          "Financial Controller",
+          "Management Accountant",
+          "Forensic Accountant",
+          "Budget Analyst",
+          "Payroll Manager",
+          "Finance Officer",
+          "Investment Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : ~ GHC 8,000 - 10,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Financial Accounting",
+                  "Cost Accounting",
+                  "Taxation"
+                ]
+              },
+              {
+                "additional": [
+                  "Business Law",
+                  "Auditing",
+                  "Management Information Systems"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 80,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures and tutorials",
+              "Industrial attachment and internship opportunities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science/Social Studies",
+              "WASSCE: Credit passes in three electives (Accounting/Business options preferred)"
+            ],
+            "level_note": [
+              "Prepares students for professional accounting certification and practice.",
+              "Focuses on financial reporting, control, and strategic financial management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Banking & Finance",
+        "career": [
+          "Bank Manager",
+          "Credit Analyst",
+          "Investment Banker",
+          "Financial Risk Manager",
+          "Stockbroker",
+          "Treasury Analyst",
+          "Financial Planner",
+          "Loan Officer",
+          "Insurance Underwriter",
+          "Economic Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : ~ GHC 8,000 - 10,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Money and Banking",
+                  "Corporate Finance",
+                  "Investment Analysis"
+                ]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Marketing of Financial Services",
+                  "International Finance"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - GHS 90,000",
+              "USA: $65,000 - $110,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Classroom lectures and seminars",
+              "Practical banking software training"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science/Social Studies",
+              "WASSCE: Credit passes in three business-related electives"
+            ],
+            "level_note": [
+              "Equips students with analytical tools for the banking and financial sectors.",
+              "Covers modern financial markets, institutions, and monetary policy."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Medical & Health Sciences",
+    "note": [
+      "Dedicated to training professionals to manage health challenges in tropical environments.",
+      "Programs are designed to meet the growing demand for health administrators."
+    ],
+    "courses": [
+      {
+        "course_name": "Public Health",
+        "career": [
+          "Public Health Officer",
+          "Epidemiologist",
+          "Health Educator",
+          "Community Health Director",
+          "Environmental Health Specialist",
+          "Health Policy Analyst",
+          "NGO Program Coordinator",
+          "Disease Control Specialist",
+          "Occupational Health and Safety Officer",
+          "Biostatistician"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 8,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Epidemiology",
+                  "Biostatistics",
+                  "Environmental Health"
+                ]
+              },
+              {
+                "additional": [
+                  "Health Promotion",
+                  "Disease Control",
+                  "Health Psychology"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - GHS 90,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
+            "mode": [
+              "Lectures, laboratory work, and field attachments",
+              "Community-based health projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science",
+              "WASSCE: Credit passes in three electives (Science background preferred)"
+            ],
+            "level_note": [
+              "Focuses on disease prevention and prolonging life through organized community efforts.",
+              "Students gain practical skills in managing public health interventions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Health Service Management",
+        "career": [
+          "Hospital Administrator",
+          "Health Services Manager",
+          "Clinical Manager",
+          "Health Information Manager",
+          "Nursing Home Administrator",
+          "Patient Services Manager",
+          "Healthcare Consultant",
+          "Medical Practice Manager",
+          "Health Insurance Manager",
+          "Quality Assurance Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 8,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Health Administration",
+                  "Health Economics",
+                  "Human Resource Management in Health"
+                ]
+              },
+              {
+                "additional": [
+                  "Health Law and Ethics",
+                  "Financial Management in Health",
+                  "Marketing of Health Services"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - GHS 85,000",
+              "USA: $70,000 - $120,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Interdisciplinary approach combining business and health sciences",
+              "Case studies and administrative internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science",
+              "WASSCE: Credit passes in three relevant electives"
+            ],
+            "level_note": [
+              "Prepares students for leadership roles in hospitals and health organizations.",
+              "Combines management principles with a deep understanding of healthcare systems."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
