@@ -4,7 +4,9 @@
   },
   {
     "faculty_name": "Health Sciences",
-    "note": "The Faculty of Health Sciences offers comprehensive nursing and health programmes designed to meet Ghana’s growing healthcare needs, with strong emphasis on practical training and community engagement. [web:65][web:71][web:78]",
+    "note": [
+      "The Faculty of Health Sciences offers comprehensive nursing and health programmes designed to meet Ghana’s growing healthcare needs, with strong emphasis on practical training and community engagement"
+    ],
     "courses": [
       {
         "course_name": "BSc. General Nursing",
@@ -145,7 +147,9 @@
   },
   {
     "faculty_name": "Applied Sciences",
-    "note": "The Applied Sciences faculty trains students in agriculture, computing and technology to address community needs and drive social change, especially in the northern parts of Ghana. [web:65][web:68][web:71]",
+    "note": [
+      "The Applied Sciences faculty trains students in agriculture, computing and technology to address community needs and drive social change, especially in the northern parts of Ghana."
+    ],
     "courses": [
       {
         "course_name": "BSc. Agriculture for Social Change",
@@ -282,7 +286,9 @@
   },
   {
     "faculty_name": "Humanities and Education",
-    "note": "The Humanities and Education faculty provides training in business, accounting and teacher education to support socio-economic and educational development in Ghana and the wider region. [web:65][web:68][web:71]",
+    "note": [
+      "The Humanities and Education faculty provides training in business, accounting and teacher education to support socio-economic and educational development in Ghana and the wider region."
+    ],
     "courses": [
       {
         "course_name": "B.Sc. Business Administration",
@@ -467,7 +473,9 @@
   },
   {
     "faculty_name": "Diploma Programs",
-    "note": "Diploma programmes provide flexible, practice-oriented training and pathways into degree studies for students who may not initially meet full undergraduate entry requirements. [web:61][web:64][web:69]",
+    "note": [
+      "Diploma programmes provide flexible, practice-oriented training and pathways into degree studies for students who may not initially meet full undergraduate entry requirements."
+    ],
     "courses": [
       {
         "course_name": "Diploma Agriculture for Social Change",
@@ -697,7 +705,9 @@
   },
   {
     "faculty_name": "Graduate Programs",
-    "note": "Graduate programmes at Regentropfen University College focus on developing advanced expertise for leadership, research and professional practice in specialised fields. [web:65][web:68][web:69]",
+    "note": [
+      "Graduate programmes at Regentropfen University College focus on developing advanced expertise for leadership, research and professional practice in specialised fields."
+    ],
     "courses": [
       {
         "course_name": "MPhil Aquaculture Technology",
