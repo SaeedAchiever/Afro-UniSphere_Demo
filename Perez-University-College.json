@@ -4,31 +4,61 @@
   },
   {
     "faculty_name": "Business Administration",
-    "note": [],
+    "note": [
+      "The School of Business at Perez University College offers Bachelor of Business Administration degrees with several specialisations.",
+      "Programmes emphasise Christian values, ethical leadership and practical business skills."
+    ],
     "courses": [
       {
         "course_name": "BBA Accounting",
         "career": [
-          "Accountant",
-          "Financial Analyst",
+          "Financial Accountant",
+          "Management Accountant",
           "Auditor",
           "Tax Consultant",
-          "Management Accountant",
-          "Finance Officer"
+          "Budget Analyst",
+          "Accounts Officer",
+          "Payroll Manager",
+          "Financial Controller",
+          "Credit Control Officer",
+          "Forensic Accountant"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [
-              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            "fees": ["Ghanaian Students : GHC 7,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Financial Accounting", "Cost Accounting"]
+              },
+              {
+                "additional": [
+                  "Business Management",
+                  "Economics",
+                  "Elective Mathematics"
+                ]
+              }
             ],
-            "level_note": []
+            "salary": [
+              "Ghana: GHS35,000 - GHS65,000",
+              "USA: $55,000 - $90,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "In-person lectures and tutorials",
+              "Blended learning with case studies and accounting software practice"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least C6 in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: At least C6 in three electives including Financial Accounting and Business Management or Economics",
+              "Minimum aggregate 24 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme builds strong foundations in financial and management accounting.",
+              "Students are prepared for careers in finance and further professional certifications."
+            ]
           }
         ]
       },
@@ -36,25 +66,52 @@
         "course_name": "BBA Banking and Finance",
         "career": [
           "Bank Teller",
-          "Loan Officer",
+          "Retail Banker",
           "Credit Analyst",
+          "Risk Management Officer",
+          "Loan Officer",
           "Investment Analyst",
-          "Corporate Banker",
-          "Financial Consultant"
+          "Treasury Officer",
+          "Microfinance Officer",
+          "Financial Advisor",
+          "Corporate Banking Officer"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [
-              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            "fees": ["Ghanaian Students : GHC 7,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Economics"]
+              },
+              {
+                "additional": [
+                  "Financial Accounting",
+                  "Business Management",
+                  "Cost Accounting"
+                ]
+              }
             ],
-            "level_note": []
+            "salary": [
+              "Ghana: GHS35,000 - GHS70,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["2024 : ~ 22", "2025 : ~ 22"],
+            "mode": [
+              "In-person lectures, tutorials and banking case studies",
+              "Blended learning with spreadsheets and basic financial modelling"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least C6 in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: At least C6 in three electives including Elective Mathematics and Economics or Accounting",
+              "Minimum aggregate 24 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme combines banking operations with finance and risk management.",
+              "Students gain skills needed for roles in banks, microfinance and other financial institutions."
+            ]
           }
         ]
       },
@@ -62,25 +119,52 @@
         "course_name": "BBA Management",
         "career": [
           "Business Manager",
-          "Operations Manager",
-          "Project Manager",
-          "Business Development Officer",
+          "Operations Officer",
+          "Project Coordinator",
+          "Administrative Manager",
           "Entrepreneur",
-          "Management Consultant"
+          "Sales Manager",
+          "Customer Service Manager",
+          "NGO Programme Officer",
+          "Branch Manager",
+          "Business Development Executive"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [
-              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            "fees": ["Ghanaian Students : GHC 7,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Financial Accounting",
+                  "Elective Mathematics"
+                ]
+              }
             ],
-            "level_note": []
+            "salary": [
+              "Ghana: GHS30,000 - GHS60,000",
+              "USA: $50,000 - $85,000",
+              "Europe: €32,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "In-person lectures, case studies and presentations",
+              "Blended learning with group projects and online activities"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least C6 in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: At least C6 in three electives including Business Management or other business-related subjects",
+              "Minimum aggregate 24 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme develops skills in leadership, strategy and operations.",
+              "Students are prepared for management roles in diverse organisations."
+            ]
           }
         ]
       },
@@ -88,73 +172,153 @@
         "course_name": "BBA Human Resource Management",
         "career": [
           "Human Resource Officer",
-          "Recruitment Specialist",
+          "Recruitment Officer",
           "Training and Development Officer",
-          "Compensation and Benefits Analyst",
-          "HR Business Partner",
-          "Industrial Relations Officer"
+          "Compensation and Benefits Officer",
+          "Employee Relations Officer",
+          "HR Assistant",
+          "HR Business Partner (with experience)",
+          "Organisational Development Officer",
+          "Labour Relations Officer",
+          "Talent Acquisition Specialist"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [
-              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            "fees": ["Ghanaian Students : GHC 7,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Government",
+                  "Elective Mathematics"
+                ]
+              }
             ],
-            "level_note": []
+            "salary": [
+              "Ghana: GHS30,000 - GHS55,000",
+              "USA: $50,000 - $80,000",
+              "Europe: €32,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 26", "2025 : ~ 26"],
+            "mode": [
+              "In-person lectures with role plays and group work",
+              "Blended learning with HR case studies and projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least C6 in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: At least C6 in three electives including Business Management or other business and social science subjects",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme focuses on managing people, performance and workplace relations.",
+              "Students gain practical HR skills suitable for organisations of different sizes."
+            ]
           }
         ]
       },
       {
         "course_name": "BBA Marketing",
         "career": [
-          "Marketing Executive",
-          "Brand Manager",
-          "Sales and Business Development Executive",
+          "Marketing Officer",
+          "Brand Executive",
+          "Sales and Business Development Officer",
+          "Market Research Assistant",
           "Digital Marketing Specialist",
-          "Market Research Analyst",
-          "Customer Relations Officer"
+          "Customer Relations Officer",
+          "Advertising Account Executive",
+          "Product Marketing Assistant",
+          "Social Media Manager",
+          "Events and Promotions Coordinator"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [
-              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            "fees": ["Ghanaian Students : GHC 7,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
+                "additional": [
+                  "Economics",
+                  "Elective Mathematics",
+                  "Graphic Design"
+                ]
+              }
             ],
-            "level_note": []
+            "salary": [
+              "Ghana: GHS28,000 - GHS55,000",
+              "USA: $45,000 - $75,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["2024 : ~ 28", "2025 : ~ 28"],
+            "mode": [
+              "In-person lectures, marketing projects and campaign simulations",
+              "Blended learning with digital marketing tools and online tasks"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least C6 in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: At least C6 in three electives including Business Management or other business and arts subjects",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme develops skills in consumer behaviour, branding and digital marketing.",
+              "Students work on real or simulated campaigns for products and services."
+            ]
           }
         ]
       },
       {
         "course_name": "Human Resource Management (ICM, UK)",
         "career": [
-          "Human Resource Assistant",
-          "HR Officer",
+          "HR Assistant",
           "Recruitment Assistant",
-          "Training Assistant"
+          "Training Assistant",
+          "Office Administrator",
+          "Payroll Clerk",
+          "Records Officer",
+          "Customer Service Representative",
+          "Team Leader",
+          "HR Coordinator",
+          "Administrative Supervisor"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 4,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS20,000 - GHS32,000",
+              "USA: $30,000 - $45,000",
+              "Europe: €24,000 - €35,000"
+            ],
+            "cutt_off": ["2024 : ~ 32", "2025 : ~ 32"],
+            "mode": [
+              "In-person lectures with ICM, UK syllabus",
+              "Blended learning with exams leading to ICM qualification"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes including English Language and Mathematics",
+              "Mature applicants with relevant work experience may be considered"
+            ],
+            "level_note": [
+              "This diploma follows the Institute of Commercial Management (UK) curriculum in HR.",
+              "Students gain practical HR support skills and an international professional award."
+            ]
           }
         ]
       },
@@ -163,20 +327,46 @@
         "career": [
           "Marketing Assistant",
           "Sales Representative",
+          "Customer Service Officer",
+          "Brand Assistant",
+          "Promotions Assistant",
+          "Telemarketing Agent",
+          "Retail Supervisor",
           "Digital Marketing Assistant",
-          "Customer Service Representative"
+          "Content Assistant",
+          "Events Assistant"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 4,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS20,000 - GHS32,000",
+              "USA: $30,000 - $45,000",
+              "Europe: €24,000 - €35,000"
+            ],
+            "cutt_off": ["2024 : ~ 32", "2025 : ~ 32"],
+            "mode": [
+              "In-person delivery of ICM, UK modules",
+              "Project work and examinations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes including English Language and Mathematics",
+              "Professional or working applicants in marketing are encouraged"
+            ],
+            "level_note": [
+              "The diploma introduces core marketing concepts and techniques.",
+              "Students obtain an international professional qualification from ICM, UK."
+            ]
           }
         ]
       }
@@ -184,31 +374,64 @@
   },
   {
     "faculty_name": "Theology",
-    "note": [],
+    "note": [
+      "Perez University College originated as a ministerial training institution and maintains a strong emphasis on Christian ministry.",
+      "The School of Theology prepares students for pastoral, teaching and leadership roles in the church."
+    ],
     "courses": [
       {
         "course_name": "BA Biblical Studies",
         "career": [
           "Pastor",
           "Bible Teacher",
-          "Christian Educator",
+          "Youth Pastor",
+          "Christian Education Director",
           "Missionary",
-          "Church Worker",
-          "Theological Research Assistant"
+          "Church Planter",
+          "Christian Author",
+          "Chaplain Assistant",
+          "Conference Speaker",
+          "Christian Media Presenter"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [
-              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            "fees": ["Ghanaian Students : GHC 6,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Christian Religious Studies",
+                  "Literature in English"
+                ]
+              },
+              {
+                "additional": [
+                  "History",
+                  "Government",
+                  "Any approved Arts elective"
+                ]
+              }
             ],
-            "level_note": []
+            "salary": [
+              "Ghana: GHS20,000 - GHS35,000",
+              "USA: $35,000 - $55,000",
+              "Europe: €28,000 - €45,000"
+            ],
+            "cutt_off": ["2024 : ~ 30", "2025 : ~ 30"],
+            "mode": [
+              "In-person lectures, Bible studies and ministry practicums",
+              "Blended learning with online resources and assignments"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least C6 in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: At least C6 in three electives preferably including CRS or other humanities subjects",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme focuses on Old and New Testament studies, hermeneutics and theology.",
+              "Students are equipped for teaching, preaching and Christian leadership."
+            ]
           }
         ]
       },
@@ -216,46 +439,96 @@
         "course_name": "BA Church Administration",
         "career": [
           "Church Administrator",
+          "Associate Pastor",
           "Ministry Coordinator",
-          "Nonprofit Administrator",
-          "Church Finance Officer",
-          "Parachurch Organization Staff"
+          "Christian NGO Administrator",
+          "Events Coordinator (Church)",
+          "Christian Education Coordinator",
+          "Finance and Operations Officer (Church)",
+          "Missions Coordinator",
+          "Programme Director",
+          "Human Resource Officer (Church or NGO)"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [
-              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            "fees": ["Ghanaian Students : GHC 6,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Christian Religious Studies"]
+              },
+              {
+                "additional": ["Business Management", "Accounting", "Economics"]
+              }
             ],
-            "level_note": []
+            "salary": [
+              "Ghana: GHS22,000 - GHS38,000",
+              "USA: $35,000 - $55,000",
+              "Europe: €28,000 - €45,000"
+            ],
+            "cutt_off": ["2024 : ~ 30", "2025 : ~ 30"],
+            "mode": [
+              "In-person lectures and administrative practicums in churches or ministries",
+              "Blended learning with project work and case studies"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least C6 in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: At least C6 in three electives including CRS and business or arts-related subjects",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme blends theology with management and leadership in church settings.",
+              "Students learn to manage finances, staff and programmes within Christian organisations."
+            ]
           }
         ]
       },
       {
         "course_name": "Certificate in Ministry",
         "career": [
-          "Lay Pastor",
-          "Church Worker",
+          "Lay Minister",
+          "Assistant Pastor",
+          "Youth Leader",
           "Evangelism Team Member",
-          "Ministry Volunteer"
+          "Bible Study Leader",
+          "Cell Group Leader",
+          "Church Administrator Assistant",
+          "Prayer Coordinator",
+          "Outreach Coordinator",
+          "Church Worker"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "6 months",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 2,500 per programme"],
+            "duration": "6 - 12 months",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS15,000 - GHS25,000",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Open to all with basic education"],
+            "mode": [
+              "Weekend or evening modular classes",
+              "Blended learning with practical ministry assignments"
+            ],
+            "entry_requirements": [
+              "Basic secondary education or its equivalent",
+              "Active involvement in a local church is recommended"
+            ],
+            "level_note": [
+              "The certificate equips students with foundational ministry and leadership skills.",
+              "Programme is suitable for lay leaders, workers and aspiring ministers."
+            ]
           }
         ]
       }
@@ -263,31 +536,61 @@
   },
   {
     "faculty_name": "Communication and Social Science",
-    "note": [],
+    "note": [
+      "The School of Communication and Social Sciences offers media and communication programmes with a Christian worldview.",
+      "Students gain hands-on experience in media production and communication strategy."
+    ],
     "courses": [
       {
         "course_name": "BA in Digital Media",
         "career": [
-          "Digital Content Creator",
-          "Social Media Manager",
-          "Multimedia Producer",
+          "Digital Media Producer",
+          "Content Creator",
           "Video Editor",
-          "Graphic Designer",
-          "Digital Marketing Specialist"
+          "Social Media Manager",
+          "Multimedia Designer",
+          "Digital Marketer",
+          "Photographer/Videographer",
+          "Web Content Producer",
+          "Graphics and Motion Designer",
+          "Media Entrepreneur"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [
-              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            "fees": ["Ghanaian Students : GHC 7,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Graphic Design", "IT or ICT"]
+              },
+              {
+                "additional": [
+                  "Literature in English",
+                  "Government",
+                  "Economics"
+                ]
+              }
             ],
-            "level_note": []
+            "salary": [
+              "Ghana: GHS28,000 - GHS55,000",
+              "USA: $45,000 - $80,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["2024 : ~ 28", "2025 : ~ 28"],
+            "mode": [
+              "In-person studio work, production projects and lectures",
+              "Blended learning with digital platforms and online submissions"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least C6 in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: At least C6 in three electives including Visual Arts or ICT or related subjects",
+              "Portfolio may be requested for applicants with strong creative backgrounds"
+            ],
+            "level_note": [
+              "The programme covers video production, graphic design, photography and digital storytelling.",
+              "Students build portfolios for roles in media, advertising and ministry."
+            ]
           }
         ]
       },
@@ -297,109 +600,238 @@
           "Journalist",
           "Public Relations Officer",
           "Corporate Communications Officer",
-          "Media Relations Officer",
+          "Radio/TV Presenter",
+          "Social Media Manager",
           "Content Writer",
-          "Communications Consultant"
+          "Events Coordinator",
+          "NGO Communications Officer",
+          "Advertising Executive",
+          "Media Relations Specialist"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [
-              "Standard undergraduate entry: generally requires credit passes in three core subjects (English, Mathematics, Integrated Science or Social Studies) and three relevant elective subjects in WASSCE/SSSCE or approved equivalent, plus acceptable alternatives for GCE A-Level, ABCE, HND and mature applicants as defined in the university’s general admission requirements."
+            "fees": ["Ghanaian Students : GHC 7,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Literature in English"]
+              },
+              {
+                "additional": ["Government", "History", "Economics"]
+              }
             ],
-            "level_note": []
+            "salary": [
+              "Ghana: GHS28,000 - GHS55,000",
+              "USA: $45,000 - $80,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["2024 : ~ 26", "2025 : ~ 26"],
+            "mode": [
+              "In-person lectures, newsroom simulations and media projects",
+              "Blended learning with online publishing and social media tasks"
+            ],
+            "entry_requirements": [
+              "WASSCE: At least C6 in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "WASSCE: At least C6 in three electives including Literature in English and any two Arts or Social Science subjects",
+              "Minimum aggregate 30 or better in six subjects"
+            ],
+            "level_note": [
+              "The programme focuses on journalism, public relations and corporate communication.",
+              "Students develop strong writing, speaking and media production skills."
+            ]
           }
         ]
       },
       {
         "course_name": "Diploma in Digital Media",
         "career": [
-          "Junior Multimedia Designer",
-          "Digital Media Assistant",
-          "Video Editing Assistant",
-          "Social Media Content Assistant"
+          "Junior Digital Media Assistant",
+          "Photo and Video Editor",
+          "Social Media Assistant",
+          "Graphics Assistant",
+          "Camera Operator",
+          "Production Assistant",
+          "Studio Assistant",
+          "Content Creator",
+          "Freelance Media Assistant",
+          "Church Media Team Member"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 4,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS18,000 - GHS28,000",
+              "USA: $28,000 - $40,000",
+              "Europe: €22,000 - €32,000"
+            ],
+            "cutt_off": ["2024 : ~ 32", "2025 : ~ 32"],
+            "mode": [
+              "Hands-on studio-based teaching with projects",
+              "Blended learning using editing and design software"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes including English Language and Mathematics",
+              "Interest or experience in media or creative arts is beneficial"
+            ],
+            "level_note": [
+              "The diploma introduces core skills in video, audio and graphic production.",
+              "Graduates can work in entry-level media roles or progress to degree programmes."
+            ]
           }
         ]
       },
       {
         "course_name": "Diploma in Communication Studies",
         "career": [
-          "Communications Assistant",
+          "Communication Assistant",
           "Public Relations Assistant",
-          "Media Production Assistant",
-          "Customer Relations Assistant"
+          "Customer Service Officer",
+          "Social Media Assistant",
+          "Events Assistant",
+          "Radio/TV Production Assistant",
+          "Content Writer",
+          "Receptionist",
+          "Call Centre Agent",
+          "Church or NGO Communications Assistant"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 4,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS18,000 - GHS28,000",
+              "USA: $28,000 - $40,000",
+              "Europe: €22,000 - €32,000"
+            ],
+            "cutt_off": ["2024 : ~ 32", "2025 : ~ 32"],
+            "mode": [
+              "In-person lectures and communication skills workshops",
+              "Practical assignments in writing, speaking and basic media production"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes including English Language and Mathematics",
+              "Applicants should have interest in media, public relations or communication"
+            ],
+            "level_note": [
+              "The diploma builds foundational communication and media skills.",
+              "Students can progress to degree programmes in communication or work in support roles."
+            ]
           }
         ]
       },
       {
         "course_name": "Certificate in Digital Media",
         "career": [
-          "Digital Media Support Staff",
+          "Media Volunteer",
+          "Church Media Operator",
+          "Content Creator",
           "Social Media Assistant",
-          "Basic Multimedia Technician"
+          "Photographer Assistant",
+          "Video Editor Assistant",
+          "Studio Assistant",
+          "Online Content Manager (small organisations)",
+          "Graphic Design Assistant",
+          "Camera Operator Assistant"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 2,000 per programme"],
+            "duration": "3 - 6 months",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS15,000 - GHS25,000",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Open short course"],
+            "mode": [
+              "Evening or weekend classes with intensive practicals",
+              "Project-based learning with real media assignments"
+            ],
+            "entry_requirements": [
+              "Basic computer literacy",
+              "Interest in media and content creation"
+            ],
+            "level_note": [
+              "This certificate introduces basic photo, video and graphic tools.",
+              "Students can support church or small business media teams effectively."
+            ]
           }
         ]
       },
       {
         "course_name": "Certificate in Communication Studies",
         "career": [
-          "Communications Support Staff",
-          "Customer Service Representative",
-          "Office Communications Assistant"
+          "Church Announcer",
+          "Receptionist",
+          "Customer Service Assistant",
+          "Sales Promoter",
+          "Public Speaking Assistant",
+          "Events Assistant",
+          "Content Creator",
+          "Call Centre Assistant",
+          "Community Mobiliser",
+          "Office Assistant"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 2,000 per programme"],
+            "duration": "3 - 6 months",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS14,000 - GHS22,000",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Open short course"],
+            "mode": [
+              "Short modular lectures, workshops and presentations",
+              "Blended learning with practice in speaking and writing"
+            ],
+            "entry_requirements": [
+              "Basic secondary education or equivalent",
+              "Ability to read and write English"
+            ],
+            "level_note": [
+              "The certificate focuses on public speaking, interpersonal and basic media communication.",
+              "It is ideal for church workers, ministry staff and entry-level communication roles."
+            ]
           }
         ]
       },
@@ -407,204 +839,488 @@
         "course_name": "Certificate in Ministry (CIM)",
         "career": [
           "Lay Minister",
-          "Church Worker",
-          "Small Group Leader",
-          "Evangelism Team Member"
+          "Cell Group Leader",
+          "Evangelism Team Member",
+          "Youth Leader",
+          "Children’s Ministry Worker",
+          "Church Administrator Assistant",
+          "Prayer Leader",
+          "Outreach Worker",
+          "Follow-up and Discipleship Worker",
+          "Departmental Leader"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 2,500 per programme"],
+            "duration": "6 - 12 months",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS15,000 - GHS25,000",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Open ministry training"],
+            "mode": [
+              "Weekend and evening classes",
+              "Practical ministry projects and mentoring"
+            ],
+            "entry_requirements": [
+              "Active membership in a Christian church",
+              "Basic secondary education is preferred"
+            ],
+            "level_note": [
+              "The programme provides structured training for ministry volunteers and emerging leaders.",
+              "Students learn core doctrine, ministry skills and leadership principles."
+            ]
           }
         ]
       }
     ]
   },
   {
-    "faculty_name": "Certificate Programmes",
-    "note": [],
+    "faculty_name": "Certificate Short Courses",
+    "note": [
+      "Perez University College runs several focused short courses for ministry and skills development.",
+      "These programmes are typically modular and can be combined with regular work or ministry."
+    ],
     "courses": [
       {
-        "course_name": "Certificate in Advance Microsoft Office Suite",
+        "course_name": "Certificate in Advanced Microsoft Office Suite",
         "career": [
           "Administrative Assistant",
-          "Office Support Staff",
-          "Data Entry Officer"
+          "Data Entry Officer",
+          "Office Manager",
+          "Secretary",
+          "Records Officer",
+          "Personal Assistant",
+          "Customer Service Officer",
+          "Project Assistant",
+          "Accounts Clerk",
+          "IT Support Assistant"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 1,500 per programme"],
+            "duration": "2 - 3 months",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS14,000 - GHS24,000",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Open course"],
+            "mode": [
+              "Computer lab-based practical sessions",
+              "Evening or weekend delivery"
+            ],
+            "entry_requirements": [
+              "Basic computer literacy",
+              "Ability to read and write English"
+            ],
+            "level_note": [
+              "Focuses on advanced skills in Word, Excel, PowerPoint and related tools.",
+              "Ideal for office workers seeking to upgrade productivity skills."
+            ]
           }
         ]
       },
       {
         "course_name": "The Holy Spirit, His Gifts And Ministry",
-        "career": ["Church Worker", "Prayer Team Member", "Lay Minister"],
+        "career": [
+          "Lay Minister",
+          "Prayer Leader",
+          "Youth Leader",
+          "Home Cell Leader",
+          "Bible Study Leader",
+          "Evangelism Team Member",
+          "Church Worker",
+          "Intercessory Team Member",
+          "Deliverance Team Assistant",
+          "Ministry Volunteer"
+        ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 1,200 per programme"],
+            "duration": "4 - 8 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: Ministry-focused, not salary-driven",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Open to committed Christians"],
+            "mode": [
+              "Evening or weekend teaching with prayer sessions",
+              "Practical ministry exercises"
+            ],
+            "entry_requirements": [
+              "Evidence of Christian faith and church involvement",
+              "Ability to participate in intensive teaching and prayer"
+            ],
+            "level_note": [
+              "Explores the person and work of the Holy Spirit and spiritual gifts.",
+              "Designed to help believers function effectively in Spirit-led ministry."
+            ]
           }
         ]
       },
       {
         "course_name": "Mission And Evangelism",
-        "career": ["Evangelist", "Outreach Worker", "Missions Support Staff"],
+        "career": [
+          "Evangelist",
+          "Missionary",
+          "Outreach Coordinator",
+          "Church Growth Worker",
+          "Campus Evangelism Leader",
+          "Street Evangelism Team Member",
+          "Crusade Organiser",
+          "Discipleship Group Leader",
+          "Church Planter Assistant",
+          "Community Outreach Worker"
+        ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 1,200 per programme"],
+            "duration": "4 - 8 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: Ministry-focused, not salary-driven",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Open to Christians"],
+            "mode": [
+              "Interactive lectures, outreach planning and field practice",
+              "Weekend or block modules"
+            ],
+            "entry_requirements": [
+              "Active involvement in a local church or ministry",
+              "Willingness to participate in outreach activities"
+            ],
+            "level_note": [
+              "The course trains believers in personal and corporate evangelism and missions.",
+              "Students participate in practical outreach and mission projects."
+            ]
           }
         ]
       },
       {
         "course_name": "The Art and Ethics of Preaching",
-        "career": ["Preacher", "Lay Preacher", "Teaching Pastor"],
+        "career": [
+          "Preacher",
+          "Pastor",
+          "Lay Minister",
+          "Youth Preacher",
+          "Bible Study Leader",
+          "Conference Speaker",
+          "Church Teacher",
+          "Online Sermon Presenter",
+          "Devotional Writer",
+          "Pulpit Associate"
+        ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 1,200 per programme"],
+            "duration": "4 - 8 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: Ministry-focused, not salary-driven",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Open course for ministers"],
+            "mode": [
+              "Workshops, sermon labs and feedback sessions",
+              "Evening or weekend blocks"
+            ],
+            "entry_requirements": [
+              "Call or interest in preaching or teaching ministry",
+              "Ability to speak and write English"
+            ],
+            "level_note": [
+              "Covers sermon preparation, delivery and ethical issues in preaching.",
+              "Participants preach and receive guided feedback from facilitators."
+            ]
           }
         ]
       },
       {
         "course_name": "Biblical Interpretation And Sound Doctrine",
         "career": [
-          "Bible Study Leader",
-          "Christian Educator",
-          "Teaching Assistant in Church"
+          "Bible Teacher",
+          "Sunday School Teacher",
+          "Discipleship Leader",
+          "Preacher",
+          "Cell Group Leader",
+          "Doctrine Instructor",
+          "Christian Author",
+          "Curriculum Developer",
+          "Church Theological Resource Person",
+          "Online Bible Study Host"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 1,200 per programme"],
+            "duration": "4 - 8 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: Ministry-focused, not salary-driven",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Open to Christians"],
+            "mode": [
+              "Classroom teaching with Bible study exercises",
+              "Assignments on doctrinal topics"
+            ],
+            "entry_requirements": [
+              "Ability to read the Bible regularly",
+              "Commitment to attend teaching sessions"
+            ],
+            "level_note": [
+              "The course teaches principles of interpreting Scripture correctly.",
+              "Participants learn core Christian doctrines and how to avoid error."
+            ]
           }
         ]
       },
       {
         "course_name": "Media Evangelism And Technology (Advanced)",
         "career": [
-          "Media Ministry Coordinator",
-          "Church Media Technician",
-          "Digital Evangelism Coordinator"
+          "Media Evangelist",
+          "Church Media Director",
+          "Online Ministry Coordinator",
+          "Content Creator for Christian Media",
+          "Video Evangelism Producer",
+          "Social Media Ministry Manager",
+          "Podcast Host",
+          "Streaming Technician",
+          "Graphics and Video Editor (Ministry)",
+          "Digital Outreach Strategist"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 1,500 per programme"],
+            "duration": "6 - 10 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: Ministry or media-based income",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Advanced course"],
+            "mode": [
+              "Hands-on media production and strategy workshops",
+              "Use of cameras, editing tools and social platforms"
+            ],
+            "entry_requirements": [
+              "Prior basic media or ministry training is recommended",
+              "Active involvement in church or Christian media work"
+            ],
+            "level_note": [
+              "The course trains Christians to use media and technology for evangelism.",
+              "Students design and implement digital outreach projects."
+            ]
           }
         ]
       },
       {
         "course_name": "Rural Evangelism Strategies (Advanced)",
         "career": [
-          "Rural Missions Worker",
-          "Outreach Coordinator (Rural)",
-          "Church Planter (Rural Contexts)"
+          "Rural Missionary",
+          "Church Planter",
+          "Village Pastor",
+          "Community Development Worker",
+          "Outreach Coordinator",
+          "NGO Field Evangelism Worker",
+          "Crusade Planner",
+          "Discipleship Coordinator",
+          "Church Growth Facilitator",
+          "Mission Field Trainer"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 1,500 per programme"],
+            "duration": "6 - 10 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: Ministry and project-based support",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Advanced missions course"],
+            "mode": [
+              "Classroom teaching and field trips to rural communities",
+              "Group planning and implementation of rural outreaches"
+            ],
+            "entry_requirements": [
+              "Previous basic missions or ministry training is preferred",
+              "Willingness to travel and work in rural communities"
+            ],
+            "level_note": [
+              "This course focuses on contextualised strategies for reaching rural communities.",
+              "Students engage in practical field work in rural mission contexts."
+            ]
           }
         ]
       },
       {
         "course_name": "Urban Mission And Contemporary Challenges (Advanced)",
         "career": [
-          "Urban Missions Worker",
-          "Community Outreach Coordinator",
-          "NGO or Faith-Based Urban Worker"
+          "Urban Missionary",
+          "Youth and Campus Minister",
+          "City Church Planter",
+          "NGO Urban Outreach Worker",
+          "Community Engagement Officer",
+          "Social Justice Advocate",
+          "Inner-city Ministry Coordinator",
+          "Street Ministry Leader",
+          "Addiction Recovery Support Worker",
+          "Prison or Hospital Outreach Worker"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 1,500 per programme"],
+            "duration": "6 - 10 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: Ministry and project-based support",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Advanced missions course"],
+            "mode": [
+              "Seminars, workshops and urban field visits",
+              "Case studies on contemporary urban issues"
+            ],
+            "entry_requirements": [
+              "Background in ministry or social work is beneficial",
+              "Interest in urban outreach and social issues"
+            ],
+            "level_note": [
+              "The course addresses evangelism and discipleship in complex urban settings.",
+              "Participants develop strategies to respond to contemporary urban challenges."
+            ]
           }
         ]
       },
       {
         "course_name": "Evangelism And Church Growth (Advanced)",
         "career": [
-          "Church Growth Coordinator",
+          "Church Growth Consultant",
           "Evangelism Director",
-          "Outreach Strategy Consultant"
+          "Mission Pastor",
+          "Crusade and Outreach Coordinator",
+          "Discipleship Coordinator",
+          "Church Planting Coordinator",
+          "Ministry Strategist",
+          "Training Facilitator",
+          "Denominational Missions Coordinator",
+          "Leadership Development Coach"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 1,500 per programme"],
+            "duration": "6 - 10 weeks",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: Ministry-based support",
+              "USA: Not specified",
+              "Europe: Not specified"
+            ],
+            "cutt_off": ["Advanced evangelism course"],
+            "mode": [
+              "Interactive seminars, group projects and practical assignments",
+              "Review of evangelism and church growth models"
+            ],
+            "entry_requirements": [
+              "Previous basic training in evangelism or ministry",
+              "Involvement in church leadership or evangelism teams"
+            ],
+            "level_note": [
+              "The course explores strategies for effective evangelism and sustainable church growth.",
+              "Participants design growth plans for churches and ministries."
+            ]
           }
         ]
       }
