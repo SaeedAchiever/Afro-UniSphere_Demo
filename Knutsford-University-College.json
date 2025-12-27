@@ -1,0 +1,794 @@
+[
+  {
+    "name": "Knutsford University College"
+  },
+  {
+    "faculty_name": "Health And Allied Science",
+    "note": [
+      "The Faculty of Nursing, Medical and Health Sciences is committed to training competent healthcare professionals.",
+      "Programs emphasize clinical competence, ethical practice, and community health service."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. Nursing",
+        "career": [
+          "Registered General Nurse",
+          "Public Health Nurse",
+          "Clinical Nurse Specialist",
+          "Nurse Educator",
+          "Nurse Administrator",
+          "Occupational Health Nurse",
+          "School Health Nurse",
+          "Community Health Nurse",
+          "Research Nurse",
+          "Critical Care Nurse"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 20,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Biology", "Chemistry", "Physics"]
+              },
+              {
+                "additional": [
+                  "Elective Mathematics",
+                  "General Agriculture",
+                  "Food and Nutrition"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS65,000",
+              "USA: $60,000 - $90,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "In-person lectures, skills laboratory sessions, and clinical rotations",
+              "Practical training in partner hospitals and health centers"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in three Science electives (Biology, Chemistry, Physics/Elective Maths)"
+            ],
+            "level_note": [
+              "The program prepares students for the Nursing and Midwifery Council licensure examination.",
+              "Curriculum integrates theoretical knowledge with extensive hands-on clinical experience."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Business Administration",
+    "note": [
+      "The Knutsford Business School offers a range of programs designed to develop business leaders and entrepreneurs.",
+      "Curriculum focuses on global business trends, strategic thinking, and ethical decision-making."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. Accounting",
+        "career": [
+          "Chartered Accountant",
+          "External Auditor",
+          "Tax Consultant",
+          "Forensic Accountant",
+          "Management Accountant",
+          "Financial Controller",
+          "Budget Analyst",
+          "Internal Auditor",
+          "Accounts Officer",
+          "Treasury Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 15,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Financial Accounting",
+                  "Cost Accounting",
+                  "Elective Mathematics"
+                ]
+              },
+              {
+                "additional": [
+                  "Business Management",
+                  "Economics",
+                  "Business Law"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS70,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures, tutorials, and practical accounting software training",
+              "Industry internships and professional seminars"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects, preferably including Accounting or Mathematics"
+            ],
+            "level_note": [
+              "Provides a solid foundation in financial reporting, auditing, and taxation.",
+              "Prepares students for professional certification exams like ICA Ghana and ACCA."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Finance",
+        "career": [
+          "Financial Analyst",
+          "Investment Banker",
+          "Portfolio Manager",
+          "Risk Manager",
+          "Credit Analyst",
+          "Stockbroker",
+          "Financial Advisor",
+          "Corporate Treasurer",
+          "Insurance Underwriter",
+          "Loan Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 15,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Elective Mathematics",
+                  "Economics",
+                  "Financial Accounting"
+                ]
+              },
+              {
+                "additional": [
+                  "Business Management",
+                  "Cost Accounting",
+                  "Government"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS80,000",
+              "USA: $65,000 - $110,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Classroom lectures, financial modeling workshops, and case studies",
+              "Guest lectures from finance industry experts"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects with strong numeracy skills"
+            ],
+            "level_note": [
+              "Focuses on financial markets, investment analysis, and corporate finance.",
+              "Equips students with analytical skills for the banking and investment sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Sales Manager",
+          "Digital Marketing Specialist",
+          "Market Research Analyst",
+          "Public Relations Officer",
+          "Advertising Executive",
+          "Product Manager",
+          "Social Media Manager",
+          "Event Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 15,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Business Management", "Economics"]
+              },
+              {
+                "additional": [
+                  "Elective Mathematics",
+                  "Geography",
+                  "Literature in English"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS65,000",
+              "USA: $50,000 - $90,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Interactive lectures, marketing simulations, and field projects",
+              "Focus on digital marketing tools and strategies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Develops expertise in consumer behavior, strategic marketing, and brand management.",
+              "Integrates traditional marketing concepts with modern digital trends."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Human Resource Management",
+        "career": [
+          "HR Manager",
+          "Recruitment Consultant",
+          "Training and Development Manager",
+          "Employee Relations Specialist",
+          "Compensation and Benefits Analyst",
+          "Organizational Development Consultant",
+          "Talent Acquisition Specialist",
+          "HR Business Partner",
+          "Industrial Relations Officer",
+          "Payroll Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 15,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Business Management", "Economics"]
+              },
+              {
+                "additional": ["Government", "History", "Elective Mathematics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS60,000",
+              "USA: $50,000 - $85,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures, group discussions, and role-playing exercises",
+              "Workshops on HR software and labor laws"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Equips students with skills to manage workforce planning, recruitment, and performance.",
+              "Covers essential topics in labor law, organizational behavior, and conflict resolution."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Economics",
+        "career": [
+          "Economist",
+          "Data Analyst",
+          "Policy Analyst",
+          "Market Research Analyst",
+          "Financial Consultant",
+          "Investment Analyst",
+          "Statistician",
+          "Management Consultant",
+          "Actuarial Assistant",
+          "Trade Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 15,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Economics", "Elective Mathematics"]
+              },
+              {
+                "additional": ["Geography", "Government", "Business Management"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS70,000",
+              "USA: $60,000 - $110,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures, quantitative analysis labs, and research projects",
+              "Focus on microeconomics, macroeconomics, and econometrics"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects including Economics and Mathematics"
+            ],
+            "level_note": [
+              "Studies the allocation of resources and economic decision-making processes.",
+              "Provides strong analytical and quantitative skills applicable in various sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA. Accounting",
+        "career": [
+          "Chief Financial Officer (CFO)",
+          "Senior Auditor",
+          "Finance Director",
+          "Corporate Controller",
+          "Senior Tax Manager",
+          "Forensic Audit Manager",
+          "Treasury Manager",
+          "Accounting Lecturer",
+          "Compliance Director",
+          "Financial Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 25,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Advanced Financial Reporting",
+                  "Strategic Management Accounting"
+                ]
+              },
+              {
+                "additional": ["Corporate Governance", "International Business"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS60,000 - GHS120,000",
+              "USA: $90,000 - $150,000",
+              "Europe: €60,000 - €100,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": [
+              "Evening and Weekend lectures for working professionals",
+              "Case study methodology and research dissertation"
+            ],
+            "entry_requirements": [
+              "A good first degree in Accounting or related field from a recognized university",
+              "Professional qualification (ICA, ACCA) is an added advantage"
+            ],
+            "level_note": [
+              "Advanced study of accounting theories and practices for senior management roles.",
+              "Focuses on strategic financial decision-making and corporate reporting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA. Finance",
+        "career": [
+          "Finance Manager",
+          "Investment Manager",
+          "Risk Director",
+          "Portfolio Manager",
+          "Corporate Treasurer",
+          "Financial Planner",
+          "Mergers and Acquisitions Specialist",
+          "Bank Branch Manager",
+          "Financial Analyst Manager",
+          "Chief Investment Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 25,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Corporate Finance", "Investment Analysis"]
+              },
+              {
+                "additional": ["Financial Markets", "International Finance"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS65,000 - GHS130,000",
+              "USA: $95,000 - $160,000",
+              "Europe: €65,000 - €110,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": [
+              "Flexible learning schedules (Evening/Weekend)",
+              "Seminars and financial modeling workshops"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Finance, Economics, or related discipline",
+              "Relevant work experience is preferred"
+            ],
+            "level_note": [
+              "Prepares students for leadership roles in the financial services industry.",
+              "Covers advanced topics in asset valuation, risk management, and capital markets."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA. Marketing",
+        "career": [
+          "Marketing Director",
+          "Chief Marketing Officer",
+          "Brand Strategy Manager",
+          "International Marketing Manager",
+          "Digital Marketing Director",
+          "Product Development Manager",
+          "Sales Director",
+          "Customer Experience Director",
+          "Market Research Manager",
+          "Public Relations Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 25,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Strategic Marketing Management",
+                  "Consumer Behavior"
+                ]
+              },
+              {
+                "additional": ["Digital Marketing Strategy", "Global Marketing"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS55,000 - GHS110,000",
+              "USA: $85,000 - $140,000",
+              "Europe: €60,000 - €100,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": [
+              "Interactive sessions and strategic marketing projects",
+              "Analysis of global marketing case studies"
+            ],
+            "entry_requirements": [
+              "Undergraduate degree in Marketing or Business Administration",
+              "Professional experience in marketing is beneficial"
+            ],
+            "level_note": [
+              "Focuses on developing strategic marketing plans and managing brands globally.",
+              "Enhances leadership skills for managing marketing teams and campaigns."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA. Human Resource Management",
+        "career": [
+          "HR Director",
+          "Chief Human Resources Officer",
+          "Talent Management Director",
+          "Organizational Development Manager",
+          "Industrial Relations Manager",
+          "Compensation and Benefits Manager",
+          "Training Director",
+          "HR Consultant",
+          "Change Management Specialist",
+          "Workforce Planning Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 25,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Strategic HRM", "Organizational Behavior"]
+              },
+              {
+                "additional": [
+                  "Labor Law and Relations",
+                  "Performance Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS55,000 - GHS100,000",
+              "USA: $80,000 - $130,000",
+              "Europe: €55,000 - €90,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": [
+              "Seminar-based learning with focus on strategic HR issues",
+              "Evening and weekend classes available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in any discipline, preferably Business or Social Sciences",
+              "Work experience in HR or management roles"
+            ],
+            "level_note": [
+              "Advanced training in managing human capital and organizational culture.",
+              "Prepares professionals to align HR strategies with business goals."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Communication and Media Studies",
+    "note": [
+      "The Faculty of Arts, Humanities and Social Sciences offers dynamic communication programs.",
+      "Emphasis is placed on modern media practices, digital journalism, and strategic communication."
+    ],
+    "courses": [
+      {
+        "course_name": "Multimedia Journalism",
+        "career": [
+          "Multimedia Journalist",
+          "Broadcast Journalist",
+          "News Editor",
+          "Digital Content Producer",
+          "Video Journalist",
+          "Photojournalist",
+          "Social Media Reporter",
+          "News Anchor",
+          "Investigative Reporter",
+          "Podcast Producer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 16,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Literature in English", "Government"]
+              },
+              {
+                "additional": ["History", "Local Language", "Economics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS25,000 - GHS55,000",
+              "USA: $40,000 - $70,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures, newsroom simulations, and studio practice",
+              "Field reporting assignments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three Arts or elective subjects"
+            ],
+            "level_note": [
+              "Trains students in storytelling across text, audio, video, and digital platforms.",
+              "Focuses on journalistic ethics, news gathering, and production techniques."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Strategic Communication",
+        "career": [
+          "Communications Manager",
+          "Public Relations Specialist",
+          "Corporate Communications Officer",
+          "Media Relations Manager",
+          "Brand Strategist",
+          "Crisis Communications Manager",
+          "Social Media Strategist",
+          "Internal Communications Manager",
+          "Event Manager",
+          "Lobbyist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 16,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Government", "Literature in English"]
+              },
+              {
+                "additional": ["Business Management", "Economics", "History"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS60,000",
+              "USA: $50,000 - $85,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Classroom lectures, case studies, and PR campaign projects",
+              "Internships with corporate communication departments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Focuses on planning and executing communication strategies for organizations.",
+              "Covers public relations, advertising, and corporate branding."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Development Communication",
+        "career": [
+          "Development Communicator",
+          "NGO Communications Officer",
+          "Advocacy Officer",
+          "Community Outreach Coordinator",
+          "Social Change Campaigner",
+          "Health Communication Specialist",
+          "Policy Advocate",
+          "Program Officer",
+          "CSR Manager",
+          "International Development Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 16,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Geography", "Government"]
+              },
+              {
+                "additional": ["Economics", "History", "Religious Studies"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS60,000",
+              "USA: $45,000 - $80,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures, community fieldwork, and project implementation",
+              "Collaboration with NGOs and development agencies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Studies the use of communication to facilitate social development and change.",
+              "Ideal for students interested in working with international organizations and NGOs."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Information Technology and Applied Science",
+    "note": [
+      "The Faculty of Science, Technology and Applied Sciences prepares students for the digital age.",
+      "Programs feature modern computer labs and industry-relevant curriculum."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. Computer Science",
+        "career": [
+          "Software Engineer",
+          "Systems Analyst",
+          "Database Administrator",
+          "Web Developer",
+          "Mobile App Developer",
+          "Cybersecurity Analyst",
+          "AI Specialist",
+          "Data Scientist",
+          "Network Architect",
+          "IT Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 18,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": ["Chemistry", "ICT", "Applied Electricity"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS80,000",
+              "USA: $70,000 - $120,000",
+              "Europe: €45,000 - €75,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Practical coding labs, theoretical lectures, and hackathons",
+              "Capstone projects involving software development"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science",
+              "WASSCE: Credit passes in Elective Mathematics and Physics or ICT"
+            ],
+            "level_note": [
+              "Focuses on algorithms, programming languages, and software engineering principles.",
+              "Prepares students for technical roles in the software and technology industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Information Technology",
+        "career": [
+          "IT Support Specialist",
+          "Network Administrator",
+          "System Administrator",
+          "IT Project Manager",
+          "Cloud Architect",
+          "Information Security Analyst",
+          "Database Manager",
+          "Web Master",
+          "Business Intelligence Analyst",
+          "IT Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 18,000 per year"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["ICT", "Elective Mathematics"]
+              },
+              {
+                "additional": ["Physics", "Business Management", "Economics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS75,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Computer lab sessions, workshops on networking and hardware",
+              "Industry certification training embedded in curriculum"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science",
+              "WASSCE: Credit passes in three elective subjects including Science or ICT"
+            ],
+            "level_note": [
+              "Covers the practical application of technology in business environments.",
+              "Includes topics on networking, database management, and information security."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
