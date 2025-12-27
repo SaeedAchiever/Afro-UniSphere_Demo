@@ -1,0 +1,680 @@
+[
+  {
+    "name": "Zenith University College"
+  },
+  {
+    "faculty_name": "Faculty of Law",
+    "note": [
+      "The Faculty of Law offers both local and external law programmes.",
+      "The external LLB programme is affiliated with the University of London."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Laws (LLB) - Ghana (Internal)",
+        "career": [
+          "Lawyer (Barrister/Solicitor)",
+          "Magistrate",
+          "Legal Advisor",
+          "Corporate Secretary",
+          "Legal Consultant",
+          "Public Prosecutor",
+          "Human Rights Advocate",
+          "Legal Researcher",
+          "Policy Analyst",
+          "Court Registrar"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 5,800 - GHC 7,000 per year"],
+            "duration": "4 years (WASSCE) / 3 years (Post-First Degree)",
+            "electives": [
+              {
+                "required": [
+                  "Legal System",
+                  "Constitutional Law",
+                  "Criminal Law",
+                  "Law of Contract",
+                  "Law of Torts"
+                ]
+              },
+              {
+                "additional": [
+                  "Commercial Law",
+                  "Company Law",
+                  "Family Law",
+                  "Public International Law"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS60,000 - GHS120,000",
+              "USA: $90,000 - $160,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Classroom lectures, tutorials, and moot court sessions",
+              "Full-time and part-time (evening/weekend) options"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects",
+              "Post-First Degree: A good first degree from a recognized university"
+            ],
+            "level_note": [
+              "Prepares students for the Ghana School of Law entrance examination.",
+              "Covers core Ghanaian legal subjects and practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Laws (LLB) - London (External)",
+        "career": [
+          "International Lawyer",
+          "Legal Consultant",
+          "Corporate Lawyer",
+          "Arbitrator",
+          "Legal Academic",
+          "Diplomat",
+          "Compliance Officer",
+          "International Trade Specialist",
+          "Legal Analyst",
+          "Policy Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Tuition (Zenith): GHC 4,120 per year",
+              "Univ. of London fees: Paid separately in GBP"
+            ],
+            "duration": "3 - 4 years",
+            "electives": [
+              {
+                "required": [
+                  "Common Law Reasoning",
+                  "Criminal Law",
+                  "Contract Law",
+                  "Public Law"
+                ]
+              },
+              {
+                "additional": [
+                  "Tort Law",
+                  "Property Law",
+                  "EU Law",
+                  "International Protection of Human Rights"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS70,000 - GHS130,000",
+              "USA: $100,000 - $180,000",
+              "Europe: €60,000 - €110,000"
+            ],
+            "cutt_off": ["Per University of London requirements"],
+            "mode": [
+              "Supported distance learning with lectures and tutorials at Zenith",
+              "Examinations conducted by the British Council"
+            ],
+            "entry_requirements": [
+              "University of London general entrance requirements",
+              "GCE A-Levels or recognized degree/diploma"
+            ],
+            "level_note": [
+              "Internationally recognized law degree from the University of London.",
+              "Students register with both Zenith University College and University of London."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Law",
+        "career": [
+          "Paralegal",
+          "Legal Assistant",
+          "Court Clerk",
+          "Legal Secretary",
+          "Compliance Assistant",
+          "Administrative Officer (Legal Dept)",
+          "Police Officer",
+          "Immigration Officer",
+          "Law Firm Administrator",
+          "Research Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students : GHC 4,000 - GHC 5,000 per year (Estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Legal System and Method",
+                  "Criminal Law",
+                  "Public Law"
+                ]
+              },
+              {
+                "additional": ["Contract Law", "Tort Law"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS25,000 - GHS45,000",
+              "USA: $40,000 - $60,000",
+              "Europe: €25,000 - €40,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": ["Lectures and tutorials", "Pathway to the LLB program"],
+            "entry_requirements": [
+              "WASSCE: 5 Credits including English Language",
+              "Mature applicants (21+) with relevant experience and entrance exam"
+            ],
+            "level_note": [
+              "Provides a foundation in legal studies.",
+              "Successful completion allows entry into the LLB program."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Business Administration & Technology",
+    "note": [
+      "Offers a wide range of business, technology, and specialized professional programs.",
+      "Accredited by NAB and affiliated with University of Cape Coast and other professional bodies."
+    ],
+    "courses": [
+      {
+        "course_name": "BBA / BSc. Accounting & Finance",
+        "career": [
+          "Accountant",
+          "Financial Analyst",
+          "Auditor",
+          "Tax Consultant",
+          "Finance Manager",
+          "Investment Banker",
+          "Budget Analyst",
+          "Accounts Officer",
+          "Payroll Manager",
+          "Credit Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Financial Accounting",
+                  "Management Accounting",
+                  "Corporate Finance"
+                ]
+              },
+              {
+                "additional": ["Taxation", "Auditing", "Investment Analysis"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS70,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures, tutorials, and practical accounting labs",
+              "Internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science/Social Studies",
+              "WASSCE: Credit passes in three elective subjects (Business/Maths preferred)"
+            ],
+            "level_note": [
+              "Integrates accounting principles with financial management strategies.",
+              "Prepares students for professional accounting and finance certifications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA / BSc. Management",
+        "career": [
+          "Business Manager",
+          "Operations Manager",
+          "Project Manager",
+          "Management Consultant",
+          "Administrative Manager",
+          "Entrepreneur",
+          "Sales Manager",
+          "Branch Manager",
+          "Business Analyst",
+          "Team Leader"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Principles of Management",
+                  "Strategic Management",
+                  "Organizational Behavior"
+                ]
+              },
+              {
+                "additional": [
+                  "Operations Management",
+                  "Business Law",
+                  "Entrepreneurship"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS65,000",
+              "USA: $55,000 - $90,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures, case studies, and group projects",
+              "Guest lectures from industry leaders"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science/Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Focuses on leadership, decision-making, and organizational dynamics.",
+              "Develops skills for managing businesses and teams effectively."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Banking & Finance",
+        "career": [
+          "Banker",
+          "Loan Officer",
+          "Branch Manager",
+          "Credit Risk Analyst",
+          "Financial Planner",
+          "Investment Advisor",
+          "Treasury Officer",
+          "Compliance Officer",
+          "Microfinance Manager",
+          "Relationship Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Banking Law and Practice",
+                  "Financial Markets",
+                  "Credit Management"
+                ]
+              },
+              {
+                "additional": [
+                  "Risk Management",
+                  "International Banking",
+                  "Monetary Economics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS75,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": ["Lectures and banking simulations", "Industry visits"],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science/Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Specialized training in banking operations and financial services.",
+              "Essential for careers in the banking sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA / BSc. Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Sales Executive",
+          "Digital Marketing Specialist",
+          "Market Research Analyst",
+          "Public Relations Officer",
+          "Advertising Executive",
+          "Product Manager",
+          "Social Media Manager",
+          "Event Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Marketing Management",
+                  "Consumer Behavior",
+                  "Marketing Research"
+                ]
+              },
+              {
+                "additional": [
+                  "Digital Marketing",
+                  "Service Marketing",
+                  "International Marketing"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS65,000",
+              "USA: $50,000 - $90,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Interactive lectures and marketing projects",
+              "Case studies on brands"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science/Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Develops skills in market analysis, strategy, and communication.",
+              "Prepares students for dynamic roles in marketing and sales."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA / BSc. Human Resource Management",
+        "career": [
+          "HR Manager",
+          "Recruitment Specialist",
+          "Training Coordinator",
+          "Employee Relations Officer",
+          "Compensation Analyst",
+          "HR Consultant",
+          "Administrative Manager",
+          "Talent Acquisition Manager",
+          "Payroll Administrator",
+          "Organizational Development Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Human Resource Management",
+                  "Labor Law",
+                  "Organizational Behavior"
+                ]
+              },
+              {
+                "additional": [
+                  "Performance Management",
+                  "Industrial Relations",
+                  "Training and Development"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS60,000",
+              "USA: $50,000 - $85,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures and workshops on HR practices",
+              "Role-playing exercises"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science/Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Focuses on managing human capital and organizational culture.",
+              "Covers recruitment, training, and employee welfare."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Computing & Information Systems",
+        "career": [
+          "Software Developer",
+          "Systems Analyst",
+          "IT Consultant",
+          "Database Administrator",
+          "Web Developer",
+          "Network Administrator",
+          "IT Project Manager",
+          "Information Systems Manager",
+          "Technical Support Specialist",
+          "Data Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students : GHC 4,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Programming (Java/C++)",
+                  "Database Systems",
+                  "Systems Analysis"
+                ]
+              },
+              {
+                "additional": [
+                  "Web Technologies",
+                  "Networking",
+                  "Software Engineering"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS80,000",
+              "USA: $70,000 - $120,000",
+              "Europe: €45,000 - €75,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Practical lab sessions and lectures",
+              "Software development projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science",
+              "WASSCE: Credit passes in three elective subjects (Science/ICT/Maths preferred)"
+            ],
+            "level_note": [
+              "Combines computer science principles with business information systems.",
+              "Prepares students for technical roles in various industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Business Administration",
+        "career": [
+          "Administrative Assistant",
+          "Office Manager",
+          "Sales Assistant",
+          "Customer Service Representative",
+          "Operations Assistant",
+          "Business Support Officer",
+          "Receptionist",
+          "Marketing Assistant",
+          "HR Assistant",
+          "Store Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students : GHC 2,600 per semester"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Introduction to Business",
+                  "Business Communication"
+                ]
+              },
+              {
+                "additional": ["Accounting Basics", "Marketing Principles"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS18,000 - GHS30,000",
+              "USA: $30,000 - $45,000",
+              "Europe: €24,000 - €35,000"
+            ],
+            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
+            "mode": ["Lectures and practical assignments", "Pathway to degree"],
+            "entry_requirements": [
+              "WASSCE: Passes in English, Maths and 3 electives",
+              "Mature entry option available"
+            ],
+            "level_note": [
+              "Foundational course in business management.",
+              "Ideal for entry-level business roles or further study."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "CILT - International Diploma in Logistics and Transport",
+        "career": [
+          "Logistics Manager",
+          "Transport Manager",
+          "Supply Chain Analyst",
+          "Fleet Manager",
+          "Warehouse Manager",
+          "Distribution Manager",
+          "Procurement Officer",
+          "Freight Forwarder",
+          "Operations Manager",
+          "Shipping Agent"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Diploma",
+            "fees": [
+              "Tuition: GHC 3,000",
+              "CILT Registration: £200 (Estimated)"
+            ],
+            "duration": "1 year (2 semesters)",
+            "electives": [
+              {
+                "required": [
+                  "Management in Logistics and Transport",
+                  "Supply Chain Management"
+                ]
+              },
+              {
+                "additional": [
+                  "Transport Planning",
+                  "Transport Operations",
+                  "Inventory"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS80,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": ["Professional Entry"],
+            "mode": ["Weekend lectures", "Modular exams"],
+            "entry_requirements": [
+              "CILT International Certificate",
+              "Degree/HND in relevant field",
+              "3 years relevant work experience"
+            ],
+            "level_note": [
+              "Globally recognized professional qualification in logistics and transport.",
+              "Designed for middle managers and supervisors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA General Management",
+        "career": [
+          "General Manager",
+          "Business Development Manager",
+          "Operations Director",
+          "Strategic Planner",
+          "Corporate Consultant",
+          "Regional Manager",
+          "Entrepreneur",
+          "Executive Director",
+          "Program Manager",
+          "Change Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : GHC 23,500 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Strategic Management",
+                  "Managerial Economics",
+                  "Organizational Leadership"
+                ]
+              },
+              {
+                "additional": ["International Business", "Project Management"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS60,000 - GHS120,000",
+              "USA: $90,000 - $150,000",
+              "Europe: €60,000 - €100,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": [
+              "Evening/Weekend lectures",
+              "Seminars and research project"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree from a recognized university",
+              "Professional qualification or relevant work experience"
+            ],
+            "level_note": [
+              "Advanced degree for leadership roles across various industries.",
+              "Focuses on holistic business management and strategy."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
