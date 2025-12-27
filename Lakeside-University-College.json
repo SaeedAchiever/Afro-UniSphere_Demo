@@ -9,294 +9,445 @@
       {
         "course_name": "BSc. Banking and Finance",
         "career": [
-          "Bank Officer",
-          "Financial Analyst",
-          "Investment Analyst",
+          "Bank Manager",
           "Credit Analyst",
-          "Treasury Officer",
-          "Financial Consultant",
-          "Risk Analyst",
-          "Corporate Banker"
+          "Financial Advisor",
+          "Loan Officer",
+          "Investment Banker",
+          "Risk Manager",
+          "Treasury Analyst",
+          "Branch Manager",
+          "Microfinance Operations Manager",
+          "Corporate Finance Officer"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [
-              "Ghanaian Students: GHS 6,345 per year",
-              "International Students: USD 2,145 per year"
-            ],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 7,500 - GHC 9,000 per year"],
+            "duration": "4 years",
             "electives": [
               {
                 "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science or Social Studies"
+                  "Elective Mathematics",
+                  "Economics",
+                  "Business Management"
                 ]
               },
               {
-                "additional": ["Three relevant elective subjects"]
+                "additional": ["Accounting", "Costing", "Government"]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science or Social Studies) plus three (3) relevant elective subjects"
+            "salary": [
+              "Ghana: GHS35,000 - GHS60,000",
+              "USA: $55,000 - $90,000",
+              "Europe: €35,000 - €60,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "In-person lectures, tutorials and case studies",
+              "Industry internships and seminars"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects (Business electives preferred)"
+            ],
+            "level_note": [
+              "Focuses on financial systems, banking operations, and investment strategies.",
+              "Prepares students for leadership roles in the financial sector."
+            ]
           }
         ]
       },
       {
         "course_name": "BSc. Human Resource Management",
         "career": [
-          "Human Resource Officer",
+          "HR Manager",
           "Recruitment Specialist",
           "Training and Development Officer",
-          "Compensation and Benefits Analyst",
-          "HR Business Partner",
-          "Industrial Relations Officer",
-          "Talent Acquisition Manager"
+          "Employee Relations Manager",
+          "Compensation Analyst",
+          "HR Consultant",
+          "Talent Acquisition Manager",
+          "Administrative Manager",
+          "Organizational Development Specialist",
+          "Payroll Administrator"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [
-              "Ghanaian Students: GHS 6,345 per year",
-              "International Students: USD 2,145 per year"
-            ],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 7,500 - GHC 9,000 per year"],
+            "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science or Social Studies"
-                ]
+                "required": ["Business Management", "Economics"]
               },
               {
-                "additional": ["Three relevant elective subjects"]
+                "additional": [
+                  "Government",
+                  "Elective Mathematics",
+                  "Literature in English"
+                ]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science or Social Studies) plus three (3) relevant elective subjects"
+            "salary": [
+              "Ghana: GHS30,000 - GHS55,000",
+              "USA: $50,000 - $85,000",
+              "Europe: €35,000 - €60,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Classroom lectures, group projects and presentations",
+              "Workshops on HR software and practices"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Equips students with skills to manage workforce and organizational culture.",
+              "Covers labor laws, performance management, and strategic HR planning."
+            ]
           }
         ]
       },
       {
         "course_name": "BSc. Marketing",
         "career": [
-          "Marketing Executive",
+          "Marketing Manager",
           "Brand Manager",
-          "Sales and Business Development Executive",
+          "Sales Executive",
           "Digital Marketing Specialist",
           "Market Research Analyst",
-          "Customer Relations Officer",
-          "Product Manager"
+          "Public Relations Officer",
+          "Advertising Executive",
+          "Product Manager",
+          "Social Media Manager",
+          "Event Coordinator"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [
-              "Ghanaian Students: GHS 6,345 per year",
-              "International Students: USD 2,145 per year"
-            ],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 7,500 - GHC 9,000 per year"],
+            "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science or Social Studies"
-                ]
+                "required": ["Business Management", "Economics"]
               },
               {
-                "additional": ["Three relevant elective subjects"]
+                "additional": ["Elective Mathematics", "Geography", "French"]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science or Social Studies) plus three (3) relevant elective subjects"
+            "salary": [
+              "Ghana: GHS30,000 - GHS65,000",
+              "USA: $50,000 - $90,000",
+              "Europe: €35,000 - €65,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Interactive lectures, marketing simulations and field projects",
+              "Guest lectures from industry professionals"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Develops expertise in consumer behavior, branding, and strategic marketing.",
+              "Integrates traditional marketing concepts with digital trends."
+            ]
           }
         ]
       },
       {
         "course_name": "BSc. Accounting",
         "career": [
-          "Accountant",
-          "Financial Analyst",
+          "Chartered Accountant",
           "Auditor",
           "Tax Consultant",
+          "Financial Controller",
           "Management Accountant",
-          "Finance Officer",
-          "Chief Financial Officer"
+          "Budget Analyst",
+          "Forensic Accountant",
+          "Accounts Officer",
+          "Finance Manager",
+          "Internal Auditor"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [
-              "Ghanaian Students: GHS 6,345 per year",
-              "International Students: USD 2,145 per year"
-            ],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 7,500 - GHC 9,000 per year"],
+            "duration": "4 years",
             "electives": [
               {
                 "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science or Social Studies"
+                  "Financial Accounting",
+                  "Cost Accounting",
+                  "Elective Mathematics"
                 ]
               },
               {
-                "additional": ["Three relevant elective subjects"]
+                "additional": [
+                  "Business Management",
+                  "Economics",
+                  "Business Law"
+                ]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science or Social Studies) plus three (3) relevant elective subjects"
+            "salary": [
+              "Ghana: GHS35,000 - GHS70,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures, tutorials, and practical accounting software sessions",
+              "Professional certification pathways supported"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science or Social Studies",
+              "WASSCE: Credit passes in three elective subjects including Accounting"
+            ],
+            "level_note": [
+              "Provides comprehensive training in financial reporting, auditing, and taxation.",
+              "Prepares students for professional accounting qualifications."
+            ]
           }
         ]
       },
       {
-        "course_name": "E-Marketing",
+        "course_name": "Diploma in E-Marketing",
         "career": [
-          "Digital Marketing Officer",
-          "E-commerce Specialist",
-          "Social Media Marketing Assistant",
-          "Online Marketing Coordinator"
+          "Digital Marketing Assistant",
+          "Social Media Coordinator",
+          "SEO Specialist",
+          "Content Creator",
+          "Email Marketing Specialist",
+          "E-commerce Assistant",
+          "Online Sales Representative",
+          "Web Content Editor",
+          "Digital Ad Operations Assistant",
+          "Marketing Data Assistant"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": [
-              "Ghanaian Students: GHS 4,095 per year",
-              "International Students: USD 1,845 per year"
+            "fees": ["Ghanaian Students : GHC 4,500 - GHC 5,500 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
+                "additional": ["ICT", "Economics"]
+              }
             ],
-            "duration": "2 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
+            "salary": [
+              "Ghana: GHS18,000 - GHS30,000",
+              "USA: $35,000 - $50,000",
+              "Europe: €25,000 - €40,000"
+            ],
+            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
+            "mode": [
+              "Practical sessions in computer labs",
+              "Project-based learning on digital campaigns"
+            ],
             "entry_requirements": [
-              "Minimum of 5 credits in SSCE including English and Mathematics"
+              "WASSCE: Passes (A1-D7) in Core subjects and Electives",
+              "Mature applicants with relevant experience"
             ],
-            "level_note": []
+            "level_note": [
+              "Focuses on digital tools, social media strategies, and online consumer engagement.",
+              "Ideal for students seeking quick entry into the digital economy."
+            ]
           }
         ]
       },
       {
-        "course_name": "Business Administration",
+        "course_name": "Diploma in Business Administration",
         "career": [
-          "Business Administrator",
-          "Operations Officer",
-          "Administrative Officer",
-          "Management Assistant"
-        ],
-        "levels": [
-          {
-            "level_name": "Diploma",
-            "fees": [
-              "Ghanaian Students: GHS 4,095 per year",
-              "International Students: USD 1,845 per year"
-            ],
-            "duration": "2 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
-            "entry_requirements": [
-              "Minimum of 5 credits in SSCE including English and Mathematics"
-            ],
-            "level_note": []
-          }
-        ]
-      },
-      {
-        "course_name": "Computerized Accounting",
-        "career": [
-          "Accounting Assistant",
-          "Bookkeeper",
-          "Accounts Officer",
-          "Financial Records Officer"
-        ],
-        "levels": [
-          {
-            "level_name": "Diploma",
-            "fees": [
-              "Ghanaian Students: GHS 4,095 per year",
-              "International Students: USD 1,845 per year"
-            ],
-            "duration": "2 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
-            "entry_requirements": [
-              "Minimum of 5 credits in SSCE including English and Mathematics"
-            ],
-            "level_note": []
-          }
-        ]
-      },
-      {
-        "course_name": "Procurement & Supply Chain Management",
-        "career": [
-          "Procurement Officer",
-          "Supply Chain Assistant",
-          "Logistics Officer",
-          "Purchasing Assistant"
-        ],
-        "levels": [
-          {
-            "level_name": "Diploma",
-            "fees": [
-              "Ghanaian Students: GHS 4,095 per year",
-              "International Students: USD 1,845 per year"
-            ],
-            "duration": "2 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
-            "entry_requirements": [
-              "Minimum of 5 credits in SSCE including English and Mathematics"
-            ],
-            "level_note": []
-          }
-        ]
-      },
-      {
-        "course_name": "Business",
-        "career": [
-          "Business Support Staff",
           "Administrative Assistant",
-          "Office Coordinator"
+          "Office Manager",
+          "Sales Associate",
+          "Customer Service Representative",
+          "Operations Assistant",
+          "Business Support Officer",
+          "Receptionist",
+          "Project Assistant",
+          "HR Assistant",
+          "Store Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students : GHC 4,500 - GHC 5,500 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
+                "additional": ["Accounting", "Economics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS18,000 - GHS30,000",
+              "USA: $30,000 - $45,000",
+              "Europe: €24,000 - €35,000"
+            ],
+            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
+            "mode": [
+              "Lectures and practical office management training",
+              "Interactive workshops"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes in Core subjects and Electives",
+              "Mature entry option available"
+            ],
+            "level_note": [
+              "Provides foundational knowledge in business operations and management.",
+              "Pathway to degree programs in business."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Computerized Accounting",
+        "career": [
+          "Accounts Clerk",
+          "Payroll Assistant",
+          "Bookkeeper",
+          "Audit Assistant",
+          "Tax Clerk",
+          "Finance Assistant",
+          "Inventory Control Clerk",
+          "Accounting Software Operator",
+          "Billing Coordinator",
+          "Cashier"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students : GHC 4,500 - GHC 5,500 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Accounting"]
+              },
+              {
+                "additional": ["ICT", "Mathematics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS20,000 - GHS35,000",
+              "USA: $35,000 - $50,000",
+              "Europe: €25,000 - €40,000"
+            ],
+            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
+            "mode": [
+              "Lab-based training with accounting software (Sage, QuickBooks, Tally)",
+              "Practical bookkeeping exercises"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes in Core subjects and Electives",
+              "Prior knowledge of accounting is an advantage"
+            ],
+            "level_note": [
+              "Combines accounting principles with IT skills.",
+              "Prepares students for modern, tech-driven accounting roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Procurement & Supply Chain Management",
+        "career": [
+          "Procurement Assistant",
+          "Supply Chain Officer",
+          "Logistics Coordinator",
+          "Inventory Manager",
+          "Purchasing Clerk",
+          "Storekeeper",
+          "Warehouse Supervisor",
+          "Distribution Assistant",
+          "Materials Handler",
+          "Freight Forwarding Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students : GHC 4,500 - GHC 5,500 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Business Management"]
+              },
+              {
+                "additional": ["Economics", "Accounting"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS20,000 - GHS35,000",
+              "USA: $35,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
+            "mode": [
+              "Lectures and case studies on logistics and supply chain",
+              "Field visits to warehouses and ports"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes in Core subjects and Electives",
+              "Mature applicants welcome"
+            ],
+            "level_note": [
+              "Focuses on sourcing, negotiation, and logistics management.",
+              "Essential for roles in retail, manufacturing, and public sector procurement."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Business",
+        "career": [
+          "Office Assistant",
+          "Sales Assistant",
+          "Customer Support Agent",
+          "Data Entry Clerk",
+          "Shop Assistant",
+          "Receptionist",
+          "Administrative Clerk",
+          "Entrepreneur (Small Business)",
+          "Marketing Assistant",
+          "Stock Clerk"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 2,000 - GHC 3,000 per program"],
+            "duration": "6 months - 1 year",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS12,000 - GHS20,000",
+              "USA: N/A",
+              "Europe: N/A"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": ["Short intensive courses", "Practical workshops"],
+            "entry_requirements": [
+              "JHS/SHS certificate or equivalent",
+              "Basic literacy and numeracy"
+            ],
+            "level_note": [
+              "Introductory course to business concepts and office practices.",
+              "Good for skill upgrading or entry-level employment."
+            ]
           }
         ]
       }
@@ -304,88 +455,104 @@
   },
   {
     "faculty_name": "Engineering",
-    "note": [],
+    "note": [
+      "The School of Engineering focuses on practical, hands-on training.",
+      "Laboratories are equipped for civil, mechanical, and computer engineering."
+    ],
     "courses": [
       {
         "course_name": "BSc Civil Engineering",
         "career": [
           "Civil Engineer",
           "Structural Engineer",
-          "Construction Manager",
-          "Project Engineer",
           "Site Engineer",
-          "Highway Engineer",
-          "Water Resources Engineer"
+          "Construction Manager",
+          "Geotechnical Engineer",
+          "Water Resources Engineer",
+          "Transportation Engineer",
+          "Quantity Surveyor",
+          "Urban Planner",
+          "Project Manager"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [
-              "Ghanaian Students: GHS 6,945 per year",
-              "International Students: USD 2,295 per year"
-            ],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 8,500 - GHC 10,500 per year"],
+            "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science",
-                  "Physics"
-                ]
+                "required": ["Physics", "Elective Mathematics", "Chemistry"]
               },
               {
-                "additional": ["Chemistry", "Technical Drawing"]
+                "additional": ["Technical Drawing", "Applied Electricity"]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus with practical labs"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science) plus three (3) relevant elective subjects including Physics"
+            "salary": [
+              "Ghana: GHS40,000 - GHS75,000",
+              "USA: $65,000 - $100,000",
+              "Europe: €40,000 - €70,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Lectures, laboratory experiments, and field work",
+              "Design projects and site visits"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science",
+              "WASSCE: Credit passes in Physics, Chemistry, and Elective Mathematics"
+            ],
+            "level_note": [
+              "Covers structural design, construction materials, and fluid mechanics.",
+              "Accredited program leading to professional engineering registration."
+            ]
           }
         ]
       },
       {
-        "course_name": "BSc Oil & Gas Civil Engineering",
+        "course_name": "BSc Oil & Gas Engineering",
         "career": [
           "Petroleum Engineer",
-          "Oil & Gas Civil Engineer",
+          "Drilling Engineer",
+          "Reservoir Engineer",
+          "Production Engineer",
           "Pipeline Engineer",
-          "Offshore Structural Engineer",
-          "Energy Sector Engineer",
-          "Drilling Engineer"
+          "Offshore Engineer",
+          "Safety Engineer",
+          "Energy Consultant",
+          "Process Engineer",
+          "Operations Manager"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [
-              "Ghanaian Students: GHS 6,945 per year",
-              "International Students: USD 2,295 per year"
-            ],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 8,500 - GHC 10,500 per year"],
+            "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science",
-                  "Physics"
-                ]
+                "required": ["Physics", "Elective Mathematics", "Chemistry"]
               },
               {
-                "additional": ["Chemistry", "Technical Drawing"]
+                "additional": ["Technical Drawing", "Geography"]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus with practical labs"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science) plus three (3) relevant elective subjects including Physics and Chemistry"
+            "salary": [
+              "Ghana: GHS50,000 - GHS90,000",
+              "USA: $80,000 - $130,000",
+              "Europe: €50,000 - €90,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
+            "mode": [
+              "Lectures, simulation labs, and industry field trips",
+              "Focus on upstream and midstream operations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science",
+              "WASSCE: Credit passes in Physics, Chemistry, and Elective Mathematics"
+            ],
+            "level_note": [
+              "Specialized program for the energy sector.",
+              "Students learn about exploration, extraction, and processing of hydrocarbons."
+            ]
           }
         ]
       },
@@ -395,38 +562,45 @@
           "Software Developer",
           "Systems Analyst",
           "Database Administrator",
+          "Network Engineer",
+          "Web Developer",
           "IT Consultant",
-          "Network Administrator",
           "Cybersecurity Analyst",
+          "Mobile App Developer",
+          "AI Specialist",
           "Data Scientist"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [
-              "Ghanaian Students: GHS 6,945 per year",
-              "International Students: USD 2,295 per year"
-            ],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 8,500 - GHC 10,500 per year"],
+            "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science"
-                ]
+                "required": ["Elective Mathematics", "Physics"]
               },
               {
-                "additional": ["Physics", "Chemistry", "Elective Mathematics"]
+                "additional": ["Chemistry", "ICT", "Applied Electricity"]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus with computer labs"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science) plus three (3) relevant elective subjects"
+            "salary": [
+              "Ghana: GHS40,000 - GHS80,000",
+              "USA: $70,000 - $120,000",
+              "Europe: €45,000 - €75,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Practical coding labs and theoretical lectures",
+              "Software development projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science",
+              "WASSCE: Credit passes in Elective Maths and Physics/ICT"
+            ],
+            "level_note": [
+              "Focuses on algorithms, programming languages, and software engineering.",
+              "Equips students for the rapidly evolving tech industry."
+            ]
           }
         ]
       },
@@ -434,177 +608,329 @@
         "course_name": "Mechanical Engineering",
         "career": [
           "Mechanical Engineer",
+          "Automotive Engineer",
           "Manufacturing Engineer",
           "Maintenance Engineer",
-          "Quality Control Engineer",
           "HVAC Engineer",
-          "Automotive Engineer"
+          "Design Engineer",
+          "Plant Engineer",
+          "Robotics Engineer",
+          "Quality Control Engineer",
+          "Energy Engineer"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [
-              "Ghanaian Students: GHS 6,945 per year",
-              "International Students: USD 2,295 per year"
-            ],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 8,500 - GHC 10,500 per year"],
+            "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science",
-                  "Physics"
-                ]
+                "required": ["Physics", "Elective Mathematics", "Chemistry"]
               },
               {
-                "additional": ["Chemistry", "Technical Drawing", "Metal Work"]
+                "additional": ["Technical Drawing", "Applied Electricity"]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus with practical labs"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science) plus three (3) relevant elective subjects including Physics"
+            "salary": [
+              "Ghana: GHS40,000 - GHS75,000",
+              "USA: $70,000 - $100,000",
+              "Europe: €45,000 - €75,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Workshops, CAD labs, and lectures",
+              "Hands-on fabrication and design projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in English, Core Maths, Integrated Science",
+              "WASSCE: Credit passes in Physics, Chemistry, and Elective Mathematics"
+            ],
+            "level_note": [
+              "Covers thermodynamics, mechanics of materials, and machine design.",
+              "Applicable to automotive, aerospace, and manufacturing sectors."
+            ]
           }
         ]
       },
       {
-        "course_name": "Engineering",
+        "course_name": "Diploma in Engineering",
         "career": [
           "Engineering Technician",
-          "Technical Assistant",
-          "Maintenance Technician"
+          "Maintenance Technician",
+          "Site Supervisor",
+          "CAD Drafter",
+          "Machinist",
+          "Survey Assistant",
+          "Lab Technician",
+          "Construction Assistant",
+          "Quality Inspector",
+          "Technical Sales Support"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": [
-              "Ghanaian Students: GHS 3,230 per year",
-              "International Students: USD 1,330 per year"
+            "fees": ["Ghanaian Students : GHC 4,000 - GHC 5,500 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Physics", "Elective Mathematics"]
+              },
+              {
+                "additional": ["Chemistry", "Technical Drawing"]
+              }
             ],
-            "duration": "2 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
+            "salary": [
+              "Ghana: GHS20,000 - GHS35,000",
+              "USA: $40,000 - $60,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
+            "mode": [
+              "Practical workshops and classroom instruction",
+              "Focus on technical skills and application"
+            ],
             "entry_requirements": [
-              "Minimum of 5 credits in SSCE including English and Mathematics"
+              "WASSCE: Passes in Core subjects and Science Electives",
+              "Technical school certificates accepted"
             ],
-            "level_note": []
+            "level_note": [
+              "Provides technical foundation in engineering principles.",
+              "Pathway to degree in engineering."
+            ]
           }
         ]
       },
       {
-        "course_name": "Information Technology",
+        "course_name": "Diploma in Information Technology",
         "career": [
           "IT Support Technician",
-          "Network Technician",
+          "Network Assistant",
+          "Web Design Assistant",
+          "System Administrator Assistant",
+          "Computer Repair Technician",
+          "Help Desk Support",
           "Database Assistant",
-          "Web Developer"
+          "Software Tester",
+          "IT Sales Associate",
+          "Lab Assistant"
         ],
         "levels": [
           {
             "level_name": "Diploma",
-            "fees": [
-              "Ghanaian Students: GHS 4,845 per year",
-              "International Students: USD 1,845 per year"
+            "fees": ["Ghanaian Students : GHC 4,500 - GHC 6,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["ICT", "Elective Mathematics"]
+              },
+              {
+                "additional": ["Physics", "Business Management"]
+              }
             ],
-            "duration": "2 Years",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
+            "salary": [
+              "Ghana: GHS20,000 - GHS35,000",
+              "USA: $35,000 - $55,000",
+              "Europe: €25,000 - €40,000"
+            ],
+            "cutt_off": ["2024 : ~ 36", "2025 : ~ 36"],
+            "mode": [
+              "Computer lab practicals and lectures",
+              "Networking and hardware workshops"
+            ],
             "entry_requirements": [
-              "Minimum of 5 credits in SSCE including English and Mathematics"
+              "WASSCE: Passes in Core subjects and Electives",
+              "Interest in technology"
             ],
-            "level_note": []
+            "level_note": [
+              "Focuses on hardware, software, networking, and basic programming.",
+              "Prepares students for entry-level IT roles."
+            ]
           }
         ]
       },
       {
-        "course_name": "Data Science",
+        "course_name": "Certificate in Data Science",
         "career": [
           "Junior Data Analyst",
-          "Data Assistant",
-          "Business Intelligence Assistant"
+          "Data Entry Clerk",
+          "Business Intelligence Assistant",
+          "Reporting Analyst",
+          "Data Cleaning Specialist",
+          "Statistical Assistant",
+          "Marketing Analyst Assistant",
+          "Database Assistant",
+          "Research Assistant",
+          "Operations Analyst Assistant"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 2,500 - GHC 4,000 per program"],
+            "duration": "6 months",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS25,000 - GHS40,000",
+              "USA: N/A",
+              "Europe: N/A"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": [
+              "Intensive workshops and projects",
+              "Use of Python, R, and Excel"
+            ],
+            "entry_requirements": [
+              "Basic computer literacy",
+              "Mathematics background preferred"
+            ],
+            "level_note": [
+              "Introduction to data analysis, visualization, and basic machine learning concepts.",
+              "Skill-focused certification."
+            ]
           }
         ]
       },
       {
-        "course_name": "Web Development",
+        "course_name": "Certificate in Web Development",
         "career": [
           "Junior Web Developer",
-          "Front-End Developer",
-          "Web Design Assistant"
+          "Frontend Developer",
+          "Website Maintainer",
+          "CMS Manager",
+          "Freelance Web Designer",
+          "UI/UX Assistant",
+          "Web Master",
+          "Digital Content Manager",
+          "E-commerce Assistant",
+          "Technical Support"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 2,000 - GHC 3,500 per program"],
+            "duration": "6 months",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS20,000 - GHS35,000",
+              "USA: N/A",
+              "Europe: N/A"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": ["Hands-on coding bootcamps", "Project-based assessment"],
+            "entry_requirements": ["Computer literacy", "Interest in coding"],
+            "level_note": [
+              "Covers HTML, CSS, JavaScript, and CMS platforms.",
+              "Students build a portfolio of websites."
+            ]
           }
         ]
       },
       {
-        "course_name": "Artificial Intelligence",
+        "course_name": "Certificate in Artificial Intelligence",
         "career": [
           "AI Assistant",
-          "Machine Learning Assistant",
-          "AI Support Technician"
+          "Chatbot Developer",
+          "Data Labeler",
+          "Junior Machine Learning Engineer",
+          "Automation Specialist",
+          "Robotics Assistant",
+          "AI Trainer",
+          "Tech Support (AI Products)",
+          "Process Automation Assistant",
+          "Innovation Assistant"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 3,000 - GHC 4,500 per program"],
+            "duration": "6 months",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS50,000",
+              "USA: N/A",
+              "Europe: N/A"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": [
+              "Lectures and practical coding sessions",
+              "Focus on practical AI applications"
+            ],
+            "entry_requirements": [
+              "Programming knowledge",
+              "Strong mathematical aptitude"
+            ],
+            "level_note": [
+              "Introduction to neural networks, natural language processing, and robotics.",
+              "Advanced certificate for tech enthusiasts."
+            ]
           }
         ]
       },
       {
-        "course_name": "Networking",
+        "course_name": "Certificate in Networking",
         "career": [
           "Network Technician",
-          "Network Support Assistant",
-          "IT Infrastructure Assistant"
+          "IT Support Specialist",
+          "Cabling Technician",
+          "System Admin Assistant",
+          "Network Security Assistant",
+          "Help Desk Technician",
+          "Data Center Technician",
+          "ISP Support Agent",
+          "Field Service Technician",
+          "NOC Technician"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": ["Ghanaian Students : GHC 2,000 - GHC 3,500 per program"],
+            "duration": "6 months",
+            "electives": [
+              {
+                "required": []
+              },
+              {
+                "additional": []
+              }
+            ],
+            "salary": [
+              "Ghana: GHS20,000 - GHS35,000",
+              "USA: N/A",
+              "Europe: N/A"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": [
+              "Lab-based training with networking hardware",
+              "Preparation for certifications like CCNA"
+            ],
+            "entry_requirements": [
+              "Computer literacy",
+              "Basic technical knowledge"
+            ],
+            "level_note": [
+              "Covers IP addressing, routing, switching, and network troubleshooting.",
+              "Essential skills for IT infrastructure roles."
+            ]
           }
         ]
       }
@@ -612,44 +938,56 @@
   },
   {
     "faculty_name": "Health And Allied Science",
-    "note": [],
+    "note": [
+      "The School of Health and Allied Science is dedicated to training competent healthcare professionals.",
+      "Programs include clinical practice and theoretical instruction."
+    ],
     "courses": [
       {
         "course_name": "BSc. Nursing and Midwifery",
         "career": [
           "Registered Nurse",
           "Midwife",
-          "Community Health Nurse",
+          "Public Health Nurse",
+          "Pediatric Nurse",
           "Clinical Nurse Specialist",
           "Nurse Educator",
-          "Public Health Nurse",
-          "Maternal and Child Health Officer"
+          "Health Administrator",
+          "Occupational Health Nurse",
+          "Research Nurse",
+          "Community Health Nurse"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 10,000 - GHC 13,000 per year"],
+            "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science",
-                  "Biology"
-                ]
+                "required": ["Biology", "Chemistry", "Physics"]
               },
               {
-                "additional": ["Chemistry", "Physics"]
+                "additional": ["Elective Mathematics", "General Agriculture"]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus with clinical placements"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science) plus three (3) relevant elective subjects including Biology and Chemistry"
+            "salary": [
+              "Ghana: GHS35,000 - GHS65,000",
+              "USA: $60,000 - $90,000",
+              "Europe: €35,000 - €60,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 15", "2025 : ~ 15"],
+            "mode": [
+              "Classroom lectures, skills laboratory, and clinical rotations",
+              "Practical training in partner hospitals"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Integrated Science",
+              "WASSCE: Credit passes in Biology, Chemistry, and Physics or Elective Maths"
+            ],
+            "level_note": [
+              "Comprehensive nursing and midwifery education.",
+              "Prepares students for licensure examination by the Nursing and Midwifery Council."
+            ]
           }
         ]
       }
@@ -657,45 +995,59 @@
   },
   {
     "faculty_name": "Languages",
-    "note": [],
+    "note": [
+      "The School of Languages promotes linguistic proficiency and cultural understanding.",
+      "Focuses on Arabic language education and teacher training."
+    ],
     "courses": [
       {
         "course_name": "BA Arabic Language Education",
         "career": [
-          "Arabic Language Teacher",
+          "Arabic Teacher",
           "Translator",
           "Interpreter",
-          "Language Instructor",
-          "Education Officer",
-          "Cultural Liaison Officer"
+          "Curriculum Developer",
+          "Diplomatic Service Officer",
+          "Cultural Attaché",
+          "Researcher",
+          "Journalist (Arabic Media)",
+          "NGO Worker",
+          "Immigration Officer"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [
-              "Ghanaian Students: GHS 6,345 per year",
-              "International Students: USD 2,145 per year"
-            ],
-            "duration": "4 Years",
+            "fees": ["Ghanaian Students : GHC 7,000 - GHC 8,500 per year"],
+            "duration": "4 years",
             "electives": [
               {
                 "required": [
-                  "English Language",
-                  "Mathematics",
-                  "Integrated Science or Social Studies"
+                  "Arabic (if available)",
+                  "Islamic Religious Studies"
                 ]
               },
               {
-                "additional": ["Three relevant elective subjects"]
+                "additional": ["Government", "Literature in English", "History"]
               }
             ],
-            "salary": [],
-            "cutt_off": [],
-            "mode": ["Full-time on-campus"],
-            "entry_requirements": [
-              "WASSCE/SSSCE: Credit passes (A-D) in six (6) subjects comprising three core subjects (English Language, Mathematics, Integrated Science or Social Studies) plus three (3) relevant elective subjects"
+            "salary": [
+              "Ghana: GHS25,000 - GHS50,000",
+              "USA: $40,000 - $65,000",
+              "Europe: €30,000 - €55,000"
             ],
-            "level_note": []
+            "cutt_off": ["2024 : ~ 30", "2025 : ~ 30"],
+            "mode": [
+              "Lectures, language labs, and teaching practice",
+              "Immersive language sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in Core subjects",
+              "WASSCE: Credit passes in Elective subjects (Arabic knowledge is an advantage)"
+            ],
+            "level_note": [
+              "Combines Arabic language mastery with pedagogical skills.",
+              "Designed for aspiring Arabic teachers in basic and secondary schools."
+            ]
           }
         ]
       }
