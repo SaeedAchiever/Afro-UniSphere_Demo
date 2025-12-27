@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Entrance University of Health Sciences"
+  },
+  {
+    "faculty_name": "Faculty of Allied Health Science (School of Nursing)",
+    "note": [
+      "The School of Nursing is dedicated to training compassionate and competent nursing professionals.",
+      "The program combines theoretical knowledge with extensive clinical practice in accredited healthcare facilities."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. Nursing",
+        "career": [
+          "Registered General Nurse",
+          "Public Health Nurse",
+          "Community Health Nurse",
+          "Clinical Nurse Specialist",
+          "Ward Manager",
+          "Nurse Educator",
+          "Nurse Administrator",
+          "Occupational Health Nurse",
+          "School Health Nurse",
+          "Research Nurse"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 22,000 - GHC 26,000 per year"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Biology",
+                  "Chemistry",
+                  "Physics"
+                ]
+              },
+              {
+                "additional": [
+                  "Elective Mathematics",
+                  "General Agriculture",
+                  "Health Science"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS70,000",
+              "USA: $65,000 - $95,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 15",
+              "2025 : ~ 15"
+            ],
+            "mode": [
+              "In-person classroom lectures, clinical skills laboratory, and hospital-based clinical rotations",
+              "Integration of theory and practice with supervised patient care"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics, and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in Biology, Chemistry, and Physics or Elective Mathematics",
+              "Competitive selection with aggregate typically 18 or better"
+            ],
+            "level_note": [
+              "Comprehensive nursing education accredited by the Nursing and Midwifery Council of Ghana.",
+              "Students develop clinical competencies in various nursing specialties through rotations."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Pharmacy",
+    "note": [
+      "The School of Pharmacy trains pharmaceutical professionals committed to healthcare excellence.",
+      "The Doctor of Pharmacy program meets international standards for pharmaceutical education."
+    ],
+    "courses": [
+      {
+        "course_name": "Doctor of Pharmacy (Pharm.D)",
+        "career": [
+          "Community Pharmacist",
+          "Hospital Pharmacist",
+          "Clinical Pharmacist",
+          "Pharmaceutical Researcher",
+          "Pharmacy Manager",
+          "Regulatory Affairs Specialist",
+          "Medical Sales Representative",
+          "Drug Information Specialist",
+          "Quality Assurance Officer",
+          "Pharmaceutical Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 28,000 - GHC 34,000 per year"
+            ],
+            "duration": "6 years",
+            "electives": [
+              {
+                "required": [
+                  "Chemistry",
+                  "Biology",
+                  "Physics",
+                  "Elective Mathematics"
+                ]
+              },
+              {
+                "additional": [
+                  "General Agriculture",
+                  "Health Science"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS50,000 - GHS90,000",
+              "USA: $75,000 - $120,000",
+              "Europe: €50,000 - €85,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 8",
+              "2025 : ~ 8"
+            ],
+            "mode": [
+              "In-person lectures, laboratory practicals, and clinical pharmacy rotations",
+              "Hands-on experience in hospital and community pharmacy settings"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics, and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in Chemistry, Biology, Physics, and Elective Mathematics",
+              "Highly competitive aggregate typically 8 or better"
+            ],
+            "level_note": [
+              "Rigorous 6-year program preparing pharmacists for professional practice and licensure.",
+              "Includes theoretical pharmacy sciences, pharmaceutical chemistry, and clinical practice."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Medicine",
+    "note": [
+      "The School of Medicine is committed to training physicians of high caliber with excellent clinical skills.",
+      "The MB ChB program is recognized internationally and meets Ghana Medical and Dental Council standards."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Medicine, Bachelor of Surgery (MB ChB)",
+        "career": [
+          "General Practitioner",
+          "Specialist Physician",
+          "Surgeon",
+          "Pediatrician",
+          "Cardiologist",
+          "Psychiatrist",
+          "Emergency Medicine Physician",
+          "Radiologist",
+          "Anesthesiologist",
+          "Public Health Physician"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 35,000 - GHC 45,000 per year"
+            ],
+            "duration": "6 years",
+            "electives": [
+              {
+                "required": [
+                  "Chemistry",
+                  "Biology",
+                  "Physics"
+                ]
+              },
+              {
+                "additional": [
+                  "Elective Mathematics",
+                  "General Agriculture"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS80,000 - GHS150,000",
+              "USA: $120,000 - $200,000",
+              "Europe: €80,000 - €130,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 5",
+              "2025 : ~ 5"
+            ],
+            "mode": [
+              "Classroom lectures, laboratory sessions, and extensive clinical rounds in teaching hospitals",
+              "Supervised patient care and surgical observation"
+            ],
+            "entry_requirements": [
+              "WASSCE: A1-C6 passes in English Language, Core Mathematics, and Integrated Science",
+              "WASSCE: A1-C6 passes in Chemistry, Biology, and Physics",
+              "Highly competitive aggregate typically 5 or better"
+            ],
+            "level_note": [
+              "Comprehensive 6-year medical program recognized by international medical bodies.",
+              "Strong emphasis on clinical competence, ethics, and community health."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Dentistry",
+    "note": [
+      "The School of Dentistry prepares dental professionals to deliver excellent oral healthcare.",
+      "The BDS program is accredited and meets standards for dental education and practice."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Dental Surgery (BDS)",
+        "career": [
+          "General Dentist",
+          "Orthodontist",
+          "Oral Surgeon",
+          "Periodontist",
+          "Prosthodontist",
+          "Dental Implant Specialist",
+          "Pediatric Dentist",
+          "Dental Public Health Specialist",
+          "Dental Educator",
+          "Practice Owner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students : GHC 32,000 - GHC 40,000 per year"
+            ],
+            "duration": "5 years",
+            "electives": [
+              {
+                "required": [
+                  "Chemistry",
+                  "Biology",
+                  "Physics"
+                ]
+              },
+              {
+                "additional": [
+                  "Elective Mathematics",
+                  "General Agriculture"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS70,000 - GHS130,000",
+              "USA: $100,000 - $170,000",
+              "Europe: €70,000 - €120,000"
+            ],
+            "cutt_off": [
+              "2024 : ~ 10",
+              "2025 : ~ 10"
+            ],
+            "mode": [
+              "In-person lectures, dental laboratory practicals, and clinical dentistry in the teaching clinic",
+              "Supervised patient care in oral health services"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Core Mathematics, and Integrated Science",
+              "WASSCE: Credit passes (A1-C6) in Chemistry, Biology, and Physics",
+              "Competitive aggregate typically 10 or better"
+            ],
+            "level_note": [
+              "5-year program in dental science and clinical practice recognized by dental regulatory bodies.",
+              "Covers oral biology, prosthetics, restorative dentistry, and surgical procedures."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
