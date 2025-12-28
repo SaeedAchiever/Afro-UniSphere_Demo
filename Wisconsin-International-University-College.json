@@ -5,61 +5,58 @@
   {
     "faculty_name": "School of Business Studies",
     "note": [
-      "The School of Business offers flexible study options designed for both traditional students and working professionals.",
-      "Programs emphasize practical business skills and ethical leadership."
+      "The School of Business Studies offers a blend of theoretical and practical training to prepare students for the competitive global business environment.",
+      "Programs are accredited by the Ghana Tertiary Education Commission (GTEC)."
     ],
     "courses": [
       {
         "course_name": "BA Business Studies - General Business",
         "career": [
-          "Business Manager",
-          "Entrepreneur",
-          "Operations Officer",
-          "Project Coordinator",
+          "Business Development Manager",
+          "Operations Manager",
           "Administrative Manager",
-          "Sales Executive",
-          "Business Development Officer",
+          "Entrepreneur",
+          "Management Consultant",
+          "Project Coordinator",
+          "Retail Manager",
+          "Supply Chain Analyst",
           "Customer Service Manager",
-          "Management Trainee",
-          "SME Consultant"
+          "Sales Executive"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 3,500 per semester"],
             "duration": "4 years",
             "electives": [
               {
                 "required": [
+                  "Business Law",
                   "Principles of Management",
-                  "Business Communication"
+                  "Business Mathematics"
                 ]
               },
               {
-                "additional": [
-                  "Economics",
-                  "Business Law",
-                  "Marketing Management"
-                ]
+                "additional": ["Economics", "Information Systems", "French"]
               }
             ],
             "salary": [
               "Ghana: GHS30,000 - GHS60,000",
-              "USA: $50,000 - $85,000",
-              "Europe: €32,000 - €60,000"
+              "USA: $50,000 - $80,000",
+              "Europe: €35,000 - €55,000"
             ],
             "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
-              "Available in Regular (Day), Evening, and Weekend sessions",
-              "Interactive lectures and group projects"
+              "Lecture-based learning with case studies",
+              "Group projects and industry internships"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science/Social Studies",
-              "WASSCE: Credit passes in three elective subjects (Business electives preferred)"
+              "WASSCE: Credit passes (A1-C6) in six subjects including English, Core Maths, and Integrated Science/Social Studies",
+              "Aggregate 36 or better"
             ],
             "level_note": [
-              "Provides a broad understanding of business operations and management.",
-              "Suitable for students undecided on a specific specialization."
+              "Provides a broad foundation in all aspects of business operations.",
+              "Ideal for students who want flexible career options in the corporate world."
             ]
           }
         ]
@@ -67,55 +64,52 @@
       {
         "course_name": "BA Business Studies - Accounting Option",
         "career": [
-          "Accountant",
+          "Chartered Accountant",
           "Auditor",
           "Tax Consultant",
           "Financial Controller",
+          "Management Accountant",
           "Budget Analyst",
-          "Accounts Officer",
           "Forensic Accountant",
-          "Internal Auditor",
           "Payroll Manager",
-          "Credit Controller"
+          "Accounts Officer",
+          "Finance Manager"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 3,500 per semester"],
             "duration": "4 years",
             "electives": [
               {
                 "required": [
                   "Financial Accounting",
                   "Cost Accounting",
-                  "Auditing"
+                  "Auditing",
+                  "Taxation"
                 ]
               },
               {
-                "additional": [
-                  "Taxation",
-                  "Public Sector Accounting",
-                  "Management Accounting"
-                ]
+                "additional": ["Business Law", "Public Sector Accounting"]
               }
             ],
             "salary": [
               "Ghana: GHS35,000 - GHS70,000",
-              "USA: $60,000 - $100,000",
-              "Europe: €40,000 - €70,000"
+              "USA: $60,000 - $90,000",
+              "Europe: €40,000 - €65,000"
             ],
             "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
-              "Regular, Evening, and Weekend options available",
-              "Focus on professional accounting standards"
+              "Lectures with practical accounting software training",
+              "Tutorials and professional seminars"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science/Social Studies",
-              "WASSCE: Credit passes in three elective subjects"
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Science/Social Studies",
+              "Credit passes in three elective subjects (Business/Maths preferred)"
             ],
             "level_note": [
-              "Prepares students for professional examinations like ICAG and ACCA.",
-              "Focuses on financial reporting and control systems."
+              "Focuses on financial reporting, auditing, and taxation principles.",
+              "Prepares students for professional certification exams like ICA and ACCA."
             ]
           }
         ]
@@ -123,55 +117,51 @@
       {
         "course_name": "BA Business Studies - Banking and Finance Option",
         "career": [
-          "Banker",
-          "Loan Officer",
+          "Bank Manager",
           "Credit Analyst",
-          "Investment Advisor",
-          "Branch Manager",
-          "Risk Manager",
+          "Investment Banker",
           "Financial Analyst",
-          "Treasury Officer",
-          "Microfinance Manager",
-          "Corporate Finance Officer"
+          "Loan Officer",
+          "Risk Manager",
+          "Portfolio Manager",
+          "Stockbroker",
+          "Treasury Analyst",
+          "Insurance Underwriter"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 3,500 per semester"],
             "duration": "4 years",
             "electives": [
               {
                 "required": [
                   "Money and Banking",
                   "Corporate Finance",
-                  "Financial Markets"
+                  "Investment Analysis"
                 ]
               },
               {
-                "additional": [
-                  "Investment Analysis",
-                  "International Finance",
-                  "Risk Management"
-                ]
+                "additional": ["Financial Markets", "Microfinance"]
               }
             ],
             "salary": [
               "Ghana: GHS40,000 - GHS80,000",
-              "USA: $60,000 - $110,000",
-              "Europe: €40,000 - €75,000"
+              "USA: $65,000 - $100,000",
+              "Europe: €45,000 - €70,000"
             ],
             "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
-              "Flexible study modes (Regular/Evening/Weekend)",
-              "Practical banking simulations"
+              "Lectures, seminars, and financial modeling workshops",
+              "Internships with financial institutions"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science/Social Studies",
-              "WASSCE: Credit passes in three elective subjects"
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Science/Social Studies",
+              "Credit passes in three elective subjects"
             ],
             "level_note": [
-              "Equips students with skills for the banking and financial services sector.",
-              "Covers regulatory frameworks and financial instruments."
+              "Equips students with analytical skills for the banking and financial sector.",
+              "Covers global financial markets, risk management, and investment strategies."
             ]
           }
         ]
@@ -182,51 +172,48 @@
           "HR Manager",
           "Recruitment Specialist",
           "Training Coordinator",
-          "Employee Relations Officer",
+          "Employee Relations Manager",
           "Compensation Analyst",
           "HR Consultant",
-          "Organizational Development Officer",
-          "Talent Acquisition Specialist",
-          "Payroll Administrator",
-          "Industrial Relations Officer"
+          "Talent Acquisition Manager",
+          "Performance Management Specialist",
+          "Industrial Relations Officer",
+          "Organizational Development Specialist"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 3,500 per semester"],
             "duration": "4 years",
             "electives": [
               {
                 "required": [
-                  "Human Resource Management",
-                  "Organizational Behavior"
+                  "Human Resource Planning",
+                  "Labour Law",
+                  "Organizational Behaviour"
                 ]
               },
               {
-                "additional": [
-                  "Labor Law",
-                  "Performance Management",
-                  "Strategic HRM"
-                ]
+                "additional": ["Psychology", "Industrial Sociology"]
               }
             ],
             "salary": [
-              "Ghana: GHS30,000 - GHS60,000",
-              "USA: $50,000 - $85,000",
+              "Ghana: GHS30,000 - GHS65,000",
+              "USA: $55,000 - $85,000",
               "Europe: €35,000 - €60,000"
             ],
             "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
-              "Available in all study modes",
-              "Case studies and role-playing exercises"
+              "Interactive lectures, role-playing, and case studies",
+              "Workshops on HR software"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science/Social Studies",
-              "WASSCE: Credit passes in three elective subjects"
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Science/Social Studies",
+              "Credit passes in three elective subjects"
             ],
             "level_note": [
-              "Focuses on managing people and organizational culture.",
-              "Essential for roles in personnel management and administration."
+              "Teaches strategies for managing an organization's most valuable asset: its people.",
+              "Covers recruitment, training, performance appraisal, and labor relations."
             ]
           }
         ]
@@ -239,8 +226,8 @@
           "Sales Manager",
           "Digital Marketer",
           "Market Research Analyst",
-          "Public Relations Officer",
           "Advertising Executive",
+          "Public Relations Officer",
           "Product Manager",
           "Social Media Manager",
           "Event Coordinator"
@@ -248,37 +235,37 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 3,500 per semester"],
             "duration": "4 years",
             "electives": [
               {
-                "required": ["Marketing Management", "Consumer Behavior"]
+                "required": [
+                  "Consumer Behaviour",
+                  "Marketing Strategy",
+                  "Marketing Research"
+                ]
               },
               {
-                "additional": [
-                  "Digital Marketing",
-                  "Sales Management",
-                  "International Marketing"
-                ]
+                "additional": ["Digital Marketing", "International Marketing"]
               }
             ],
             "salary": [
               "Ghana: GHS30,000 - GHS65,000",
               "USA: $50,000 - $90,000",
-              "Europe: €35,000 - €65,000"
+              "Europe: €35,000 - €60,000"
             ],
             "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
-              "Flexible study schedules",
-              "Marketing projects and campaigns"
+              "Lectures, group projects, and marketing simulations",
+              "Fieldwork and market research projects"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science/Social Studies",
-              "WASSCE: Credit passes in three elective subjects"
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Science/Social Studies",
+              "Credit passes in three elective subjects"
             ],
             "level_note": [
-              "Develops skills in market analysis, branding, and promotion.",
-              "Combines creative strategy with business logic."
+              "Focuses on creating customer value, branding, and market analysis.",
+              "Prepares students for dynamic roles in sales, advertising, and digital marketing."
             ]
           }
         ]
@@ -286,54 +273,365 @@
       {
         "course_name": "BSc Accounting",
         "career": [
-          "Chartered Accountant",
-          "Auditor",
+          "Certified Public Accountant",
+          "Internal Auditor",
           "Tax Specialist",
-          "Financial Controller",
-          "Management Accountant",
-          "Budget Analyst",
-          "Forensic Accountant",
+          "Financial Analyst",
+          "Cost Accountant",
+          "Accounts Manager",
+          "Banker",
           "Investment Analyst",
-          "Finance Officer",
-          "Treasury Manager"
+          "Government Accountant",
+          "Consultant"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 3,500 per semester"],
             "duration": "4 years",
             "electives": [
               {
                 "required": [
                   "Advanced Financial Accounting",
-                  "Audit and Assurance"
+                  "Audit and Assurance",
+                  "Taxation"
+                ]
+              },
+              {
+                "additional": ["Business Ethics", "Corporate Law"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS70,000",
+              "USA: $60,000 - $95,000",
+              "Europe: €40,000 - €65,000"
+            ],
+            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "mode": [
+              "Rigorous lectures and tutorial sessions",
+              "Practical application of accounting standards"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Science/Social Studies",
+              "Credit passes in three elective subjects (Business/Maths preferred)"
+            ],
+            "level_note": [
+              "A specialized degree focusing intensely on accounting principles and practices.",
+              "Aligned with professional accounting body syllabi."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Accounting",
+        "career": [
+          "Chief Financial Officer (CFO)",
+          "Finance Director",
+          "Senior Auditor",
+          "Corporate Controller",
+          "Senior Tax Manager",
+          "Treasury Manager",
+          "Accounting Lecturer",
+          "Financial Consultant",
+          "Risk Director",
+          "Compliance Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : ~GHS 23,500 for entire program"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Strategic Management Accounting",
+                  "Corporate Financial Reporting"
+                ]
+              },
+              {
+                "additional": ["Public Sector Accounting", "Taxation Policy"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS60,000 - GHS120,000",
+              "USA: $90,000 - $150,000",
+              "Europe: €60,000 - €100,000"
+            ],
+            "cutt_off": ["Degree required"],
+            "mode": [
+              "Evening/Weekend lectures for working professionals",
+              "Dissertation research"
+            ],
+            "entry_requirements": [
+              "A good first degree (2nd Class Lower or better) in Accounting or related field",
+              "Professional qualification (ICA/ACCA) is an advantage"
+            ],
+            "level_note": [
+              "Advanced study for senior leadership roles in finance and accounting.",
+              "Combines strategic management with advanced accounting theory."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Finance",
+        "career": [
+          "Finance Manager",
+          "Investment Manager",
+          "Portfolio Manager",
+          "Corporate Treasurer",
+          "Financial Risk Manager",
+          "Investment Banker",
+          "Asset Manager",
+          "Financial Planner",
+          "Mergers & Acquisitions Specialist",
+          "Head of Finance"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : ~GHS 23,500 for entire program"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Corporate Finance",
+                  "Investment Analysis",
+                  "Financial Markets"
+                ]
+              },
+              {
+                "additional": ["International Finance", "Risk Management"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS65,000 - GHS130,000",
+              "USA: $95,000 - $160,000",
+              "Europe: €65,000 - €110,000"
+            ],
+            "cutt_off": ["Degree required"],
+            "mode": [
+              "Seminars, case studies, and financial modeling",
+              "Research project"
+            ],
+            "entry_requirements": [
+              "First degree in Finance, Economics, or Business from a recognized university",
+              "Relevant work experience is an asset"
+            ],
+            "level_note": [
+              "Prepares professionals for high-level financial decision-making.",
+              "Focuses on valuation, capital markets, and strategic financial planning."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Human Resource Management",
+        "career": [
+          "HR Director",
+          "Talent Management Director",
+          "Organizational Development Manager",
+          "HR Business Partner",
+          "Industrial Relations Manager",
+          "Training & Development Manager",
+          "Compensation & Benefits Manager",
+          "HR Consultant",
+          "Chief People Officer",
+          "Change Management Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : ~GHS 23,500 for entire program"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Strategic HRM",
+                  "Organizational Behaviour",
+                  "Employment Law"
+                ]
+              },
+              {
+                "additional": ["Conflict Management", "Performance Management"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS55,000 - GHS110,000",
+              "USA: $85,000 - $140,000",
+              "Europe: €55,000 - €95,000"
+            ],
+            "cutt_off": ["Degree required"],
+            "mode": [
+              "Interactive lectures and workshops",
+              "Strategic HR projects"
+            ],
+            "entry_requirements": [
+              "First degree in any discipline",
+              "Work experience in HR or management is preferred"
+            ],
+            "level_note": [
+              "Develops strategic leadership skills for managing human capital.",
+              "Aligns HR strategies with broader organizational goals."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Marketing",
+        "career": [
+          "Marketing Director",
+          "Brand Strategy Manager",
+          "Sales Director",
+          "Chief Marketing Officer",
+          "Digital Marketing Manager",
+          "Product Development Manager",
+          "Market Research Manager",
+          "Public Relations Director",
+          "International Marketing Manager",
+          "Customer Experience Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : ~GHS 23,500 for entire program"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Strategic Marketing Management",
+                  "Consumer Behaviour",
+                  "Global Marketing"
                 ]
               },
               {
                 "additional": [
-                  "Corporate Law",
-                  "Taxation",
-                  "Financial Management"
+                  "Digital Marketing Strategy",
+                  "Service Marketing"
                 ]
               }
             ],
             "salary": [
-              "Ghana: GHS35,000 - GHS75,000",
-              "USA: $60,000 - $110,000",
-              "Europe: €40,000 - €75,000"
+              "Ghana: GHS55,000 - GHS110,000",
+              "USA: $90,000 - $145,000",
+              "Europe: €60,000 - €100,000"
             ],
-            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
+            "cutt_off": ["Degree required"],
             "mode": [
-              "Regular, Evening, Weekend options",
-              "Intensive accounting focus"
+              "Case studies, simulations, and group projects",
+              "Evening and weekend classes"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science/Social Studies",
-              "WASSCE: Credit passes in three elective subjects"
+              "First degree in Marketing or Business",
+              "Professional experience in marketing is beneficial"
             ],
             "level_note": [
-              "Specialized degree with a deeper focus on accounting principles than the BA option.",
-              "Strong pathway for professional accountancy qualification."
+              "Advanced training in marketing strategy and brand management.",
+              "Focuses on competitive positioning in a global marketplace."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Project Management",
+        "career": [
+          "Project Manager",
+          "Program Manager",
+          "Operations Director",
+          "Construction Project Manager",
+          "IT Project Manager",
+          "Portfolio Manager",
+          "Risk Manager",
+          "Project Consultant",
+          "Supply Chain Manager",
+          "Development Project Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : ~GHS 23,500 for entire program"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Project Planning and Control",
+                  "Project Risk Management",
+                  "Procurement Management"
+                ]
+              },
+              {
+                "additional": ["Quality Management", "Leadership in Projects"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS60,000 - GHS120,000",
+              "USA: $90,000 - $140,000",
+              "Europe: €60,000 - €100,000"
+            ],
+            "cutt_off": ["Degree required"],
+            "mode": [
+              "Practical project simulations and lectures",
+              "Software tools for project management"
+            ],
+            "entry_requirements": [
+              "First degree in any discipline",
+              "Project management experience is an advantage"
+            ],
+            "level_note": [
+              "Teaches methodologies for initiating, planning, executing, and closing projects.",
+              "Applicable across industries like construction, IT, and development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Management Information Systems (MIS)",
+        "career": [
+          "IT Manager",
+          "Chief Information Officer (CIO)",
+          "Systems Analyst Manager",
+          "IT Project Manager",
+          "Database Administrator Manager",
+          "Business Intelligence Manager",
+          "IT Consultant",
+          "Digital Transformation Manager",
+          "Enterprise Architect",
+          "Information Security Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : ~GHS 23,500 for entire program"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Information Systems Strategy",
+                  "Database Management",
+                  "E-Business"
+                ]
+              },
+              {
+                "additional": ["Cyber Security", "Data Analytics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS65,000 - GHS130,000",
+              "USA: $100,000 - $160,000",
+              "Europe: €70,000 - €110,000"
+            ],
+            "cutt_off": ["Degree required"],
+            "mode": [
+              "Lectures, lab sessions, and tech projects",
+              "Focus on aligning IT with business goals"
+            ],
+            "entry_requirements": [
+              "First degree in IT, CS, or Business",
+              "Technical background is preferred"
+            ],
+            "level_note": [
+              "Bridges the gap between business management and information technology.",
+              "Prepares leaders to manage technology resources for strategic advantage."
             ]
           }
         ]
@@ -343,58 +641,58 @@
   {
     "faculty_name": "School of Nursing & Midwifery",
     "note": [
-      "The School provides rigorous training combining theory and clinical practice.",
-      "Programs are accredited by the Nursing and Midwifery Council of Ghana."
+      "The School of Nursing & Midwifery produces competent and polyvalent nurses and midwives.",
+      "Programs are accredited by the Nursing and Midwifery Council (NMC) of Ghana."
     ],
     "courses": [
       {
         "course_name": "BSc Nursing",
         "career": [
           "Registered General Nurse",
-          "Ward Manager",
+          "Public Health Nurse",
           "Clinical Nurse Specialist",
           "Nurse Educator",
-          "Public Health Nurse",
+          "Nurse Administrator",
           "Occupational Health Nurse",
           "School Nurse",
           "Research Nurse",
-          "Community Health Nurse",
-          "Nurse Administrator"
+          "Critical Care Nurse",
+          "Surgical Nurse"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 5,600 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 5,600 per semester"],
             "duration": "4 years",
             "electives": [
               {
-                "required": ["Anatomy and Physiology", "Pharmacology"]
+                "required": ["Biology", "Physics", "Chemistry"]
               },
               {
                 "additional": [
-                  "Medical-Surgical Nursing",
-                  "Pediatric Nursing",
-                  "Mental Health Nursing"
+                  "Elective Mathematics",
+                  "General Agriculture",
+                  "Food and Nutrition"
                 ]
               }
             ],
             "salary": [
-              "Ghana: GHS35,000 - GHS65,000",
-              "USA: $60,000 - $90,000",
+              "Ghana: GHS36,000 - GHS60,000",
+              "USA: $65,000 - $95,000",
               "Europe: €35,000 - €60,000"
             ],
             "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
-              "Regular and Weekend options available",
-              "Clinical rotations in partner hospitals"
+              "Classroom theory, skills lab, and clinical rotations",
+              "Hospital-based practical training"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science",
-              "WASSCE: Credit passes in three elective subjects (Science electives preferred)"
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Integrated Science",
+              "Credit passes in three elective subjects (Science/General Arts/Home Economics)"
             ],
             "level_note": [
-              "Comprehensive nursing education for general practice.",
-              "Prepares students for licensure examination."
+              "Comprehensive training in general nursing practice and patient care.",
+              "Leads to professional licensure as a Registered General Nurse (RGN)."
             ]
           }
         ]
@@ -405,48 +703,48 @@
           "Registered Midwife",
           "Maternity Ward Manager",
           "Community Midwife",
-          "Reproductive Health Specialist",
-          "Family Planning Nurse",
-          "Neonatal Nurse",
-          "Midwifery Educator",
-          "Maternal Health Researcher",
           "Antenatal Clinic Manager",
-          "Lactation Consultant"
+          "Reproductive Health Specialist",
+          "Midwifery Educator",
+          "Neonatal Nurse",
+          "Family Planning Counsellor",
+          "Lactation Consultant",
+          "Public Health Midwife"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 5,600 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 5,600 per semester"],
             "duration": "4 years",
             "electives": [
               {
-                "required": ["Midwifery Practice", "Obstetrics"]
+                "required": ["Biology", "Physics", "Chemistry"]
               },
               {
                 "additional": [
-                  "Gynecology",
-                  "Neonatal Care",
-                  "Community Midwifery"
+                  "Elective Mathematics",
+                  "General Agriculture",
+                  "Food and Nutrition"
                 ]
               }
             ],
             "salary": [
-              "Ghana: GHS35,000 - GHS65,000",
-              "USA: $60,000 - $90,000",
-              "Europe: €35,000 - €60,000"
+              "Ghana: GHS36,000 - GHS60,000",
+              "USA: $70,000 - $100,000",
+              "Europe: €40,000 - €65,000"
             ],
             "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
-              "Regular and Weekend options available",
-              "Extensive practical training in maternity units"
+              "Theory, skills lab, and extensive clinical practice in maternity units",
+              "Hands-on delivery and newborn care training"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science",
-              "WASSCE: Credit passes in three elective subjects"
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Integrated Science",
+              "Credit passes in three elective subjects"
             ],
             "level_note": [
-              "Focuses on maternal and child health.",
-              "Equips students to manage pregnancy, labor, and postpartum care."
+              "Specialized training in pregnancy, childbirth, and postpartum care.",
+              "Prepares students for licensure as a Registered Midwife (RM)."
             ]
           }
         ]
@@ -455,50 +753,46 @@
         "course_name": "BSc Public Health Nursing",
         "career": [
           "Public Health Nurse",
-          "Health Promotion Specialist",
-          "Epidemiologist Assistant",
           "Community Health Officer",
+          "Health Promotion Officer",
+          "Epidemiology Assistant",
           "School Health Coordinator",
           "Disease Control Officer",
           "Occupational Health Nurse",
           "NGO Health Project Officer",
-          "Health Educator",
-          "Policy Analyst"
+          "Family Health Nurse",
+          "Immunization Coordinator"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 5,600 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 5,600 per semester"],
             "duration": "4 years",
             "electives": [
               {
-                "required": ["Public Health Principles", "Epidemiology"]
+                "required": ["Biology", "Chemistry", "Integrated Science"]
               },
               {
-                "additional": [
-                  "Biostatistics",
-                  "Health Promotion",
-                  "Environmental Health"
-                ]
+                "additional": ["Physics", "Elective Mathematics"]
               }
             ],
             "salary": [
-              "Ghana: GHS35,000 - GHS65,000",
-              "USA: $55,000 - $85,000",
+              "Ghana: GHS36,000 - GHS65,000",
+              "USA: $60,000 - $90,000",
               "Europe: €35,000 - €60,000"
             ],
             "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
-              "Regular and Weekend options",
-              "Community fieldwork components"
+              "Lectures, community field work, and clinical placements",
+              "Focus on preventive health and community wellness"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science",
-              "WASSCE: Credit passes in three elective subjects"
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Integrated Science",
+              "Credit passes in three elective subjects"
             ],
             "level_note": [
-              "Focuses on disease prevention and health promotion in populations.",
-              "Ideal for those interested in community-based healthcare."
+              "Focuses on population health, disease prevention, and health promotion.",
+              "Combines nursing skills with public health principles."
             ]
           }
         ]
@@ -507,683 +801,46 @@
         "course_name": "BSc Community Health Nursing",
         "career": [
           "Community Health Nurse",
-          "Health Extension Worker",
-          "Home Health Nurse",
-          "Primary Healthcare Coordinator",
-          "Rural Health Nurse",
+          "Public Health Officer",
+          "District Health Officer",
           "Health Educator",
-          "NGO Field Officer",
-          "Family Health Nurse",
-          "Immunization Coordinator",
-          "School Nurse"
+          "Home Health Nurse",
+          "Rural Health Coordinator",
+          "Nutrition Officer",
+          "Maternal and Child Health Nurse",
+          "Communicable Disease Nurse",
+          "Health Surveillance Officer"
         ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 5,600 per semester"],
+            "fees": ["Ghanaian Students : ~GHS 5,600 per semester"],
             "duration": "4 years",
             "electives": [
               {
-                "required": ["Community Health Practice", "Primary Health Care"]
+                "required": ["Biology", "Chemistry", "Integrated Science"]
               },
               {
-                "additional": ["Family Health", "Nutrition", "Health Education"]
+                "additional": ["General Agriculture", "Elective Mathematics"]
               }
             ],
             "salary": [
-              "Ghana: GHS30,000 - GHS60,000",
-              "USA: $50,000 - $80,000",
-              "Europe: €32,000 - €55,000"
-            ],
-            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
-            "mode": ["Regular and Weekend options", "Field-based learning"],
-            "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science",
-              "WASSCE: Credit passes in three elective subjects"
-            ],
-            "level_note": [
-              "Prepares nurses to work directly within communities.",
-              "Emphasizes primary healthcare delivery and outreach."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "faculty_name": "School of Communication Studies",
-    "note": [
-      "Offers modern communication training with practical media exposure.",
-      "Programs cover journalism, public relations, and advertising."
-    ],
-    "courses": [
-      {
-        "course_name": "BA Communication Studies",
-        "career": [
-          "Journalist",
-          "Public Relations Officer",
-          "Corporate Communications Manager",
-          "Advertising Executive",
-          "Social Media Manager",
-          "Content Creator",
-          "Editor",
-          "Media Planner",
-          "Broadcaster",
-          "Event Manager"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Mass Communication", "Public Relations"]
-              },
-              {
-                "additional": [
-                  "Journalism",
-                  "Advertising",
-                  "Development Communication"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS30,000 - GHS60,000",
-              "USA: $45,000 - $75,000",
+              "Ghana: GHS35,000 - GHS60,000",
+              "USA: $55,000 - $85,000",
               "Europe: €35,000 - €55,000"
             ],
             "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
             "mode": [
-              "Regular, Evening, and Weekend options",
-              "Studio sessions and media internships"
+              "Lectures, home visits, and community outreach programs",
+              "Practical training in rural and urban community settings"
             ],
             "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science/Social Studies",
-              "WASSCE: Credit passes in three elective subjects"
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Integrated Science",
+              "Credit passes in three elective subjects"
             ],
             "level_note": [
-              "Broad curriculum covering various media fields.",
-              "Students build portfolios in writing, broadcasting, or PR campaigns."
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "BA Music",
-        "career": [
-          "Musician",
-          "Music Teacher",
-          "Choir Director",
-          "Music Producer",
-          "Sound Engineer",
-          "Arts Administrator",
-          "Composer",
-          "Music Therapist",
-          "Event Musician",
-          "Music Journalist"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Music Theory", "Performance"]
-              },
-              {
-                "additional": [
-                  "African Music",
-                  "Composition",
-                  "Music Technology"
-                ]
-              }
-            ],
-            "salary": ["Ghana: Variable", "USA: Variable", "Europe: Variable"],
-            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
-            "mode": [
-              "Accra Campus Only",
-              "Practical performance and theory classes"
-            ],
-            "entry_requirements": [
-              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science/Social Studies",
-              "WASSCE: Credit passes in three elective subjects (Music background helpful)"
-            ],
-            "level_note": [
-              "Integrates African and Western musical traditions.",
-              "Provides training in performance, composition, and musicology."
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "Diploma in Communication Studies",
-        "career": [
-          "Communication Assistant",
-          "Customer Service Representative",
-          "Junior PR Officer",
-          "Media Assistant",
-          "Social Media Coordinator",
-          "Administrative Assistant",
-          "Radio Presenter",
-          "News Reporter",
-          "Event Assistant",
-          "Marketing Assistant"
-        ],
-        "levels": [
-          {
-            "level_name": "Diploma",
-            "fees": ["Ghanaian Students : GHC 2,600 per semester"],
-            "duration": "2 years",
-            "electives": [
-              {
-                "required": ["Communication Skills"]
-              },
-              {
-                "additional": ["Public Relations Basics", "Media Writing"]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS18,000 - GHS30,000",
-              "USA: $30,000 - $45,000",
-              "Europe: €20,000 - €35,000"
-            ],
-            "cutt_off": ["2024 : ~ 30", "2025 : ~ 30"],
-            "mode": ["Flexible study modes", "Pathway to degree program"],
-            "entry_requirements": [
-              "WASSCE: Passes (A1-D7) in Core subjects and Electives",
-              "Mature applicants accepted"
-            ],
-            "level_note": [
-              "Foundation course in communication principles.",
-              "Practical focus on media skills."
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "Diploma in Music",
-        "career": [
-          "Music Tutor",
-          "Session Musician",
-          "Band Leader",
-          "Assistant Choir Director",
-          "Music Studio Assistant",
-          "Church Musician",
-          "Instrumentalist",
-          "Vocalist",
-          "Music Librarian",
-          "Event Performer"
-        ],
-        "levels": [
-          {
-            "level_name": "Diploma",
-            "fees": ["Ghanaian Students : GHC 2,600 per semester"],
-            "duration": "2 years",
-            "electives": [
-              {
-                "required": ["Music Fundamentals"]
-              },
-              {
-                "additional": ["Instrumental Study", "Ensemble"]
-              }
-            ],
-            "salary": ["Ghana: Variable", "USA: Variable", "Europe: Variable"],
-            "cutt_off": ["2024 : ~ 30", "2025 : ~ 30"],
-            "mode": ["Accra Campus Only", "Performance-based learning"],
-            "entry_requirements": [
-              "WASSCE: Passes (A1-D7) in Core subjects and Electives",
-              "Audition may be required"
-            ],
-            "level_note": [
-              "Vocational training in music performance and theory.",
-              "Suitable for aspiring professional musicians."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "faculty_name": "Faculty of Law",
-    "note": [
-      "The Law Faculty offers a rigorous legal education.",
-      "Programs are available in 4-year (WASSCE) and 3-year (Post-Degree) formats."
-    ],
-    "courses": [
-      {
-        "course_name": "Bachelor of Laws (LL.B)",
-        "career": [
-          "Lawyer (Barrister/Solicitor)",
-          "Magistrate",
-          "Legal Consultant",
-          "Corporate Secretary",
-          "Policy Analyst",
-          "Legal Researcher",
-          "Human Rights Advocate",
-          "Public Prosecutor",
-          "Arbitrator",
-          "Compliance Officer"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": [
-              "4-Year: GHC 5,800 per semester",
-              "3-Year: GHC 7,000 per semester"
-            ],
-            "duration": "4 years (WASSCE) / 3 years (Degree Holders)",
-            "electives": [
-              {
-                "required": [
-                  "Ghana Legal System",
-                  "Constitutional Law",
-                  "Law of Contract"
-                ]
-              },
-              {
-                "additional": ["Criminal Law", "Law of Torts", "Commercial Law"]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS48,000 - GHS120,000",
-              "USA: $90,000 - $160,000",
-              "Europe: €50,000 - €100,000"
-            ],
-            "cutt_off": ["2024 : ~ 15", "2025 : ~ 15"],
-            "mode": [
-              "Regular, Evening, Weekend options",
-              "Moot court and legal writing components"
-            ],
-            "entry_requirements": [
-              "4-Year: WASSCE Credit passes in Core subjects and 3 Electives",
-              "3-Year: Good first degree in any discipline"
-            ],
-            "level_note": [
-              "Qualifies graduates to write the entrance exam for the Ghana School of Law.",
-              "Provides comprehensive grounding in Ghanaian and international law."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "faculty_name": "Faculty of Humanities & Social Sciences",
-    "note": [
-      "Diverse programs focusing on development, economics, and education.",
-      "Most programs in this faculty are based at the Accra Campus."
-    ],
-    "courses": [
-      {
-        "course_name": "BA Development and Environmental Studies",
-        "career": [
-          "Development Officer",
-          "Environmental Consultant",
-          "NGO Program Manager",
-          "Sustainability Coordinator",
-          "Policy Analyst",
-          "Community Development Worker",
-          "Urban Planner",
-          "Environmental Educator",
-          "Project Manager",
-          "Researcher"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Development Theory", "Environmental Science"]
-              },
-              {
-                "additional": [
-                  "Sustainable Development",
-                  "Natural Resource Management"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS30,000 - GHS60,000",
-              "USA: $50,000 - $85,000",
-              "Europe: €35,000 - €60,000"
-            ],
-            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
-            "mode": ["Accra Campus Only", "Fieldwork and research projects"],
-            "entry_requirements": [
-              "WASSCE: Credit passes in Core subjects and 3 Electives",
-              "Interest in social sciences"
-            ],
-            "level_note": [
-              "Addresses challenges of development and environmental sustainability.",
-              "Interdisciplinary approach combining social and natural sciences."
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "BSc Economics",
-        "career": [
-          "Economist",
-          "Data Analyst",
-          "Policy Advisor",
-          "Financial Consultant",
-          "Market Researcher",
-          "Investment Analyst",
-          "Statistician",
-          "Management Consultant",
-          "Banker",
-          "Actuarial Assistant"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Microeconomics", "Macroeconomics", "Econometrics"]
-              },
-              {
-                "additional": [
-                  "Development Economics",
-                  "International Trade",
-                  "Monetary Economics"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS35,000 - GHS70,000",
-              "USA: $60,000 - $110,000",
-              "Europe: €40,000 - €80,000"
-            ],
-            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
-            "mode": ["Accra Campus Only", "Quantitative analysis focus"],
-            "entry_requirements": [
-              "WASSCE: Credit passes in Core subjects and Electives",
-              "Strong mathematics background required"
-            ],
-            "level_note": [
-              "Rigorous training in economic theory and application.",
-              "Develops analytical skills for public and private sector roles."
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "BEd Early Childhood & Primary Education",
-        "career": [
-          "Preschool Teacher",
-          "Primary School Teacher",
-          "Education Administrator",
-          "Curriculum Developer",
-          "Childcare Center Director",
-          "Education Consultant",
-          "School Counselor",
-          "Special Needs Educator",
-          "Parent Educator",
-          "NGO Education Officer"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 2,400 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Child Development", "Educational Psychology"]
-              },
-              {
-                "additional": [
-                  "Curriculum Studies",
-                  "Teaching Methodology",
-                  "School Management"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS25,000 - GHS45,000",
-              "USA: $40,000 - $65,000",
-              "Europe: €30,000 - €50,000"
-            ],
-            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
-            "mode": ["Accra Campus Only", "Teaching practice placements"],
-            "entry_requirements": [
-              "WASSCE: Credit passes in Core subjects and Electives",
-              "Interest in working with children"
-            ],
-            "level_note": [
-              "Trains teachers for kindergarten and primary school levels.",
-              "Focuses on pedagogy and child psychology."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "faculty_name": "School of Computing & Technology",
-    "note": [
-      "Offers cutting-edge technology programs.",
-      "Features modern computer labs and industry-relevant curriculum."
-    ],
-    "courses": [
-      {
-        "course_name": "BSc Information Technology",
-        "career": [
-          "IT Support Specialist",
-          "Network Administrator",
-          "Web Developer",
-          "System Analyst",
-          "Database Manager",
-          "IT Consultant",
-          "Software Developer",
-          "Information Security Analyst",
-          "Cloud Architect",
-          "IT Project Manager"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 4,000 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Programming", "Networking"]
-              },
-              {
-                "additional": [
-                  "Web Technologies",
-                  "Database Systems",
-                  "Cybersecurity"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS35,000 - GHS75,000",
-              "USA: $60,000 - $100,000",
-              "Europe: €40,000 - €70,000"
-            ],
-            "cutt_off": ["2024 : ~ 24", "2025 : ~ 24"],
-            "mode": [
-              "Regular, Evening, Weekend options",
-              "Practical lab sessions"
-            ],
-            "entry_requirements": [
-              "WASSCE: Credit passes in Core subjects and Electives",
-              "Science or Elective Maths background preferred"
-            ],
-            "level_note": [
-              "Comprehensive IT education covering hardware and software.",
-              "Prepares students for diverse tech roles."
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "BSc Computing and Actuarial Science",
-        "career": [
-          "Actuary",
-          "Data Scientist",
-          "Risk Analyst",
-          "Financial Modeller",
-          "Insurance Underwriter",
-          "Pension Consultant",
-          "Statistician",
-          "Business Analyst",
-          "Investment Analyst",
-          "Software Engineer (Finance)"
-        ],
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students : GHC 3,500 per semester"],
-            "duration": "4 years",
-            "electives": [
-              {
-                "required": ["Actuarial Mathematics", "Programming"]
-              },
-              {
-                "additional": [
-                  "Statistics",
-                  "Financial Mathematics",
-                  "Database Management"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS45,000 - GHS90,000",
-              "USA: $80,000 - $130,000",
-              "Europe: €50,000 - €90,000"
-            ],
-            "cutt_off": ["2024 : ~ 20", "2025 : ~ 20"],
-            "mode": [
-              "Regular, Evening, Weekend options",
-              "Strong mathematical focus"
-            ],
-            "entry_requirements": [
-              "WASSCE: Credit passes in Core subjects and Electives",
-              "Strong performance in Elective Mathematics required"
-            ],
-            "level_note": [
-              "Combines computing skills with risk analysis and mathematics.",
-              "Ideal for careers in insurance and finance sectors."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "faculty_name": "Postgraduate Programs",
-    "note": [
-      "Wisconsin offers a wide range of Master's degrees.",
-      "Programs are designed for career advancement and specialization."
-    ],
-    "courses": [
-      {
-        "course_name": "Master of Business Administration (MBA)",
-        "career": [
-          "Business Executive",
-          "General Manager",
-          "Marketing Director",
-          "Finance Director",
-          "HR Director",
-          "Project Manager",
-          "Management Consultant",
-          "Entrepreneur",
-          "Operations Director",
-          "IT Manager (MIS option)"
-        ],
-        "levels": [
-          {
-            "level_name": "Masters",
-            "fees": ["Ghanaian Students : GHC 23,500 (Total Tuition)"],
-            "duration": "18 - 24 months",
-            "electives": [
-              {
-                "required": ["Strategic Management", "Financial Management"]
-              },
-              {
-                "additional": [
-                  "Accounting",
-                  "Finance",
-                  "Marketing",
-                  "HRM",
-                  "Project Management",
-                  "MIS"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS60,000 - GHS150,000",
-              "USA: $80,000 - $150,000",
-              "Europe: €50,000 - €100,000"
-            ],
-            "cutt_off": ["Graduate Admission"],
-            "mode": [
-              "Saturdays and Weekday Evenings",
-              "Designed for working professionals"
-            ],
-            "entry_requirements": [
-              "Bachelor's degree from a recognized university",
-              "Professional qualification or relevant work experience"
-            ],
-            "level_note": [
-              "Advanced business education with multiple specializations.",
-              "Networking opportunities with industry peers."
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "MSc Cybersecurity and Digital Forensics",
-        "career": [
-          "Cybersecurity Analyst",
-          "Digital Forensics Investigator",
-          "Information Security Manager",
-          "Security Consultant",
-          "Incident Responder",
-          "Penetration Tester",
-          "Security Architect",
-          "Compliance Officer",
-          "IT Auditor",
-          "Chief Information Security Officer"
-        ],
-        "levels": [
-          {
-            "level_name": "Masters",
-            "fees": ["Ghanaian Students : GHC 25,000 (Total Tuition)"],
-            "duration": "1 year",
-            "electives": [
-              {
-                "required": ["Network Security", "Digital Forensics"]
-              },
-              {
-                "additional": [
-                  "Ethical Hacking",
-                  "Cyber Law",
-                  "Incident Management"
-                ]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS70,000 - GHS150,000",
-              "USA: $90,000 - $160,000",
-              "Europe: €60,000 - €110,000"
-            ],
-            "cutt_off": ["Graduate Admission"],
-            "mode": ["Weekend/Evening classes", "Hands-on lab sessions"],
-            "entry_requirements": [
-              "Degree in CS/IT or related field",
-              "Relevant professional experience"
-            ],
-            "level_note": [
-              "Specialized program for IT security professionals.",
-              "Addresses growing demand for cybersecurity experts."
+              "Specializes in delivering healthcare to families and communities at the grassroots level.",
+              "Emphasizes primary healthcare and community mobilization."
             ]
           }
         ]
@@ -1196,20 +853,24 @@
           "Clinical Nurse Specialist",
           "Nurse Educator",
           "Healthcare Administrator",
-          "Research Nurse",
-          "Public Health Director",
+          "Nursing Researcher",
           "Policy Advisor",
           "Quality Assurance Manager",
-          "Consultant Nurse"
+          "Consultant Nurse",
+          "Director of Nursing"
         ],
         "levels": [
           {
             "level_name": "Masters",
-            "fees": ["Ghanaian Students : GHC 17,000 (Total Tuition)"],
-            "duration": "1 - 2 years",
+            "fees": ["Ghanaian Students : ~GHS 17,000 for entire program"],
+            "duration": "2 years",
             "electives": [
               {
-                "required": ["Advanced Nursing Practice", "Research Methods"]
+                "required": [
+                  "Advanced Nursing Practice",
+                  "Nursing Research",
+                  "Healthcare Policy"
+                ]
               },
               {
                 "additional": ["Nursing Education", "Nursing Administration"]
@@ -1217,18 +878,119 @@
             ],
             "salary": [
               "Ghana: GHS50,000 - GHS90,000",
-              "USA: $80,000 - $130,000",
-              "Europe: €50,000 - €85,000"
+              "USA: $90,000 - $130,000",
+              "Europe: €50,000 - €80,000"
             ],
-            "cutt_off": ["Graduate Admission"],
-            "mode": ["Flexible schedule", "Research and clinical components"],
+            "cutt_off": ["Degree required"],
+            "mode": [
+              "Lectures, seminars, and clinical practicum",
+              "Research thesis"
+            ],
             "entry_requirements": [
-              "First degree in Nursing",
-              "Professional registration"
+              "First degree in Nursing with at least 2nd Class Lower",
+              "Registered Nurse license and 2 years work experience"
             ],
             "level_note": [
-              "Advanced qualification for nursing leadership.",
-              "Focuses on specialized clinical or administrative roles."
+              "Advanced education for nurses seeking specialization and leadership roles.",
+              "Focuses on evidence-based practice and advanced clinical skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Nursing",
+        "career": [
+          "Nursing Lecturer",
+          "Senior Researcher",
+          "Academic",
+          "Clinical Nurse Specialist",
+          "Director of Nursing Research",
+          "Health Policy Analyst",
+          "Consultant",
+          "Program Director",
+          "Senior Nurse Administrator",
+          "Author/Editor (Nursing Journals)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : ~GHS 26,000 for entire program"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Advanced Research Methods",
+                  "Nursing Theory",
+                  "Statistics"
+                ]
+              },
+              {
+                "additional": ["Pedagogy in Nursing", "Curriculum Development"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS60,000 - GHS100,000",
+              "USA: $80,000 - $120,000",
+              "Europe: €50,000 - €85,000"
+            ],
+            "cutt_off": ["Degree required"],
+            "mode": ["Research-intensive with coursework", "Thesis defense"],
+            "entry_requirements": [
+              "Good first degree in Nursing",
+              "Research proposal and successful interview"
+            ],
+            "level_note": [
+              "Research-focused degree designed for those interested in academia and research.",
+              "Provides a pathway to PhD studies in Nursing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Midwifery",
+        "career": [
+          "Midwifery Lecturer",
+          "Senior Midwifery Researcher",
+          "Maternal Health Consultant",
+          "Policy Advisor (Maternal Health)",
+          "Director of Midwifery Services",
+          "Academic",
+          "Program Manager (Reproductive Health)",
+          "Clinical Midwifery Specialist",
+          "Senior Administrator",
+          "International Health Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students : ~GHS 26,000 for entire program"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "Advanced Midwifery Practice",
+                  "Research Methods",
+                  "Maternal Health Policy"
+                ]
+              },
+              {
+                "additional": ["Midwifery Education", "Reproductive Health"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS60,000 - GHS100,000",
+              "USA: $85,000 - $125,000",
+              "Europe: €50,000 - €85,000"
+            ],
+            "cutt_off": ["Degree required"],
+            "mode": ["Coursework and intensive research", "Thesis supervision"],
+            "entry_requirements": [
+              "First degree in Midwifery with good standing",
+              "Registered Midwife with clinical experience"
+            ],
+            "level_note": [
+              "Advanced research degree for midwives targeting academic and leadership careers.",
+              "Focuses on improving maternal and child health outcomes through research."
             ]
           }
         ]
@@ -1236,30 +998,238 @@
     ]
   },
   {
-    "faculty_name": "Professional & Certificate Programs",
+    "faculty_name": "School of Communication Studies",
     "note": [
-      "Short courses for skill development and professional certification.",
-      "Open to the public and students seeking additional qualifications."
+      "The School of Communication Studies offers dynamic programs blending theory with practical studio sessions.",
+      "Facilities include a campus radio station and music recording studios."
     ],
     "courses": [
       {
-        "course_name": "Certificate in Security Management & Forensics",
+        "course_name": "BA Communication Studies",
         "career": [
-          "Security Manager",
-          "Private Investigator",
-          "Corporate Security Officer",
-          "Forensic Analyst Assistant",
-          "Loss Prevention Officer",
-          "Risk Assessment Officer",
-          "Compliance Assistant",
-          "Security Consultant",
-          "Surveillance Operator",
-          "Intelligence Analyst"
+          "Journalist",
+          "Public Relations Practitioner",
+          "Advertising Executive",
+          "Corporate Communications Manager",
+          "Social Media Manager",
+          "Editor / Copywriter",
+          "Event Manager",
+          "Media Planner",
+          "Broadcast Presenter",
+          "Digital Content Creator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: ~GHS 3,500 per semester",
+              "International Students: ~$1,566 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Introduction to Mass Communication",
+                  "Media Law and Ethics",
+                  "News Writing and Reporting"
+                ]
+              },
+              {
+                "additional": [
+                  "Public Relations",
+                  "Advertising",
+                  "Development Communication"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS65,000",
+              "USA: $45,000 - $75,000",
+              "Europe: €32,000 - €55,000"
+            ],
+            "cutt_off": ["2024: ~24", "2025: ~24"],
+            "mode": [
+              "Regular (Day), Evening, and Weekend sessions",
+              "Available at Accra and Kumasi Campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Science/Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Specializations available in Journalism, Public Relations, and Advertising.",
+              "Focuses on modern digital media trends and strategic communication."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA Music",
+        "career": [
+          "Music Producer",
+          "Sound Engineer",
+          "Performer / Musician",
+          "Music Director",
+          "Music Teacher",
+          "Arts Administrator",
+          "Choral Director",
+          "Music Therapist",
+          "Composer / Songwriter",
+          "Event Planner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: ~GHS 3,500 per semester",
+              "International Students: ~$1,566 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Music Theory",
+                  "Aural Training",
+                  "History of Western/African Music"
+                ]
+              },
+              {
+                "additional": ["Music Technology", "Performance", "Composition"]
+              }
+            ],
+            "salary": [
+              "Ghana: Variable (Project/Gig based)",
+              "USA: Variable",
+              "Europe: Variable"
+            ],
+            "cutt_off": ["2024: ~24", "2025: ~24"],
+            "mode": [
+              "Accra Campus only",
+              "Practical studio sessions and performances"
+            ],
+            "entry_requirements": [
+              "WASSCE passes as per general requirements",
+              "Audition or interview may be required to assess musical aptitude"
+            ],
+            "level_note": [
+              "Combines academic study with practical training in music technology and performance.",
+              "State-of-the-art recording studios available for student use."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Communication Studies",
+        "career": [
+          "Communication Assistant",
+          "Junior PR Officer",
+          "Radio Presenter",
+          "Social Media Assistant",
+          "Customer Service Representative",
+          "Front Desk Officer",
+          "Media Assistant",
+          "Event Assistant",
+          "Marketing Assistant",
+          "Administrative Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: ~GHS 2,600 per semester",
+              "International Students: ~$967 per semester"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Communication Skills", "Introduction to Media"]
+              },
+              {
+                "additional": ["Public Speaking", "Basic Reporting"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS18,000 - GHS35,000",
+              "USA: N/A",
+              "Europe: N/A"
+            ],
+            "cutt_off": ["2024: ~30", "2025: ~30"],
+            "mode": ["Regular and Weekend options"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in Core subjects and Electives",
+              "Mature applicants (25+ years) with entrance exam"
+            ],
+            "level_note": [
+              "A vocational pathway into the media industry.",
+              "Successful completion allows entry into Level 300 of the BA program."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Music",
+        "career": [
+          "Assistant Sound Engineer",
+          "Session Musician",
+          "Music Tutor (Basic Level)",
+          "Church Keyboardist/Drummer",
+          "Band Leader",
+          "Studio Assistant",
+          "Choir Master",
+          "Music Retail Assistant",
+          "Live Sound Technician",
+          "Entertainment Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: ~GHS 2,600 per semester"],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Rudiments of Music", "Practical Instrument Study"]
+              },
+              {
+                "additional": [
+                  "Ensemble Performance",
+                  "Basic Sound Engineering"
+                ]
+              }
+            ],
+            "salary": ["Ghana: Variable", "USA: N/A", "Europe: N/A"],
+            "cutt_off": ["Open entry with aptitude"],
+            "mode": ["Practical intensive", "Accra Campus"],
+            "entry_requirements": [
+              "WASSCE passes or demonstrated musical ability",
+              "Interview/Audition"
+            ],
+            "level_note": [
+              "Focuses on skill acquisition in instruments and music technology.",
+              "Ideal for church musicians and aspiring performers."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate Programs (Music / Sign Language)",
+        "career": [
+          "Sign Language Interpreter",
+          "Special Needs Support",
+          "Church Musician",
+          "Community Worker",
+          "Music Hobbyist",
+          "Social Worker Assistant",
+          "Customer Service (Inclusive Support)",
+          "Volunteer",
+          "Choir Member",
+          "Basic Instrumentalist"
         ],
         "levels": [
           {
             "level_name": "Certificate",
-            "fees": ["Ghanaian Students : GHC 2,000 - 3,000 (Estimated)"],
+            "fees": [
+              "Ghanaian Students: Contact University for current short course fees (Est. GHS 1,500 - 2,500)"
+            ],
             "duration": "3 - 6 months",
             "electives": [
               {
@@ -1269,20 +1239,959 @@
                 "additional": []
               }
             ],
-            "salary": [
-              "Ghana: GHS25,000 - GHS50,000",
-              "USA: N/A",
-              "Europe: N/A"
-            ],
+            "salary": ["Ghana: Variable", "USA: N/A", "Europe: N/A"],
             "cutt_off": ["Open Entry"],
-            "mode": ["Intensive workshops", "Weekend sessions"],
+            "mode": ["Short courses, often weekends or evenings"],
             "entry_requirements": [
-              "Basic education or relevant work experience",
-              "Interest in security field"
+              "Open to the general public",
+              "Interest in the specific skill area"
             ],
             "level_note": [
-              "Practical training in investigation and security protocols.",
-              "Enhances skills for security personnel."
+              "Certificate in Music: For developing specific instrumental or vocal skills.",
+              "Certificate in Sign Language: Equips students to communicate with the hearing impaired."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Law",
+    "note": [
+      "The Faculty of Law prepares students for the legal profession with a robust curriculum covering Ghanaian and International law.",
+      "Accredited by the General Legal Council (GLC) and GTEC."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Laws (LL.B)",
+        "career": [
+          "Lawyer (Barrister/Solicitor)",
+          "Magistrate / Judge",
+          "Corporate Secretary",
+          "Legal Consultant",
+          "Public Prosecutor",
+          "Legal Administrator",
+          "Compliance Officer",
+          "Human Rights Advocate",
+          "Legal Researcher",
+          "Diplomat"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "4-Year (WASSCE): ~GHS 5,800 per semester",
+              "3-Year (Post-First Degree): ~GHS 7,000 per semester"
+            ],
+            "duration": "4 years (WASSCE) / 3 years (Degree Holders)",
+            "electives": [
+              {
+                "required": [
+                  "Ghana Legal System",
+                  "Constitutional Law",
+                  "Criminal Law",
+                  "Law of Contract",
+                  "Law of Torts"
+                ]
+              },
+              {
+                "additional": [
+                  "Company Law",
+                  "Commercial Law",
+                  "Public International Law",
+                  "Conveyancing"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS48,000 - GHS120,000",
+              "USA: $90,000 - $160,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": [
+              "2024: ~12-15 (Competitive)",
+              "2025: ~12-15 (Competitive)"
+            ],
+            "mode": [
+              "Regular (Day), Evening, and Weekend streams",
+              "Available at Accra and Kumasi Campuses"
+            ],
+            "entry_requirements": [
+              "4-Year: WASSCE Credit passes (A1-C6) in Core subjects and 3 Electives with high aggregate",
+              "3-Year: A good First Degree from a recognized university"
+            ],
+            "level_note": [
+              "Qualifies graduates to write the Entrance Examination for the Ghana School of Law.",
+              "Rigorous training in legal analysis, writing, and advocacy."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Paralegal Studies",
+        "career": [
+          "Paralegal",
+          "Legal Clerk",
+          "Court Clerk",
+          "Legal Secretary",
+          "Administrative Assistant (Legal Firm)",
+          "Compliance Assistant",
+          "Police Prosecutor",
+          "Land Registration Officer",
+          "Legal Research Assistant",
+          "Company Secretarial Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students: Contact University for fee (Est. GHS 2,000 - 3,000)"
+            ],
+            "duration": "6 months - 1 year",
+            "electives": [
+              {
+                "required": [
+                  "Introduction to Law",
+                  "Legal Writing",
+                  "Civil Procedure Basics"
+                ]
+              },
+              {
+                "additional": ["Office Management", "Communication Skills"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS24,000 - GHS48,000",
+              "USA: $40,000 - $60,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": ["Weekend / Evening", "Designed for working professionals"],
+            "entry_requirements": [
+              "SHS graduates or mature applicants",
+              "Basic proficiency in English"
+            ],
+            "level_note": [
+              "Provides essential legal knowledge for support staff in law firms and corporate legal departments.",
+              "Does not qualify one to practice as a lawyer."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Humanities & Social Sciences",
+    "note": [
+      "This faculty addresses critical social, economic, and environmental challenges.",
+      "Programs are interdisciplinary, blending theory with fieldwork and policy analysis."
+    ],
+    "courses": [
+      {
+        "course_name": "BA Development and Environmental Studies",
+        "career": [
+          "Environmental Consultant",
+          "Sustainability Officer",
+          "Development Planner",
+          "NGO Project Manager",
+          "Environmental Policy Analyst",
+          "Community Development Officer",
+          "Waste Management Coordinator",
+          "Climate Change Advocate",
+          "Corporate Social Responsibility Manager",
+          "Research Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: ~GHS 3,500 per semester",
+              "International Students: ~$1,566 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Environmental Science",
+                  "Development Theory",
+                  "Sustainable Development"
+                ]
+              },
+              {
+                "additional": [
+                  "Environmental Impact Assessment",
+                  "Project Management",
+                  "Rural Sociology"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS65,000",
+              "USA: $55,000 - $90,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["2024: ~24", "2025: ~24"],
+            "mode": ["Regular, Evening, and Weekend", "Accra Campus"],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Maths, Science/Social Studies",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Focuses on the intersection of human development and environmental conservation.",
+              "Graduates are equipped to tackle climate change and resource management issues."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Economics / BSc Economics with Management",
+        "career": [
+          "Economist",
+          "Data Analyst",
+          "Financial Consultant",
+          "Policy Advisor",
+          "Market Research Analyst",
+          "Investment Analyst",
+          "Business Development Manager",
+          "Statistician",
+          "Banking Officer",
+          "Management Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: ~GHS 3,500 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Microeconomics",
+                  "Macroeconomics",
+                  "Quantitative Methods"
+                ]
+              },
+              {
+                "additional": [
+                  "Econometrics",
+                  "Development Economics",
+                  "Managerial Economics"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS80,000",
+              "USA: $60,000 - $110,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": ["2024: ~24", "2025: ~24"],
+            "mode": ["Regular, Evening, and Weekend", "Accra Campus"],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in Core Maths, English, Science/Social Studies",
+              "Strong background in Mathematics or Economics is preferred"
+            ],
+            "level_note": [
+              "Rigorous training in economic theory and its application to business and policy.",
+              "The Management option adds courses in organizational behavior and strategy."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc / BEd Early Childhood and Primary Education",
+        "career": [
+          "Primary School Teacher",
+          "Early Childhood Educator",
+          "Head of School",
+          "Curriculum Developer",
+          "Educational Administrator",
+          "Child Psychologist Assistant",
+          "NGO Education Officer",
+          "Proprietor / School Owner",
+          "Special Needs Teacher",
+          "Education Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: ~GHS 2,400 per semester"],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Child Psychology",
+                  "Pedagogy",
+                  "Curriculum Studies"
+                ]
+              },
+              {
+                "additional": [
+                  "Educational Technology",
+                  "School Administration",
+                  "Guidance and Counselling"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS25,000 - GHS45,000",
+              "USA: $40,000 - $65,000",
+              "Europe: €30,000 - €50,000"
+            ],
+            "cutt_off": ["2024: ~24", "2025: ~24"],
+            "mode": [
+              "Regular and Sandwich options",
+              "Includes teaching practice"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in Core subjects and Electives",
+              "Interest in working with children"
+            ],
+            "level_note": [
+              "BEd focuses on professional teacher training for licensure.",
+              "BSc focuses on the administration and psychology of early education."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Logistics and Supply Chain Management",
+        "career": [
+          "Supply Chain Director",
+          "Logistics Manager",
+          "Procurement Manager",
+          "Operations Director",
+          "Strategic Sourcing Manager",
+          "Distribution Manager",
+          "Inventory Controller",
+          "Transport Manager",
+          "Supply Chain Analyst",
+          "Production Planner"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: ~GHS 23,500 for entire program",
+              "International Students: ~$3,000 for entire program"
+            ],
+            "duration": "1 year",
+            "electives": [
+              {
+                "required": [
+                  "Strategic Supply Chain Management",
+                  "Logistics Operations",
+                  "Procurement Management"
+                ]
+              },
+              {
+                "additional": ["Global Logistics", "Supply Chain Analytics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS60,000 - GHS120,000",
+              "USA: $80,000 - $130,000",
+              "Europe: €55,000 - €95,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": ["Weekend / Evening", "Designed for working professionals"],
+            "entry_requirements": [
+              "A good First Degree in any discipline",
+              "Relevant professional experience is an asset"
+            ],
+            "level_note": [
+              "Advanced training in managing complex global supply chains.",
+              "Critical for roles in manufacturing, retail, and shipping sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA International Relations",
+        "career": [
+          "Diplomat",
+          "Foreign Service Officer",
+          "International NGO Manager",
+          "Political Analyst",
+          "Policy Advisor",
+          "Intelligence Analyst",
+          "International Development Consultant",
+          "Human Rights Officer",
+          "Journalist (Foreign Affairs)",
+          "Conflict Resolution Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: ~GHS 23,500 for entire program",
+              "International Students: ~$4,000 for entire program"
+            ],
+            "duration": "1 year",
+            "electives": [
+              {
+                "required": [
+                  "Theories of International Relations",
+                  "International Law",
+                  "Diplomacy"
+                ]
+              },
+              {
+                "additional": [
+                  "Foreign Policy Analysis",
+                  "International Political Economy"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS50,000 - GHS100,000",
+              "USA: $70,000 - $120,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": ["Weekend / Evening", "Accra Campus"],
+            "entry_requirements": [
+              "A good First Degree in Political Science, History, or related field",
+              "Other disciplines considered with relevant experience"
+            ],
+            "level_note": [
+              "Prepares students for careers in diplomatic services and international organizations.",
+              "Focuses on global governance, security, and economic relations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Adult Education",
+        "career": [
+          "Community Development Officer",
+          "Adult Education Coordinator",
+          "Training and Development Manager",
+          "NGO Program Director",
+          "Literacy Specialist",
+          "Extension Officer",
+          "Social Worker",
+          "Human Resource Developer",
+          "Vocational Trainer",
+          "Project Manager (Social Sector)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: ~GHS 20,000 - 23,500 for entire program"
+            ],
+            "duration": "1 year",
+            "electives": [
+              {
+                "required": [
+                  "Adult Learning Theory",
+                  "Program Planning and Evaluation"
+                ]
+              },
+              {
+                "additional": [
+                  "Community Development",
+                  "Human Resource Development",
+                  "Gender and Development"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS45,000 - GHS85,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": ["Weekend / Evening"],
+            "entry_requirements": [
+              "First degree in Education, Sociology, or related Social Science",
+              "Experience in community work or training is beneficial"
+            ],
+            "level_note": [
+              "Offers options in Rural & Community Development and Human Resource Development.",
+              "Focuses on empowering adults through lifelong learning and capacity building."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Computing & Technology",
+    "note": [
+      "The School offers state-of-the-art computing facilities with modern labs and equipment.",
+      "Programs combine theoretical knowledge with practical hands-on experience in emerging technologies."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Computing and Actuarial Science",
+        "career": [
+          "Actuary",
+          "Data Scientist",
+          "Risk Analyst",
+          "Financial Modeller",
+          "Insurance Underwriter",
+          "Statistician",
+          "Pension Consultant",
+          "Investment Analyst",
+          "Software Engineer (Finance)",
+          "Business Analyst (Finance)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,500 per semester (Freshers)",
+              "International Students: $1,566 per semester (Freshers)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Programming",
+                  "Actuarial Mathematics",
+                  "Statistics"
+                ]
+              },
+              {
+                "additional": [
+                  "Financial Mathematics",
+                  "Database Systems",
+                  "Probability Theory"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS45,000 - GHS90,000",
+              "USA: $80,000 - $140,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": ["2024: ~20", "2025: ~20"],
+            "mode": [
+              "Regular, Evening, Weekend options",
+              "Accra and Kumasi Campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in Core Maths, English, Integrated Science",
+              "WASSCE: Credit passes in Elective Maths, Physics/Science, and one other subject"
+            ],
+            "level_note": [
+              "Highly specialized degree combining computer science with actuarial science.",
+              "Graduates are well-positioned for careers in insurance and financial services."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Management and Computer Studies",
+        "career": [
+          "IT Manager",
+          "Systems Analyst",
+          "Business Analyst",
+          "Project Manager",
+          "IT Consultant",
+          "Database Administrator Manager",
+          "E-commerce Manager",
+          "Information Systems Manager",
+          "Operations Manager",
+          "Tech Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,500 per semester (Freshers)",
+              "International Students: $1,566 per semester (Freshers)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Management Principles",
+                  "Programming",
+                  "Database Systems"
+                ]
+              },
+              {
+                "additional": [
+                  "Business Strategy",
+                  "Information Systems",
+                  "Organizational Behavior"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS80,000",
+              "USA: $70,000 - $120,000",
+              "Europe: €45,000 - €75,000"
+            ],
+            "cutt_off": ["2024: ~24", "2025: ~24"],
+            "mode": [
+              "Regular, Evening, Weekend options",
+              "Accra and Kumasi Campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in Core Maths, English, Integrated Science",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Bridges business management and IT skills for leadership roles.",
+              "Ideal for managing technology implementation in organizations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Information Technology",
+        "career": [
+          "Network Administrator",
+          "Systems Administrator",
+          "Web Developer",
+          "IT Support Specialist",
+          "Database Manager",
+          "Cybersecurity Analyst",
+          "Help Desk Manager",
+          "Cloud Administrator",
+          "IT Support Engineer",
+          "Technical Support Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 per semester (Freshers), GHC 3,500 (Continuing)",
+              "International Students: $1,566 per semester (Freshers)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "Networking",
+                  "Systems Administration",
+                  "Cybersecurity Basics"
+                ]
+              },
+              {
+                "additional": [
+                  "Web Technologies",
+                  "Database Management",
+                  "IT Support Services"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS75,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["2024: ~24", "2025: ~24"],
+            "mode": [
+              "Regular, Evening, Weekend options",
+              "Accra and Kumasi Campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in Core Maths, English, Integrated Science",
+              "WASSCE: Credit passes in three elective subjects"
+            ],
+            "level_note": [
+              "Focuses on practical IT infrastructure and support services.",
+              "Prepares students for roles managing computer networks and systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Information Technology",
+        "career": [
+          "IT Technician",
+          "Help Desk Support",
+          "Network Assistant",
+          "Junior Web Developer",
+          "System Admin Assistant",
+          "Computer Repair Technician",
+          "Tech Support Associate",
+          "Lab Technician",
+          "IT Sales Assistant",
+          "IT Support Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 2,600 per semester",
+              "International Students: $967 per semester"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["IT Fundamentals", "Networking Basics", "Hardware"]
+              },
+              {
+                "additional": [
+                  "Software Support",
+                  "Basic Programming",
+                  "Help Desk Operations"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS20,000 - GHS35,000",
+              "USA: $35,000 - $50,000",
+              "Europe: €25,000 - €40,000"
+            ],
+            "cutt_off": ["2024: ~30", "2025: ~30"],
+            "mode": [
+              "Regular and Weekend options",
+              "Practical lab-based learning"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in Core subjects and Electives",
+              "Mature applicants (25+) with entrance exam"
+            ],
+            "level_note": [
+              "Vocational pathway to entry-level IT positions.",
+              "Allows progression to Level 300 of the BSc IT degree."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Cybersecurity and Digital Forensics",
+        "career": [
+          "Cybersecurity Analyst",
+          "Digital Forensics Investigator",
+          "Security Consultant",
+          "Chief Information Security Officer (CISO)",
+          "Incident Response Manager",
+          "Penetration Tester Lead",
+          "Security Architect",
+          "Compliance Officer (Security)",
+          "IT Auditor",
+          "Security Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 25,000 (Total Tuition)",
+              "International Students: $4,000 (Total Tuition)"
+            ],
+            "duration": "1 year",
+            "electives": [
+              {
+                "required": [
+                  "Network Security",
+                  "Digital Forensics",
+                  "Incident Management"
+                ]
+              },
+              {
+                "additional": [
+                  "Ethical Hacking",
+                  "Cyber Law",
+                  "Advanced Malware Analysis"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS70,000 - GHS150,000",
+              "USA: $100,000 - $160,000",
+              "Europe: €70,000 - €120,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": [
+              "Weekend/Evening classes",
+              "Advanced laboratory practicals"
+            ],
+            "entry_requirements": [
+              "First degree in CS, IT, or related field",
+              "Professional IT experience is highly beneficial"
+            ],
+            "level_note": [
+              "Specialized master's for cybersecurity professionals.",
+              "One of the most in-demand specializations in IT globally."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Information Technology",
+        "career": [
+          "Senior IT Manager",
+          "IT Director",
+          "Systems Architect",
+          "Chief Information Officer (CIO)",
+          "IT Consultant",
+          "Cloud Solutions Architect",
+          "Enterprise Systems Manager",
+          "Technology Strategist",
+          "Research Scientist",
+          "IT Project Manager (Senior)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 (Total Tuition)",
+              "International Students: $4,000 (Total Tuition)"
+            ],
+            "duration": "1 year",
+            "electives": [
+              {
+                "required": [
+                  "Advanced IT Systems",
+                  "IT Strategy",
+                  "Enterprise Architecture"
+                ]
+              },
+              {
+                "additional": [
+                  "Cloud Computing",
+                  "Big Data Analytics",
+                  "IT Governance"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS65,000 - GHS130,000",
+              "USA: $100,000 - $150,000",
+              "Europe: €70,000 - €110,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": ["Weekend/Evening classes", "Strategic IT focus"],
+            "entry_requirements": [
+              "First degree in IT, Computer Science, or related field",
+              "Professional IT experience"
+            ],
+            "level_note": [
+              "Advanced degree for IT professionals seeking strategic roles.",
+              "Emphasizes aligning technology with business objectives."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Business Computing",
+        "career": [
+          "Business Systems Analyst",
+          "IT Project Manager",
+          "Digital Transformation Consultant",
+          "ERP Consultant",
+          "Business Intelligence Manager",
+          "Data Analytics Director",
+          "Process Improvement Manager",
+          "Product Owner",
+          "Solution Architect",
+          "Operations Analyst (Technology)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 (Total Tuition)",
+              "International Students: $4,000 (Total Tuition)"
+            ],
+            "duration": "1 year",
+            "electives": [
+              {
+                "required": [
+                  "Business Analysis",
+                  "IT for Business",
+                  "Systems Design"
+                ]
+              },
+              {
+                "additional": [
+                  "Data Mining",
+                  "Project Management",
+                  "E-Business Strategy"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS60,000 - GHS120,000",
+              "USA: $90,000 - $140,000",
+              "Europe: €60,000 - €100,000"
+            ],
+            "cutt_off": ["Graduate Admission"],
+            "mode": [
+              "Weekend/Evening classes",
+              "Hybrid business-tech curriculum"
+            ],
+            "entry_requirements": [
+              "First degree in Business, Computing, or related field",
+              "Professional experience in both areas preferred"
+            ],
+            "level_note": [
+              "Bridges the gap between IT departments and business operations.",
+              "Essential for roles implementing technology in corporations."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Professional & Executive Programs (Cross-Faculty)",
+    "note": [
+      "These programs are open to the general public and professionals seeking career advancement.",
+      "Designed for working professionals with flexible scheduling options."
+    ],
+    "courses": [
+      {
+        "course_name": "Certificate in Occupational Health and Safety Management",
+        "career": [
+          "Safety Officer",
+          "EHS Coordinator",
+          "Health and Safety Inspector",
+          "Compliance Officer (Health & Safety)",
+          "Risk Assessor",
+          "Site Safety Supervisor",
+          "Health and Safety Trainer",
+          "Environmental Officer",
+          "Fire Safety Officer",
+          "Safety Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Certificate",
+            "fees": [
+              "Ghanaian Students: ~GHC 2,000 - 2,500 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              {
+                "required": [
+                  "OHS Regulations",
+                  "Risk Assessment",
+                  "Workplace Hazards"
+                ]
+              },
+              {
+                "additional": [
+                  "Emergency Response",
+                  "Health and Safety Management",
+                  "Auditing"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS28,000 - GHS55,000",
+              "USA: $40,000 - $70,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": [
+              "Weekend/Evening classes",
+              "Practical and theoretical modules"
+            ],
+            "entry_requirements": [
+              "SHS Certificate or equivalent",
+              "Professional background in relevant field"
+            ],
+            "level_note": [
+              "Covers workplace safety standards and compliance.",
+              "Applicable to construction, oil & gas, manufacturing, and mining sectors."
             ]
           }
         ]
@@ -1293,41 +2202,515 @@
           "Project Coordinator",
           "Project Assistant",
           "Team Lead",
-          "Planning Officer",
-          "Operations Assistant",
-          "Event Coordinator",
+          "Operations Planner",
           "Business Support Officer",
+          "Event Coordinator",
           "Construction Project Assistant",
           "NGO Project Officer",
-          "Administrative Officer"
+          "Administrative Officer",
+          "Programme Assistant"
         ],
         "levels": [
           {
-            "level_name": "Certificate",
-            "fees": ["Ghanaian Students : GHC 1,500 - 2,500 (Estimated)"],
-            "duration": "3 months",
+            "level_name": "Professional Certificate",
+            "fees": [
+              "Ghanaian Students: ~GHC 2,000 - 2,500 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "3 - 6 months",
             "electives": [
               {
-                "required": []
+                "required": [
+                  "Project Lifecycle",
+                  "Project Scope and Planning",
+                  "Project Monitoring"
+                ]
               },
               {
-                "additional": []
+                "additional": [
+                  "PM Tools (MS Project, Gantt)",
+                  "Risk Management",
+                  "Stakeholder Management"
+                ]
               }
             ],
             "salary": [
-              "Ghana: GHS20,000 - GHS40,000",
+              "Ghana: GHS24,000 - GHS48,000",
+              "USA: $40,000 - $60,000",
+              "Europe: €30,000 - €50,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": [
+              "Weekend/Evening classes",
+              "Practical case study projects"
+            ],
+            "entry_requirements": [
+              "SHS Certificate or equivalent",
+              "Professional experience is beneficial"
+            ],
+            "level_note": [
+              "Introduction to project management frameworks (PMBOK/PRINCE2 concepts).",
+              "Essential for aspiring and junior project managers."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Christian Formation Leadership",
+        "career": [
+          "Church Administrator",
+          "Ministry Leader",
+          "Youth Pastor",
+          "Sunday School Coordinator",
+          "Christian Education Director",
+          "Pastoral Assistant",
+          "Lay Minister",
+          "Church Secretary",
+          "Community Outreach Leader",
+          "Missionary/Evangelist"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Certificate",
+            "fees": [
+              "Ghanaian Students: ~GHC 1,500 - 2,000 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "3 months",
+            "electives": [
+              {
+                "required": [
+                  "Christian Leadership",
+                  "Biblical Theology",
+                  "Ministry Administration"
+                ]
+              },
+              {
+                "additional": [
+                  "Pastoral Care",
+                  "Spiritual Formation",
+                  "Church Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: Variable (Ministry-dependent)",
               "USA: N/A",
               "Europe: N/A"
             ],
             "cutt_off": ["Open Entry"],
-            "mode": ["Evening/Weekend classes", "Practical project work"],
+            "mode": [
+              "Weekend/Evening classes",
+              "Spiritual and practical components"
+            ],
             "entry_requirements": [
-              "Open to all",
-              "Professionals seeking upskilling"
+              "Interest in Christian ministry",
+              "Church membership or ministry involvement"
             ],
             "level_note": [
-              "Introduction to project management methodologies.",
-              "Applicable across various industries."
+              "Equips church leaders with management and pastoral skills.",
+              "Focuses on spiritual formation and organizational leadership in churches."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Executive Certificate in Security Management, Forensics & Investigative Management",
+        "career": [
+          "Security Manager",
+          "Forensic Specialist",
+          "Investigation Officer",
+          "Corporate Security Lead",
+          "Loss Prevention Manager",
+          "Risk Officer",
+          "Security Consultant",
+          "Investigation Manager",
+          "Protocol Officer",
+          "Compliance Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Certificate",
+            "fees": [
+              "Ghanaian Students: ~GHC 2,000 - 3,000 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "3 months",
+            "electives": [
+              {
+                "required": [
+                  "Security Management",
+                  "Forensic Basics",
+                  "Investigation Techniques"
+                ]
+              },
+              {
+                "additional": [
+                  "Risk Assessment",
+                  "Evidence Handling",
+                  "Security Protocols"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS65,000",
+              "USA: $55,000 - $90,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["Professional Entry"],
+            "mode": [
+              "Executive weekend classes",
+              "Practical scenarios and case studies"
+            ],
+            "entry_requirements": [
+              "Professional background in security or law enforcement",
+              "At least 2 years relevant work experience"
+            ],
+            "level_note": [
+              "Introduction to security management and basic forensics principles.",
+              "Suitable for security professionals seeking to enhance credentials."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Executive Certificate in Security Management, Forensics & Investigative Management",
+        "career": [
+          "Senior Security Manager",
+          "Regional Security Director",
+          "Head of Investigations",
+          "Forensic Consultant",
+          "Security Strategist",
+          "Crisis Manager",
+          "Security Director",
+          "Investigation Lead",
+          "Risk Director",
+          "Security Training Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Certificate (Advanced)",
+            "fees": [
+              "Ghanaian Students: ~GHC 2,500 - 3,500 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              {
+                "required": [
+                  "Advanced Security Strategy",
+                  "Advanced Forensics",
+                  "Complex Investigations"
+                ]
+              },
+              {
+                "additional": [
+                  "Forensic Analysis",
+                  "Counter-Intelligence",
+                  "Crisis Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS50,000 - GHS100,000",
+              "USA: $80,000 - $130,000",
+              "Europe: €60,000 - €100,000"
+            ],
+            "cutt_off": ["Professional Entry (Executive Level)"],
+            "mode": [
+              "Executive weekend classes",
+              "Advanced scenario simulations"
+            ],
+            "entry_requirements": [
+              "Executive Certificate or equivalent professional experience",
+              "Minimum 5 years in security/investigation field"
+            ],
+            "level_note": [
+              "Advanced level training for senior security personnel.",
+              "Deepens knowledge in forensics and strategic management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Computer Forensics",
+        "career": [
+          "Digital Forensics Technician",
+          "IT Investigator",
+          "Cybersecurity Assistant",
+          "Data Recovery Specialist",
+          "Forensic Analyst",
+          "Incident Response Team Member",
+          "Legal IT Support",
+          "Evidence Handler",
+          "Cyber Crime Analyst",
+          "IT Auditor Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Certificate",
+            "fees": [
+              "Ghanaian Students: ~GHC 2,500 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "3 months",
+            "electives": [
+              {
+                "required": [
+                  "Digital Evidence",
+                  "Forensic Tools",
+                  "Data Recovery"
+                ]
+              },
+              {
+                "additional": [
+                  "Forensic Analysis",
+                  "Chain of Custody",
+                  "Report Writing"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS35,000 - GHS70,000",
+              "USA: $60,000 - $100,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": [
+              "Lab-based practicals",
+              "Hands-on forensic tools training"
+            ],
+            "entry_requirements": [
+              "IT background or technical knowledge",
+              "Interest in digital investigations"
+            ],
+            "level_note": [
+              "Focuses on recovering and analyzing digital evidence from computer systems.",
+              "Essential for modern cybercrime and digital investigation roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Information Security",
+        "career": [
+          "InfoSec Officer",
+          "Security Administrator",
+          "Compliance Assistant",
+          "IT Security Support",
+          "Network Security Technician",
+          "Data Protection Officer",
+          "Access Control Manager",
+          "Security Awareness Trainer",
+          "Risk Analyst Assistant",
+          "Junior Security Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Certificate",
+            "fees": [
+              "Ghanaian Students: ~GHC 2,500 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "3 months",
+            "electives": [
+              {
+                "required": [
+                  "InfoSec Principles",
+                  "Risk Management",
+                  "Security Controls"
+                ]
+              },
+              {
+                "additional": [
+                  "Compliance Management",
+                  "Access Control",
+                  "Incident Response"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS30,000 - GHS60,000",
+              "USA: $50,000 - $80,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": ["Weekend classes", "Practical security configurations"],
+            "entry_requirements": [
+              "Basic IT knowledge",
+              "Interest in cybersecurity"
+            ],
+            "level_note": [
+              "Covers principles of securing information assets and systems.",
+              "Includes both policy and technical security controls."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Cyber Crime Investigation",
+        "career": [
+          "Cyber Crime Investigator",
+          "Fraud Analyst",
+          "Police Cyber Unit Officer",
+          "Internet Safety Officer",
+          "Cyber Intelligence Analyst",
+          "Online Fraud Specialist",
+          "Investigation Consultant",
+          "Digital Evidence Specialist",
+          "Risk Investigator",
+          "Cyber Compliance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Certificate",
+            "fees": [
+              "Ghanaian Students: ~GHC 2,500 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "3 months",
+            "electives": [
+              {
+                "required": [
+                  "Cyber Crime Typologies",
+                  "Investigation Methods",
+                  "Digital Evidence"
+                ]
+              },
+              {
+                "additional": [
+                  "Fraud Investigation",
+                  "Online Crime Patterns",
+                  "Reporting Procedures"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS40,000 - GHS75,000",
+              "USA: $65,000 - $110,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": ["Case study based", "Investigation simulations"],
+            "entry_requirements": [
+              "Interest in law enforcement and/or IT",
+              "No strict prerequisite"
+            ],
+            "level_note": [
+              "Training on investigating online criminal activities.",
+              "Relevant for law enforcement, corporate security, and cybercrime units."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Ethical Hacking",
+        "career": [
+          "Ethical Hacker",
+          "Penetration Tester",
+          "Vulnerability Assessor",
+          "Security Analyst",
+          "Network Security Engineer",
+          "Red Team Member",
+          "Security Consultant",
+          "System Administrator (Security Focus)",
+          "Bug Bounty Hunter",
+          "Security Auditor"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Certificate",
+            "fees": [
+              "Ghanaian Students: ~GHC 3,000 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "3 - 6 months",
+            "electives": [
+              {
+                "required": [
+                  "Penetration Testing",
+                  "Hacking Tools",
+                  "Vulnerability Scanning"
+                ]
+              },
+              {
+                "additional": [
+                  "Exploit Development",
+                  "Network Exploitation",
+                  "Post-Exploitation"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS55,000 - GHS100,000",
+              "USA: $80,000 - $140,000",
+              "Europe: €60,000 - €110,000"
+            ],
+            "cutt_off": ["Open Entry"],
+            "mode": ["Hands-on hacking labs", "Security tool training"],
+            "entry_requirements": [
+              "Strong IT/Networking background",
+              "Linux and Windows proficiency"
+            ],
+            "level_note": [
+              "Teaches offensive security techniques for defensive purposes.",
+              "Highly practical and technical; one of the most valuable IT certifications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Diploma in Functional and Advanced Investigations",
+        "career": [
+          "Private Investigator",
+          "Fraud Examiner",
+          "Corporate Investigator",
+          "Investigation Manager",
+          "Security Consultant",
+          "Intelligence Officer",
+          "Loss Prevention Manager",
+          "Background Check Specialist",
+          "Forensic Auditor",
+          "Risk Investigator"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Diploma",
+            "fees": [
+              "Ghanaian Students: ~GHC 3,000 - 4,500 per program",
+              "International Students: Contact University"
+            ],
+            "duration": "6 - 12 months",
+            "electives": [
+              {
+                "required": [
+                  "Investigation Principles",
+                  "Advanced Investigation Techniques",
+                  "Evidence Gathering"
+                ]
+              },
+              {
+                "additional": [
+                  "Interviewing Techniques",
+                  "Surveillance Methods",
+                  "Report Writing and Presentation"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS45,000 - GHS85,000",
+              "USA: $70,000 - $130,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": ["Professional Entry"],
+            "mode": ["Weekend workshops", "Practical scenario training"],
+            "entry_requirements": [
+              "Professional background in security, law enforcement, or related field",
+              "Minimum 2 years relevant experience"
+            ],
+            "level_note": [
+              "Advanced training in investigative methods and forensic techniques.",
+              "Suitable for security professionals and law enforcement personnel."
             ]
           }
         ]
