@@ -1,0 +1,262 @@
+
+  {
+    "faculty_name": "Faculty of Information and Communication Technology (FICT)",
+    "note": [
+      "FICT has two academic departments: Computer Science and Informatics.[316]",
+      "Programmes listed by the faculty include BSc, Diploma, MSc, MPhil and PhD options.[316]"
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. Computer Science",
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "duration": "4 years (Regular)[313]",
+            "fees": [
+              "Freshers total university charges: GHS 2,798.93[289]",
+              "Continuing (Level 200–400) total university charges: GHS 2,244.73[289]"
+            ],
+            "mode": ["Regular full time[313]"],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1–C6) in 3 core subjects (including English Language and Mathematics) + 3 relevant electives.[239]",
+              "SSSCE: Passes (A–D) in 3 core subjects (including English Language and Mathematics) + 3 relevant electives.[239]"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Informatics",
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "duration": "4 years (Regular)[313]",
+            "fees": [
+              "Freshers total university charges: GHS 2,798.93[289]",
+              "Continuing (Level 200–400) total university charges: GHS 2,244.73[289]"
+            ],
+            "mode": ["Regular full time[313]"],
+            "entry_requirements": [
+              "WASSCE/SSSCE general degree requirements as published by UBIDS.[239]"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Business Computing",
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "duration": "4 years (Regular full time)[313]",
+            "fees": [
+              "FICT degree programmes are listed on the fees schedule under the same band as BSc Computer Science / BSc Informatics (Freshers: GHS 2,798.93; Continuing: GHS 2,244.73).[289]"
+            ],
+            "mode": ["Regular full time[313]"],
+            "entry_requirements": [
+              "WASSCE/SSSCE general degree requirements as published by UBIDS.[239]"
+            ],
+            "level_note": [
+              "Programme listed on the UBIDS academic programmes page and on the faculty page.[313][316]"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Dip. Computer Science",
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "duration": "2 years (Regular full time)[313]",
+            "fees": [
+              "Freshers total university charges (FICT diploma band): GHS 2,798.93[289]",
+              "Continuing (Level 200) total university charges: GHS 2,244.73[289]"
+            ],
+            "mode": ["Regular full time[313]"],
+            "entry_requirements": [
+              "At least 3 credit passes in relevant electives + at least 2 passes (D7/D or better) in English Language and Mathematics (WASSCE/SSSCE).[239]"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Dip. Informatics",
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "duration": "2 years (Regular full time)[313]",
+            "fees": [
+              "Freshers total university charges (FICT diploma band): GHS 2,798.93[289]",
+              "Continuing (Level 200) total university charges: GHS 2,244.73[289]"
+            ],
+            "mode": ["Regular full time[313]"],
+            "entry_requirements": [
+              "Diploma entry requirements as published by UBIDS.[239]"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Dip. Business Computing",
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "duration": "2 years",
+            "fees": [
+              "Diploma in Business Computing is listed by the faculty.[316]",
+              "The UBIDS fees schedule groups FICT diplomas together (Freshers: GHS 2,798.93; Continuing: GHS 2,244.73).[289]"
+            ],
+            "mode": ["Regular full time"],
+            "entry_requirements": [
+              "Diploma entry requirements as published by UBIDS.[239]"
+            ],
+            "level_note": [
+              "If UBIDS treats this programme under the FICT diploma fee band (as per the published fee schedule groupings), the charges above apply.[289]"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc. Information Systems",
+        "levels": [
+          {
+            "level_name": "Masters",
+            "duration": "Typically 1–2 years (programme-dependent)",
+            "fees": [
+              "MSc (Regular) Level 500 total fees charged: GHS 8,355.15[303][289]",
+              "MSc (Regular) Level 600 total fees charged: GHS 7,365.60[303][289]"
+            ],
+            "mode": ["Regular"],
+            "entry_requirements": [
+              "Good first degree (at least Second Class Lower) in a relevant field + transcript + research interest/proposal + selection interview.[239]"
+            ],
+            "level_note": [
+              "Programme listed by FICT.[316]"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Computer Science",
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "duration": "Typically 2 years (programme-dependent)",
+            "fees": [
+              "MPhil (Regular) Level 500 total fees charged: GHS 8,355.15[303][289]",
+              "MPhil (Regular) Level 600 total fees charged: GHS 7,365.60[303][289]",
+              "MPhil Top-up (Regular) total fees charged: GHS 9,430.63[303][289]"
+            ],
+            "mode": ["Regular"],
+            "entry_requirements": [
+              "Good first degree (at least Second Class Lower) in a relevant field + transcript + research interest/proposal + selection interview.[239]"
+            ],
+            "level_note": ["Programme listed by FICT.[316]"]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Informatics",
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "duration": "Typically 2 years (programme-dependent)",
+            "fees": [
+              "MPhil (Regular) Level 500 total fees charged: GHS 8,355.15[303][289]",
+              "MPhil (Regular) Level 600 total fees charged: GHS 7,365.60[303][289]",
+              "MPhil Top-up (Regular) total fees charged: GHS 9,430.63[303][289]"
+            ],
+            "mode": ["Regular"],
+            "entry_requirements": [
+              "Postgraduate (Masters) admission requirements as published by UBIDS.[239]"
+            ],
+            "level_note": ["Programme listed by FICT.[316]"]
+          }
+        ]
+      },
+      {
+        "course_name": "Ph.D Computer Science",
+        "levels": [
+          {
+            "level_name": "PhD",
+            "duration": "Typically 3–4 years (programme-dependent)",
+            "fees": [
+              "PhD Year 1 total fees charged: GHS 11,621.75[303][289]",
+              "PhD Year 2 total fees charged: GHS 11,340.00[303][289]",
+              "PhD Year 3 total fees charged: GHS 10,132.50[303][289]",
+              "PhD Year 4 total fees charged: GHS 9,521.25[303][289]"
+            ],
+            "mode": ["Regular"],
+            "entry_requirements": [
+              "MPhil/MSc (or equivalent) in a relevant field + transcript/certificates + research proposal + selection interview.[239]"
+            ],
+            "level_note": ["Programme listed by FICT.[316]"]
+          }
+        ]
+      },
+      {
+        "course_name": "Ph.D Informatics",
+        "levels": [
+          {
+            "level_name": "PhD",
+            "duration": "Typically 3–4 years (programme-dependent)",
+            "fees": [
+              "PhD Year 1 total fees charged: GHS 11,621.75[303][289]",
+              "PhD Year 2 total fees charged: GHS 11,340.00[303][289]",
+              "PhD Year 3 total fees charged: GHS 10,132.50[303][289]",
+              "PhD Year 4 total fees charged: GHS 9,521.25[303][289]"
+            ],
+            "mode": ["Regular"],
+            "entry_requirements": [
+              "PhD admission requirements as published by UBIDS.[239]"
+            ],
+            "level_note": ["Programme listed by FICT.[316]"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Law",
+    "note": [
+      "UBIDS lists two LLB routes: Regular LLB (4 years) and Post Degree LLB (3 years).[318]"
+    ],
+    "courses": [
+      {
+        "course_name": "LLB (Post-WASSCE / Regular Undergraduate LLB)",
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "duration": "4 years (Regular)[318]",
+            "fees": [
+              "Freshers total university charges: GHS 5,379.70[289]",
+              "Continuing (Level 200–400) total university charges: GHS 5,028.95[289]"
+            ],
+            "mode": ["Regular full time[318]"],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1–C6) in 3 core subjects (including English Language and Mathematics) + 3 relevant electives.[239]"
+            ],
+            "level_note": [
+              "The published fee schedule also itemizes Law-specific charges within the 'Other University Charges' (including Law Student Dues of GHS 100.00).[289]"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Post Degree LLB",
+        "levels": [
+          {
+            "level_name": "Undergraduate (Top-up / Post-degree)",
+            "duration": "3 years[318]",
+            "fees": [
+              "Freshers total university charges: GHS 12,094.28[289]",
+              "Continuing: Level 200 total university charges: GHS 12,094.28[289]",
+              "Continuing: Level 300–400 total university charges: GHS 11,743.53[289]"
+            ],
+            "mode": ["Weekend (as listed on UBIDS academic programmes page)[313]"],
+            "entry_requirements": [
+              "Applicants seeking admission to the 3-year LLB (post-degree) must have a good first degree with a minimum of Second Class (Lower Division) from a recognised/accredited institution.[239]"
+            ]
+          }
+        ]
+      }
+    ]
+  }
