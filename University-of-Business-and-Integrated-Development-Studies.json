@@ -836,7 +836,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -893,7 +893,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -953,7 +953,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -1014,7 +1014,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -1072,7 +1072,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -1719,61 +1719,6 @@
             "level_note": [
               "Research-focused degrees suitable for academic careers.",
               "Covers Political Science, Economics, Geography, Peace Studies, Social Admin."
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "PhD Programs",
-        "career": [
-          "University Professor",
-          "Principal Research Fellow",
-          "Senior Policy Advisor",
-          "International Consultant",
-          "Think Tank Director",
-          "Chief Economist",
-          "Director of Social Services",
-          "Senior Political Analyst",
-          "Development Strategist",
-          "Author / Scholar"
-        ],
-        "levels": [
-          {
-            "level_name": "Doctorate",
-            "fees": [
-              "Year 1: GHC 11,621.75",
-              "Year 2: GHC 11,340.00",
-              "Year 3: GHC 10,132.50",
-              "Year 4: GHC 9,521.25"
-            ],
-            "duration": "3 - 4 years",
-            "electives": [
-              {
-                "required": [
-                  "Doctoral Seminars",
-                  "Advanced Research Methods",
-                  "Thesis"
-                ]
-              },
-              {
-                "additional": ["Teaching Practicum", "Publication"]
-              }
-            ],
-            "salary": [
-              "Ghana: GHS80,000 - GHS150,000+",
-              "USA: $90,000 - $160,000+",
-              "Europe: €70,000 - €130,000+"
-            ],
-            "cutt_off": ["Graduate Admission"],
-            "mode": ["Independent research", "Supervision and seminars"],
-            "entry_requirements": [
-              "MPhil or relevant Research Master's degree",
-              "Comprehensive research proposal",
-              "Interview"
-            ],
-            "level_note": [
-              "Terminal degrees in Social Admin, Dev. Economics, Political Science, Geography, Peace Studies.",
-              "Requires significant original contribution to knowledge."
             ]
           }
         ]
@@ -2660,7 +2605,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -2719,7 +2664,7 @@
         ],
         "levels": [
           {
-            "level_name": "Postgraduate Certificate",
+            "level_name": "Certificate",
             "fees": ["Contact University (Professional Programme)"],
             "duration": "6 months",
             "electives": [
@@ -3695,7 +3640,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -3754,7 +3699,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -3816,7 +3761,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -3875,7 +3820,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -4058,7 +4003,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -5837,7 +5782,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -5896,7 +5841,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -5955,7 +5900,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -6014,7 +5959,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctorate",
+            "level_name": "PhD",
             "fees": [
               "Year 1: GHC 11,621.75",
               "Year 2: GHC 11,340.00",
@@ -8016,16 +7961,14 @@
         "course_name": "Post Degree LLB",
         "levels": [
           {
-            "level_name": "Undergraduate (Top-up / Post-degree)",
+            "level_name": "Undergraduate",
             "duration": "3 years[318]",
             "fees": [
               "Freshers total university charges: GHS 12,094.28",
               "Continuing: Level 200 total university charges: GHS 12,094.28",
               "Continuing: Level 300–400 total university charges: GHS 11,743.53"
             ],
-            "mode": [
-              "Weekend (as listed on UBIDS academic programmes page)"
-            ],
+            "mode": ["Weekend (as listed on UBIDS academic programmes page)"],
             "entry_requirements": [
               "Applicants seeking admission to the 3-year LLB (post-degree) must have a good first degree with a minimum of Second Class (Lower Division) from a recognised/accredited institution."
             ]
