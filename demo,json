@@ -1,262 +1,219 @@
-
+[
   {
-    "faculty_name": "Faculty of Information and Communication Technology (FICT)",
+    "faculty_name": "ADDITIONAL CROSS-CUTTING PROGRAMS",
     "note": [
-      "FICT has two academic departments: Computer Science and Informatics.[316]",
-      "Programmes listed by the faculty include BSc, Diploma, MSc, MPhil and PhD options.[316]"
+      "These interdisciplinary programmes are designed to address complex global challenges in security, leadership, and policy.",
+      "Hosted under the School of Graduate Studies, they draw faculty and expertise from across the university and industry."
     ],
     "courses": [
       {
-        "course_name": "BSc. Computer Science",
+        "course_name": "PhD International Security and Intelligence",
+        "career": [
+          "Intelligence Director",
+          "National Security Advisor",
+          "Counter-Terrorism Analyst",
+          "Defense Policy Consultant",
+          "International Security Specialist",
+          "University Professor",
+          "Diplomatic Security Officer",
+          "Think Tank Research Director",
+          "Border Security Manager",
+          "Political Risk Analyst"
+        ],
         "levels": [
           {
-            "level_name": "Undergraduate",
-            "duration": "4 years (Regular)[313]",
+            "level_name": "PhD",
             "fees": [
-              "Freshers total university charges: GHS 2,798.93[289]",
-              "Continuing (Level 200–400) total university charges: GHS 2,244.73[289]"
+              "Ghanaian Students: GHC 23,268 per year"
             ],
-            "mode": ["Regular full time[313]"],
-            "entry_requirements": [
-              "WASSCE: Credit passes (A1–C6) in 3 core subjects (including English Language and Mathematics) + 3 relevant electives.[239]",
-              "SSSCE: Passes (A–D) in 3 core subjects (including English Language and Mathematics) + 3 relevant electives.[239]"
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "BSc. Informatics",
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "duration": "4 years (Regular)[313]",
-            "fees": [
-              "Freshers total university charges: GHS 2,798.93[289]",
-              "Continuing (Level 200–400) total university charges: GHS 2,244.73[289]"
+            "duration": "4 years",
+            "electives": [
+              "Advanced Intelligence Analysis",
+              "Global Security Architecture",
+              "Terrorism and Counter-Terrorism",
+              "Cyber Warfare and Security",
+              "Geopolitics and Strategy",
+              "Intelligence Ethics and Law"
             ],
-            "mode": ["Regular full time[313]"],
-            "entry_requirements": [
-              "WASSCE/SSSCE general degree requirements as published by UBIDS.[239]"
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "BSc. Business Computing",
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "duration": "4 years (Regular full time)[313]",
-            "fees": [
-              "FICT degree programmes are listed on the fees schedule under the same band as BSc Computer Science / BSc Informatics (Freshers: GHS 2,798.93; Continuing: GHS 2,244.73).[289]"
+            "salary": [
+              "Ghana: GHS 110,000 - 280,000 annually",
+              "USA: $100,000 - $210,000",
+              "Europe: €85,000 - €175,000"
             ],
-            "mode": ["Regular full time[313]"],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive with coursework components",
+              "Seminars and high-level policy workshops",
+              "Supervision by security and intelligence experts"
+            ],
             "entry_requirements": [
-              "WASSCE/SSSCE general degree requirements as published by UBIDS.[239]"
+              "Master's degree by research in a related discipline with minimum 3.0 CGPA",
+              "Master's by coursework plus professional qualification may be considered",
+              "Must pass a rigorous selection interview"
             ],
             "level_note": [
-              "Programme listed on the UBIDS academic programmes page and on the faculty page.[313][316]"
+              "Premier doctoral programme for senior security professionals and academics.",
+              "Focuses on strategic responses to emerging global and regional security threats."
             ]
           }
         ]
       },
       {
-        "course_name": "Dip. Computer Science",
+        "course_name": "PhD Interdisciplinary Studies",
+        "career": [
+          "Senior Policy Researcher",
+          "University Professor",
+          "Interdisciplinary Consultant",
+          "Development Program Director",
+          "Social Change Strategist",
+          "Research Institute Director",
+          "Educational Leadership Consultant",
+          "Sustainability Director",
+          "NGO Country Director",
+          "Public Sector Administrator"
+        ],
         "levels": [
           {
-            "level_name": "Diploma",
-            "duration": "2 years (Regular full time)[313]",
+            "level_name": "PhD",
             "fees": [
-              "Freshers total university charges (FICT diploma band): GHS 2,798.93[289]",
-              "Continuing (Level 200) total university charges: GHS 2,244.73[289]"
+              "Ghanaian Students: GHC 23,268 per year"
             ],
-            "mode": ["Regular full time[313]"],
-            "entry_requirements": [
-              "At least 3 credit passes in relevant electives + at least 2 passes (D7/D or better) in English Language and Mathematics (WASSCE/SSSCE).[239]"
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "Dip. Informatics",
-        "levels": [
-          {
-            "level_name": "Diploma",
-            "duration": "2 years (Regular full time)[313]",
-            "fees": [
-              "Freshers total university charges (FICT diploma band): GHS 2,798.93[289]",
-              "Continuing (Level 200) total university charges: GHS 2,244.73[289]"
+            "duration": "4 years",
+            "electives": [
+              "Education Studies",
+              "Ethical and Creative Leadership",
+              "Public Policy and Social Change",
+              "Advanced Research Methodologies",
+              "Transdisciplinary Theory",
+              "Social Innovation Seminars"
             ],
-            "mode": ["Regular full time[313]"],
-            "entry_requirements": [
-              "Diploma entry requirements as published by UBIDS.[239]"
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "Dip. Business Computing",
-        "levels": [
-          {
-            "level_name": "Diploma",
-            "duration": "2 years",
-            "fees": [
-              "Diploma in Business Computing is listed by the faculty.[316]",
-              "The UBIDS fees schedule groups FICT diplomas together (Freshers: GHS 2,798.93; Continuing: GHS 2,244.73).[289]"
+            "salary": [
+              "Ghana: GHS 100,000 - 260,000 annually",
+              "USA: $90,000 - $190,000",
+              "Europe: €80,000 - €160,000"
             ],
-            "mode": ["Regular full time"],
+            "cutt_off": [],
+            "mode": [
+              "Interdisciplinary research focus",
+              "Collaborative seminars across faculties",
+              "Flexible research concentrations"
+            ],
             "entry_requirements": [
-              "Diploma entry requirements as published by UBIDS.[239]"
+              "Master's degree by research in any discipline with minimum 3.0 CGPA",
+              "Strong research proposal demonstrating interdisciplinary scope",
+              "Selection interview required"
             ],
             "level_note": [
-              "If UBIDS treats this programme under the FICT diploma fee band (as per the published fee schedule groupings), the charges above apply.[289]"
+              "Unique doctoral programme allowing research across traditional academic boundaries.",
+              "Ideal for tackling complex societal problems requiring multifaceted solutions."
             ]
           }
         ]
       },
       {
-        "course_name": "MSc. Information Systems",
+        "course_name": "PhD Public Policy and Leadership",
+        "career": [
+          "Public Policy Director",
+          "Government Advisor",
+          "Leadership Consultant",
+          "Think Tank Executive",
+          "University Professor",
+          "Policy Analyst",
+          "International Development Consultant",
+          "Public Administration Executive",
+          "Governance Specialist",
+          "Political Strategist"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Ghanaian Students: GHC 23,268 per year"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Public Policy Analysis",
+              "Leadership Theory and Practice",
+              "Governance and Institutions",
+              "Policy Implementation and Evaluation",
+              "Strategic Public Management",
+              "Political Economy of Development"
+            ],
+            "salary": [
+              "Ghana: GHS 115,000 - 290,000 annually",
+              "USA: $105,000 - $220,000",
+              "Europe: €90,000 - €180,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Rigorous research and policy analysis",
+              "Doctoral colloquia and leadership retreats",
+              "Engagement with public sector leaders"
+            ],
+            "entry_requirements": [
+              "Master's degree by research in policy, leadership, or related field (3.0 CGPA)",
+              "Master's by coursework with significant experience may be considered",
+              "Comprehensive research proposal and interview"
+            ],
+            "level_note": [
+              "Develops scholar-practitioners capable of leading public institutions and shaping policy.",
+              "Emphasizes ethical leadership and evidence-based policy making."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Peace, Security and Intelligence Management",
+        "career": [
+          "Security Manager",
+          "Intelligence Analyst",
+          "Peacekeeping Operations Officer",
+          "Conflict Resolution Specialist",
+          "Border Control Officer",
+          "Diplomat",
+          "NGO Program Manager",
+          "Risk Assessment Manager",
+          "Compliance Officer",
+          "Military Officer (Advanced)"
+        ],
         "levels": [
           {
             "level_name": "Masters",
-            "duration": "Typically 1–2 years (programme-dependent)",
             "fees": [
-              "MSc (Regular) Level 500 total fees charged: GHS 8,355.15[303][289]",
-              "MSc (Regular) Level 600 total fees charged: GHS 7,365.60[303][289]"
+              "Ghanaian Students: GHC 18,935 (Total for 1 year)"
             ],
-            "mode": ["Regular"],
+            "duration": "1 year",
+            "electives": [
+              "Theories and Concepts of Peace and Security",
+              "Strategic Intelligence Analysis",
+              "International Relations",
+              "Crime and Intelligence Analysis",
+              "Security Law",
+              "Terrorism and Global Security"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 160,000 annually",
+              "USA: $85,000 - $170,000",
+              "Europe: €70,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One-year intensive programme",
+              "Available in Evening, Weekend, and Sandwich sessions",
+              "Practical simulation exercises"
+            ],
             "entry_requirements": [
-              "Good first degree (at least Second Class Lower) in a relevant field + transcript + research interest/proposal + selection interview.[239]"
+              "Bachelor's degree with at least Second Class Lower",
+              "Security or uniformed service background is an added advantage",
+              "Pass in selection interview often required"
             ],
             "level_note": [
-              "Programme listed by FICT.[316]"
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "MPhil Computer Science",
-        "levels": [
-          {
-            "level_name": "MPhil",
-            "duration": "Typically 2 years (programme-dependent)",
-            "fees": [
-              "MPhil (Regular) Level 500 total fees charged: GHS 8,355.15[303][289]",
-              "MPhil (Regular) Level 600 total fees charged: GHS 7,365.60[303][289]",
-              "MPhil Top-up (Regular) total fees charged: GHS 9,430.63[303][289]"
-            ],
-            "mode": ["Regular"],
-            "entry_requirements": [
-              "Good first degree (at least Second Class Lower) in a relevant field + transcript + research interest/proposal + selection interview.[239]"
-            ],
-            "level_note": ["Programme listed by FICT.[316]"]
-          }
-        ]
-      },
-      {
-        "course_name": "MPhil Informatics",
-        "levels": [
-          {
-            "level_name": "MPhil",
-            "duration": "Typically 2 years (programme-dependent)",
-            "fees": [
-              "MPhil (Regular) Level 500 total fees charged: GHS 8,355.15[303][289]",
-              "MPhil (Regular) Level 600 total fees charged: GHS 7,365.60[303][289]",
-              "MPhil Top-up (Regular) total fees charged: GHS 9,430.63[303][289]"
-            ],
-            "mode": ["Regular"],
-            "entry_requirements": [
-              "Postgraduate (Masters) admission requirements as published by UBIDS.[239]"
-            ],
-            "level_note": ["Programme listed by FICT.[316]"]
-          }
-        ]
-      },
-      {
-        "course_name": "Ph.D Computer Science",
-        "levels": [
-          {
-            "level_name": "PhD",
-            "duration": "Typically 3–4 years (programme-dependent)",
-            "fees": [
-              "PhD Year 1 total fees charged: GHS 11,621.75[303][289]",
-              "PhD Year 2 total fees charged: GHS 11,340.00[303][289]",
-              "PhD Year 3 total fees charged: GHS 10,132.50[303][289]",
-              "PhD Year 4 total fees charged: GHS 9,521.25[303][289]"
-            ],
-            "mode": ["Regular"],
-            "entry_requirements": [
-              "MPhil/MSc (or equivalent) in a relevant field + transcript/certificates + research proposal + selection interview.[239]"
-            ],
-            "level_note": ["Programme listed by FICT.[316]"]
-          }
-        ]
-      },
-      {
-        "course_name": "Ph.D Informatics",
-        "levels": [
-          {
-            "level_name": "PhD",
-            "duration": "Typically 3–4 years (programme-dependent)",
-            "fees": [
-              "PhD Year 1 total fees charged: GHS 11,621.75[303][289]",
-              "PhD Year 2 total fees charged: GHS 11,340.00[303][289]",
-              "PhD Year 3 total fees charged: GHS 10,132.50[303][289]",
-              "PhD Year 4 total fees charged: GHS 9,521.25[303][289]"
-            ],
-            "mode": ["Regular"],
-            "entry_requirements": [
-              "PhD admission requirements as published by UBIDS.[239]"
-            ],
-            "level_note": ["Programme listed by FICT.[316]"]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "faculty_name": "School of Law",
-    "note": [
-      "UBIDS lists two LLB routes: Regular LLB (4 years) and Post Degree LLB (3 years).[318]"
-    ],
-    "courses": [
-      {
-        "course_name": "LLB (Post-WASSCE / Regular Undergraduate LLB)",
-        "levels": [
-          {
-            "level_name": "Undergraduate",
-            "duration": "4 years (Regular)[318]",
-            "fees": [
-              "Freshers total university charges: GHS 5,379.70[289]",
-              "Continuing (Level 200–400) total university charges: GHS 5,028.95[289]"
-            ],
-            "mode": ["Regular full time[318]"],
-            "entry_requirements": [
-              "WASSCE: Credit passes (A1–C6) in 3 core subjects (including English Language and Mathematics) + 3 relevant electives.[239]"
-            ],
-            "level_note": [
-              "The published fee schedule also itemizes Law-specific charges within the 'Other University Charges' (including Law Student Dues of GHS 100.00).[289]"
-            ]
-          }
-        ]
-      },
-      {
-        "course_name": "Post Degree LLB",
-        "levels": [
-          {
-            "level_name": "Undergraduate (Top-up / Post-degree)",
-            "duration": "3 years[318]",
-            "fees": [
-              "Freshers total university charges: GHS 12,094.28[289]",
-              "Continuing: Level 200 total university charges: GHS 12,094.28[289]",
-              "Continuing: Level 300–400 total university charges: GHS 11,743.53[289]"
-            ],
-            "mode": ["Weekend (as listed on UBIDS academic programmes page)[313]"],
-            "entry_requirements": [
-              "Applicants seeking admission to the 3-year LLB (post-degree) must have a good first degree with a minimum of Second Class (Lower Division) from a recognised/accredited institution.[239]"
+              "Designed for security professionals and those seeking to enter the intelligence field.",
+              "Provides specialized skills to identify and respond to emerging security challenges."
             ]
           }
         ]
       }
     ]
   }
+]

@@ -1,0 +1,3507 @@
+[
+  {
+    "name": "University of Professional Studies"
+  },
+  {
+    "faculty_name": "FACULTY OF ACCOUNTING & FINANCE",
+    "note": [
+      "The Faculty of Accounting and Finance is a flagship faculty at UPSA, renowned for producing top-tier finance and accounting professionals.",
+      "Programs integrate professional certification curricula (ACCA, ICAG, CIMA) to enhance graduate employability and professional standing."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Accounting",
+        "career": [
+          "Chartered Accountant",
+          "External Auditor",
+          "Tax Consultant",
+          "Financial Controller",
+          "Forensic Accountant",
+          "Internal Auditor",
+          "Management Accountant",
+          "Budget Analyst",
+          "Finance Manager",
+          "Treasury Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Financial Reporting",
+              "Auditing and Assurance",
+              "Taxation",
+              "Public Sector Accounting",
+              "Accounting Information Systems",
+              "Cost and Management Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": ["Aggregate 7-12"],
+            "mode": [
+              "Rigorous academic and professional training",
+              "Morning, Evening, and Weekend sessions",
+              "Regular tutorials for professional exams"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects including English, Math, and Science/Social Studies",
+              "Credit passes in three elective subjects (Business electives preferred)",
+              "Strong mathematical and analytical background required"
+            ],
+            "level_note": [
+              "Designed to exempt students from several professional examination papers (ICAG, ACCA).",
+              "Focuses on international financial reporting standards and ethical accounting practices."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Accounting and Finance",
+        "career": [
+          "Financial Analyst",
+          "Investment Banker",
+          "Corporate Treasurer",
+          "Credit Analyst",
+          "Risk Manager",
+          "Financial Planner",
+          "Accountant",
+          "Portfolio Manager",
+          "Stockbroker",
+          "Commercial Banker"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Corporate Finance",
+              "Investment Analysis",
+              "Financial Markets and Institutions",
+              "International Finance",
+              "Financial Modeling",
+              "Strategic Financial Management"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 90,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": ["Aggregate 8-14"],
+            "mode": [
+              "Integrated curriculum covering both accounting and finance",
+              "Practical sessions on financial software",
+              "Industry seminars with finance professionals"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects and three elective subjects",
+              "Mathematics and Business electives highly advantageous",
+              "Minimum aggregate of 24 or better usually required for competitive admission"
+            ],
+            "level_note": [
+              "Combines accounting rigour with financial strategy, ideal for banking and corporate finance careers.",
+              "Provides a solid foundation for CFA and professional accounting qualifications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Banking and Finance",
+        "career": [
+          "Bank Manager",
+          "Loan Officer",
+          "Investment Advisor",
+          "Credit Risk Analyst",
+          "Trade Finance Specialist",
+          "Private Banker",
+          "Compliance Officer",
+          "Wealth Manager",
+          "Operations Manager (Banking)",
+          "Financial Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Banking Law and Regulations",
+              "Credit Management",
+              "Treasury Management",
+              "International Banking",
+              "Monetary Economics",
+              "Microfinance Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": ["Aggregate 10-16"],
+            "mode": [
+              "Industry-aligned curriculum with banking simulations",
+              "Internships with partner financial institutions",
+              "Morning, Evening, and Weekend sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects and three elective subjects",
+              "Elective Mathematics or strong quantitative skills preferred",
+              "Interest in financial markets and banking operations"
+            ],
+            "level_note": [
+              "Prepares students for the dynamic banking sector with skills in credit, operations, and risk.",
+              "Graduates are well-positioned for the Chartered Institute of Bankers (CIB) examinations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Actuarial Science",
+        "career": [
+          "Actuary",
+          "Risk Analyst",
+          "Insurance Underwriter",
+          "Data Analyst",
+          "Pension Fund Analyst",
+          "Investment Strategist",
+          "Quantitative Analyst",
+          "Catastrophe Risk Analyst",
+          "Product Development Manager (Insurance)",
+          "Reinsurance Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Life Contingencies",
+              "Loss Models",
+              "Financial Mathematics",
+              "Risk Theory",
+              "Pension Mathematics",
+              "Survival Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually",
+              "USA: $90,000 - $160,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": ["Aggregate 11-15"],
+            "mode": [
+              "Highly quantitative and analytical curriculum",
+              "Preparation for professional actuarial exams (SOA/IFoA)",
+              "Computer-based modeling and statistical analysis"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects and three elective subjects",
+              "Mandatory Credit Pass in Elective Mathematics",
+              "Strong aptitude for statistics and probability required"
+            ],
+            "level_note": [
+              "One of the most mathematically rigorous programs, essential for the insurance and risk industries.",
+              "Equips students with skills to assess and manage financial risks using statistical models."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Economics",
+        "career": [
+          "Economic Analyst",
+          "Business Consultant",
+          "Market Researcher",
+          "Policy Analyst",
+          "Data Analyst",
+          "Financial Economist",
+          "Trade Specialist",
+          "Pricing Analyst",
+          "Development Economist",
+          "Strategic Planner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Econometrics",
+              "Managerial Economics",
+              "International Trade and Finance",
+              "Development Economics",
+              "Public Finance",
+              "Industrial Organization"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 75,000 annually",
+              "USA: $60,000 - $115,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": ["Aggregate 12-18"],
+            "mode": [
+              "Analytical focus on business and economic trends",
+              "Data analysis using statistical software (STATA, SPSS)",
+              "Morning, Evening, and Weekend sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects and three elective subjects",
+              "Credit Pass in Elective Mathematics and Economics required",
+              "Strong analytical and critical thinking skills"
+            ],
+            "level_note": [
+              "Applies economic theories to solve practical business and policy problems.",
+              "Prepares students for analytical roles in corporations, government, and international organizations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Real Estate Management and Finance",
+        "career": [
+          "Real Estate Valuer",
+          "Property Manager",
+          "Real Estate Developer",
+          "Investment Analyst (Real Estate)",
+          "Mortgage Advisor",
+          "Facilities Manager",
+          "Land Economist",
+          "Asset Manager",
+          "Real Estate Consultant",
+          "Agency Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Property Valuation",
+              "Real Estate Finance",
+              "Property Law",
+              "Building Construction",
+              "Urban Planning and Development",
+              "Facility Management"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 90,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": ["Aggregate 15-20"],
+            "mode": [
+              "Fieldwork and site visits to development projects",
+              "Technical training in valuation and property management",
+              "Industry partnerships with real estate firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects and three elective subjects",
+              "Required electives: Economics and Geography",
+              "Interest in the built environment and financial markets"
+            ],
+            "level_note": [
+              "Unique program combining property management expertise with financial investment analysis.",
+              "Addresses the growing demand for professionals in Ghana's booming real estate sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Accounting",
+        "career": [
+          "Accounts Clerk",
+          "Bookkeeper",
+          "Payroll Officer",
+          "Audit Assistant",
+          "Tax Assistant",
+          "Finance Assistant",
+          "Cashier",
+          "Inventory Clerk",
+          "Credit Control Assistant",
+          "Accounting Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 4,420 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Financial Accounting Basics",
+              "Cost Accounting",
+              "Computerized Accounting",
+              "Business Law",
+              "Taxation Principles",
+              "Auditing Fundamentals"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 40,000 annually",
+              "USA: $35,000 - $55,000",
+              "Europe: €28,000 - €45,000"
+            ],
+            "cutt_off": ["Aggregate 18-24"],
+            "mode": [
+              "Practical, skills-based accounting training",
+              "Hands-on use of accounting software (Tally, QuickBooks)",
+              "Pathway to undergraduate degree"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects and three elective subjects",
+              "Must have at least three credit passes in total",
+              "Mathematics and English passes are essential"
+            ],
+            "level_note": [
+              "Provides immediate entry-level employment skills in accounting and finance.",
+              "Excellent foundation for further studies in BSc Accounting or professional qualifications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Accounting and Finance",
+        "career": [
+          "Chief Financial Officer (CFO)",
+          "Finance Director",
+          "Senior Auditor",
+          "Financial Controller",
+          "Investment Manager",
+          "Corporate Treasurer",
+          "Risk Manager",
+          "Senior Tax Manager",
+          "Management Consultant",
+          "Forensic Audit Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Corporate Reporting",
+              "Strategic Financial Management",
+              "Advanced Audit and Assurance",
+              "Financial Risk Management",
+              "International Tax Planning",
+              "Corporate Governance and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 90,000 - 220,000 annually",
+              "USA: $110,000 - $200,000",
+              "Europe: €85,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend executive sessions",
+              "Case studies on global financial strategy",
+              "Integration with professional certification content"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Background in accounting or finance highly preferred",
+              "Relevant work experience in finance sector advantageous"
+            ],
+            "level_note": [
+              "Designed for professionals aspiring to senior financial leadership roles.",
+              "Combines advanced technical accounting skills with strategic financial decision-making."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Auditing",
+        "career": [
+          "Internal Audit Director",
+          "External Audit Manager",
+          "Compliance Director",
+          "Risk Assurance Manager",
+          "Forensic Auditor",
+          "IT Auditor",
+          "Audit Partner",
+          "Control Systems Manager",
+          "Fraud Investigator",
+          "Quality Assurance Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Auditing Standards",
+              "Forensic Accounting and Fraud Examination",
+              "Information Systems Auditing",
+              "Internal Control Systems",
+              "Public Sector Auditing",
+              "Governance and Accountability"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 200,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €80,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Practical audit simulations and software training",
+              "Focus on international auditing standards (ISAs)"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Accounting background or professional qualification (ICA, ACCA) preferred",
+              "Experience in audit or control environment beneficial"
+            ],
+            "level_note": [
+              "Specialized program for career auditors seeking mastery in assurance services.",
+              "Focuses on modern auditing challenges including IT systems and fraud detection."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Internal Auditing",
+        "career": [
+          "Chief Audit Executive",
+          "Internal Audit Manager",
+          "Risk Officer",
+          "Compliance Manager",
+          "Control Self-Assessment Facilitator",
+          "Performance Auditor",
+          "Governance Specialist",
+          "Operational Auditor",
+          "Systems Auditor",
+          "Audit Committee Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Internal Audit Frameworks",
+              "Enterprise Risk Management",
+              "Operational Auditing",
+              "Fraud Risk Assessment",
+              "IT Governance and Audit",
+              "Consulting Skills for Auditors"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 195,000 annually",
+              "USA: $95,000 - $175,000",
+              "Europe: €75,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Specialized curriculum aligned with IIA standards",
+              "Case-based learning on internal controls",
+              "Evening and Weekend flexibility"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Interest in internal controls, risk, and governance",
+              "Professional certification (CIA) study integration"
+            ],
+            "level_note": [
+              "Prepares professionals to add value and improve operations through effective internal auditing.",
+              "Aligned with the Institute of Internal Auditors (IIA) global competencies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Petroleum Accounting & Finance",
+        "career": [
+          "Petroleum Accountant",
+          "Energy Finance Manager",
+          "Joint Venture Accountant",
+          "Oil & Gas Tax Specialist",
+          "Energy Risk Manager",
+          "Commercial Analyst (Oil & Gas)",
+          "Petroleum Economist",
+          "Asset Manager (Energy)",
+          "Financial Controller (Energy)",
+          "Energy Investment Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Petroleum Economics",
+              "Oil and Gas Accounting Standards",
+              "Energy Finance and Valuation",
+              "Petroleum Taxation and Fiscal Regimes",
+              "Risk Management in Energy",
+              "Legal Framework of Petroleum Industry"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 250,000 annually",
+              "USA: $120,000 - $220,000",
+              "Europe: €95,000 - €180,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Niche industry focus with specialized content",
+              "Guest lectures from energy sector experts",
+              "Evening and Weekend delivery"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Accounting/Finance background preferred",
+              "Work experience in energy or extractives sector is a significant advantage"
+            ],
+            "level_note": [
+              "Unique program tailored for the specific financial complexities of the oil and gas sector.",
+              "Highly relevant for Ghana's growing petroleum industry and international energy markets."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Assets and Wealth Management",
+        "career": [
+          "Wealth Manager",
+          "Private Banker",
+          "Portfolio Manager",
+          "Asset Manager",
+          "Estate Planner",
+          "Investment Advisor",
+          "Family Office Manager",
+          "Trust Officer",
+          "Financial Planner",
+          "Pension Fund Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Investment Management",
+              "Estate and Trust Planning",
+              "Wealth Management Strategies",
+              "Alternative Investments",
+              "Behavioral Finance",
+              "Private Banking Services"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 200,000 annually",
+              "USA: $100,000 - $250,000",
+              "Europe: €85,000 - €200,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Focus on high-net-worth individual management",
+              "Practical portfolio construction exercises",
+              "Evening and Weekend sessions"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Finance, banking, or economics background preferred",
+              "Client-facing experience in financial services advantageous"
+            ],
+            "level_note": [
+              "Equips professionals with expertise in managing assets and preserving wealth for individuals and institutions.",
+              "Growing demand in Ghana's expanding financial services and investment sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Accounting",
+        "career": [
+          "Accounting Lecturer",
+          "Accounting Researcher",
+          "Standard Setter (Accounting)",
+          "Policy Analyst",
+          "Senior Consultant",
+          "Academic Administrator",
+          "Technical Director (Accounting)",
+          "Research Fellow",
+          "Author/Editor (Accounting Journals)",
+          "PhD Candidate"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Accounting Theory",
+              "Research Methods in Accounting",
+              "Quantitative Analysis",
+              "Seminar in Financial Reporting",
+              "Accounting Ethics and Governance",
+              "Qualitative Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 180,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive academic program",
+              "Supervised thesis writing",
+              "Seminars and workshops"
+            ],
+            "entry_requirements": [
+              "Good first degree in Accounting (Second Class Lower or better)",
+              "Strong research potential and academic writing skills",
+              "Research proposal submission required"
+            ],
+            "level_note": [
+              "Pathway to academic careers and doctoral studies in accounting.",
+              "Emphasizes critical analysis of accounting theories and contributions to knowledge."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Finance",
+        "career": [
+          "Finance Lecturer",
+          "Financial Economist",
+          "Quantitative Researcher",
+          "Central Bank Researcher",
+          "Investment Strategist",
+          "Academic Researcher",
+          "Policy Consultant",
+          "Think Tank Analyst",
+          "Finance Author",
+          "PhD Candidate"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Financial Theory",
+              "Econometrics for Finance",
+              "Empirical Finance",
+              "Research Methodology",
+              "Asset Pricing Theory",
+              "Corporate Finance Research"
+            ],
+            "salary": [
+              "Ghana: GHS 90,000 - 190,000 annually",
+              "USA: $90,000 - $160,000",
+              "Europe: €80,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Rigorous academic research training",
+              "Data analysis and financial modeling",
+              "Thesis defense and publication"
+            ],
+            "entry_requirements": [
+              "Good first degree in Finance or Economics (Second Class Lower or better)",
+              "Quantitative aptitude and research interest",
+              "Research proposal submission required"
+            ],
+            "level_note": [
+              "Prepares scholars for high-level research roles in academia, central banking, and finance institutes.",
+              "Focuses on empirical research and advanced financial modeling techniques."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Accounting",
+        "career": [
+          "Professor of Accounting",
+          "Director of Research",
+          "Accounting Policy Advisor",
+          "Senior Technical Partner",
+          "Standard Board Member",
+          "Academic Dean",
+          "Chief Economist",
+          "International Consultant",
+          "Lead Researcher",
+          "University Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Ghanaian Students: GHC 35,000 - 45,000 (Total for 3-4 years)"
+            ],
+            "duration": "3-4 years",
+            "electives": [
+              "Advanced Research Design",
+              "Contemporary Issues in Accounting",
+              "Accounting Theory Construction",
+              "Statistical Analysis for Research",
+              "Pedagogy in Higher Education",
+              "Doctoral Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 120,000 - 280,000 annually",
+              "USA: $100,000 - $200,000",
+              "Europe: €85,000 - €170,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Independent doctoral research",
+              "Conference presentations and journal publications",
+              "Supervision by senior faculty"
+            ],
+            "entry_requirements": [
+              "MPhil or Research Master's degree in Accounting",
+              "Comprehensive research proposal and interview",
+              "Demonstrated capability for independent scholarly work"
+            ],
+            "level_note": [
+              "Terminal degree creating thought leaders and experts in the accounting field.",
+              "Produces original research that impacts accounting practice, policy, and education."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Finance",
+        "career": [
+          "Professor of Finance",
+          "Chief Investment Strategist",
+          "Head of Research (Financial Institutions)",
+          "Policy Advisor (IMF/World Bank)",
+          "Senior Quantitative Analyst",
+          "Academic Dean",
+          "Finance Author/Expert",
+          "Economic Consultant",
+          "Research Institute Director",
+          "University Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Ghanaian Students: GHC 35,000 - 45,000 (Total for 3-4 years)"
+            ],
+            "duration": "3-4 years",
+            "electives": [
+              "Advanced Asset Pricing",
+              "Corporate Finance Theory",
+              "Financial Econometrics",
+              "Market Microstructure",
+              "Research Seminars in Finance",
+              "Doctoral Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 120,000 - 300,000 annually",
+              "USA: $120,000 - $250,000",
+              "Europe: €95,000 - €200,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Deep theoretical and empirical research",
+              "Contribution to top-tier finance journals",
+              "Mentorship and teaching experience"
+            ],
+            "entry_requirements": [
+              "MPhil or Research Master's degree in Finance or Economics",
+              "Strong quantitative and research background",
+              "Comprehensive research proposal required"
+            ],
+            "level_note": [
+              "Develops world-class finance scholars and high-level practitioners.",
+              "Focuses on solving complex financial problems through rigorous research and analysis."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "FACULTY OF MANAGEMENT STUDIES",
+    "note": [
+      "The Faculty of Management Studies at UPSA is a leading hub for business education in Ghana, preparing graduates for leadership roles across diverse industries.",
+      "Programmes emphasize practical business skills, strategic thinking, and professional development aligned with global standards."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Business Administration",
+        "career": [
+          "Business Manager",
+          "Operations Manager",
+          "Marketing Manager",
+          "Human Resources Manager",
+          "Financial Analyst",
+          "Management Consultant",
+          "Business Development Manager",
+          "Project Manager",
+          "Entrepreneur",
+          "Corporate Strategy Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Strategic Management",
+              "Entrepreneurship",
+              "International Business",
+              "Corporate Governance",
+              "Business Analytics",
+              "Leadership and Change Management"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": ["Aggregate 6-12"],
+            "mode": [
+              "Morning, Evening, and Weekend sessions available",
+              "Interactive lectures and case studies",
+              "Practical business simulations and projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects including English Language, Mathematics, and Integrated Science/Social Studies",
+              "Credit passes in any three elective subjects",
+              "SSSCE/GBCE: Credit passes (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Prepares students for diverse management roles across industries with a strong foundation in business principles.",
+              "Combines academic theory with practical application through internships and industry partnerships."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Market Research Analyst",
+          "Advertising Manager",
+          "Sales Manager",
+          "Product Manager",
+          "Marketing Consultant",
+          "Social Media Manager",
+          "Public Relations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Digital Marketing",
+              "Consumer Behavior",
+              "Brand Management",
+              "Marketing Research",
+              "Strategic Marketing",
+              "International Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 55,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": ["Aggregate 12-15"],
+            "mode": [
+              "Interactive lectures with industry practitioners",
+              "Project-based learning and marketing campaigns",
+              "Morning, Evening, and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects including English Language, Mathematics, and Integrated Science/Social Studies",
+              "Credit passes in any three elective subjects",
+              "SSSCE/GBCE: Credit passes (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Develops marketing professionals equipped with modern digital and traditional marketing skills.",
+              "Strong emphasis on consumer insights, branding, and strategic market positioning."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Logistics and Transport Management",
+        "career": [
+          "Logistics Manager",
+          "Supply Chain Manager",
+          "Transport Manager",
+          "Warehouse Manager",
+          "Operations Manager",
+          "Procurement Specialist",
+          "Distribution Manager",
+          "Freight Coordinator",
+          "Logistics Analyst",
+          "Port Operations Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Supply Chain Management",
+              "Transportation Economics",
+              "Warehouse Management",
+              "International Logistics",
+              "Fleet Management",
+              "Logistics Information Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 72,000 annually",
+              "USA: $60,000 - $115,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": ["Aggregate 14-18"],
+            "mode": [
+              "Practical industry-focused training",
+              "Field visits to ports, warehouses, and logistics hubs",
+              "Morning, Evening, and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects including English Language, Mathematics, and Integrated Science/Social Studies",
+              "Credit passes in any three elective subjects",
+              "SSSCE/GBCE: Credit passes (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Prepares professionals for the growing logistics and transport sector in Ghana and internationally.",
+              "Focus on optimizing supply chains, reducing costs, and managing complex distribution networks."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Marketing",
+        "career": [
+          "Marketing Assistant",
+          "Sales Representative",
+          "Customer Service Manager",
+          "Brand Assistant",
+          "Market Research Assistant",
+          "Digital Marketing Coordinator",
+          "Advertising Coordinator",
+          "Retail Manager",
+          "Product Coordinator",
+          "Marketing Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 4,420 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Principles of Marketing",
+              "Consumer Behavior",
+              "Sales Management",
+              "Marketing Communications",
+              "Market Research Fundamentals",
+              "Retail Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - 35,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €28,000 - €50,000"
+            ],
+            "cutt_off": ["Aggregate 15-20"],
+            "mode": [
+              "Practical skills-based training",
+              "Morning and Evening sessions available",
+              "Hands-on projects and case studies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects including English Language, Mathematics, and Integrated Science/Social Studies",
+              "Passes in any three elective subjects with at least three credit passes overall",
+              "SSSCE/GBCE: Credit passes (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Foundation programme for students seeking entry into marketing careers with practical skills.",
+              "Provides pathway to further undergraduate studies or immediate employment opportunities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Management",
+        "career": [
+          "Administrative Officer",
+          "Office Manager",
+          "Supervisor",
+          "Operations Assistant",
+          "Business Coordinator",
+          "Management Trainee",
+          "Human Resources Assistant",
+          "Customer Relations Officer",
+          "Project Coordinator",
+          "Team Leader"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 4,420 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Principles of Management",
+              "Business Communication",
+              "Organizational Behavior",
+              "Financial Management Basics",
+              "Human Resource Management",
+              "Operations Management"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - 38,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["Aggregate 15-20"],
+            "mode": [
+              "Practical management skills training",
+              "Morning and Evening sessions available",
+              "Case study analysis and group projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects including English Language, Mathematics, and Integrated Science/Social Studies",
+              "Passes in any three elective subjects with at least three credit passes overall",
+              "SSSCE/GBCE: Credit passes (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Equips students with foundational management skills for entry-level administrative and supervisory roles.",
+              "Offers progression route to undergraduate degree programmes in management and business."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Business Management",
+        "career": [
+          "General Manager",
+          "Business Development Director",
+          "Chief Operations Officer",
+          "Management Consultant",
+          "Strategic Planning Manager",
+          "Corporate Manager",
+          "Business Unit Head",
+          "Change Management Specialist",
+          "Entrepreneur",
+          "Executive Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Strategic Management",
+              "Corporate Finance",
+              "Leadership and Organizational Behavior",
+              "Business Analytics",
+              "Innovation and Change Management",
+              "International Business Strategy"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 200,000 annually",
+              "USA: $90,000 - $180,000",
+              "Europe: €70,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Executive-style delivery with case studies",
+              "Networking with industry leaders"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower from a recognized university",
+              "Minimum 2 years work experience preferred",
+              "Third class degree holders may be considered after interview"
+            ],
+            "level_note": [
+              "Develops senior-level managers and entrepreneurs with strategic business acumen.",
+              "Focus on leadership, innovation, and driving organizational performance in dynamic business environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Marketing",
+        "career": [
+          "Marketing Director",
+          "Chief Marketing Officer",
+          "Brand Strategy Manager",
+          "Marketing Consultant",
+          "Business Development Manager",
+          "Digital Marketing Director",
+          "Product Manager",
+          "Market Intelligence Manager",
+          "Customer Experience Director",
+          "Strategic Marketing Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Strategic Marketing Management",
+              "Consumer Insights and Analytics",
+              "Brand Management",
+              "Digital Marketing Strategy",
+              "Marketing Research and Analytics",
+              "Global Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 180,000 annually",
+              "USA: $95,000 - $175,000",
+              "Europe: €75,000 - €135,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Practical marketing projects",
+              "Industry mentorship and case competitions"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower from a recognized university",
+              "Marketing or business-related background preferred",
+              "Work experience in marketing advantageous"
+            ],
+            "level_note": [
+              "Prepares marketing leaders to drive brand growth and customer engagement in competitive markets.",
+              "Emphasis on digital transformation, data-driven marketing, and strategic brand positioning."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Corporate Governance",
+        "career": [
+          "Corporate Governance Officer",
+          "Compliance Manager",
+          "Board Secretary",
+          "Risk Management Manager",
+          "Internal Auditor",
+          "Ethics and Compliance Officer",
+          "Corporate Affairs Manager",
+          "Regulatory Affairs Manager",
+          "Corporate Counsel",
+          "Governance Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Corporate Governance Principles",
+              "Risk Management and Compliance",
+              "Business Ethics and Corporate Social Responsibility",
+              "Board Governance and Strategic Oversight",
+              "Corporate Law and Regulatory Framework",
+              "Stakeholder Management"
+            ],
+            "salary": [
+              "Ghana: GHS 90,000 - 190,000 annually",
+              "USA: $100,000 - $185,000",
+              "Europe: €80,000 - €145,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Case-based learning with governance scenarios",
+              "Guest lectures from board members and regulators"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower from a recognized university",
+              "Professional qualifications in accounting, law, or management preferred",
+              "Understanding of organizational dynamics advantageous"
+            ],
+            "level_note": [
+              "Develops experts in ethical leadership, accountability, and regulatory compliance for corporate boards.",
+              "Critical for organizations seeking to strengthen governance structures and meet international standards."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Operations and Supply Chain Management",
+        "career": [
+          "Operations Director",
+          "Supply Chain Director",
+          "Logistics Manager",
+          "Procurement Director",
+          "Production Manager",
+          "Quality Assurance Manager",
+          "Distribution Manager",
+          "Operations Consultant",
+          "Inventory Control Manager",
+          "Supply Chain Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Strategic Supply Chain Management",
+              "Operations Strategy",
+              "Procurement and Sourcing",
+              "Logistics and Distribution",
+              "Quality Management Systems",
+              "Lean and Six Sigma Operations"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 185,000 annually",
+              "USA: $105,000 - $190,000",
+              "Europe: €85,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Industry-focused practical training",
+              "Site visits to manufacturing and logistics facilities"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower from a recognized university",
+              "Background in business, engineering, or operations preferred",
+              "2 years work experience in operations or logistics advantageous"
+            ],
+            "level_note": [
+              "Trains professionals to optimize operations, reduce costs, and manage complex supply chains effectively.",
+              "High demand in manufacturing, retail, logistics, and technology sectors across Ghana and globally."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Total Quality Management",
+        "career": [
+          "Quality Manager",
+          "Quality Assurance Director",
+          "Process Improvement Manager",
+          "Operations Excellence Manager",
+          "Six Sigma Black Belt",
+          "Continuous Improvement Manager",
+          "Quality Systems Manager",
+          "Compliance and Quality Officer",
+          "Quality Consultant",
+          "Manufacturing Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Total Quality Management Principles",
+              "Six Sigma and Lean Management",
+              "Quality Systems and Standards",
+              "Process Optimization",
+              "Statistical Quality Control",
+              "Continuous Improvement Strategies"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - 170,000 annually",
+              "USA: $85,000 - $160,000",
+              "Europe: €70,000 - €125,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Hands-on quality management projects",
+              "Industry certification opportunities"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower from a recognized university",
+              "Background in business, engineering, or operations preferred",
+              "Work experience in quality or manufacturing advantageous"
+            ],
+            "level_note": [
+              "Prepares quality professionals to drive operational excellence and compliance across industries.",
+              "Focus on implementing world-class quality systems and continuous improvement methodologies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Impact Entrepreneurship and Innovation",
+        "career": [
+          "Social Entrepreneur",
+          "Innovation Manager",
+          "Startup Founder",
+          "Business Development Director",
+          "Impact Investment Analyst",
+          "Corporate Innovation Officer",
+          "Venture Capital Analyst",
+          "Product Innovation Manager",
+          "Sustainability Manager",
+          "Entrepreneurship Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 27,040 (Total for 18 months)"],
+            "duration": "18 months",
+            "electives": [
+              "Social Entrepreneurship",
+              "Innovation and Design Thinking",
+              "Impact Investing",
+              "Venture Creation and Scaling",
+              "Sustainable Business Models",
+              "Entrepreneurial Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 180,000 annually",
+              "USA: $70,000 - $160,000",
+              "Europe: €60,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Startup incubation and mentorship",
+              "Pitch competitions and funding workshops"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower from a recognized university",
+              "Entrepreneurial mindset and passion for innovation",
+              "Business idea or startup experience advantageous"
+            ],
+            "level_note": [
+              "Develops entrepreneurs and innovators who create businesses with social and economic impact.",
+              "Focus on building sustainable ventures that address societal challenges while generating returns."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Management Information Systems",
+        "career": [
+          "IT Manager",
+          "Chief Information Officer",
+          "Business Systems Analyst",
+          "IT Project Manager",
+          "Enterprise Systems Manager",
+          "Data Analytics Manager",
+          "Information Security Manager",
+          "Digital Transformation Manager",
+          "IT Consultant",
+          "Technology Strategy Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Information Systems Strategy",
+              "Database Management",
+              "Enterprise Resource Planning",
+              "Business Intelligence and Analytics",
+              "IT Project Management",
+              "Cybersecurity Management"
+            ],
+            "salary": [
+              "Ghana: GHS 95,000 - 210,000 annually",
+              "USA: $110,000 - $195,000",
+              "Europe: €90,000 - €155,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Technology-driven case studies",
+              "Hands-on training with enterprise systems"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower from a recognized university",
+              "Background in IT, computer science, or business preferred",
+              "Basic programming or IT skills advantageous"
+            ],
+            "level_note": [
+              "Bridges the gap between technology and business, preparing IT leaders who drive digital transformation.",
+              "High demand in banking, telecommunications, consulting, and technology companies across Ghana."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Procurement Management",
+        "career": [
+          "Procurement Manager",
+          "Supply Chain Procurement Specialist",
+          "Purchasing Director",
+          "Sourcing Manager",
+          "Contract Manager",
+          "Vendor Management Specialist",
+          "Procurement Analyst",
+          "Strategic Sourcing Manager",
+          "Procurement Consultant",
+          "Materials Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,935 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Strategic Procurement",
+              "Contract Management",
+              "Supplier Relationship Management",
+              "Procurement Law and Ethics",
+              "Global Sourcing",
+              "Procurement Analytics"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 160,000 annually",
+              "USA: $80,000 - $155,000",
+              "Europe: €65,000 - €125,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Practical procurement case studies",
+              "Industry certifications and professional development"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower in relevant field",
+              "Professional qualifications such as CIPS advantageous",
+              "Work experience in procurement or supply chain preferred"
+            ],
+            "level_note": [
+              "Specialized programme for procurement professionals seeking advanced skills in strategic sourcing and supplier management.",
+              "High employability in government, NGOs, manufacturing, and multinational corporations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Pensions Management",
+        "career": [
+          "Pensions Manager",
+          "Pensions Administrator",
+          "Retirement Planning Consultant",
+          "Pensions Compliance Officer",
+          "Fund Manager",
+          "Pensions Analyst",
+          "Benefits Manager",
+          "Trustee Services Manager",
+          "Actuarial Analyst",
+          "Pensions Policy Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,935 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Pension Schemes Design and Administration",
+              "Pension Law and Regulatory Framework",
+              "Investment Management for Pension Funds",
+              "Retirement Planning and Counseling",
+              "Risk Management in Pensions",
+              "Pension Fund Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 145,000 annually",
+              "USA: $75,000 - $140,000",
+              "Europe: €60,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Expert lectures from pensions industry leaders",
+              "Practical training in pension fund management"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower in finance, accounting, or related field",
+              "Professional qualifications in accounting, finance, or pensions advantageous",
+              "Work experience in financial services or pensions preferred"
+            ],
+            "level_note": [
+              "Specialized programme addressing Ghana's growing pensions industry and retirement security needs.",
+              "Prepares professionals for leadership roles in pension fund management and compliance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Leadership",
+        "career": [
+          "Leadership Development Manager",
+          "Executive Coach",
+          "Organizational Development Consultant",
+          "Human Resources Director",
+          "Change Management Specialist",
+          "Training and Development Manager",
+          "Leadership Program Director",
+          "Talent Management Manager",
+          "Chief Human Resources Officer",
+          "Strategic Leadership Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,935 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Leadership Theory and Practice",
+              "Strategic Leadership",
+              "Organizational Change and Development",
+              "Emotional Intelligence for Leaders",
+              "Leading High-Performance Teams",
+              "Leadership in Global Contexts"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - 165,000 annually",
+              "USA: $90,000 - $160,000",
+              "Europe: €75,000 - €135,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Leadership coaching and mentoring",
+              "Experiential learning and leadership simulations"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower from a recognized university",
+              "Minimum 2 years work experience in management or supervisory roles",
+              "Demonstrated leadership potential or experience"
+            ],
+            "level_note": [
+              "Develops transformational leaders who can inspire teams and drive organizational performance.",
+              "Focus on contemporary leadership challenges including diversity, ethics, and digital transformation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Management",
+        "career": [
+          "Senior Management Consultant",
+          "University Lecturer",
+          "Research Analyst",
+          "Policy Advisor",
+          "Strategic Planning Director",
+          "Business Research Manager",
+          "Corporate Strategy Consultant",
+          "Academic Researcher",
+          "Think Tank Researcher",
+          "Management Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Management Theory",
+              "Research Methodology",
+              "Quantitative and Qualitative Analysis",
+              "Strategic Management Research",
+              "Organizational Behavior Research",
+              "Management Philosophy"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 180,000 annually",
+              "USA: $75,000 - $145,000",
+              "Europe: €65,000 - €125,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-focused programme",
+              "Supervised thesis development",
+              "Seminars and academic conferences"
+            ],
+            "entry_requirements": [
+              "Master's degree in management or related field with at least Second Class Lower",
+              "Strong research background and analytical skills",
+              "Research proposal required"
+            ],
+            "level_note": [
+              "Research-intensive programme for those pursuing academic careers or advanced consulting roles.",
+              "Prepares candidates for doctoral studies and contributes to management knowledge in Ghana."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Leadership",
+        "career": [
+          "Leadership Researcher",
+          "University Lecturer in Leadership",
+          "Executive Development Consultant",
+          "Leadership Policy Advisor",
+          "Organizational Development Researcher",
+          "Think Tank Consultant",
+          "Leadership Program Designer",
+          "Research Director",
+          "Academic Writer",
+          "Leadership Scholar"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Leadership Theory",
+              "Leadership Research Methodology",
+              "Organizational Culture and Leadership",
+              "Leadership in African Contexts",
+              "Transformational and Servant Leadership",
+              "Leadership Ethics and Philosophy"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 175,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-focused programme",
+              "Supervised thesis in leadership studies",
+              "Academic seminars and research forums"
+            ],
+            "entry_requirements": [
+              "Master's degree in leadership, management, or related field with at least Second Class Lower",
+              "Strong research and writing skills",
+              "Leadership experience and research proposal required"
+            ],
+            "level_note": [
+              "Advanced research programme for scholars and practitioners seeking to contribute to leadership knowledge.",
+              "Prepares candidates for PhD programmes and academic or consulting careers in leadership development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Management",
+        "career": [
+          "University Professor",
+          "Senior Research Fellow",
+          "Management Consultant",
+          "Policy Research Director",
+          "Think Tank Director",
+          "Corporate Strategy Advisor",
+          "Academic Dean",
+          "Research Institute Director",
+          "Management Author",
+          "International Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Ghanaian Students: GHC 35,000 - 45,000 (Total for 3-4 years)"
+            ],
+            "duration": "3-4 years",
+            "electives": [
+              "Advanced Management Research",
+              "Doctoral Seminars in Management",
+              "Research Design and Methodology",
+              "Contemporary Management Issues",
+              "Theory Development in Management",
+              "Dissertation Development"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 250,000 annually",
+              "USA: $85,000 - $175,000",
+              "Europe: €75,000 - €155,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Independent research under supervision",
+              "Doctoral seminars and colloquia",
+              "Conference presentations and publications"
+            ],
+            "entry_requirements": [
+              "MPhil or Master's degree in management or related field with strong academic record",
+              "Comprehensive research proposal required",
+              "Demonstrated research capability and academic writing"
+            ],
+            "level_note": [
+              "Terminal degree for management scholars, preparing leaders in academia and high-level consulting.",
+              "Emphasis on original research contributing to management theory and practice in Ghana and Africa."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Marketing",
+        "career": [
+          "University Professor in Marketing",
+          "Senior Marketing Research Consultant",
+          "Marketing Strategy Advisor",
+          "Research Director",
+          "Consumer Insights Director",
+          "Think Tank Marketing Specialist",
+          "Academic Dean",
+          "Marketing Author",
+          "Market Research Institute Director",
+          "International Marketing Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Ghanaian Students: GHC 35,000 - 45,000 (Total for 3-4 years)"
+            ],
+            "duration": "3-4 years",
+            "electives": [
+              "Advanced Marketing Theory",
+              "Consumer Behavior Research",
+              "Marketing Research Methodology",
+              "Strategic Marketing Research",
+              "Digital Marketing Research",
+              "Dissertation in Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 240,000 annually",
+              "USA: $90,000 - $180,000",
+              "Europe: €75,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Independent research under supervision",
+              "Doctoral seminars and workshops",
+              "Academic conferences and journal publications"
+            ],
+            "entry_requirements": [
+              "MPhil or Master's degree in marketing or related field with strong academic record",
+              "Comprehensive research proposal in marketing required",
+              "Demonstrated research and analytical skills"
+            ],
+            "level_note": [
+              "Terminal degree for marketing scholars, preparing experts in academia and advanced consulting roles.",
+              "Focus on original research that advances marketing knowledge and addresses contemporary market challenges."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "FACULTY OF INFORMATION TECHNOLOGY & COMMUNICATION STUDIES",
+    "note": [
+      "FITCS is at the forefront of digital transformation education in Ghana, preparing professionals for the evolving IT and communication landscape.",
+      "Programmes blend technical IT expertise with strategic communication skills to meet industry demands in the digital economy."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Information Technology Management",
+        "career": [
+          "IT Manager",
+          "Systems Manager",
+          "IT Project Manager",
+          "Network Administrator",
+          "Database Administrator",
+          "IT Consultant",
+          "Business Analyst",
+          "IT Director",
+          "Chief Information Officer",
+          "Technology Strategist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Information Systems Management",
+              "Database Management Systems",
+              "Network Administration",
+              "IT Project Management",
+              "Enterprise Systems",
+              "Cloud Computing"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 110,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €55,000 - €110,000"
+            ],
+            "cutt_off": ["Aggregate 14-18"],
+            "mode": [
+              "Hands-on technical labs and industry projects",
+              "Morning, Evening, and Weekend sessions",
+              "Practical training in enterprise systems"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects including English, Mathematics, and Science",
+              "Credit passes in three elective subjects",
+              "Elective Mathematics or strong quantitative background preferred"
+            ],
+            "level_note": [
+              "Bridges business management with IT systems, ideal for those managing technology in organizations.",
+              "Graduates are prepared for supervisory and managerial IT roles across industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Data Science and Analytics",
+        "career": [
+          "Data Scientist",
+          "Data Analyst",
+          "Business Intelligence Analyst",
+          "Machine Learning Engineer",
+          "Data Engineer",
+          "Analytics Manager",
+          "Quantitative Analyst",
+          "Big Data Engineer",
+          "Research Analyst",
+          "AI Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Machine Learning",
+              "Big Data Analytics",
+              "Statistical Computing",
+              "Data Visualization",
+              "Predictive Modeling",
+              "Business Intelligence"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 170,000 annually",
+              "USA: $85,000 - $180,000",
+              "Europe: €50,000 - €130,000"
+            ],
+            "cutt_off": ["Aggregate 12-16"],
+            "mode": [
+              "Project-based learning with real datasets",
+              "Programming labs (Python, R, SQL)",
+              "Industry internships and capstone projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects including English, Mathematics, and Science",
+              "Mandatory Credit Pass in Elective Mathematics",
+              "Strong analytical and problem-solving skills required"
+            ],
+            "level_note": [
+              "One of the most in-demand tech programmes, training professionals to extract insights from data.",
+              "Graduates are sought after in finance, tech, healthcare, and government sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA Communication Studies",
+        "career": [
+          "Communications Officer",
+          "Content Writer",
+          "Media Relations Officer",
+          "Corporate Communications Specialist",
+          "Broadcast Journalist",
+          "Communications Consultant",
+          "Event Manager",
+          "Marketing Communications Officer",
+          "Social Media Strategist",
+          "Communications Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Communication Theory",
+              "Media Writing",
+              "Public Speaking and Presentation",
+              "Digital Communication",
+              "Organizational Communication",
+              "Intercultural Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 55,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["Aggregate 15-20"],
+            "mode": [
+              "Practical writing and presentation workshops",
+              "Media production and content creation labs",
+              "Industry attachments with media organizations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects including English, Mathematics, and Science/Social Studies",
+              "Credit passes in three elective subjects",
+              "Strong language and communication skills essential"
+            ],
+            "level_note": [
+              "Develops versatile communication professionals for media, corporate, and public sectors.",
+              "Emphasis on both traditional and digital communication platforms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA Public Relations Management",
+        "career": [
+          "Public Relations Officer",
+          "PR Manager",
+          "Media Relations Specialist",
+          "Corporate Communications Manager",
+          "Brand Reputation Manager",
+          "Event Coordinator",
+          "Crisis Communications Specialist",
+          "Stakeholder Relations Manager",
+          "PR Consultant",
+          "Communications Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,975 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Public Relations Theory and Practice",
+              "Crisis Management",
+              "Media Relations",
+              "Corporate Social Responsibility",
+              "Reputation Management",
+              "Event Management"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": ["Aggregate 16-20"],
+            "mode": [
+              "Practical PR campaigns and case studies",
+              "Industry guest lectures and networking",
+              "Internships with PR agencies and corporate communications departments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects including English, Mathematics, and Science/Social Studies",
+              "Credit passes in three elective subjects",
+              "Excellent interpersonal and communication skills"
+            ],
+            "level_note": [
+              "Trains strategic communicators to manage organizational reputation and stakeholder relationships.",
+              "Growing demand in Ghana's corporate, government, and non-profit sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Public Relations",
+        "career": [
+          "PR Assistant",
+          "Communications Assistant",
+          "Media Coordinator",
+          "Event Assistant",
+          "Marketing Assistant",
+          "Social Media Coordinator",
+          "Corporate Communications Assistant",
+          "Content Coordinator",
+          "PR Officer",
+          "Stakeholder Relations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 4,420 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Fundamentals of Public Relations",
+              "Media Writing",
+              "Event Management Basics",
+              "Communication Skills",
+              "Corporate Communications",
+              "Social Media Management"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - 35,000 annually",
+              "USA: $35,000 - $55,000",
+              "Europe: €28,000 - €45,000"
+            ],
+            "cutt_off": ["Aggregate 18-24"],
+            "mode": [
+              "Practical PR skills training",
+              "Industry-focused coursework",
+              "Morning and Evening sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects and three elective subjects",
+              "At least three credit passes overall",
+              "Good communication and writing skills"
+            ],
+            "level_note": [
+              "Foundation programme for entry into PR and corporate communications careers.",
+              "Provides pathway to BA Public Relations Management or immediate employment."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Information Technology Management",
+        "career": [
+          "IT Support Specialist",
+          "Help Desk Technician",
+          "Network Technician",
+          "Systems Administrator",
+          "Database Assistant",
+          "IT Coordinator",
+          "Technical Support Officer",
+          "Junior IT Manager",
+          "IT Operations Assistant",
+          "Technology Support Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 4,420 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Computer Systems and Applications",
+              "Network Fundamentals",
+              "Database Basics",
+              "IT Support and Troubleshooting",
+              "Office Productivity Tools",
+              "Web Technologies"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 40,000 annually",
+              "USA: $40,000 - $65,000",
+              "Europe: €30,000 - €50,000"
+            ],
+            "cutt_off": ["Aggregate 18-24"],
+            "mode": [
+              "Hands-on IT labs and practical sessions",
+              "Morning and Evening sessions available",
+              "Technical skills-focused curriculum"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects including Mathematics and English",
+              "Passes in three elective subjects with at least three credit passes",
+              "Interest in computers and technology"
+            ],
+            "level_note": [
+              "Provides foundational IT skills for entry-level technical support and administration roles.",
+              "Pathway to BSc IT Management or immediate employment in tech support."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Corporate Communications",
+        "career": [
+          "Communications Director",
+          "Corporate Affairs Manager",
+          "Chief Communications Officer",
+          "Public Relations Director",
+          "Corporate Strategy Manager",
+          "Brand Manager",
+          "Stakeholder Engagement Director",
+          "Crisis Communications Manager",
+          "Internal Communications Director",
+          "Reputation Management Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Corporate Communications Strategy",
+              "Crisis Communications Management",
+              "Corporate Social Responsibility",
+              "New Media and Corporate Communications",
+              "Reputation Management",
+              "Strategic Stakeholder Engagement"
+            ],
+            "salary": [
+              "Ghana: GHS 90,000 - 200,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €80,000 - €145,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend executive sessions",
+              "Case-based learning with corporate scenarios",
+              "Industry networking and guest speakers"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Communications, business, or related field preferred",
+              "Work experience in communications or management advantageous"
+            ],
+            "level_note": [
+              "Designed for professionals seeking leadership roles in corporate communications and PR.",
+              "Combines business acumen with advanced communications strategy for organizational impact."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Information Systems",
+        "career": [
+          "Information Systems Manager",
+          "Enterprise Architect",
+          "Business Systems Analyst",
+          "IT Strategy Consultant",
+          "Digital Transformation Manager",
+          "Chief Information Officer",
+          "Systems Integration Manager",
+          "IT Governance Manager",
+          "Technology Project Manager",
+          "ERP Implementation Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Business Intelligence and Data Science",
+              "Enterprise Systems Implementation",
+              "IT Entrepreneurship and Innovation",
+              "Digital Transformation Projects",
+              "IT Audit and Governance",
+              "Artificial Intelligence in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 230,000 annually",
+              "USA: $110,000 - $195,000",
+              "Europe: €90,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend classes",
+              "Advanced technical and strategic curriculum",
+              "Hands-on projects with enterprise systems"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "IT, computer science, or business-related background preferred",
+              "Professional IT experience highly beneficial"
+            ],
+            "level_note": [
+              "Prepares IT professionals to lead technology-driven organizational change and innovation.",
+              "Focus on aligning information systems with business strategy for competitive advantage."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Information Security Management",
+        "career": [
+          "Information Security Manager",
+          "Cybersecurity Manager",
+          "Security Architect",
+          "Chief Information Security Officer",
+          "IT Security Consultant",
+          "Risk Management Specialist",
+          "Security Compliance Officer",
+          "Penetration Testing Manager",
+          "Security Operations Manager",
+          "Digital Forensics Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,935 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Cyber Threat Assessment",
+              "Digital Forensics",
+              "IT Security Auditing",
+              "Network Security",
+              "Risk Management and Compliance",
+              "Incident Response and Recovery"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 200,000 annually",
+              "USA: $100,000 - $190,000",
+              "Europe: €80,000 - €155,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend intensive delivery",
+              "Hands-on labs with security tools",
+              "Practical threat simulations and case studies"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "IT, computer science, or cybersecurity background preferred",
+              "Basic understanding of network and system security"
+            ],
+            "level_note": [
+              "One-year intensive programme designed to meet critical cybersecurity workforce demands.",
+              "Equips professionals to protect digital infrastructures and respond to emerging cyber threats."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Brands and Communications Management",
+        "career": [
+          "Brand Manager",
+          "Marketing Communications Manager",
+          "Brand Strategist",
+          "Communications Director",
+          "Digital Brand Manager",
+          "Creative Director",
+          "Marketing Director",
+          "Brand Consultant",
+          "Advertising Manager",
+          "Consumer Insights Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,935 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Brand Strategy and Positioning",
+              "Integrated Marketing Communications",
+              "Consumer Behavior and Insights",
+              "Digital Branding",
+              "Creative Brand Management",
+              "Brand Equity Measurement"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - 180,000 annually",
+              "USA: $85,000 - $160,000",
+              "Europe: €70,000 - €135,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One-year intensive programme",
+              "Evening and Weekend flexibility",
+              "Practical brand campaigns and case studies"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Communications, marketing, or business background preferred",
+              "Work experience in marketing or branding advantageous"
+            ],
+            "level_note": [
+              "Develops strategic brand managers who can build and sustain powerful brands in competitive markets.",
+              "Blend of creative and analytical skills for effective brand communication."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Media & Digital Communication Management",
+        "career": [
+          "Media Manager",
+          "Digital Communications Manager",
+          "Content Strategy Manager",
+          "Social Media Director",
+          "Digital Marketing Manager",
+          "New Media Consultant",
+          "Media Entrepreneur",
+          "Digital Content Producer",
+          "Communications Director",
+          "Media Relations Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,935 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Digital Communication Strategy",
+              "Media Management",
+              "Writing for the Web",
+              "Digital Psychology",
+              "New Media and Corporate Communication",
+              "Digital Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 170,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €65,000 - €125,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One-year intensive programme",
+              "Practical digital media projects",
+              "Evening and Weekend sessions"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Communications, media, or related background preferred",
+              "Digital literacy and interest in new media essential"
+            ],
+            "level_note": [
+              "Prepares professionals to manage communication in the digital age across media platforms.",
+              "Focus on emerging technologies and their impact on media and communication industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Digital and Strategic Marketing Management",
+        "career": [
+          "Digital Marketing Manager",
+          "Marketing Strategist",
+          "SEO/SEM Manager",
+          "E-commerce Manager",
+          "Digital Marketing Consultant",
+          "Marketing Analytics Manager",
+          "Content Marketing Manager",
+          "Growth Hacking Specialist",
+          "Social Media Marketing Manager",
+          "Chief Marketing Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,935 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Digital Marketing Strategy",
+              "SEO and SEM",
+              "Social Media Marketing",
+              "Marketing Analytics",
+              "E-commerce and Online Business",
+              "Content Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 190,000 annually",
+              "USA: $90,000 - $170,000",
+              "Europe: €75,000 - €145,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One-year intensive programme",
+              "Practical digital campaigns and analytics",
+              "Evening and Weekend classes"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Marketing, communications, or business background preferred",
+              "Interest in digital technologies and online marketing"
+            ],
+            "level_note": [
+              "Combines traditional marketing strategy with cutting-edge digital tactics for modern marketers.",
+              "High demand in tech, retail, finance, and e-commerce sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Information Systems",
+        "career": [
+          "Information Systems Researcher",
+          "IT Lecturer",
+          "Technology Policy Analyst",
+          "Systems Research Consultant",
+          "Academic Researcher",
+          "IT Strategy Advisor",
+          "Technology Consultant",
+          "Research Fellow",
+          "PhD Candidate",
+          "University Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Information Systems Theory",
+              "Research Methods in IT",
+              "Data Analytics Research",
+              "Systems Development Research",
+              "Digital Innovation Studies",
+              "Thesis Development"
+            ],
+            "salary": [
+              "Ghana: GHS 90,000 - 190,000 annually",
+              "USA: $85,000 - $155,000",
+              "Europe: €75,000 - €135,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Supervised thesis writing",
+              "Academic seminars and workshops"
+            ],
+            "entry_requirements": [
+              "Master's degree in Information Systems or related field with at least Second Class Lower",
+              "Strong research interest and analytical skills",
+              "Research proposal submission required"
+            ],
+            "level_note": [
+              "Research programme for those pursuing academic or high-level consulting careers in IT.",
+              "Pathway to PhD and contributions to knowledge in information systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Media & Digital Communication Management",
+        "career": [
+          "Media Researcher",
+          "Communications Lecturer",
+          "Media Policy Analyst",
+          "Digital Media Consultant",
+          "Research Fellow",
+          "Media Strategist",
+          "Academic Researcher",
+          "PhD Candidate",
+          "Media Industry Analyst",
+          "University Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": ["Ghanaian Students: GHC 26,500 (Total for 2 years)"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Media Theory",
+              "Communication Research Methods",
+              "Digital Media Studies",
+              "Media Management Research",
+              "New Media and Society",
+              "Thesis Development"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 180,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-focused programme",
+              "Supervised thesis and academic seminars",
+              "Publication and conference presentations"
+            ],
+            "entry_requirements": [
+              "Master's degree in Media, Communications, or related field",
+              "Strong academic record and research capability",
+              "Research proposal submission required"
+            ],
+            "level_note": [
+              "For scholars and practitioners seeking to contribute to media and communications research.",
+              "Prepares graduates for academic positions and doctoral studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Information Systems",
+        "career": [
+          "University Professor",
+          "Chief Technology Officer",
+          "Senior Research Scientist",
+          "IT Policy Director",
+          "Innovation Strategist",
+          "Academic Dean",
+          "Technology Thought Leader",
+          "International Consultant",
+          "Research Institute Director",
+          "University Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Ghanaian Students: GHC 35,000 - 45,000 (Total for 3-4 years)"
+            ],
+            "duration": "3-4 years",
+            "electives": [
+              "Advanced Research Design",
+              "Contemporary Issues in Information Systems",
+              "IT Theory Development",
+              "Doctoral Seminars",
+              "Advanced Data Analytics",
+              "Doctoral Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 120,000 - 300,000 annually",
+              "USA: $110,000 - $220,000",
+              "Europe: €95,000 - €180,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Independent doctoral research",
+              "Thesis supervision and academic mentorship",
+              "Conference presentations and journal publications"
+            ],
+            "entry_requirements": [
+              "MPhil or Research Master's degree in Information Systems or related field",
+              "Comprehensive research proposal and interview",
+              "Demonstrated research capability and academic excellence"
+            ],
+            "level_note": [
+              "Terminal degree for IT scholars and thought leaders driving innovation in technology.",
+              "Produces original research that impacts IT practice, policy, and education globally."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Professional Studies, Accra",
+    "faculty_name": "UPSA LAW SCHOOL",
+    "note": [
+      "The UPSA Law School is a premier institution for legal education in Ghana, offering rigorous programmes that prepare students for admission to the Ghana School of Law.",
+      "Programmes combine academic excellence with practical legal training, focusing on emerging areas of law relevant to Ghana and global commerce."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Laws (LLB) - 4 Year",
+        "career": [
+          "Lawyer",
+          "Barrister",
+          "Solicitor",
+          "Corporate Counsel",
+          "Legal Advisor",
+          "Prosecutor",
+          "Legal Officer",
+          "Magistrate",
+          "Legal Consultant",
+          "Compliance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 6,183 per year",
+              "Full-Fee Paying: GHC 12,364 per year"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Corporate Law",
+              "Criminal Law",
+              "Constitutional Law",
+              "International Law",
+              "Commercial Law",
+              "Land Law"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 120,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": ["Aggregate 7-12"],
+            "mode": [
+              "Full-time day programme",
+              "Rigorous academic curriculum with moot courts",
+              "Practical legal training and internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects including English, Mathematics, and Integrated Science/Social Studies",
+              "Credit passes in three elective subjects",
+              "SSSCE/GBCE: Credit passes (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Rigorous programme preparing students for professional training at Ghana School of Law.",
+              "Combines academic law with practical skills in legal drafting, research, and advocacy."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Laws (LLB) - 3 Year Post First Degree",
+        "career": [
+          "Lawyer",
+          "Barrister",
+          "Solicitor",
+          "In-House Counsel",
+          "Legal Advisor",
+          "Corporate Attorney",
+          "Legal Consultant",
+          "Compliance Manager",
+          "Legal Officer",
+          "Judge"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 11,737 per year"],
+            "duration": "3 years",
+            "electives": [
+              "Corporate and Commercial Law",
+              "International Business Law",
+              "Human Rights Law",
+              "Environmental Law",
+              "Taxation Law",
+              "Intellectual Property Law"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 150,000 annually",
+              "USA: $80,000 - $160,000",
+              "Europe: €60,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Saturday classes",
+              "Designed for working professionals",
+              "Accelerated LLB for first degree holders"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in any discipline with at least Second Class Lower",
+              "WASSCE/SSSCE with credit passes in three core subjects and three elective subjects",
+              "Must pass entrance examination and selection interview (GHC 1,000 examination fee)"
+            ],
+            "level_note": [
+              "Accelerated LLB programme for graduates from other disciplines who wish to become lawyers.",
+              "Evening and weekend delivery allows professionals to study while working."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "LLM Competition and Consumer Protection Law",
+        "career": [
+          "Competition Lawyer",
+          "Consumer Protection Lawyer",
+          "Corporate Counsel",
+          "Regulatory Affairs Manager",
+          "Legal Advisor (Competition Authority)",
+          "Compliance Officer",
+          "Policy Analyst",
+          "Legal Consultant (Antitrust)",
+          "Government Lawyer",
+          "International Trade Lawyer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 22,468 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Competition Law and Policy",
+              "Consumer Protection Legislation",
+              "Antitrust Law",
+              "Market Regulation",
+              "Unfair Trade Practices",
+              "Remedies in Consumer and Competition Law"
+            ],
+            "salary": [
+              "Ghana: GHS 90,000 - 220,000 annually",
+              "USA: $110,000 - $190,000",
+              "Europe: €85,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend sessions",
+              "Case-based learning with regulatory scenarios",
+              "Expert lectures from competition authorities"
+            ],
+            "entry_requirements": [
+              "LLB degree or equivalent law degree with at least Second Class Lower",
+              "Third Class LLB holders with 5 years work experience may apply (subject to interview)",
+              "Legal practice experience advantageous"
+            ],
+            "level_note": [
+              "Specialized programme addressing the growing importance of competition and consumer protection in Ghana and Africa.",
+              "Prepares lawyers for roles in regulatory bodies, corporate compliance, and legal practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "LLM International Business and Commercial Law",
+        "career": [
+          "International Business Lawyer",
+          "Corporate Counsel",
+          "Commercial Lawyer",
+          "Legal Advisor (Multinational Corporations)",
+          "Trade Finance Lawyer",
+          "Contract Negotiator",
+          "Mergers and Acquisitions Lawyer",
+          "Legal Consultant (International Trade)",
+          "In-House Counsel",
+          "Investment Lawyer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 22,468 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "International Commercial Transactions",
+              "Corporate and Commercial Law",
+              "International Trade Law",
+              "Mergers and Acquisitions",
+              "International Financial Transactions",
+              "Contract Drafting and Negotiation"
+            ],
+            "salary": [
+              "Ghana: GHS 95,000 - 240,000 annually",
+              "USA: $120,000 - $210,000",
+              "Europe: €90,000 - €170,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend sessions",
+              "Practical training in contract drafting",
+              "Focus on global commercial frameworks"
+            ],
+            "entry_requirements": [
+              "LLB degree or equivalent law degree with at least Second Class Lower",
+              "Third Class LLB holders with 5 years work experience may apply (subject to interview)",
+              "International business experience advantageous"
+            ],
+            "level_note": [
+              "Equips lawyers with expertise in the legal frameworks governing international business and commerce.",
+              "High demand in multinational corporations, banks, law firms, and international organizations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "LLM Natural Resources and Climate Change Law",
+        "career": [
+          "Environmental Lawyer",
+          "Natural Resources Lawyer",
+          "Climate Change Policy Advisor",
+          "Energy Lawyer",
+          "Legal Advisor (Oil & Gas)",
+          "Mining Law Specialist",
+          "Environmental Compliance Officer",
+          "Sustainability Consultant",
+          "Government Regulator",
+          "International Environmental Lawyer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 22,468 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Environmental Law and Policy",
+              "Oil and Gas Law",
+              "Mining Law and Regulation",
+              "Climate Change Law",
+              "Renewable Energy Law",
+              "International Environmental Law"
+            ],
+            "salary": [
+              "Ghana: GHS 90,000 - 230,000 annually",
+              "USA: $115,000 - $200,000",
+              "Europe: €90,000 - €165,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and Weekend sessions",
+              "Interdisciplinary approach with policy and science",
+              "Field visits to natural resource sites"
+            ],
+            "entry_requirements": [
+              "LLB degree or equivalent law degree with at least Second Class Lower",
+              "Third Class LLB holders with 5 years work experience may apply (subject to interview)",
+              "Interest in environmental and resource management law"
+            ],
+            "level_note": [
+              "Unique programme addressing Ghana's extractive industries and climate change challenges.",
+              "Critical for lawyers in the energy, mining, environmental compliance, and policy sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Law",
+        "career": [
+          "University Professor of Law",
+          "Legal Scholar",
+          "Senior Legal Advisor",
+          "Law Reform Commissioner",
+          "International Law Consultant",
+          "Senior Judge",
+          "Policy Director",
+          "Research Institute Director",
+          "Legal Author",
+          "Think Tank Director"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Ghanaian Students: GHC 23,268 (Total per year for 3-4 years)"
+            ],
+            "duration": "3-4 years",
+            "electives": [
+              "Advanced Legal Research Methods",
+              "Jurisprudence and Legal Theory",
+              "Contemporary Legal Issues",
+              "Doctoral Seminars in Law",
+              "Comparative Legal Systems",
+              "Doctoral Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 120,000 - 300,000 annually",
+              "USA: $100,000 - $200,000",
+              "Europe: €85,000 - €170,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Independent doctoral research",
+              "Supervised thesis development",
+              "Academic conferences and publications"
+            ],
+            "entry_requirements": [
+              "LLM or Research Master's degree in Law with strong academic record",
+              "Comprehensive research proposal required",
+              "Demonstrated research capability and academic writing"
+            ],
+            "level_note": [
+              "Terminal degree for legal scholars and thought leaders in law.",
+              "Produces original legal research contributing to jurisprudence, law reform, and policy in Ghana and Africa."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Professional Studies, Accra",
+    "faculty_name": "INSTITUTE OF PROFESSIONAL STUDIES",
+    "note": [
+      "The Institute of Professional Studies (IPS) offers tuition for globally recognized professional qualifications in accounting, finance, management, and related fields.",
+      "IPS provides excellent resources and support for students pursuing professional certifications alongside or after their undergraduate degrees."
+    ],
+    "courses": [
+      {
+        "course_name": "Institute of Chartered Accountants, Ghana (ICAG)",
+        "career": [
+          "Chartered Accountant",
+          "External Auditor",
+          "Tax Consultant",
+          "Financial Controller",
+          "Chief Financial Officer",
+          "Audit Manager",
+          "Management Accountant",
+          "Finance Director",
+          "Internal Auditor",
+          "Accounting Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Level 1: GHC 618 (Exemption Fee)",
+              "Level 2: GHC 990 (Exemption Fee)",
+              "Level 3: GHC 1,200 (Exemption Fee)",
+              "Examination Fees: GHC 444 - GHC 3,636 depending on level and number of papers"
+            ],
+            "duration": "3-4 years",
+            "electives": [
+              "Financial Accounting",
+              "Auditing and Assurance",
+              "Taxation",
+              "Management Accounting",
+              "Financial Management",
+              "Public Sector Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 150,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €55,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Part-time tuition with professional exams",
+              "Weekend and evening classes",
+              "Self-study with tutorial support"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent with credits in English and Mathematics",
+              "Undergraduate degree holders may receive exemptions",
+              "Registration with ICAG Ghana required"
+            ],
+            "level_note": [
+              "Ghana's premier accounting qualification, essential for practicing as a Chartered Accountant in Ghana.",
+              "ICAG members are recognized and can practice in public accounting, auditing, and taxation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Association of Certified Chartered Accountants (ACCA)",
+        "career": [
+          "Chartered Certified Accountant",
+          "Financial Analyst",
+          "Auditor",
+          "Tax Manager",
+          "Finance Manager",
+          "Chief Financial Officer",
+          "Management Accountant",
+          "Financial Controller",
+          "Investment Analyst",
+          "Corporate Treasurer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Tuition fees vary by level and institution",
+              "ACCA exam fees (per paper): approximately GBP 80 - GBP 200",
+              "Full ACCA qualification cost: approximately GBP 2,000 - GBP 4,000"
+            ],
+            "duration": "2-4 years",
+            "electives": [
+              "Financial Reporting",
+              "Audit and Assurance",
+              "Taxation",
+              "Performance Management",
+              "Advanced Financial Management",
+              "Strategic Business Leader"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 160,000 annually",
+              "USA: $70,000 - $150,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Self-study with optional tuition",
+              "Online and classroom learning",
+              "Exams held quarterly worldwide"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent for entry via Foundation level",
+              "Degree holders may receive exemptions from early papers",
+              "Registration with ACCA UK required"
+            ],
+            "level_note": [
+              "Globally recognized accounting qualification accepted in over 180 countries.",
+              "ACCA members enjoy high mobility and career opportunities across the world."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Chartered Institute of Management Accountant (CIMA)",
+        "career": [
+          "Management Accountant",
+          "Financial Analyst",
+          "Cost Accountant",
+          "Finance Manager",
+          "Business Analyst",
+          "Financial Controller",
+          "Chief Financial Officer",
+          "Budget Manager",
+          "Performance Manager",
+          "Strategic Financial Planner"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Tuition fees vary by institution",
+              "CIMA exam fees (per paper): approximately GBP 90 - GBP 200",
+              "Full CIMA qualification cost: approximately GBP 3,000 - GBP 5,000"
+            ],
+            "duration": "2-4 years",
+            "electives": [
+              "Management Accounting",
+              "Financial Strategy",
+              "Performance Management",
+              "Business Strategy",
+              "Financial Management",
+              "Risk Management"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 150,000 annually",
+              "USA: $75,000 - $145,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Self-study with optional tuition",
+              "Blended learning (online and classroom)",
+              "Exams held multiple times per year"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent with credits in English and Mathematics",
+              "Degree holders may receive exemptions",
+              "CIMA registration required"
+            ],
+            "level_note": [
+              "Focuses on management accounting and strategic financial management within organizations.",
+              "Ideal for those seeking finance careers in corporate, not public practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Chartered Institute of Bankers (CIB), Ghana",
+        "career": [
+          "Bank Manager",
+          "Credit Manager",
+          "Risk Manager",
+          "Investment Manager",
+          "Treasury Officer",
+          "Branch Manager",
+          "Relationship Manager",
+          "Compliance Officer",
+          "Operations Manager",
+          "Financial Services Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Tuition and examination fees vary by level",
+              "Approximate total cost: GHC 3,000 - GHC 8,000 depending on level"
+            ],
+            "duration": "2-3 years",
+            "electives": [
+              "Banking Operations",
+              "Credit Management",
+              "Risk Management",
+              "Banking Law and Practice",
+              "Treasury Management",
+              "Islamic Banking"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 120,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €50,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Part-time evening and weekend classes",
+              "Distance learning options",
+              "Professional exams at multiple levels"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent with credits in English and Mathematics",
+              "Employment in the banking sector preferred",
+              "CIB Ghana registration"
+            ],
+            "level_note": [
+              "Essential qualification for banking professionals in Ghana seeking career advancement.",
+              "CIB certification is highly valued by banks and financial institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Chartered Institute of Marketing (CIM), UK",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Marketing Consultant",
+          "Digital Marketing Manager",
+          "Market Research Analyst",
+          "Product Manager",
+          "Communications Manager",
+          "Advertising Manager",
+          "Sales Manager",
+          "Chief Marketing Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Tuition fees vary by institution",
+              "CIM exam fees: approximately GBP 200 - GBP 400 per module",
+              "Full qualification cost: approximately GBP 2,500 - GBP 4,500"
+            ],
+            "duration": "1-3 years",
+            "electives": [
+              "Marketing Principles",
+              "Digital Marketing",
+              "Brand Management",
+              "Marketing Communications",
+              "Customer Insights",
+              "Strategic Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 100,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Self-study with tuition support",
+              "Online and classroom delivery",
+              "Flexible exam schedules"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent",
+              "No prior marketing experience required for entry levels",
+              "CIM UK registration"
+            ],
+            "level_note": [
+              "Globally recognized marketing qualification from the UK's leading professional body.",
+              "Suitable for marketing professionals seeking to enhance their strategic marketing skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Institute of Chartered Secretaries and Administrators (ICSA), UK",
+        "career": [
+          "Company Secretary",
+          "Corporate Governance Officer",
+          "Compliance Manager",
+          "Board Secretary",
+          "Legal Administrator",
+          "Regulatory Affairs Manager",
+          "Corporate Affairs Manager",
+          "Governance Consultant",
+          "Risk Manager",
+          "Corporate Counsel"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Tuition fees vary by institution",
+              "ICSA exam fees: approximately GBP 150 - GBP 350 per module",
+              "Full qualification cost: approximately GBP 3,000 - GBP 5,500"
+            ],
+            "duration": "2-4 years",
+            "electives": [
+              "Corporate Governance",
+              "Company Law",
+              "Compliance and Regulation",
+              "Board Practice and Procedure",
+              "Financial Reporting",
+              "Strategic Management"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 140,000 annually",
+              "USA: $70,000 - $150,000",
+              "Europe: €60,000 - €125,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Distance learning and part-time tuition",
+              "Flexible study schedules",
+              "Professional exams"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent",
+              "Degree holders may receive exemptions",
+              "ICSA UK registration"
+            ],
+            "level_note": [
+              "Premier qualification for company secretaries and governance professionals.",
+              "Essential for those managing corporate governance, compliance, and board administration."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "The Chartered Institute of Logistics & Transport (CILT) - Ghana",
+        "career": [
+          "Logistics Manager",
+          "Supply Chain Manager",
+          "Transport Manager",
+          "Warehouse Manager",
+          "Distribution Manager",
+          "Procurement Manager",
+          "Operations Manager",
+          "Freight Manager",
+          "Supply Chain Consultant",
+          "Logistics Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Tuition fees vary by level",
+              "Approximate total cost: GHC 2,500 - GHC 10,000 depending on level"
+            ],
+            "duration": "1-3 years",
+            "electives": [
+              "Logistics and Transport Operations",
+              "Supply Chain Management",
+              "Warehouse Management",
+              "Fleet Management",
+              "International Logistics",
+              "Strategic Network Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 110,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €55,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Classroom training at UPSA (accredited learning centre)",
+              "Weekend and evening sessions",
+              "Progressive levels from 1 to 6"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent for entry levels",
+              "Higher levels require prior CILT qualifications or relevant degree",
+              "Work experience in logistics preferred for advanced levels"
+            ],
+            "level_note": [
+              "Globally recognized qualification for logistics and transport professionals.",
+              "Levels range from foundational to strategic professional diplomas."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Chartered Institute of Procurement & Supply (CIPS)",
+        "career": [
+          "Procurement Manager",
+          "Purchasing Manager",
+          "Supply Chain Manager",
+          "Sourcing Manager",
+          "Contract Manager",
+          "Supplier Relationship Manager",
+          "Procurement Director",
+          "Category Manager",
+          "Strategic Sourcing Manager",
+          "Chief Procurement Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Tuition fees vary by level",
+              "CIPS exam fees vary by module",
+              "Approximate total cost: GHC 3,000 - GHC 12,000 depending on level"
+            ],
+            "duration": "1-4 years",
+            "electives": [
+              "Procurement and Supply Environments",
+              "Ethical Procurement",
+              "Contract Administration",
+              "Commercial Negotiation",
+              "Strategic Supply Chain Management",
+              "Global Commercial Strategy"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 130,000 annually",
+              "USA: $70,000 - $150,000",
+              "Europe: €60,000 - €125,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Blended learning with classroom and online delivery",
+              "Progressive levels from Certificate to Professional Diploma (Levels 2-7)",
+              "Flexible study schedules"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent for entry levels",
+              "Higher levels require prior CIPS qualifications or relevant experience",
+              "CIPS registration required"
+            ],
+            "level_note": [
+              "Globally recognized procurement qualification essential for purchasing and supply chain professionals.",
+              "UPSA MSc Procurement Management is CIPS-accredited, offering pathway to MCIPS membership."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "ADDITIONAL CROSS-CUTTING PROGRAMS",
+    "note": [
+      "These interdisciplinary programmes are designed to address complex global challenges in security, leadership, and policy.",
+      "Hosted under the School of Graduate Studies, they draw faculty and expertise from across the university and industry."
+    ],
+    "courses": [
+      {
+        "course_name": "PhD International Security and Intelligence",
+        "career": [
+          "Intelligence Director",
+          "National Security Advisor",
+          "Counter-Terrorism Analyst",
+          "Defense Policy Consultant",
+          "International Security Specialist",
+          "University Professor",
+          "Diplomatic Security Officer",
+          "Think Tank Research Director",
+          "Border Security Manager",
+          "Political Risk Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": ["Ghanaian Students: GHC 23,268 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Intelligence Analysis",
+              "Global Security Architecture",
+              "Terrorism and Counter-Terrorism",
+              "Cyber Warfare and Security",
+              "Geopolitics and Strategy",
+              "Intelligence Ethics and Law"
+            ],
+            "salary": [
+              "Ghana: GHS 110,000 - 280,000 annually",
+              "USA: $100,000 - $210,000",
+              "Europe: €85,000 - €175,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive with coursework components",
+              "Seminars and high-level policy workshops",
+              "Supervision by security and intelligence experts"
+            ],
+            "entry_requirements": [
+              "Master's degree by research in a related discipline with minimum 3.0 CGPA",
+              "Master's by coursework plus professional qualification may be considered",
+              "Must pass a rigorous selection interview"
+            ],
+            "level_note": [
+              "Premier doctoral programme for senior security professionals and academics.",
+              "Focuses on strategic responses to emerging global and regional security threats."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Interdisciplinary Studies",
+        "career": [
+          "Senior Policy Researcher",
+          "University Professor",
+          "Interdisciplinary Consultant",
+          "Development Program Director",
+          "Social Change Strategist",
+          "Research Institute Director",
+          "Educational Leadership Consultant",
+          "Sustainability Director",
+          "NGO Country Director",
+          "Public Sector Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": ["Ghanaian Students: GHC 23,268 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Education Studies",
+              "Ethical and Creative Leadership",
+              "Public Policy and Social Change",
+              "Advanced Research Methodologies",
+              "Transdisciplinary Theory",
+              "Social Innovation Seminars"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 260,000 annually",
+              "USA: $90,000 - $190,000",
+              "Europe: €80,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Interdisciplinary research focus",
+              "Collaborative seminars across faculties",
+              "Flexible research concentrations"
+            ],
+            "entry_requirements": [
+              "Master's degree by research in any discipline with minimum 3.0 CGPA",
+              "Strong research proposal demonstrating interdisciplinary scope",
+              "Selection interview required"
+            ],
+            "level_note": [
+              "Unique doctoral programme allowing research across traditional academic boundaries.",
+              "Ideal for tackling complex societal problems requiring multifaceted solutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Public Policy and Leadership",
+        "career": [
+          "Public Policy Director",
+          "Government Advisor",
+          "Leadership Consultant",
+          "Think Tank Executive",
+          "University Professor",
+          "Policy Analyst",
+          "International Development Consultant",
+          "Public Administration Executive",
+          "Governance Specialist",
+          "Political Strategist"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": ["Ghanaian Students: GHC 23,268 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Public Policy Analysis",
+              "Leadership Theory and Practice",
+              "Governance and Institutions",
+              "Policy Implementation and Evaluation",
+              "Strategic Public Management",
+              "Political Economy of Development"
+            ],
+            "salary": [
+              "Ghana: GHS 115,000 - 290,000 annually",
+              "USA: $105,000 - $220,000",
+              "Europe: €90,000 - €180,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Rigorous research and policy analysis",
+              "Doctoral colloquia and leadership retreats",
+              "Engagement with public sector leaders"
+            ],
+            "entry_requirements": [
+              "Master's degree by research in policy, leadership, or related field (3.0 CGPA)",
+              "Master's by coursework with significant experience may be considered",
+              "Comprehensive research proposal and interview"
+            ],
+            "level_note": [
+              "Develops scholar-practitioners capable of leading public institutions and shaping policy.",
+              "Emphasizes ethical leadership and evidence-based policy making."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Peace, Security and Intelligence Management",
+        "career": [
+          "Security Manager",
+          "Intelligence Analyst",
+          "Peacekeeping Operations Officer",
+          "Conflict Resolution Specialist",
+          "Border Control Officer",
+          "Diplomat",
+          "NGO Program Manager",
+          "Risk Assessment Manager",
+          "Compliance Officer",
+          "Military Officer (Advanced)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,935 (Total for 1 year)"],
+            "duration": "1 year",
+            "electives": [
+              "Theories and Concepts of Peace and Security",
+              "Strategic Intelligence Analysis",
+              "International Relations",
+              "Crime and Intelligence Analysis",
+              "Security Law",
+              "Terrorism and Global Security"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 160,000 annually",
+              "USA: $85,000 - $170,000",
+              "Europe: €70,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "One-year intensive programme",
+              "Available in Evening, Weekend, and Sandwich sessions",
+              "Practical simulation exercises"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree with at least Second Class Lower",
+              "Security or uniformed service background is an added advantage",
+              "Pass in selection interview often required"
+            ],
+            "level_note": [
+              "Designed for security professionals and those seeking to enter the intelligence field.",
+              "Provides specialized skills to identify and respond to emerging security challenges."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
