@@ -1,0 +1,474 @@
+[
+  {
+    "name": "University College of Management Studies"
+  },
+  {
+    "faculty_name": "FACULTY OF BUSINESS ADMINISTRATION / SCHOOL OF BUSINESS",
+    "note": [
+      "UCOMS is a well-established private university college affiliated with the University of Education, Winneba and KNUST, with a strong focus on professional business education.",
+      "The programmes integrate professional qualifications (ACCA, CIM, CIPS) to enhance graduate employability and career readiness."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Accounting",
+        "career": [
+          "Chartered Accountant",
+          "Financial Accountant",
+          "Tax Consultant",
+          "Auditor",
+          "Financial Controller",
+          "Management Accountant",
+          "Finance Manager",
+          "Internal Auditor",
+          "Budget Analyst",
+          "Chief Financial Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost Accounting",
+              "Auditing and Assurance",
+              "Taxation",
+              "Management Accounting",
+              "Financial Reporting and Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": ["Aggregate 24 or better"],
+            "mode": [
+              "Full-time day programme",
+              "Rigorous academic and professional training",
+              "Preparation for professional exams (ACCA, ICAG)"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in three core subjects including English, Mathematics, and Integrated Science",
+              "Credits in three elective subjects relevant to the programme",
+              "SSSCE: Credits (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Strong focus on professional accounting qualifications with ACCA exemptions.",
+              "Graduates are well-prepared for careers in public accounting, auditing, and corporate finance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Banking and Finance",
+        "career": [
+          "Bank Manager",
+          "Investment Banker",
+          "Financial Analyst",
+          "Credit Officer",
+          "Risk Manager",
+          "Treasury Officer",
+          "Loan Officer",
+          "Portfolio Manager",
+          "Corporate Finance Analyst",
+          "Financial Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Economics in Banking",
+              "Business Finance",
+              "Practice of Banking",
+              "Investments",
+              "Law Relating to Banking",
+              "Finance of International Trade"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": ["Aggregate 24 or better"],
+            "mode": [
+              "Industry-aligned curriculum",
+              "Practical banking simulations",
+              "Internships with financial institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in three core subjects and three elective subjects",
+              "Strong quantitative skills preferred",
+              "SSSCE: Credits (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Prepares students for dynamic careers in the banking and financial services sector.",
+              "Graduates are positioned for Chartered Institute of Bankers (CIB) professional qualifications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Marketing Officer",
+          "Sales Manager",
+          "Market Research Analyst",
+          "Digital Marketing Manager",
+          "Advertising Manager",
+          "Product Manager",
+          "Public Relations Officer",
+          "Marketing Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Marketing Management",
+              "Sales Management",
+              "Marketing of Services",
+              "New Product Development",
+              "Marketing Environment",
+              "Retail Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 55,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": ["Aggregate 24 or better"],
+            "mode": [
+              "Practical marketing campaigns and case studies",
+              "Industry guest lectures",
+              "Internships with marketing agencies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in three core subjects and three elective subjects",
+              "Good communication and interpersonal skills",
+              "SSSCE: Credits (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Integrates Chartered Institute of Marketing (CIM) content for professional certification.",
+              "Graduates are equipped with modern marketing skills for competitive markets."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Human Resource Management",
+        "career": [
+          "Human Resource Manager",
+          "HR Officer",
+          "Recruitment Manager",
+          "Training and Development Manager",
+          "Compensation and Benefits Manager",
+          "Employee Relations Manager",
+          "Talent Manager",
+          "HR Consultant",
+          "Organizational Development Specialist",
+          "Performance Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Human Resource Management",
+              "Organizational Behavior",
+              "Training and Development",
+              "Employment Law",
+              "Compensation Management",
+              "Performance Management"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $55,000 - $105,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": ["Aggregate 24 or better"],
+            "mode": [
+              "Practical HR simulations and case studies",
+              "Industry attachments",
+              "Full-time day programme"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in three core subjects and three elective subjects",
+              "Good interpersonal and communication skills",
+              "SSSCE: Credits (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Develops HR professionals capable of managing human capital in organizations.",
+              "Strong focus on contemporary HR practices and employee relations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Procurement and Supply Chain Management",
+        "career": [
+          "Procurement Manager",
+          "Supply Chain Manager",
+          "Purchasing Officer",
+          "Sourcing Manager",
+          "Contract Manager",
+          "Logistics Manager",
+          "Supplier Relationship Manager",
+          "Inventory Manager",
+          "Procurement Consultant",
+          "Operations Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Procurement and Supply Management",
+              "Contract Management",
+              "Logistics and Transportation",
+              "Strategic Sourcing",
+              "Supplier Relationship Management",
+              "Inventory Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 75,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": ["Aggregate 24 or better"],
+            "mode": [
+              "Industry-focused practical training",
+              "Site visits to procurement and logistics facilities",
+              "Full-time day programme"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in three core subjects and three elective subjects",
+              "SSSCE: Credits (A-D) in three core subjects and three elective subjects",
+              "Interest in supply chain and operations management"
+            ],
+            "level_note": [
+              "Integrates Chartered Institute of Procurement and Supply (CIPS) curriculum.",
+              "Graduates are equipped for careers in procurement, supply chain, and logistics sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Hospitality and Tourism Management",
+        "career": [
+          "Hotel Manager",
+          "Tourism Manager",
+          "Event Manager",
+          "Front Office Manager",
+          "Restaurant Manager",
+          "Travel Consultant",
+          "Guest Relations Manager",
+          "Hospitality Consultant",
+          "Tour Operator",
+          "Resort Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Hotel and Accommodation Management",
+              "Food and Beverage Management",
+              "Tourism Planning and Development",
+              "Event Management",
+              "Customer Service Management",
+              "Tourism Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 60,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": ["Aggregate 24 or better"],
+            "mode": [
+              "Practical training in hospitality facilities",
+              "Internships with hotels and tourism organizations",
+              "Full-time day programme"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in three core subjects and three elective subjects",
+              "SSSCE: Credits (A-D) in three core subjects and three elective subjects",
+              "Good interpersonal and customer service skills"
+            ],
+            "level_note": [
+              "Prepares graduates for the growing hospitality and tourism industry in Ghana and globally.",
+              "Focus on customer service excellence and operational management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Computerized Accounting",
+        "career": [
+          "Accounts Clerk",
+          "Bookkeeper",
+          "Accounting Technician",
+          "Payroll Officer",
+          "Accounts Assistant",
+          "Data Entry Clerk",
+          "Financial Records Officer",
+          "Audit Assistant",
+          "Tax Assistant",
+          "Cashier"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,200 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Principles of Accounting",
+              "Computerized Accounting Software",
+              "Cost Accounting",
+              "Principles of Taxation",
+              "Introduction to Computing",
+              "Database Management Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 40,000 annually",
+              "USA: $35,000 - $55,000",
+              "Europe: €28,000 - €45,000"
+            ],
+            "cutt_off": ["Aggregate 24 or better"],
+            "mode": [
+              "Hands-on training with accounting software (Tally, QuickBooks)",
+              "Practical skills-based learning",
+              "Full-time or part-time options"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects and three elective subjects",
+              "At least three credit passes (A1-C6) overall",
+              "SSSCE: Passes (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Practical diploma providing immediate employability in accounting support roles.",
+              "Pathway to BSc Accounting or professional accounting qualifications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Business Administration",
+        "career": [
+          "Administrative Assistant",
+          "Office Manager",
+          "Business Coordinator",
+          "Operations Assistant",
+          "Executive Assistant",
+          "Receptionist",
+          "Customer Service Officer",
+          "Records Manager",
+          "Business Support Officer",
+          "Administrative Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,200 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Principles of Management",
+              "Business Communication",
+              "Office Administration",
+              "Human Resource Management Basics",
+              "Marketing Principles",
+              "Financial Management Fundamentals"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - 38,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["Aggregate 24 or better"],
+            "mode": [
+              "Practical business skills training",
+              "Full-time or part-time options",
+              "Industry-focused coursework"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects and three elective subjects",
+              "At least three credit passes (A1-C6) overall",
+              "SSSCE: Passes (A-D) in three core subjects and three elective subjects"
+            ],
+            "level_note": [
+              "Foundational diploma for entry into business administration and management roles.",
+              "Provides pathway to BSc Business Administration or immediate employment."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University College of Management Studies",
+    "faculty_name": "FACULTY OF MATHEMATICAL SCIENCES / ACTUARIAL SCIENCE",
+    "note": [
+      "The Actuarial Science programme is designed to produce highly skilled professionals capable of managing financial risks.",
+      "Students are prepared for professional actuarial examinations and careers in insurance, pensions, and risk management."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Actuarial Science",
+        "career": [
+          "Actuary",
+          "Risk Analyst",
+          "Insurance Underwriter",
+          "Pension Fund Analyst",
+          "Data Analyst",
+          "Investment Strategist",
+          "Quantitative Analyst",
+          "Catastrophe Risk Analyst",
+          "Product Development Manager (Insurance)",
+          "Reinsurance Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Life Contingencies",
+              "Financial Mathematics",
+              "Loss Models",
+              "Risk Theory",
+              "Pension Mathematics",
+              "Survival Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually",
+              "USA: $90,000 - $160,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": ["Aggregate 18 or better"],
+            "mode": [
+              "Highly quantitative and analytical curriculum",
+              "Preparation for professional actuarial exams (SOA, IFoA)",
+              "Computer-based modeling and statistical analysis"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in three core subjects including English, Mathematics, and Integrated Science",
+              "Mandatory Credit Pass in Elective Mathematics",
+              "SSSCE: Credits (A-D) in three core subjects and three elective subjects with Elective Mathematics"
+            ],
+            "level_note": [
+              "One of the most mathematically rigorous programmes, essential for insurance and risk industries.",
+              "Graduates are positioned to pursue professional actuarial qualifications and gain exemptions from early exams."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
