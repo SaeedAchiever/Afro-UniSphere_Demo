@@ -1,0 +1,274 @@
+[
+  {
+    "name": "University College of Agriculture and Environmental Studies"
+  },
+  {
+    "faculty_name": "FACULTY OF AGRICULTURE / SCHOOL OF AGRICULTURE",
+    "note": [
+      "UCAES is the first university in Africa dedicated to agriculture and environmental studies, located in Bunso, Eastern Region.",
+      "The Faculty of Agriculture focuses on sustainable farming practices, organic agriculture, and food security."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Sustainable Agriculture",
+        "career": [
+          "Farm Manager",
+          "Agronomist",
+          "Agricultural Extension Officer",
+          "Soil Scientist",
+          "Agribusiness Manager",
+          "Crop Production Specialist",
+          "Sustainable Agriculture Consultant",
+          "Agricultural Researcher",
+          "Food Security Analyst",
+          "Rural Development Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,125 - 3,500 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Crop Husbandry",
+              "Animal Husbandry",
+              "Soil Science",
+              "Agricultural Economics",
+              "Extension Services",
+              "Farm Mechanization"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 65,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["Aggregate 24-30"],
+            "mode": [
+              "Field-based practical training",
+              "Research projects in sustainable farming",
+              "Community extension services"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science",
+              "Credit passes in three elective subjects (General Agriculture, Chemistry, Physics, or Biology preferred)",
+              "SSSCE: Credit passes (A-D) in core and elective subjects"
+            ],
+            "level_note": [
+              "Focuses on environmentally friendly farming techniques and long-term food security.",
+              "Graduates are equipped to manage modern farms and advise on sustainable practices."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Organic Agriculture",
+        "career": [
+          "Organic Farm Supervisor",
+          "Organic Certification Inspector",
+          "Compost Production Manager",
+          "Greenhouse Supervisor",
+          "Organic Input Sales Representative",
+          "Field Assistant",
+          "Horticultural Assistant",
+          "Agricultural Field Technician",
+          "Community Garden Coordinator",
+          "Farm Records Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,125 - 3,000 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Organic Farming",
+              "Soil Fertility and Nutrient Management",
+              "Organic Crop Production",
+              "Bio-pesticides and Pest Management",
+              "Organic Livestock Management",
+              "Organic Standards and Certification"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 45,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €30,000 - €50,000"
+            ],
+            "cutt_off": ["Aggregate 30-36 or Passes"],
+            "mode": [
+              "Hands-on organic farming practices",
+              "Preparation of organic inputs (compost, bio-fertilizers)",
+              "Field visits to certified organic farms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects and three elective subjects",
+              "Interest in organic and ecological farming methods",
+              "Mature applicants (25+ years) with relevant experience considered"
+            ],
+            "level_note": [
+              "Specialized diploma for the growing organic food sector.",
+              "Covers the entire organic value chain from soil health to certification and marketing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Sustainable Agriculture",
+        "career": [
+          "Farm Assistant",
+          "Field Hand",
+          "Nursery Attendant",
+          "Agricultural Extension Assistant",
+          "Poultry Attendant",
+          "Vegetable Grower",
+          "Farm Machinery Operator",
+          "Agro-Input Shop Assistant",
+          "Irrigation Assistant",
+          "Harvest Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 1,500 - 2,500 per year"],
+            "duration": "1 year",
+            "electives": [
+              "Basic Crop Production",
+              "Introduction to Animal Rearing",
+              "Farm Tools and Maintenance",
+              "Basic Soil Management",
+              "Safe Use of Agrochemicals",
+              "Farm Record Keeping"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 30,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €20,000 - €35,000"
+            ],
+            "cutt_off": ["Passes in WASSCE/SSSCE"],
+            "mode": [
+              "Practical skills training",
+              "On-farm demonstrations",
+              "Short intensive modules"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE Passes in relevant subjects",
+              "NVTI or other vocational certificates accepted",
+              "Basic literacy and numeracy skills"
+            ],
+            "level_note": [
+              "Entry-level training for immediate employment in farming operations.",
+              "Provides practical skills for youth interested in starting their own small-scale farms."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University College of Agriculture and Environmental Studies",
+    "faculty_name": "FACULTY OF ENVIRONMENTAL SCIENCES / INSTITUTE FOR ENVIRONMENT AND SANITATION STUDIES",
+    "note": [
+      "This faculty addresses critical environmental challenges including waste management, pollution control, and natural resource conservation.",
+      "Programmes are designed to produce professionals who can design and implement solutions for a cleaner environment."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Environmental Science and Waste Management",
+        "career": [
+          "Environmental Officer",
+          "Waste Management Manager",
+          "Environmental Health Officer",
+          "Pollution Control Officer",
+          "Recycling Coordinator",
+          "Sustainability Officer",
+          "Environmental Consultant",
+          "Sanitation Engineer",
+          "Water Quality Analyst",
+          "Environmental Compliance Inspector"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,125 - 3,500 per year"],
+            "duration": "4 years",
+            "electives": [
+              "Environmental Chemistry",
+              "Solid Waste Management",
+              "Liquid Waste Treatment",
+              "Environmental Impact Assessment",
+              "Occupational Health and Safety",
+              "Environmental Law and Policy"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 75,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": ["Aggregate 24-30"],
+            "mode": [
+              "Laboratory analysis of environmental samples",
+              "Fieldwork in waste management facilities",
+              "Project work on local environmental issues"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English, Core Mathematics, and Integrated Science",
+              "Credit passes in three elective subjects (Science electives preferred)",
+              "SSSCE: Credit passes (A-D) in core and elective subjects"
+            ],
+            "level_note": [
+              "Combines environmental science principles with practical waste management strategies.",
+              "Critical for addressing Ghana's sanitation and waste challenges."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Environmental Science and Waste Management",
+        "career": [
+          "Sanitation Officer",
+          "Waste Collection Supervisor",
+          "Environmental Health Assistant",
+          "Recycling Sorter",
+          "Public Cleansing Supervisor",
+          "Field Hygiene Assistant",
+          "Landfill Site Assistant",
+          "Vector Control Assistant",
+          "Water System Caretaker",
+          "Community Sanitation Volunteer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 1,500 - 2,500 per year"],
+            "duration": "1 year",
+            "electives": [
+              "Basics of Environmental Health",
+              "Introduction to Waste Handling",
+              "Personal Hygiene and Safety",
+              "Community Sanitation Practices",
+              "Basic Pest Control",
+              "Introduction to Recycling"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - 35,000 annually",
+              "USA: $28,000 - $48,000",
+              "Europe: €22,000 - €40,000"
+            ],
+            "cutt_off": ["Passes in WASSCE/SSSCE"],
+            "mode": [
+              "Practical community fieldwork",
+              "Hands-on training in waste handling",
+              "Workshops on hygiene promotion"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE Passes in relevant subjects",
+              "JHS BECE certificate with work experience may be considered",
+              "Passion for community health and environment"
+            ],
+            "level_note": [
+              "Trains frontline workers for environmental health and sanitation campaigns.",
+              "Essential for community-level waste management and hygiene promotion."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
