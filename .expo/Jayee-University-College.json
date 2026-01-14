@@ -1,0 +1,1662 @@
+[
+  {
+    "name": "Jayee University College"
+  },
+  {
+    "faculty_name": "Faculty of Business Administration",
+    "note": [
+      "Trains business professionals with strong practical and entrepreneurial skills.",
+      "Offers business administration pathways in marketing, accounting, human resource management, and secretaryship.",
+      "Programmes are designed to meet the needs of Ghana’s corporate, SME, and public sectors."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Business Administration (Marketing Option)",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Sales Manager",
+          "Market Research Analyst",
+          "Product Manager",
+          "Business Development Executive",
+          "Customer Relationship Manager",
+          "Advertising Account Executive",
+          "Marketing Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,700 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Marketing",
+              "Consumer Behaviour",
+              "Marketing Research",
+              "Digital Marketing",
+              "Sales and Distribution Management",
+              "Brand Management"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 95,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Classroom teaching with case studies and projects"
+            ],
+            "entry_requirements": [
+              "SSSCE: Grade A-D in three Core subjects including English Language and Mathematics, and three Elective subjects",
+              "WASSCE: Grade A1-C6 in three Core subjects including English Language and Mathematics, and three Elective subjects",
+              "Mature applicants: 25 years and above with 2 years work experience and successful entrance assessment"
+            ],
+            "level_note": [
+              "Provides a solid foundation in marketing concepts and practical promotion strategies.",
+              "Prepares graduates to work in competitive local and international markets."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Business Administration (Accounting Option)",
+        "career": [
+          "Accountant",
+          "Accounts Officer",
+          "Financial Analyst",
+          "Tax Consultant",
+          "Audit Associate",
+          "Cost Accountant",
+          "Budget Analyst",
+          "Payroll Officer",
+          "Finance Manager",
+          "Internal Auditor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,700 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Taxation",
+              "Auditing and Assurance",
+              "Corporate Reporting",
+              "Public Sector Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $75,000 - $140,000",
+              "Europe: €65,000 - €130,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Lectures, tutorials and accounting software practice"
+            ],
+            "entry_requirements": [
+              "SSSCE: Grade A-D in English Language, Mathematics and Integrated Science or Social Studies, plus three Business-related Electives",
+              "WASSCE: Grade A1-C6 in English Language, Mathematics and Integrated Science or Social Studies, plus three Business-related Electives",
+              "Holders of relevant diplomas may be admitted to higher levels after transcript evaluation"
+            ],
+            "level_note": [
+              "Emphasizes practical accounting skills for both private and public sector organizations.",
+              "Provides a pathway towards professional qualifications such as ACCA and ICA."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Business Administration (Human Resource Management Option)",
+        "career": [
+          "Human Resource Officer",
+          "HR Manager",
+          "Recruitment Specialist",
+          "Training and Development Officer",
+          "Compensation and Benefits Analyst",
+          "Employee Relations Officer",
+          "Talent Management Specialist",
+          "Organizational Development Officer",
+          "HR Business Partner",
+          "Labour Relations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,700 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Human Resource Management",
+              "Organizational Behaviour",
+              "Performance Management",
+              "Training and Development",
+              "Labour Law",
+              "Compensation and Benefits Management"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $70,000 - $135,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Interactive lectures, presentations and group projects"
+            ],
+            "entry_requirements": [
+              "SSSCE: Grade A-D in three Core subjects including English Language and Mathematics, and three Electives",
+              "WASSCE: Grade A1-C6 in three Core subjects including English Language and Mathematics, and three Electives",
+              "Mature applicants with relevant work experience may apply through the mature entry route"
+            ],
+            "level_note": [
+              "Focuses on managing people and workplace relationships in modern organizations.",
+              "Equips graduates with skills in recruitment, training and performance management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Business Administration (Secretaryship and Management Option)",
+        "career": [
+          "Executive Secretary",
+          "Administrative Manager",
+          "Office Manager",
+          "Personal Assistant",
+          "Records Officer",
+          "Administrative Coordinator",
+          "Front Office Supervisor",
+          "Corporate Services Officer",
+          "Office Administrator",
+          "Customer Service Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,600 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Office Management",
+              "Business Communication",
+              "Records and Information Management",
+              "Administrative Procedures",
+              "Keyboarding and Document Production",
+              "Business Law for Administrators"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 28-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Classroom teaching with simulated office practice"
+            ],
+            "entry_requirements": [
+              "SSSCE: Grade A-D in English Language, Mathematics and Integrated Science or Social Studies, plus three Electives",
+              "WASSCE: Grade A1-C6 in English Language, Mathematics and Integrated Science or Social Studies, plus three Electives",
+              "Consideration for applicants with secretarial or business-related diplomas"
+            ],
+            "level_note": [
+              "Blends secretarial competencies with modern management and communication skills.",
+              "Prepares graduates for administrative and middle-level management roles in organizations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Marketing",
+        "career": [
+          "Marketing Assistant",
+          "Sales Representative",
+          "Customer Service Officer",
+          "Brand Assistant",
+          "Digital Marketing Assistant",
+          "Retail Supervisor",
+          "Promotions Coordinator",
+          "Telemarketing Officer",
+          "Field Marketing Officer",
+          "Merchandiser"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,000 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Marketing",
+              "Salesmanship",
+              "Customer Service Management",
+              "Advertising Principles",
+              "Marketing Communications",
+              "Basic Market Research"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 60,000 annually",
+              "USA: $40,000 - $70,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Classroom lectures and field projects"
+            ],
+            "entry_requirements": [
+              "SSSCE/WASSCE with at least an aggregate of 26/38 or better",
+              "Credits in English Language and Mathematics",
+              "SSSCE/WASSCE results or SHS certificate with supporting testimonial"
+            ],
+            "level_note": [
+              "Provides foundational knowledge in marketing and customer service operations.",
+              "Designed for SHS graduates seeking entry-level roles in sales and marketing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Accounting",
+        "career": [
+          "Accounts Clerk",
+          "Accounts Assistant",
+          "Bookkeeper",
+          "Billing Officer",
+          "Payroll Clerk",
+          "Accounts Payable Officer",
+          "Accounts Receivable Officer",
+          "Finance Assistant",
+          "Cashier Supervisor",
+          "Audit Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,000 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Basic Financial Accounting",
+              "Computerized Accounting",
+              "Costing Fundamentals",
+              "Taxation Basics",
+              "Spreadsheet Applications",
+              "Financial Reporting Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 65,000 annually",
+              "USA: $42,000 - $75,000",
+              "Europe: €38,000 - €70,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Practical sessions with accounting software"
+            ],
+            "entry_requirements": [
+              "SSSCE/WASSCE with at least an aggregate of 26/38 or better",
+              "Credits in English Language and Mathematics",
+              "Candidates with business-related certificates may be considered"
+            ],
+            "level_note": [
+              "Equips students with practical bookkeeping and basic accounting skills.",
+              "Ideal for those seeking assistant roles in accounting and finance departments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Secretaryship and Management",
+        "career": [
+          "Secretary",
+          "Personal Assistant",
+          "Administrative Assistant",
+          "Front Desk Executive",
+          "Office Administrator",
+          "Records Clerk",
+          "Reception Supervisor",
+          "Office Support Coordinator",
+          "Clerical Officer",
+          "Customer Relations Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 1,900 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Typing and Keyboarding",
+              "Office Practice",
+              "Business Communication",
+              "Records Management",
+              "Computer Applications",
+              "Office Procedures"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 55,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €34,000 - €60,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 28-40"],
+            "mode": [
+              "Full-time on-campus",
+              "Practical office simulations and computer labs"
+            ],
+            "entry_requirements": [
+              "SSSCE/WASSCE results with passes in English Language and Mathematics",
+              "SHS education with supporting testimonial from previous school",
+              "Applicants with NVTI or secretarial certificates may apply"
+            ],
+            "level_note": [
+              "Builds essential office administration and secretarial skills.",
+              "Prepares graduates for administrative support roles in various organizations."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Communication Sciences",
+    "note": [
+      "Specializes in journalism, media and public relations education.",
+      "Combines theoretical communication studies with intensive practical training in studios and newsrooms.",
+      "Graduates work across print, broadcast, digital media, corporate communications and NGOs."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Arts in Journalism (Politics, Sports & Business)",
+        "career": [
+          "News Reporter",
+          "Feature Writer",
+          "Broadcast Journalist",
+          "News Editor",
+          "Sports Journalist",
+          "Political Correspondent",
+          "Business and Financial Reporter",
+          "Online Content Producer",
+          "Media Researcher",
+          "Communication Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,800 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Language Skills for Journalists",
+              "Introduction to Broadcasting",
+              "Print Journalism",
+              "Creative Writing",
+              "Media Management",
+              "Conflict Reporting",
+              "Sports Reporting",
+              "Political Reporting",
+              "Business and Economic Reporting",
+              "Entertainment Reporting",
+              "Science Reporting"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €95,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Classroom lectures, newsroom practice and studio production"
+            ],
+            "entry_requirements": [
+              "SSSCE: Grade A-D in three Core subjects including English Language and Mathematics, and three Electives",
+              "WASSCE: Grade A1-C6 in three Core subjects including English Language and Mathematics, and three Electives",
+              "Diploma holders in Journalism or related areas may be considered for top-up placement"
+            ],
+            "level_note": [
+              "Offers strong practical emphasis through internships and work in modern TV/radio studios.",
+              "Prepares students to cover politics, sports, business and other specialized beats professionally."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Public Relations",
+        "career": [
+          "Public Relations Officer",
+          "Corporate Communications Officer",
+          "Media Relations Specialist",
+          "Communications Manager",
+          "Brand Communications Executive",
+          "Event and Promotions Coordinator",
+          "Marketing Communications Specialist",
+          "Community Relations Officer",
+          "Press Secretary",
+          "Stakeholder Engagement Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,800 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Public Relations",
+              "Corporate Communication",
+              "Business Communication",
+              "Introduction to Advertising",
+              "Crisis Communication",
+              "Media Relations",
+              "Business Law and Ethics",
+              "Financial Management for Communicators"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 95,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Case studies, campaigns and practical media projects"
+            ],
+            "entry_requirements": [
+              "SSSCE: Grade A-D in three Core subjects including English Language and Mathematics, and three Electives",
+              "WASSCE: Grade A1-C6 in three Core subjects including English Language and Mathematics, and three Electives",
+              "Applicants with relevant diplomas in communications may enter at higher levels after assessment"
+            ],
+            "level_note": [
+              "Focuses on strategic communication planning and reputation management.",
+              "Equips students for roles in corporate, governmental and non-profit communication units."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Journalism (Politics, Sports, Business)",
+        "career": [
+          "Junior Reporter",
+          "Radio/TV Production Assistant",
+          "Newsroom Assistant",
+          "Online Content Writer",
+          "Programme Assistant",
+          "Community Journalist",
+          "Editorial Assistant",
+          "Social Media Coordinator",
+          "Copy Editor",
+          "Camera or Studio Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,100 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Language Skills for Journalists",
+              "Introduction to Broadcasting",
+              "Print Journalism",
+              "Creative Writing",
+              "Media Entrepreneurship",
+              "Advanced Print Journalism",
+              "Sports Reporting",
+              "Political Reporting",
+              "Business and Economic Reporting"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 60,000 annually",
+              "USA: $40,000 - $75,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Newsroom practice, field reporting and studio work"
+            ],
+            "entry_requirements": [
+              "SSSCE/WASSCE with at least an aggregate of 26/38 or better",
+              "Passes in English Language and other relevant subjects",
+              "SHS graduates and workers with interest in journalism"
+            ],
+            "level_note": [
+              "Provides intensive skill-based training in news gathering and reporting.",
+              "Includes internship and practical assignments across politics, sports and business beats."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Public Relations",
+        "career": [
+          "PR Assistant",
+          "Communications Assistant",
+          "Media Relations Assistant",
+          "Event Support Officer",
+          "Client Service Executive",
+          "Social Media Assistant",
+          "Corporate Affairs Assistant",
+          "Frontline Communications Officer",
+          "Community Relations Assistant",
+          "Marketing Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,100 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Principles of Public Relations",
+              "Business Communication",
+              "Corporate Communication",
+              "Introduction to Advertising",
+              "Media Relations",
+              "Business Law and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 65,000 annually",
+              "USA: $42,000 - $80,000",
+              "Europe: €36,000 - €72,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Coursework, presentations and simulated PR campaigns"
+            ],
+            "entry_requirements": [
+              "SSSCE/WASSCE with at least an aggregate of 26/38 or better",
+              "Credits in English Language and other relevant subjects",
+              "SHS education with supporting testimonial from previous school"
+            ],
+            "level_note": [
+              "Introduces students to the principles and practice of public relations and communication.",
+              "Prepares graduates for assistant roles in corporate communication and media agencies."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Professional Studies",
+    "note": [
+      "Runs short-term and professional diploma programmes tailored to industry needs.",
+      "Schedules are flexible with morning, afternoon, evening, weekend and online options.",
+      "Programmes combine intensive classroom training with practical projects and attachments."
+    ],
+    "courses": [
+      {
+        "course_name": "Advanced Diploma in Information Technology",
+        "career": [
+          "IT Support Specialist",
+          "Systems Administrator",
+          "Network Support Technician",
+          "IT Helpdesk Analyst",
+          "Junior Software Developer",
+          "Database Assistant",
+          "IT Project Assistant",
+          "Web Support Technician",
+          "Technical Support Engineer",
+          "IT Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Computer Hardware and Operating Systems",
+              "Networking Fundamentals",
+              "Database Basics",
+              "Web Technologies",
+              "IT Security Fundamentals",
+              "User Support and Helpdesk Skills"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 70,000 annually",
+              "USA: $50,000 - $85,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible timetable: morning, afternoon, evening and weekend",
+              "Blended learning with labs and online materials"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates and workers",
+              "Basic computer literacy is an advantage",
+              "Applicants with IT-related certificates may receive preference"
+            ],
+            "level_note": [
+              "Provides intensive, practice-oriented IT training for technical support and junior roles.",
+              "Designed for those seeking quick upskilling or a transition into the IT field."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Diploma in Hospitality Management",
+        "career": [
+          "Hotel Supervisor",
+          "Front Office Supervisor",
+          "Food and Beverage Supervisor",
+          "Guest Relations Officer",
+          "Restaurant Manager",
+          "Banqueting Coordinator",
+          "Housekeeping Supervisor",
+          "Resort Assistant Manager",
+          "Catering Supervisor",
+          "Hospitality Sales Executive"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Introduction to Hospitality Industry",
+              "Front Office Operations",
+              "Food and Beverage Service",
+              "Housekeeping Operations",
+              "Customer Care in Hospitality",
+              "Hotel Operations Management"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 65,000 annually",
+              "USA: $40,000 - $75,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible timetable including weekend options",
+              "Practical exposure in hotels and hospitality facilities"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates with interest in hospitality",
+              "Workers in hotels, restaurants and tourism establishments",
+              "Basic English communication skills"
+            ],
+            "level_note": [
+              "Equips learners with operational skills for hotel and hospitality environments.",
+              "Ideal for those already working or seeking entry into the hospitality industry."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Broadcast Journalism",
+        "career": [
+          "Radio Presenter",
+          "TV Presenter",
+          "Production Assistant",
+          "Studio Technician",
+          "Continuity Announcer",
+          "Camera Operator Assistant",
+          "Programme Researcher",
+          "Voice-over Artist",
+          "Newsroom Assistant",
+          "Content Producer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,800 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Basics of Radio Presentation",
+              "Basics of TV Presentation",
+              "Voice and Presentation Skills",
+              "Studio Operations",
+              "Script Writing for Broadcast",
+              "News Reading and On-air Techniques"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 60,000 annually",
+              "USA: $40,000 - $80,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible sessions: morning, evening and weekend",
+              "Hands-on practice in radio and TV studios"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates and media enthusiasts",
+              "Good spoken English and confidence in public speaking",
+              "Workers in media houses seeking formal training"
+            ],
+            "level_note": [
+              "Focuses on practical skills in radio and television presentation and production.",
+              "Suitable for beginners and practitioners who want to refine on-air performance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Diploma in Business Management and Administration",
+        "career": [
+          "Administrative Supervisor",
+          "Office Manager",
+          "Operations Supervisor",
+          "Business Development Officer",
+          "Team Leader",
+          "Customer Service Supervisor",
+          "Sales Supervisor",
+          "Branch Operations Officer",
+          "Project Assistant",
+          "Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Principles of Management",
+              "Business Administration",
+              "Human Resource Basics",
+              "Marketing Fundamentals",
+              "Business Communication",
+              "Entrepreneurship and Small Business"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 70,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and evening classes for working adults",
+              "Case studies and practical business projects"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates with interest in business",
+              "Workers seeking supervisory and management skills",
+              "Basic numeracy and communication skills"
+            ],
+            "level_note": [
+              "Gives learners a broad overview of key business and management functions.",
+              "Designed for aspiring supervisors and middle-level managers."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Diploma in Broadcast Journalism",
+        "career": [
+          "News Anchor",
+          "Senior Radio or TV Presenter",
+          "Programme Producer",
+          "Broadcast Journalist",
+          "News Editor",
+          "Talk Show Host",
+          "Field Reporter",
+          "Production Coordinator",
+          "Content Director",
+          "Media Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,800 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Advanced Radio Presentation Techniques",
+              "Advanced TV Presentation Techniques",
+              "Investigative Reporting for Broadcast",
+              "Programme Production and Directing",
+              "On-camera Performance and Interviewing",
+              "Broadcast Ethics and Media Law"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 80,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible sessions including evenings and weekends",
+              "Practical production projects and show hosting"
+            ],
+            "entry_requirements": [
+              "Diploma or work experience in journalism, media or related fields",
+              "Senior high school completion with strong communication skills",
+              "Practitioners seeking advanced broadcast training"
+            ],
+            "level_note": [
+              "Targets individuals with prior media exposure who want to advance in broadcast journalism.",
+              "Emphasizes advanced presentation, production and editorial responsibilities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Diploma in Sales and Marketing Management",
+        "career": [
+          "Sales Manager",
+          "Sales Team Leader",
+          "Key Accounts Executive",
+          "Business Development Manager",
+          "Territory Sales Manager",
+          "Sales Trainer",
+          "Retail Manager",
+          "Channel Sales Executive",
+          "Marketing and Sales Coordinator",
+          "Customer Success Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Sales Management",
+              "Key Account Management",
+              "Negotiation and Closing Techniques",
+              "Territory and Channel Management",
+              "Customer Relationship Management",
+              "Sales Planning and Forecasting"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €45,000 - €95,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and evening classes",
+              "Role plays and field-based sales projects"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates and sales workers",
+              "Diploma holders in marketing or business-related areas",
+              "Working professionals seeking advancement in sales management"
+            ],
+            "level_note": [
+              "Strengthens managerial and strategic skills for leading sales teams.",
+              "Suitable for practicing salespeople promoted into supervisory roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Diploma in Banking and Finance",
+        "career": [
+          "Banking Officer",
+          "Customer Service Executive",
+          "Credit Officer",
+          "Teller Supervisor",
+          "Microfinance Officer",
+          "Relationship Officer",
+          "Operations Officer",
+          "Risk and Compliance Assistant",
+          "Treasury Support Officer",
+          "Financial Services Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,800 (Total)"],
+            "duration": "5 months",
+            "electives": [
+              "Introduction to Banking Operations",
+              "Financial Markets and Instruments",
+              "Risk Management Basics",
+              "Customer Service in Banking",
+              "Regulation and Compliance in Financial Services",
+              "Financial Analysis and Reporting"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €45,000 - €95,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible timetable with online and in-person sessions",
+              "Three-month classroom training and two-month internship or attachment"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates and workers",
+              "Interest in banking, microfinance or financial services",
+              "Basic numeracy and communication skills"
+            ],
+            "level_note": [
+              "Provides intensive preparation for entry-level positions in banks and financial institutions.",
+              "Blends theoretical instruction with practical industry exposure through internships."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Diploma in Management and Secretaryship",
+        "career": [
+          "Senior Administrative Officer",
+          "Executive Secretary",
+          "Office Manager",
+          "Corporate Services Officer",
+          "Administrative Supervisor",
+          "Records Supervisor",
+          "Personal Assistant to Executives",
+          "Office Operations Coordinator",
+          "Administrative Trainer",
+          "Departmental Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Advanced Office Management",
+              "Executive Secretarial Practice",
+              "Business Writing and Reporting",
+              "Meeting and Event Management",
+              "Records and Information Governance",
+              "Leadership Skills for Administrators"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 80,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend classes for working professionals",
+              "Practical simulations and role plays"
+            ],
+            "entry_requirements": [
+              "Diploma or work experience in secretaryship, administration or related fields",
+              "Senior high school completion",
+              "Good written and spoken English"
+            ],
+            "level_note": [
+              "Enhances the skills of secretaries and administrators for higher-level roles.",
+              "Focuses on executive communication, leadership and modern office technology."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Diploma in Management Information Systems (MIS)",
+        "career": [
+          "Systems Support Officer",
+          "MIS Officer",
+          "IT Support Analyst",
+          "Data Entry Supervisor",
+          "Business Systems Analyst",
+          "IT Coordinator",
+          "Database Support Assistant",
+          "Reporting and Data Analyst",
+          "ERP Support Assistant",
+          "Information Systems Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,800 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Introduction to Information Systems",
+              "Database Management Basics",
+              "Business Process Analysis",
+              "Spreadsheet Modelling",
+              "Systems Security and Controls",
+              "Reporting and Decision Support Tools"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 80,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Blended learning with computer lab sessions",
+              "Flexible options for working professionals"
+            ],
+            "entry_requirements": [
+              "Senior high school completion with basic ICT knowledge",
+              "Workers in administration or IT support roles",
+              "Applicants comfortable with basic computer applications"
+            ],
+            "level_note": [
+              "Bridges business and IT by focusing on information systems that support decision making.",
+              "Suitable for those moving into MIS or improving digital skills for office roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Diploma in Human Resources Management",
+        "career": [
+          "HR Officer",
+          "HR Assistant",
+          "Recruitment Officer",
+          "Training and Development Assistant",
+          "Payroll and Benefits Officer",
+          "HR Records Officer",
+          "Staff Welfare Officer",
+          "Talent Acquisition Coordinator",
+          "Performance Management Assistant",
+          "HR Generalist"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Fundamentals of Human Resource Management",
+              "Recruitment and Selection",
+              "Training and Development",
+              "Performance Management Systems",
+              "Compensation and Benefits Administration",
+              "Employment Law and Industrial Relations"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 80,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and evening options",
+              "Practical case studies and role plays"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates and HR support staff",
+              "Diploma or experience in business, administration or related areas",
+              "Interest in people management and HR practices"
+            ],
+            "level_note": [
+              "Provides specialized HR knowledge for junior and mid-level HR roles.",
+              "Helps non-HR staff transition into human resource management positions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Diploma in Accounting and Financial Management",
+        "career": [
+          "Accounts Officer",
+          "Finance Officer",
+          "Costing Officer",
+          "Treasury Assistant",
+          "Budget and Reporting Assistant",
+          "Accounts Supervisor",
+          "Payroll Supervisor",
+          "Internal Audit Assistant",
+          "Credit Control Officer",
+          "Financial Data Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,800 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Advanced Financial Accounting",
+              "Management Accounting Concepts",
+              "Budgeting and Budgetary Control",
+              "Working Capital Management",
+              "Financial Statement Analysis",
+              "Corporate Governance and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €48,000 - €95,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend sessions",
+              "Case studies using real financial statements"
+            ],
+            "entry_requirements": [
+              "Diploma or experience in accounting, finance or related areas",
+              "Senior high school completion with strong numeracy skills",
+              "Professionals seeking to strengthen financial management skills"
+            ],
+            "level_note": [
+              "Strengthens accounting and finance competencies for supervisory roles.",
+              "Useful for staff aiming to progress into more responsible finance positions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Sales and Marketing Management",
+        "career": [
+          "Sales Representative",
+          "Sales Promoter",
+          "Retail Sales Officer",
+          "Customer Service Officer",
+          "Marketing Assistant",
+          "Telemarketing Agent",
+          "Field Sales Executive",
+          "Merchandising Officer",
+          "Client Relations Officer",
+          "Sales Support Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,500 (Total)"],
+            "duration": "5 months",
+            "electives": [
+              "Introduction to Sales and Marketing",
+              "Customer Relationship Management",
+              "Sales Techniques and Negotiation",
+              "Retail and Merchandising",
+              "Promotions and Advertising Basics",
+              "Sales Reporting and Targets"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 60,000 annually",
+              "USA: $40,000 - $70,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible schedule including weekends",
+              "Practical field assignments and sales projects"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates and workers",
+              "Interest in sales, marketing and customer-facing roles",
+              "Basic communication and interpersonal skills"
+            ],
+            "level_note": [
+              "Introduces core sales and marketing principles for frontline staff.",
+              "Suitable for those entering sales roles in retail, FMCG and service industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Pharmacy Management",
+        "career": [
+          "Pharmacy Assistant",
+          "Pharmacy Counter Attendant",
+          "Dispensary Assistant",
+          "Pharmacy Sales Assistant",
+          "Inventory Clerk in Pharmacy",
+          "Hospital Pharmacy Assistant",
+          "Community Pharmacy Support Staff",
+          "Pharmacy Storekeeper",
+          "Pharmacy Customer Service Officer",
+          "Medical Retail Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,800 (Total)"],
+            "duration": "1 year",
+            "electives": [
+              "Basics of Pharmacology",
+              "Pharmacy Operations and Management",
+              "Drug Storage and Inventory Control",
+              "Pharmacy Law and Ethics",
+              "Customer Care in Pharmacy Practice",
+              "Safety and Dispensing Procedures"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 60,000 annually",
+              "USA: $40,000 - $65,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and evening classes suitable for workers",
+              "Practical experience in community and hospital pharmacies"
+            ],
+            "entry_requirements": [
+              "Senior high school completion, preferably with science background",
+              "Interest in pharmacy operations and health services",
+              "Workers in medicine retail seeking formal training"
+            ],
+            "level_note": [
+              "Prepares students for supportive roles in retail and hospital pharmacy settings.",
+              "Covers both customer-facing and back-office aspects of pharmacy management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Information Technology",
+        "career": [
+          "IT Support Technician",
+          "Computer Lab Assistant",
+          "Data Entry Officer",
+          "Junior Network Support",
+          "Helpdesk Support Officer",
+          "Computer Repair Technician",
+          "Office IT Assistant",
+          "Web Support Assistant",
+          "ICT Teacher Assistant",
+          "Digital Centre Attendant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Computer Fundamentals",
+              "Office Productivity Tools",
+              "Basic Networking",
+              "PC Maintenance and Troubleshooting",
+              "Internet and Web Basics",
+              "Introduction to Programming"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 55,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €34,000 - €60,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible sessions including weekends",
+              "Hands-on labs and practical assignments"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates and workers",
+              "Interest in ICT and basic computer skills",
+              "No advanced mathematics background required"
+            ],
+            "level_note": [
+              "Provides foundational IT knowledge for office and support roles.",
+              "Ideal stepping stone for further IT certifications or advanced diplomas."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Management Information Systems",
+        "career": [
+          "Data Entry Clerk",
+          "MIS Assistant",
+          "Administrative IT Assistant",
+          "Reporting Clerk",
+          "Database Support Clerk",
+          "Office Systems Assistant",
+          "ICT Support in Administration",
+          "Records and Information Assistant",
+          "Helpdesk Clerk",
+          "Documentation and Reporting Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Introduction to Management Information Systems",
+              "Database and Records Management",
+              "Spreadsheet Analysis",
+              "Business Communication with ICT",
+              "Basic Data Reporting",
+              "ICT Tools for Office Productivity"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 55,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €34,000 - €60,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend classes",
+              "Practical computer lab-based teaching"
+            ],
+            "entry_requirements": [
+              "Senior high school completion",
+              "Basic knowledge of computers is an advantage",
+              "Workers in administration seeking ICT-enhanced skills"
+            ],
+            "level_note": [
+              "Introduces the use of information systems to support business operations.",
+              "Helps administrative staff become more effective with data and ICT tools."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Office Management and Secretaryship",
+        "career": [
+          "Secretary",
+          "Administrative Assistant",
+          "Front Desk Officer",
+          "Office Clerk",
+          "Receptionist",
+          "Records Clerk",
+          "Customer Service Frontline Staff",
+          "Office Support Assistant",
+          "Clerical Assistant",
+          "Data Entry Clerk"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,400 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Office Procedures",
+              "Business Communication",
+              "Typing and Keyboarding",
+              "Records and Filing Systems",
+              "Customer Service Skills",
+              "Computer Applications in the Office"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 50,000 annually",
+              "USA: $35,000 - $55,000",
+              "Europe: €32,000 - €52,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible schedule for SHS leavers and workers",
+              "Simulated office and front desk practice"
+            ],
+            "entry_requirements": [
+              "SSSCE/WASSCE results with passes in English Language",
+              "SHS education with testimonial",
+              "Applicants with NVTI or secretarial certificates may apply"
+            ],
+            "level_note": [
+              "Focuses on core secretarial and office support competencies.",
+              "Suitable for those seeking rapid entry into clerical and secretarial roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Human Resources Management",
+        "career": [
+          "HR Assistant",
+          "HR Clerk",
+          "Recruitment Clerk",
+          "Training Assistant",
+          "Records and HR Data Clerk",
+          "Frontline HR Officer",
+          "Staff Welfare Assistant",
+          "Payroll Clerk",
+          "HR Support Officer",
+          "Administration and HR Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Introduction to Human Resource Management",
+              "Recruitment and Selection Basics",
+              "Employee Records Management",
+              "Training and Development Fundamentals",
+              "Compensation and Benefits Basics",
+              "Labour Law Overview"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 55,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €34,000 - €60,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend programmes",
+              "Case discussions and practical HR documentation"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates and junior HR staff",
+              "Interest in people management and office administration",
+              "Basic communication skills"
+            ],
+            "level_note": [
+              "Introduces HR concepts for support roles in human resource departments.",
+              "Provides a foundation for further HR studies and professional development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Hospitality Management",
+        "career": [
+          "Hotel Receptionist",
+          "Waiter or Waitress Supervisor",
+          "Guest Service Agent",
+          "Front Desk Agent",
+          "Reservation Agent",
+          "Restaurant Supervisor",
+          "Housekeeping Assistant",
+          "Tourism and Travel Assistant",
+          "Event Support Staff",
+          "Catering Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Introduction to Hospitality and Tourism",
+              "Front Office Operations",
+              "Food and Beverage Basics",
+              "Customer Care in Hospitality",
+              "Housekeeping Basics",
+              "Event Support in Hospitality"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 52,000 annually",
+              "USA: $35,000 - $55,000",
+              "Europe: €32,000 - €52,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible and worker-friendly timetable",
+              "Practical exposure in hotels and restaurants"
+            ],
+            "entry_requirements": [
+              "Senior high school completion",
+              "Interest in hospitality, tourism and customer service",
+              "Good interpersonal and communication skills"
+            ],
+            "level_note": [
+              "Prepares graduates for entry-level roles in hotels, restaurants and tourism facilities.",
+              "Emphasizes customer service and operational skills in hospitality environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Business Management and Administration",
+        "career": [
+          "Administrative Assistant",
+          "Office Clerk",
+          "Customer Service Officer",
+          "Sales Support Officer",
+          "Junior Supervisor",
+          "Operations Assistant",
+          "Small Business Assistant",
+          "Front Office Supervisor",
+          "Branch Support Officer",
+          "Junior Project Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Principles of Management",
+              "Introduction to Business Administration",
+              "Marketing Fundamentals",
+              "Basic Accounting",
+              "Business Communication",
+              "Entrepreneurship Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 55,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €34,000 - €60,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and evening classes",
+              "Classroom teaching with group projects"
+            ],
+            "entry_requirements": [
+              "Senior high school completion",
+              "Interest in business and administration",
+              "Workers seeking foundational management training"
+            ],
+            "level_note": [
+              "Covers foundational concepts in business, management and administration.",
+              "Suitable for SHS leavers and staff in entry-level office and business roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Accounting and Financial Management",
+        "career": [
+          "Accounts Clerk",
+          "Cashier",
+          "Accounts Assistant",
+          "Billing Clerk",
+          "Payroll Clerk",
+          "Finance Assistant",
+          "Bank Teller",
+          "Microfinance Assistant",
+          "Credit Control Assistant",
+          "Bookkeeper"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,600 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Introduction to Accounting",
+              "Cash and Bank Management",
+              "Costing Basics",
+              "Budgeting Fundamentals",
+              "Financial Statement Basics",
+              "Spreadsheet Accounting Applications"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 55,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €34,000 - €60,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible timetable including weekends",
+              "Practical exercises using accounting software and spreadsheets"
+            ],
+            "entry_requirements": [
+              "Senior high school completion with passes in Mathematics and English",
+              "Interest in accounting and finance support roles",
+              "Workers in financial and administrative roles seeking formal training"
+            ],
+            "level_note": [
+              "Focuses on practical accounting tasks required in small and medium businesses.",
+              "Provides skills necessary for accounts and finance support roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Banking and Finance",
+        "career": [
+          "Bank Teller",
+          "Customer Service Officer in Banks",
+          "Microfinance Officer",
+          "Credit Assistant",
+          "Savings and Loans Officer",
+          "Back Office Banking Clerk",
+          "Loan Processing Assistant",
+          "Finance Service Sales Agent",
+          "Call Centre Agent in Banking",
+          "Retail Banking Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,800 (Total)"],
+            "duration": "5 months",
+            "electives": [
+              "Basics of Banking and Financial Systems",
+              "Customer Service in Financial Services",
+              "Loan and Credit Basics",
+              "Bank Products and Services",
+              "Financial Regulations Overview",
+              "Risk and Compliance Fundamentals"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 60,000 annually",
+              "USA: $40,000 - $70,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Three-month classroom training and two-month internship or job attachment",
+              "Flexible sessions: morning, afternoon, evening, weekend and online"
+            ],
+            "entry_requirements": [
+              "Senior high school graduates and workers",
+              "Interest in banking, microfinance and related fields",
+              "Basic numeracy and communication skills"
+            ],
+            "level_note": [
+              "Equips learners with practical knowledge of retail banking operations.",
+              "Blends flexible classroom study with industry-based attachments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Counter Medicine Assistant Certificate",
+        "career": [
+          "Counter Medicine Assistant",
+          "Pharmacy Counter Attendant",
+          "Over-the-counter Medicine Seller",
+          "Dispensary Assistant",
+          "Community Pharmacy Assistant",
+          "Drug Store Attendant",
+          "Pharmacy Shop Supervisor",
+          "Customer Service Assistant in Pharmacy",
+          "Health Retail Assistant",
+          "Healthcare Products Sales Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,200 (Total)"],
+            "duration": "1 year",
+            "electives": [
+              "Basics of Human Anatomy and Physiology",
+              "Common Drugs and Dosage Forms",
+              "Over-the-counter Medicines and Uses",
+              "Pharmacy Law and Ethics Basics",
+              "Drug Storage and Stock Management",
+              "Customer Service and Counselling Skills"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 45,000 annually",
+              "USA: $32,000 - $45,000",
+              "Europe: €28,000 - €42,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or weekend options",
+              "Classroom teaching with supervised practice in pharmacies"
+            ],
+            "entry_requirements": [
+              "Senior high school completion, preferably with science background",
+              "Interest in community pharmacy and medicine retail",
+              "Ability to communicate clearly with customers"
+            ],
+            "level_note": [
+              "Prepares trainees to support licensed pharmacists in community drug retail settings.",
+              "Focuses on safe handling of medicines, basic counselling and customer care."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
