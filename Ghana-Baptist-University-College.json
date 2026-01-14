@@ -1,0 +1,1081 @@
+[
+  {
+    "name": "Ghana Baptist University College"
+  },
+  {
+    "faculty_name": "Business School",
+    "note": [
+      "Center for entrepreneurship and business excellence.",
+      "Offers diverse programmes from diplomas to advanced MBA degrees.",
+      "Strong industry partnerships with leading financial and business institutions."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Business Administration (Accounting)",
+        "career": [
+          "Accountant",
+          "Financial Analyst",
+          "Auditor",
+          "Tax Specialist",
+          "Cost Accountant",
+          "Internal Auditor",
+          "Finance Controller",
+          "CFO",
+          "Accounting Manager",
+          "Accounting Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,800 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Management Accounting",
+              "Tax Planning",
+              "Auditing",
+              "Corporate Finance",
+              "Cost Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $80,000 - $160,000",
+              "Europe: €70,000 - €140,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-28"],
+            "mode": ["Full-time on-campus", "Classroom-based learning"],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, and three electives",
+              "Aggregate 24-28 (WASSCE)",
+              "Alternative: HND/Diploma holders with experience"
+            ],
+            "level_note": [
+              "Comprehensive accounting curriculum with practical skills.",
+              "Professional accreditation pathway to chartered accountant status."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (Banking & Finance)",
+        "career": [
+          "Banking Manager",
+          "Investment Analyst",
+          "Financial Manager",
+          "Treasury Manager",
+          "Risk Management Specialist",
+          "Credit Manager",
+          "Relationship Manager",
+          "Financial Consultant",
+          "Loan Officer",
+          "Portfolio Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,800 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Corporate Finance",
+              "Investment Management",
+              "Banking Operations",
+              "Risk Management",
+              "Financial Markets",
+              "Treasury Management"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 120,000 annually",
+              "USA: $90,000 - $180,000",
+              "Europe: €80,000 - €160,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-28"],
+            "mode": ["Full-time on-campus", "Practical banking exposure"],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, and three electives",
+              "Aggregate 24-28",
+              "Strong mathematics background preferred"
+            ],
+            "level_note": [
+              "Focuses on banking sector expertise and financial management.",
+              "Includes internships with financial institutions for practical experience."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (HRM)",
+        "career": [
+          "HR Manager",
+          "HR Director",
+          "Talent Acquisition Manager",
+          "Training & Development Manager",
+          "Compensation & Benefits Manager",
+          "Employee Relations Manager",
+          "HR Consultant",
+          "Organizational Development Manager",
+          "Performance Manager",
+          "HR Business Partner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,800 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Strategic HRM",
+              "Training & Development",
+              "Compensation & Benefits",
+              "Employee Relations",
+              "Performance Management",
+              "Organizational Behavior"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 100,000 annually",
+              "USA: $75,000 - $140,000",
+              "Europe: €65,000 - €125,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-28"],
+            "mode": [
+              "Full-time on-campus",
+              "Interactive case studies and projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, and three electives",
+              "Aggregate 24-28",
+              "Interest in people management"
+            ],
+            "level_note": [
+              "Develops human resource management skills for modern organizations.",
+              "Strong emphasis on employee development and organizational effectiveness."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (Marketing)",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Manager",
+          "Market Research Manager",
+          "Product Manager",
+          "Marketing Director",
+          "Advertising Manager",
+          "Sales Manager",
+          "Marketing Consultant",
+          "Customer Experience Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,800 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Digital Marketing Strategy",
+              "Brand Management",
+              "Market Research",
+              "Consumer Behavior",
+              "Advertising Management",
+              "Sales Management"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €70,000 - €135,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-28"],
+            "mode": ["Full-time on-campus", "Project-based learning"],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, and three electives",
+              "Aggregate 24-28",
+              "Strong communication skills"
+            ],
+            "level_note": [
+              "Covers strategic marketing, brand development, and customer engagement.",
+              "Includes digital marketing and contemporary marketing tools."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Finance",
+        "career": [
+          "Financial Manager",
+          "Investment Analyst",
+          "Corporate Finance Manager",
+          "Treasury Manager",
+          "Financial Planning Manager",
+          "Risk Management Specialist",
+          "Banking Manager",
+          "Financial Consultant",
+          "Private Equity Analyst",
+          "CFO"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 22,000 - 24,000 (Total)"],
+            "duration": "12-18 months",
+            "electives": [
+              "Advanced Corporate Finance",
+              "Investment Management",
+              "Financial Analysis",
+              "Risk Management",
+              "Financial Markets",
+              "Strategic Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 130,000 annually",
+              "USA: $130,000 - $220,000",
+              "Europe: €100,000 - €190,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend classes",
+              "Blended learning for working professionals"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (Second Class Lower or better)",
+              "Minimum 2 years work experience",
+              "GMAT/GRE not required"
+            ],
+            "level_note": [
+              "Advanced finance specialization with practical focus on African markets.",
+              "Flexible delivery designed for working professionals."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA General Management",
+        "career": [
+          "General Manager",
+          "Business Manager",
+          "Director",
+          "Management Consultant",
+          "Senior Executive",
+          "Business Development Manager",
+          "Strategic Planner",
+          "Operations Director",
+          "Entrepreneur",
+          "Corporate Executive"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 22,000 - 24,000 (Total)"],
+            "duration": "12-18 months",
+            "electives": [
+              "Strategic Management",
+              "Financial Management",
+              "Marketing Management",
+              "Organizational Behavior",
+              "Operations Management",
+              "Business Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 130,000 annually",
+              "USA: $115,000 - $200,000",
+              "Europe: €90,000 - €170,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend classes", "Flexible blended learning"],
+            "entry_requirements": [
+              "Bachelor's degree (Second Class Lower or better)",
+              "Minimum 2 years work experience",
+              "Strong academic background"
+            ],
+            "level_note": [
+              "Comprehensive management curriculum with broad business focus.",
+              "Designed for aspiring executives and business leaders."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Ministry",
+        "career": [
+          "Pastor/Minister",
+          "Chaplain",
+          "Theological Educator",
+          "Church Administrator",
+          "Mission Director",
+          "Christian Counselor",
+          "Youth Minister",
+          "Academic Theologian",
+          "Ministry Leader",
+          "Seminary Instructor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,000 - 20,000 (Total)"],
+            "duration": "12-18 months",
+            "electives": [
+              "Biblical Theology",
+              "Pastoral Ministry",
+              "Christian Leadership",
+              "Church Administration",
+              "Missiology",
+              "Homiletics"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €50,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and evening classes",
+              "Blended learning with ministry focus"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree",
+              "Theological or religious background preferred",
+              "Ministry experience or calling"
+            ],
+            "level_note": [
+              "Advanced theological study with practical ministry training.",
+              "Prepares graduates for pastoral and leadership roles in faith communities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Purchasing and Supply",
+        "career": [
+          "Procurement Manager",
+          "Supply Chain Manager",
+          "Purchasing Manager",
+          "Supplier Manager",
+          "Logistics Coordinator",
+          "Inventory Manager",
+          "Procurement Specialist",
+          "Supply Chain Analyst",
+          "Vendor Manager",
+          "Materials Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": ["Ghanaian Students: GHC 3,500 - 4,000 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Procurement Management",
+              "Supplier Management",
+              "Inventory Management",
+              "Logistics Management",
+              "Supply Chain Strategy",
+              "Cost Management"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus", "Practical industry exposure"],
+            "entry_requirements": [
+              "WASSCE passes or equivalent",
+              "Senior Secondary completion",
+              "Interest in supply chain and procurement"
+            ],
+            "level_note": [
+              "Specialized training in procurement and supply chain operations.",
+              "Provides pathway to BSc or professional procurement certifications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma Business Administration",
+        "career": [
+          "Business Administrator",
+          "Office Manager",
+          "Administrative Manager",
+          "Business Operations Coordinator",
+          "Executive Assistant",
+          "Business Analyst",
+          "Operations Officer",
+          "Administrative Officer",
+          "Team Lead",
+          "Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 1,800 - 2,000 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Business Administration",
+              "Office Management",
+              "Business Communication",
+              "Organizational Management",
+              "Administrative Procedures",
+              "Business Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 65,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus", "Practical office-based training"],
+            "entry_requirements": [
+              "Senior Secondary School completion",
+              "Basic English and Mathematics proficiency",
+              "Interest in business administration"
+            ],
+            "level_note": [
+              "Foundation diploma in business administration with practical skills.",
+              "Pathway to BSc or higher HND programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma Computerized Accounting",
+        "career": [
+          "Accounting Technician",
+          "Accountant",
+          "Bookkeeper",
+          "Accounting Clerk",
+          "Financial Analyst",
+          "Accounting Manager",
+          "Tax Assistant",
+          "Auditing Assistant",
+          "Finance Officer",
+          "Accounts Payable Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,000 - 2,200 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Computerized Accounting",
+              "Financial Accounting",
+              "Cost Accounting",
+              "Taxation",
+              "Accounting Software",
+              "Auditing Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 75,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €55,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus", "Hands-on computer lab training"],
+            "entry_requirements": [
+              "Senior Secondary School completion",
+              "Basic Mathematics proficiency",
+              "Computer literacy advantage"
+            ],
+            "level_note": [
+              "Specialized in computerized accounting systems and software applications.",
+              "Combines accounting theory with practical technology skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma Public Relations",
+        "career": [
+          "PR Officer",
+          "Communications Manager",
+          "PR Manager",
+          "Corporate Communications Officer",
+          "Marketing Communications Manager",
+          "Media Relations Manager",
+          "PR Consultant",
+          "Communications Coordinator",
+          "Brand Communications Officer",
+          "Communications Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 1,800 - 2,000 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Public Relations Strategy",
+              "Media Relations",
+              "Corporate Communications",
+              "Event Management",
+              "Digital PR",
+              "Crisis Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 70,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time on-campus",
+              "Project-based communication activities"
+            ],
+            "entry_requirements": [
+              "Senior Secondary School completion",
+              "Strong English language skills",
+              "Good communication ability"
+            ],
+            "level_note": [
+              "Trains professionals in corporate communications and public relations.",
+              "Emphasizes media engagement and organizational reputation management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma Banking Technology & Accounting",
+        "career": [
+          "Bank Officer",
+          "Banking Technician",
+          "Accounting Officer",
+          "Accounting Technician",
+          "Treasury Assistant",
+          "Financial Services Officer",
+          "Reconciliation Officer",
+          "Banking Operations Officer",
+          "Finance Technician",
+          "Audit Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,000 - 2,200 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Banking Technology",
+              "Financial Accounting",
+              "Banking Operations",
+              "Treasury Management",
+              "Banking Software",
+              "Financial Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 80,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus", "Banking sector partnerships"],
+            "entry_requirements": [
+              "Senior Secondary School completion",
+              "Mathematics and English proficiency",
+              "Interest in banking sector"
+            ],
+            "level_note": [
+              "Combines banking operations with computerized accounting systems.",
+              "Prepares technicians for financial sector employment with modern tech skills."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Arts and Social Science Studies",
+    "note": [
+      "Develops critical thinkers and communication professionals across humanities and social disciplines.",
+      "Emphasizes cultural awareness and international perspectives in education.",
+      "Graduates prepared for diverse careers in education, government, NGOs, and media sectors."
+    ],
+    "courses": [
+      {
+        "course_name": "BEd Management",
+        "career": [
+          "Secondary School Teacher",
+          "School Administrator",
+          "Educational Manager",
+          "Curriculum Coordinator",
+          "School Principal",
+          "Deputy Principal",
+          "Educational Consultant",
+          "College Lecturer",
+          "Education Officer",
+          "Training Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,600 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Educational Management",
+              "School Administration",
+              "Leadership in Education",
+              "Curriculum Development",
+              "Educational Planning",
+              "Management Studies"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 95,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €65,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-30"],
+            "mode": ["Full-time on-campus", "Teaching practice integrated"],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, and three electives",
+              "Aggregate 24-30",
+              "Interest in education and leadership"
+            ],
+            "level_note": [
+              "Prepares educators for school management and leadership positions.",
+              "Integrates pedagogical and administrative expertise for effective school leadership."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Religious Education",
+        "career": [
+          "Religious Education Teacher",
+          "Chaplain",
+          "Youth Leader",
+          "Church Educator",
+          "School Religious Coordinator",
+          "Theological Educator",
+          "Ministry Educator",
+          "Faith-based Organization Director",
+          "Religious Studies Lecturer",
+          "Educational Ministry Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,600 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Biblical Studies",
+              "Religious Education Methods",
+              "Christian Ethics",
+              "World Religions",
+              "Theology",
+              "Religious Philosophy"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 90,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €60,000 - €110,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-30"],
+            "mode": [
+              "Full-time on-campus",
+              "Classroom and spiritual formation"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, and three electives",
+              "Aggregate 24-30",
+              "Religious background or interest"
+            ],
+            "level_note": [
+              "Trains educators in religious and moral education for schools and communities.",
+              "Combines theological knowledge with pedagogical skills for faith-based learning."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BEd French",
+        "career": [
+          "French Teacher",
+          "Secondary School Educator",
+          "Language Coordinator",
+          "Curriculum Developer",
+          "School Administrator",
+          "College Lecturer",
+          "Language Education Officer",
+          "Translator",
+          "Interpreter",
+          "Educational Content Creator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,600 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "French Language",
+              "French Literature",
+              "French Culture",
+              "Language Teaching Methods",
+              "Linguistics",
+              "Translation Studies"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 95,000 annually",
+              "USA: $70,000 - $125,000",
+              "Europe: €68,000 - €130,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-30"],
+            "mode": ["Full-time on-campus", "Language laboratory training"],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, and three electives",
+              "Aggregate 24-30",
+              "Preferably with French at secondary level"
+            ],
+            "level_note": [
+              "Develops fluent French teachers with language mastery and pedagogical skills.",
+              "Includes cultural immersion and contemporary teaching methodologies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma French",
+        "career": [
+          "French Tutor",
+          "Language Assistant",
+          "Translator",
+          "Language Coordinator",
+          "Communication Officer",
+          "Administrative Officer",
+          "Customer Service Officer",
+          "Office Assistant",
+          "Tourism Guide",
+          "Interpreter"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 1,600 - 1,800 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "French Language Skills",
+              "French Communication",
+              "French Culture",
+              "Business French",
+              "Translation Basics",
+              "Pronunciation and Phonetics"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 60,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time on-campus",
+              "Conversational and practical training"
+            ],
+            "entry_requirements": [
+              "Senior Secondary School completion",
+              "Interest in French language",
+              "Basic English proficiency"
+            ],
+            "level_note": [
+              "Develops practical French language proficiency for communication and work.",
+              "Emphasizes conversational skills and cultural understanding."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Health and Allied Science",
+    "note": [
+      "Dedicated to training healthcare professionals and medical technicians.",
+      "Combines theoretical knowledge with extensive clinical and laboratory practicum.",
+      "Strong partnerships with hospitals and healthcare facilities for student placements."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc General Nursing",
+        "career": [
+          "Registered Nurse",
+          "Hospital Nurse",
+          "Clinical Nurse",
+          "Community Health Nurse",
+          "Nurse Manager",
+          "Nursing Supervisor",
+          "Health Educator",
+          "Occupational Health Nurse",
+          "Ward Manager",
+          "Nursing Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Medical-Surgical Nursing",
+              "Community Health Nursing",
+              "Pediatric Nursing",
+              "Maternal and Child Health",
+              "Mental Health Nursing",
+              "Nursing Management"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 100,000 annually",
+              "USA: $85,000 - $160,000",
+              "Europe: €75,000 - €145,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 20-26"],
+            "mode": [
+              "Full-time on-campus with clinical placements",
+              "Hospital and community-based training"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, Biology, Chemistry",
+              "Aggregate 20-26 with science subjects",
+              "Physical and mental fitness for nursing"
+            ],
+            "level_note": [
+              "Comprehensive nursing education combining theory and clinical practice in healthcare settings.",
+              "Prepares competent nurses for diverse healthcare environments and patient care roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Medical Laboratory Technology",
+        "career": [
+          "Medical Laboratory Technologist",
+          "Laboratory Technician",
+          "Clinical Pathology Technician",
+          "Medical Technician",
+          "Laboratory Manager",
+          "Quality Control Technician",
+          "Phlebotomist",
+          "Health Services Officer",
+          "Hospital Technician",
+          "Diagnostic Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": ["Ghanaian Students: GHC 3,500 - 4,000 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Clinical Laboratory Methods",
+              "Pathology",
+              "Hematology",
+              "Microbiology",
+              "Clinical Chemistry",
+              "Quality Assurance"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 90,000 annually",
+              "USA: $75,000 - $140,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus", "Hands-on laboratory training"],
+            "entry_requirements": [
+              "Senior Secondary School completion with science subjects",
+              "Credits in Biology, Chemistry, and Mathematics",
+              "Interest in medical laboratory work"
+            ],
+            "level_note": [
+              "Trains skilled technicians in clinical laboratory science and diagnostic procedures.",
+              "Combines theory with practical laboratory experience using modern diagnostic equipment."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School Of Theology and Ministry",
+    "note": [
+      "Shaped by the Baptist heritage and Christian principles of service and excellence.",
+      "Integrates biblical study with practical ministerial training and spiritual formation.",
+      "Produces compassionate and effective spiritual leaders for churches and communities."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Theology",
+        "career": [
+          "Pastor/Minister",
+          "Chaplain",
+          "Missionary",
+          "Theological Educator",
+          "Church Administrator",
+          "Christian Counselor",
+          "Theology Lecturer",
+          "Youth Minister",
+          "Seminary Instructor",
+          "Ministry Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,400 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Biblical Studies",
+              "Systematic Theology",
+              "Church History",
+              "Pastoral Ministry",
+              "Homiletics",
+              "Christian Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 95,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €55,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-32"],
+            "mode": ["Full-time on-campus", "Spiritual formation integrated"],
+            "entry_requirements": [
+              "WASSCE: Credits in English Language, Mathematics, and three electives",
+              "Aggregate 24-32",
+              "Christian background and ministerial calling"
+            ],
+            "level_note": [
+              "Rigorous theological education combining biblical, historical, and practical ministry studies.",
+              "Develops spiritually grounded leaders equipped for pastoral and missionary ministry."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma Theology",
+        "career": [
+          "Pastor/Minister",
+          "Chaplain",
+          "Church Administrator",
+          "Youth Leader",
+          "Theological Educator",
+          "Christian Counselor",
+          "Ministry Leader",
+          "Missionary Assistant",
+          "Religious Educator",
+          "Church Leader"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 1,600 - 1,800 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Biblical Theology",
+              "Church Doctrine",
+              "Pastoral Studies",
+              "Christian Leadership",
+              "Missiology",
+              "Pastoral Care"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 75,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €48,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus", "Spiritual and academic formation"],
+            "entry_requirements": [
+              "Senior Secondary School completion",
+              "Christian background",
+              "Interest in theological studies and ministry"
+            ],
+            "level_note": [
+              "Foundation theological training for Christian ministry and church service.",
+              "Combines biblical knowledge with practical pastoral and leadership skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma Music",
+        "career": [
+          "Music Teacher",
+          "Musician",
+          "Music Director",
+          "Worship Leader",
+          "Choir Director",
+          "Music Technician",
+          "Audio Engineer",
+          "Music Tutor",
+          "Sound Engineer",
+          "Music Performer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 1,800 - 2,000 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Music Theory",
+              "Instrumental Training",
+              "Vocal Training",
+              "Music Composition",
+              "Music History",
+              "Music Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 65,000 annually",
+              "USA: $45,000 - $100,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time on-campus",
+              "Studio and performance-based training"
+            ],
+            "entry_requirements": [
+              "Senior Secondary School completion",
+              "Basic music knowledge or experience",
+              "Interest in music and performing arts"
+            ],
+            "level_note": [
+              "Develops practical music skills combining theory, performance, and composition.",
+              "Prepares musicians for professional careers in education, worship, and entertainment."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma Ministry",
+        "career": [
+          "Ministry Leader",
+          "Pastoral Worker",
+          "Church Administrator",
+          "Youth Minister",
+          "Chaplain",
+          "Community Worker",
+          "Mission Worker",
+          "Evangelism Coordinator",
+          "Discipleship Leader",
+          "Ministry Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 1,600 - 1,800 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Practical Ministry",
+              "Christian Leadership",
+              "Discipleship",
+              "Community Outreach",
+              "Youth Ministry",
+              "Evangelism"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 70,000 annually",
+              "USA: $50,000 - $105,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus", "Practical ministry placements"],
+            "entry_requirements": [
+              "Senior Secondary School completion",
+              "Christian background",
+              "Commitment to Christian service"
+            ],
+            "level_note": [
+              "Practical training for church and community ministry with hands-on experience.",
+              "Equips ministry workers for effective leadership in diverse ministerial contexts."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
