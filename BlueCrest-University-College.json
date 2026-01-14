@@ -1,0 +1,770 @@
+[
+  {
+    "name": "BlueCrest University College"
+  },
+  {
+    "faculty_name": "School of Technology",
+    "note": [
+      "Provides industry-aligned training in information technology, cybersecurity and emerging digital fields.",
+      "Emphasizes practical skills through intensive lab work, projects and real-world case studies.",
+      "Graduates are prepared for roles in software development, network administration, cybersecurity and IT consulting."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Information Technology",
+        "career": [
+          "Software Developer",
+          "Systems Analyst",
+          "Network Administrator",
+          "Database Administrator",
+          "IT Support Engineer",
+          "Web Developer",
+          "Mobile Application Developer",
+          "IT Project Coordinator",
+          "DevOps Engineer",
+          "Cloud Support Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Data Structures and Algorithms",
+              "Database Management Systems",
+              "Computer Networks",
+              "Web Technologies",
+              "Information Security Fundamentals"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 120,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €70,000 - €135,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Blended learning with intensive laboratory practicals"
+            ],
+            "entry_requirements": [
+              "WASSCE: Six credit passes (A1-C6) including English Language, Core Mathematics and Integrated Science or Social Studies and three Electives with aggregate 36 or better",
+              "SSSCE: Six credit passes (A-D) including English Language, Core Mathematics and Science or Social Studies and three Electives with aggregate 24 or better",
+              "Mature applicants: At least 25 years, with credit passes in English and Mathematics and successful interview"
+            ],
+            "level_note": [
+              "Curriculum covers software development, networking, databases, web technologies and basic cybersecurity.",
+              "Programme is structured to meet current IT industry demands in Ghana and internationally."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc CyberSecurity and Digital Forensics",
+        "career": [
+          "Cybersecurity Analyst",
+          "Information Security Officer",
+          "Security Operations Centre Analyst",
+          "Network Security Engineer",
+          "Digital Forensics Investigator",
+          "Incident Response Specialist",
+          "Vulnerability Assessment Analyst",
+          "Security Compliance Officer",
+          "Penetration Tester",
+          "Security Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Cybersecurity",
+              "Network Security",
+              "Ethical Hacking Fundamentals",
+              "Digital Forensics",
+              "Security Governance and Risk Management",
+              "Malware Analysis and Incident Response"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 135,000 annually",
+              "USA: $95,000 - $170,000",
+              "Europe: €80,000 - €150,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 22-34"],
+            "mode": [
+              "Full-time on-campus",
+              "Lab-based learning with security tools and simulations"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six credit passes including English Language, Core Mathematics and Integrated Science or Social Studies plus three Electives",
+              "At least one Elective in ICT, Elective Mathematics or a Science subject",
+              "Mature or diploma applicants with ICT background may be considered for higher placement"
+            ],
+            "level_note": [
+              "Focuses on protecting systems and networks and investigating cyber incidents.",
+              "Designed for students interested in high-demand careers in cybersecurity and forensics."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Information Technology",
+        "career": [
+          "IT Manager",
+          "Senior Systems Analyst",
+          "Solutions Architect",
+          "IT Project Manager",
+          "Enterprise Systems Administrator",
+          "Technology Consultant",
+          "Data and Systems Integration Specialist",
+          "IT Governance and Risk Manager",
+          "Cloud Solutions Architect",
+          "ICT Lecturer or Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 6,500 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Software Engineering",
+              "Advanced Computer Networks",
+              "Database and Data Warehousing",
+              "Information Security Management",
+              "IT Project Management",
+              "Emerging Technologies and Innovation"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 150,000 annually",
+              "USA: $110,000 - $180,000",
+              "Europe: €85,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekday evening and weekend sessions for working professionals",
+              "Coursework, projects and research-focused modules"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree in Information Technology, Computer Science or related field from a recognised institution",
+              "Normally a minimum of Second Class Lower division or equivalent",
+              "Relevant IT work experience is an advantage and may be required for lower classifications"
+            ],
+            "level_note": [
+              "Provides advanced knowledge in core IT domains and leadership in technology management.",
+              "Suitable for professionals seeking senior technical or managerial positions in the IT sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Certificate in Cyber Security and Digital Forensics",
+        "career": [
+          "Cybersecurity Technician",
+          "Information Security Assistant",
+          "SOC Support Analyst",
+          "Network Security Assistant",
+          "Junior Digital Forensics Technician",
+          "IT Support with Security Focus",
+          "Vulnerability Assessment Assistant",
+          "Security Monitoring Technician",
+          "Incident Response Assistant",
+          "Security Awareness Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,000 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Fundamentals of Cybersecurity",
+              "Network and System Security Basics",
+              "Introduction to Digital Forensics",
+              "Ethical Hacking Tools and Techniques",
+              "Security Policies and Best Practices",
+              "Log Analysis and Incident Handling Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 65,000 annually",
+              "USA: $40,000 - $75,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend classes",
+              "Practice-oriented delivery using labs and security tools"
+            ],
+            "entry_requirements": [
+              "Senior High School completion with passes in English Language and Mathematics",
+              "Basic computer literacy and interest in IT security",
+              "IT support staff and diploma holders seeking security skills are encouraged"
+            ],
+            "level_note": [
+              "Short, intensive programme introducing practical cybersecurity and forensics skills.",
+              "Ideal for IT practitioners and graduates seeking to specialise in entry-level security roles."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Business and Technology",
+    "note": [
+      "Integrates business management, technology and communication to prepare students for modern workplaces.",
+      "Offers undergraduate degrees, diplomas and professional certificates with strong practical focus.",
+      "Graduates pursue careers in banking, HR, entrepreneurship, media and technology-driven business roles."
+    ],
+    "courses": [
+      {
+        "course_name": "BBA Banking and Finance",
+        "career": [
+          "Banking Officer",
+          "Credit Analyst",
+          "Relationship Manager",
+          "Risk Management Officer",
+          "Treasury Officer",
+          "Microfinance Officer",
+          "Investment Advisor",
+          "Customer Service Executive (Banking)",
+          "Retail Banking Officer",
+          "Financial Services Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,600 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Banking",
+              "Financial Management",
+              "Money and Banking",
+              "Investment Analysis",
+              "Risk Management in Financial Institutions",
+              "International Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $80,000 - $140,000",
+              "Europe: €65,000 - €125,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Case studies, simulations and industry seminars"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six credit passes including English Language, Core Mathematics and Integrated Science or Social Studies",
+              "Credits in three Electives such as Economics, Business Management, Accounting or Elective Mathematics",
+              "Diploma or HND holders in banking or finance may apply for top-up after assessment"
+            ],
+            "level_note": [
+              "Provides solid grounding in banking operations, financial markets and risk management.",
+              "Prepares graduates for careers across the banking and wider financial services sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA Human Resource Management",
+        "career": [
+          "Human Resource Officer",
+          "HR Manager",
+          "Recruitment and Selection Officer",
+          "Training and Development Officer",
+          "Compensation and Benefits Analyst",
+          "Employee Relations Officer",
+          "Staff Welfare Officer",
+          "Talent Management Specialist",
+          "HR Generalist",
+          "Organisational Development Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,600 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Human Resource Management",
+              "Organisational Behaviour",
+              "Recruitment and Selection",
+              "Training and Development",
+              "Performance Management",
+              "Labour Law and Industrial Relations"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Interactive lectures, presentations and group projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six credit passes including English Language and Core Mathematics",
+              "Credits in three Electives from Business, General Arts or related areas",
+              "Mature applicants with relevant work experience may be considered after an interview"
+            ],
+            "level_note": [
+              "Focuses on managing people, workplace relations and organisational performance.",
+              "Equips graduates to work in HR departments across private, public and non-profit sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Entrepreneurship, Technology and Innovation",
+        "career": [
+          "Startup Founder",
+          "Business Development Manager",
+          "Innovation Manager",
+          "Product Manager",
+          "Venture Creation Consultant",
+          "Technology Entrepreneur",
+          "Innovation and Strategy Analyst",
+          "Small Business Owner",
+          "Incubation and Hub Manager",
+          "Corporate Intrapreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,600 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Entrepreneurship and New Venture Creation",
+              "Innovation Management",
+              "Design Thinking and Prototyping",
+              "Technology and Business Models",
+              "Digital Entrepreneurship",
+              "Small Business Finance and Growth"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually",
+              "USA: $70,000 - $150,000",
+              "Europe: €60,000 - €130,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Project and venture-lab based learning"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six credit passes including English Language, Core Mathematics and Integrated Science or Social Studies",
+              "Credits in three Electives from Business, General Arts or Science programmes",
+              "Applicants with demonstrable entrepreneurial interest are encouraged"
+            ],
+            "level_note": [
+              "Blends business, technology and innovation to support startup creation and growth.",
+              "Suitable for students aiming to launch their own businesses or innovate within organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA Mass Communication and Journalism",
+        "career": [
+          "Journalist",
+          "News Reporter",
+          "Broadcast Presenter",
+          "Public Relations Officer",
+          "Corporate Communications Executive",
+          "Content Writer",
+          "Social Media Manager",
+          "Media Producer",
+          "Copywriter",
+          "Media Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,600 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Mass Communication",
+              "News Writing and Reporting",
+              "Broadcast Journalism",
+              "Public Relations Principles",
+              "Digital and Social Media",
+              "Media Law and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €95,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Classroom teaching with studio and fieldwork components"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six credit passes including English Language and Core Mathematics",
+              "Credits in three Electives such as General Arts, Business or Visual Arts subjects",
+              "Strong writing and communication skills are advantageous"
+            ],
+            "level_note": [
+              "Combines theoretical understanding of media with practical journalism and communication skills.",
+              "Prepares graduates for diverse roles in media houses, corporate communication and NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Certificate in Digital Journalism",
+        "career": [
+          "Digital Journalist",
+          "Online Content Creator",
+          "Social Media Reporter",
+          "Blog Writer",
+          "Multimedia Content Producer",
+          "Digital Newsroom Assistant",
+          "Copy Editor",
+          "Podcast and Video Content Assistant",
+          "Community Manager",
+          "Freelance Digital Reporter"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,000 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Introduction to Digital Journalism",
+              "News Writing for Online Platforms",
+              "Social Media Reporting",
+              "Mobile Journalism Techniques",
+              "Multimedia Storytelling",
+              "Ethics in Digital Media"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 55,000 annually",
+              "USA: $35,000 - $65,000",
+              "Europe: €32,000 - €60,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible schedules for working professionals",
+              "Practical newsroom and field assignments"
+            ],
+            "entry_requirements": [
+              "Senior High School completion with interest in media and communication",
+              "Good written and spoken English",
+              "Media workers seeking to upskill in digital journalism are encouraged"
+            ],
+            "level_note": [
+              "Short professional course targeting practical skills in online and social media reporting.",
+              "Suitable for both aspiring journalists and practicing media staff transitioning to digital platforms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "UK Accredited Level 3 Diploma in Business",
+        "career": [
+          "Administrative Assistant",
+          "Office Supervisor",
+          "Customer Service Officer",
+          "Sales and Marketing Assistant",
+          "Junior Business Analyst",
+          "Retail Supervisor",
+          "Operations Assistant",
+          "Team Leader",
+          "Entrepreneurial Support Officer",
+          "Branch Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,000 (Total)"],
+            "duration": "1 year",
+            "electives": [
+              "Business Environment",
+              "Business Communication",
+              "Marketing Principles",
+              "Financial and Management Accounting Basics",
+              "People and Organisations",
+              "Entrepreneurship and Innovation Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 60,000 annually",
+              "USA: $40,000 - $70,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend classes",
+              "Coursework and practical business projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credit passes in English Language and Core Mathematics",
+              "Some work experience in business-related roles is an advantage",
+              "Holders may progress to higher level diplomas or degree programmes"
+            ],
+            "level_note": [
+              "Provides a UK-accredited foundation in core business concepts.",
+              "Designed for those seeking international-standard business qualifications at diploma level."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "UK Accredited Level 4 Diploma in Information and Digital Technologies",
+        "career": [
+          "IT Support Specialist",
+          "Junior Systems Analyst",
+          "Network Support Technician",
+          "Web and Digital Technologies Assistant",
+          "Database Support Assistant",
+          "Helpdesk Analyst",
+          "IT Project Assistant",
+          "Digital Transformation Assistant",
+          "Technical Support Engineer",
+          "ICT Trainer Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,200 (Total)"],
+            "duration": "1 year",
+            "electives": [
+              "Information Systems and Organisations",
+              "Networking and Infrastructure Basics",
+              "Database Systems",
+              "Web and Mobile Technologies",
+              "Systems Analysis and Design",
+              "Cybersecurity and Risk Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 65,000 annually",
+              "USA: $42,000 - $75,000",
+              "Europe: €36,000 - €70,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible mode suited to working professionals",
+              "Blended learning with strong lab and project components"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credit passes in English Language and Core Mathematics",
+              "Basic ICT background or completion of a Level 3 IT diploma",
+              "Diploma and certificate holders may use this as a pathway into degree programmes"
+            ],
+            "level_note": [
+              "Provides advanced diploma-level training in IT and digital technologies.",
+              "Recognised as a progression route to higher level IT degrees and roles."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Fashion & Design",
+    "note": [
+      "Specialises in creative education in fashion design, garment construction and event aesthetics.",
+      "Combines artistic skills with technical training and business awareness for the fashion industry.",
+      "Graduates work as designers, entrepreneurs, stylists and creative professionals across multiple sectors."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Fashion Design",
+        "career": [
+          "Fashion Designer",
+          "Apparel Product Developer",
+          "Fashion Illustrator",
+          "Pattern Maker",
+          "Garment Technologist",
+          "Fashion Entrepreneur",
+          "Costume Designer",
+          "Fashion Stylist",
+          "Visual Merchandiser",
+          "Fashion Buyer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Fashion Illustration",
+              "Pattern Cutting and Garment Construction",
+              "Textile Science and Fabric Technology",
+              "Fashion Collection Development",
+              "Fashion Marketing and Branding",
+              "Computer-Aided Fashion Design"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 95,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Studio, workshop and runway presentation projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six credit passes including English Language and Core Mathematics",
+              "Credits in three Electives, preferably Visual Arts, Home Economics or related fields",
+              "Portfolio of creative work is an advantage during selection"
+            ],
+            "level_note": [
+              "Combines design theory, technical skills and industry projects in fashion.",
+              "Prepares students to launch fashion labels or work in established fashion houses."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Fashion Design",
+        "career": [
+          "Assistant Fashion Designer",
+          "Garment Cutter and Tailor",
+          "Dressmaker",
+          "Sample Room Assistant",
+          "Fashion Production Assistant",
+          "Boutique Owner",
+          "Costume Assistant",
+          "Pattern Room Assistant",
+          "Alterations Specialist",
+          "Fashion Retail Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,500 (Total)"],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Fashion Design",
+              "Basic Pattern Drafting",
+              "Garment Construction Techniques",
+              "Textiles for Fashion",
+              "Fashion Illustration Basics",
+              "Small Business Skills for Fashion"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 52,000 annually",
+              "USA: $35,000 - $55,000",
+              "Europe: €32,000 - €52,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 30-40"],
+            "mode": [
+              "Full-time on-campus",
+              "Hands-on studio, sewing and pattern work"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE passes including English Language",
+              "Interest and aptitude in fashion, sewing or design",
+              "Applicants may be asked to present samples of work or attend a practical session"
+            ],
+            "level_note": [
+              "Provides practical skills in garment making and basic fashion design.",
+              "Ideal for SHS graduates and artisans wishing to formalise and expand their fashion skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Certificate in Fashion Design",
+        "career": [
+          "Fashion Design Assistant",
+          "Custom Tailor",
+          "Dressmaker",
+          "Fashion Boutique Designer",
+          "Wardrobe Consultant",
+          "Alterations Specialist",
+          "Pattern and Cutting Assistant",
+          "Freelance Fashion Creator",
+          "Costume Assistant",
+          "Bridal Wear Designer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 2,000 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Basics of Fashion Illustration",
+              "Introduction to Pattern Drafting",
+              "Sewing and Garment Construction",
+              "Textiles and Fabric Selection",
+              "Finishing Techniques in Garment Making",
+              "Fashion Trends and Styling Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 45,000 annually",
+              "USA: $32,000 - $50,000",
+              "Europe: €28,000 - €46,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible timings suitable for workers and artisans",
+              "Studio-based teaching with intensive practical exercises"
+            ],
+            "entry_requirements": [
+              "Basic education with ability to read and write English",
+              "Interest in fashion, sewing or garment construction",
+              "Artisans and SHS graduates looking to upgrade skills are encouraged"
+            ],
+            "level_note": [
+              "Short professional programme focused on core fashion design and garment skills.",
+              "Suitable for beginners and practitioners wanting structured training in fashion design."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Event Management and Decoration",
+        "career": [
+          "Event Coordinator",
+          "Event Decorator",
+          "Wedding Planner Assistant",
+          "Corporate Event Assistant",
+          "Banquet and Venue Decor Assistant",
+          "Event Stylist",
+          "Floral Arrangement Assistant",
+          "Conference and Exhibition Assistant",
+          "Party Planner",
+          "Hospitality and Events Support Staff"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 1,800 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Introduction to Event Planning",
+              "Concept Development and Theme Design",
+              "Venue and Space Decoration",
+              "Floral and Table Arrangement Basics",
+              "Budgeting and Vendor Coordination",
+              "Customer Service and Event Presentation"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 45,000 annually",
+              "USA: $30,000 - $50,000",
+              "Europe: €26,000 - €46,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and evening sessions",
+              "Practical decoration projects and field assignments"
+            ],
+            "entry_requirements": [
+              "Basic education with interest in events and decoration",
+              "Good interpersonal and organisational skills",
+              "Artisans and SHS graduates seeking entry into events industry may apply"
+            ],
+            "level_note": [
+              "Provides hands-on skills in planning and decorating social and corporate events.",
+              "Prepares learners for freelance work or support roles in event management companies."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
