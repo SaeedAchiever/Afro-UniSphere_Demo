@@ -1,0 +1,1025 @@
+[
+  {
+    "name": "Christ Apostolic University College"
+  },
+  {
+    "faculty_name": "School of Business",
+    "note": [
+      "Offers business programmes that integrate Christian values with management and leadership skills.",
+      "Provides pathways from diploma level to full bachelor’s degrees in key business disciplines.",
+      "Designed to equip graduates with employable skills for corporate, public and entrepreneurial careers."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Business Administration (Accounting Option)",
+        "career": [
+          "Accountant",
+          "Financial Analyst",
+          "Audit Associate",
+          "Tax Consultant",
+          "Cost Accountant",
+          "Accounts Officer",
+          "Budget Analyst",
+          "Payroll Officer",
+          "Internal Auditor",
+          "Finance Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Taxation",
+              "Auditing and Assurance",
+              "Corporate Reporting",
+              "Public Sector Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $75,000 - $140,000",
+              "Europe: €65,000 - €130,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Day, evening and weekend sessions",
+              "Classroom lectures and practical accounting software sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language, Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three Business-related Elective subjects",
+              "Applicants with D7 in a non-compulsory core may be considered after counselling or advised to start with a diploma"
+            ],
+            "level_note": [
+              "Provides strong foundations in financial and managerial accounting practices.",
+              "Prepares students for professional qualifications and accounting roles in various sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (Human Resource Management Option)",
+        "career": [
+          "Human Resource Officer",
+          "HR Manager",
+          "Recruitment Specialist",
+          "Training and Development Officer",
+          "Compensation and Benefits Analyst",
+          "Employee Relations Officer",
+          "HR Generalist",
+          "Staff Welfare Officer",
+          "Talent Management Specialist",
+          "Labour Relations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Human Resource Management",
+              "Organizational Behaviour",
+              "Performance Management",
+              "Training and Development",
+              "Compensation and Benefits Management",
+              "Labour Law and Industrial Relations"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $70,000 - $135,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Day, evening and weekend sessions",
+              "Lectures, case studies and group projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language and Mathematics",
+              "Credit passes in three Elective subjects in Business, General Arts or related fields",
+              "Mature applicants (25 years and above) with work experience may write an entrance examination"
+            ],
+            "level_note": [
+              "Emphasizes the management of people and workplace culture in organizations.",
+              "Equips graduates with competencies for HR roles in corporate and non-profit environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (Procurement and Supply Chain Management Option)",
+        "career": [
+          "Procurement Officer",
+          "Supply Chain Analyst",
+          "Logistics Coordinator",
+          "Purchasing Manager",
+          "Inventory Controller",
+          "Warehouse Supervisor",
+          "Materials Planner",
+          "Contract and Tender Officer",
+          "Operations Officer",
+          "Distribution Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Procurement",
+              "Supply Chain Management",
+              "Logistics and Transport Management",
+              "Inventory and Warehouse Management",
+              "Contract Management",
+              "International Purchasing"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 105,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Day, evening and weekend sessions",
+              "Industry-focused teaching with case studies and field visits"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language, Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three Electives, preferably in Business, General Arts or Science",
+              "HND or diploma holders in related areas may gain advanced standing after assessment"
+            ],
+            "level_note": [
+              "Focuses on efficient sourcing, logistics and distribution of goods and services.",
+              "Prepares students for roles in manufacturing, retail, public procurement and NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (Hospitality and Tourism Management Option)",
+        "career": [
+          "Hotel Manager",
+          "Front Office Manager",
+          "Guest Relations Manager",
+          "Tour Operations Officer",
+          "Events and Conference Coordinator",
+          "Restaurant Supervisor",
+          "Travel and Tours Consultant",
+          "Resort Operations Manager",
+          "Hospitality Sales Executive",
+          "Customer Service Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Hospitality and Tourism",
+              "Front Office Operations",
+              "Food and Beverage Management",
+              "Tourism Geography and Destinations",
+              "Customer Care in Hospitality",
+              "Event and Conference Management"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Day, evening and weekend sessions",
+              "Classroom teaching with practical exposure in hotels and tourism facilities"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language and Mathematics",
+              "Credit passes in three Elective subjects in any programme area",
+              "Interest in hospitality, tourism and customer service"
+            ],
+            "level_note": [
+              "Combines business administration with practical hospitality and tourism management skills.",
+              "Suited for students interested in hotel, restaurant, events and travel careers."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Business Administration",
+        "career": [
+          "Administrative Assistant",
+          "Office Clerk",
+          "Customer Service Officer",
+          "Sales Assistant",
+          "Accounts Clerk",
+          "Store Assistant",
+          "Front Desk Officer",
+          "Junior Supervisor",
+          "Operations Assistant",
+          "Small Business Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,300 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Principles of Management",
+              "Introduction to Marketing",
+              "Basic Accounting",
+              "Business Communication",
+              "Office Practice",
+              "Entrepreneurship Fundamentals"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 55,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €32,000 - €55,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 28-40"],
+            "mode": [
+              "Day, evening and weekend sessions",
+              "Classroom-based learning with practical assignments"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with passes in English Language and Mathematics",
+              "Aggregate up to 40 may be considered for diploma level",
+              "Students with D7 in some core subjects may be admitted for diploma after counselling"
+            ],
+            "level_note": [
+              "Offers foundational business knowledge for entry-level administrative and business roles.",
+              "Provides a pathway for progression into BSc Business Administration programmes."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Technology",
+    "note": [
+      "Provides technology-focused programmes that blend computing with business and accounting applications.",
+      "Emphasizes practical training using modern computer laboratories and industry-relevant tools.",
+      "Graduates are prepared for roles in software development, IT support, cybersecurity and systems management."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Accounting Information Systems",
+        "career": [
+          "Systems Accountant",
+          "Accounting Information Systems Analyst",
+          "ERP Support Specialist",
+          "Financial Systems Administrator",
+          "Business Systems Analyst",
+          "IT Auditor",
+          "Data Analyst",
+          "Management Accountant",
+          "Financial Reporting Specialist",
+          "Information Systems Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,300 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Database Systems",
+              "Accounting Information Systems",
+              "Systems Analysis and Design",
+              "Business Intelligence and Reporting",
+              "Computerized Accounting Applications"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 115,000 annually",
+              "USA: $80,000 - $140,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Day, evening and weekend sessions",
+              "Blended lectures and computer laboratory practicals"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language, Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three Electives including at least one of Accounting, Business Management, ICT or Elective Mathematics",
+              "Applicants with strong ICT and business backgrounds are preferred"
+            ],
+            "level_note": [
+              "Combines accounting principles with information systems and database skills.",
+              "Prepares graduates to support and manage technology-based accounting solutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Information and Communication Technology",
+        "career": [
+          "Software Developer",
+          "Network Administrator",
+          "Systems Analyst",
+          "IT Support Engineer",
+          "Web Developer",
+          "Database Administrator",
+          "ICT Project Assistant",
+          "IT Trainer",
+          "Cybersecurity Analyst",
+          "Mobile Application Developer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,300 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Data Structures and Algorithms",
+              "Computer Networks",
+              "Database Systems",
+              "Web Technologies",
+              "Information Security Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 120,000 annually",
+              "USA: $85,000 - $150,000",
+              "Europe: €70,000 - €135,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Day, evening and weekend sessions",
+              "Intensive hands-on lab work and project-based learning"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language, Core Mathematics and Integrated Science",
+              "Credit passes in three Electives including at least one Science, ICT or Elective Mathematics subject",
+              "Applicants with strong interest in computing and problem-solving are encouraged"
+            ],
+            "level_note": [
+              "Provides a broad foundation in software development, networking and database technologies.",
+              "Equips students for diverse roles in ICT across industry, government and NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Professional Diploma in Computerized Accounting",
+        "career": [
+          "Computerized Accounting Specialist",
+          "Accounts Officer",
+          "Bookkeeper",
+          "Billing and Invoicing Officer",
+          "Payroll Officer",
+          "Accounting Software Consultant",
+          "Accounts Payable Officer",
+          "Accounts Receivable Officer",
+          "Finance Assistant",
+          "Small Business Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,000 (Total)"],
+            "duration": "1 year",
+            "electives": [
+              "Introduction to Computerized Accounting",
+              "Financial Accounting Principles",
+              "Accounting Software Applications",
+              "Spreadsheet Accounting",
+              "Payroll and Tax Computations",
+              "Computerized Reporting and Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 65,000 annually",
+              "USA: $40,000 - $70,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend classes suitable for workers",
+              "Practice-based sessions in computer laboratories"
+            ],
+            "entry_requirements": [
+              "Senior high school completion with passes in English Language and Mathematics",
+              "Basic computer literacy is an advantage",
+              "Accounting technicians and clerks seeking to upgrade skills are encouraged"
+            ],
+            "level_note": [
+              "Focuses on practical use of accounting software for day-to-day financial tasks.",
+              "Ideal for working professionals seeking to add computerized accounting to their skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Computerized Accounting",
+        "career": [
+          "Accounts Clerk",
+          "Accounting Assistant",
+          "Bookkeeper",
+          "Billing Clerk",
+          "Payroll Clerk",
+          "Cashier Supervisor",
+          "Finance Support Officer",
+          "Accounts Data Entry Clerk",
+          "Microfinance Assistant",
+          "Store and Accounts Clerk"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,400 (Total)"],
+            "duration": "2 years",
+            "electives": [
+              "Basic Financial Accounting",
+              "Computer Applications in Accounting",
+              "Spreadsheet Skills",
+              "Introduction to Costing",
+              "Cash and Bank Management",
+              "Accounting Software Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 55,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €32,000 - €55,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 30-40"],
+            "mode": [
+              "Day, evening and weekend sessions",
+              "Hands-on computer lab work with real-life accounting scenarios"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE passes including English Language and Mathematics",
+              "Applicants with D7 in some core subjects may be considered for diploma level",
+              "Interest in accounting and computer applications"
+            ],
+            "level_note": [
+              "Provides grounding in both manual and computerized accounting processes.",
+              "Suited for SHS leavers aiming at junior accounting roles or further studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Cybersecurity and Digital Forensics",
+        "career": [
+          "Cybersecurity Technician",
+          "Information Security Assistant",
+          "Security Operations Centre Support Staff",
+          "Network Security Assistant",
+          "Digital Forensics Technician",
+          "Incident Response Assistant",
+          "IT Support with Security Focus",
+          "Vulnerability Assessment Assistant",
+          "Systems Monitoring Assistant",
+          "Security Awareness Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,800 (Total)"],
+            "duration": "1 year",
+            "electives": [
+              "Introduction to Cybersecurity",
+              "Network Fundamentals",
+              "Operating Systems Security Basics",
+              "Digital Forensics Fundamentals",
+              "Ethical Hacking Basics",
+              "Security Policies and Best Practices"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 75,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend delivery",
+              "Lab-based exercises and simulations"
+            ],
+            "entry_requirements": [
+              "Senior high school completion with passes in English Language and Mathematics",
+              "Basic ICT knowledge is an advantage",
+              "IT support staff seeking to specialize in cybersecurity are encouraged"
+            ],
+            "level_note": [
+              "Introduces fundamental cybersecurity and digital forensics skills for support roles.",
+              "Provides a stepping stone to more advanced security certifications and degrees."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Computer Science",
+        "career": [
+          "Junior Software Developer",
+          "IT Support Technician",
+          "Web Developer Assistant",
+          "Database Assistant",
+          "Systems Support Technician",
+          "Computer Laboratory Assistant",
+          "Helpdesk Technician",
+          "Data Entry Supervisor",
+          "Programming Assistant",
+          "Technical Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,500 (Total)"],
+            "duration": "2 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Object-Oriented Programming",
+              "Computer Organization",
+              "Database Fundamentals",
+              "Web Development Basics",
+              "Data Structures Concepts"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 65,000 annually",
+              "USA: $40,000 - $75,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 28-38"],
+            "mode": [
+              "Day and evening sessions",
+              "Project-based and lab-focused teaching"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE passes including English Language, Mathematics and Integrated Science",
+              "Electives in Science, ICT or related areas are an advantage",
+              "Applicants should have interest in programming and problem-solving"
+            ],
+            "level_note": [
+              "Covers core areas of computing to prepare students for junior technical roles.",
+              "Suitable for students planning to progress into BSc ICT or related degrees."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Information Technology",
+        "career": [
+          "ICT Support Officer",
+          "Network Support Assistant",
+          "Computer Technician",
+          "Helpdesk Support Officer",
+          "Data Entry Officer",
+          "Computer Lab Technician",
+          "IT Sales Representative",
+          "User Support Assistant",
+          "Office ICT Assistant",
+          "Field Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,400 (Total)"],
+            "duration": "2 years",
+            "electives": [
+              "Computer Hardware and Maintenance",
+              "Operating Systems",
+              "Networking Essentials",
+              "Office Productivity Applications",
+              "Introduction to Databases",
+              "Basics of Web Technologies"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 55,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €34,000 - €60,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 30-40"],
+            "mode": [
+              "Day, evening and weekend schedules",
+              "Hands-on laboratory sessions and practical projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE passes including English Language and Mathematics",
+              "Interest in computers and ICT support roles",
+              "Workers seeking practical IT skills may apply"
+            ],
+            "level_note": [
+              "Focuses on practical ICT support skills for offices, schools and small businesses.",
+              "Ideal for SHS leavers wishing to enter the ICT job market quickly."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Education",
+    "note": [
+      "Prepares professional teachers with both subject-matter expertise and pedagogical skills.",
+      "Programmes are aligned with national standards for teacher education in Ghana.",
+      "Graduates are equipped to serve in basic, secondary and tertiary educational institutions."
+    ],
+    "courses": [
+      {
+        "course_name": "B.Ed Management",
+        "career": [
+          "Business Studies Teacher",
+          "Management Teacher at Senior High School",
+          "School Administrator",
+          "Head of Department",
+          "Education Officer",
+          "Curriculum Coordinator",
+          "Training and Development Officer",
+          "Guidance and Counselling Assistant",
+          "Educational Consultant",
+          "Assistant Headteacher"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,900 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Foundations of Education",
+              "Educational Psychology",
+              "Curriculum Development",
+              "Principles of Management",
+              "Instructional Strategies in Business Education",
+              "Measurement and Evaluation"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $55,000 - $95,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Day and weekend sessions",
+              "School-based teaching practice and classroom observations"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language, Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three Elective subjects, preferably in Business or General Arts",
+              "Diploma in Education or related field may attract advanced standing"
+            ],
+            "level_note": [
+              "Combines management content with educational theory and practice.",
+              "Trains graduates to teach business and management-related subjects in schools."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Ed Accounting",
+        "career": [
+          "Accounting Teacher",
+          "Business Studies Teacher",
+          "School Bursar",
+          "Education Officer (Business)",
+          "Curriculum Developer in Business Education",
+          "Assistant Lecturer in Accounting Education",
+          "Textbook Writer in Accounting",
+          "School Accounts Supervisor",
+          "Assessment Officer",
+          "Educational Consultant in Business"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,900 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting Education",
+              "Cost Accounting Education",
+              "Teaching Methods in Business Subjects",
+              "Educational Technology",
+              "Assessment in Accounting Education",
+              "School Finance and Administration"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 90,000 annually",
+              "USA: $55,000 - $95,000",
+              "Europe: €45,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Day and weekend programmes",
+              "Teaching practice placements in basic and secondary schools"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language, Mathematics and Integrated Science or Social Studies",
+              "Credit passes in Business-related Electives such as Accounting and Business Management",
+              "Diploma in Accounting Education or related area may allow entry at higher level"
+            ],
+            "level_note": [
+              "Develops competency in both accounting content and classroom teaching methods.",
+              "Prepares graduates for teaching positions in second-cycle institutions and colleges."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Ed Basic Education",
+        "career": [
+          "Basic School Teacher",
+          "Classroom Teacher at Primary Level",
+          "Headteacher",
+          "Education Officer",
+          "Guidance and Counselling Coordinator",
+          "Curriculum Implementation Officer",
+          "Remedial Teacher",
+          "Education NGO Project Officer",
+          "Learning Support Coordinator",
+          "Teacher Mentor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,800 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Foundations of Basic Education",
+              "Teaching and Learning in Early Grades",
+              "Language and Literacy Education",
+              "Mathematics Education for Basic Schools",
+              "Science Education for Basic Schools",
+              "Inclusive Education"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 80,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €42,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Day and weekend sessions",
+              "Extensive school-based teaching practice"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language, Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three Electives from any approved SHS programme",
+              "Teacher training college graduates may receive credit transfers"
+            ],
+            "level_note": [
+              "Focuses on teaching methods and content for basic school levels.",
+              "Suitable for those passionate about foundational education and child development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Ed Information Technology",
+        "career": [
+          "ICT Teacher",
+          "Computer Studies Teacher",
+          "School ICT Coordinator",
+          "Education Technology Support Officer",
+          "Instructional Technologist",
+          "ICT Trainer",
+          "Computer Laboratory Manager",
+          "Content Developer for e-Learning",
+          "Education NGO ICT Officer",
+          "Curriculum Resource Developer in ICT"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Foundations of ICT in Education",
+              "Computer Applications in Teaching",
+              "Programming for Educators",
+              "Instructional Design and Technology",
+              "Networking Basics for Schools",
+              "e-Learning and Digital Content Development"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 90,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €45,000 - €95,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Day and weekend sessions",
+              "Combination of classroom teaching and computer lab practice"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Minimum C6 or D in English Language, Mathematics and Integrated Science",
+              "Credit passes in three Electives including ICT, Elective Mathematics or Science subjects where possible",
+              "Applicants with strong ICT background are preferred"
+            ],
+            "level_note": [
+              "Blends ICT skills with pedagogical training for teaching in basic and secondary schools.",
+              "Responds to the growing demand for qualified ICT teachers in Ghanaian schools."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Theology",
+    "note": [
+      "Offers Christ-centred theological education grounded in the ethos of the Christ Apostolic Church.",
+      "Aims to develop spiritually mature, ethically sound and theologically informed Christian leaders.",
+      "Programmes serve both full-time ministry candidates and lay leaders seeking deeper biblical training."
+    ],
+    "courses": [
+      {
+        "course_name": "BA Theology",
+        "career": [
+          "Pastor",
+          "Youth Pastor",
+          "Church Administrator",
+          "Chaplain",
+          "Christian Educator",
+          "Missionary",
+          "Bible School Lecturer",
+          "Christian Counsellor",
+          "Ministry Coordinator",
+          "Non-profit and NGO Ministry Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,600 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Old Testament Studies",
+              "New Testament Studies",
+              "Systematic Theology",
+              "Church History",
+              "Pastoral Theology",
+              "Homiletics and Preaching"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 75,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-40"],
+            "mode": [
+              "Day, evening and weekend sessions",
+              "Combination of classroom learning and supervised ministry practice"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Mathematics and two other Core subjects",
+              "Credit passes in three Electives from any field",
+              "Evidence of Christian commitment and pastoral recommendation is often required"
+            ],
+            "level_note": [
+              "Provides broad biblical, theological and ministerial formation.",
+              "Designed for those preparing for pastoral ministry or advanced theological studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Theology",
+        "career": [
+          "Assistant Pastor",
+          "Evangelist",
+          "Church Worker",
+          "Bible Teacher",
+          "Youth Ministry Leader",
+          "Church Administrator",
+          "Christian Education Worker",
+          "Mission Field Worker",
+          "Lay Preacher",
+          "Small Group Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,000 (Total)"],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Bible Study Methods",
+              "Basic Old and New Testament Survey",
+              "Christian Doctrine",
+              "Spiritual Formation",
+              "Evangelism and Discipleship",
+              "Pastoral Care and Counselling"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually",
+              "USA: $35,000 - $65,000",
+              "Europe: €30,000 - €60,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend classes for workers",
+              "Practical ministry assignments in local churches"
+            ],
+            "entry_requirements": [
+              "Senior high school completion or equivalent",
+              "Basic ability to read and write English",
+              "Recommendation from a pastor or church leader"
+            ],
+            "level_note": [
+              "Offers foundational theological and ministry training for church workers.",
+              "Suitable for lay leaders seeking deeper knowledge and structured ministry preparation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Biblical Studies",
+        "career": [
+          "Bible Study Group Leader",
+          "Sunday School Teacher",
+          "Youth Ministry Volunteer",
+          "Church Discipleship Worker",
+          "Lay Preacher",
+          "Home Cell Leader",
+          "Christian Education Volunteer",
+          "Small Group Facilitator",
+          "Prayer Group Leader",
+          "Outreach Volunteer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 1,500 (Total)"],
+            "duration": "6 months",
+            "electives": [
+              "Introduction to the Bible",
+              "Basic Old Testament Survey",
+              "Basic New Testament Survey",
+              "Foundations of Christian Doctrine",
+              "Personal Spiritual Growth",
+              "Introduction to Christian Ministry"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 40,000 annually",
+              "USA: $30,000 - $45,000",
+              "Europe: €26,000 - €40,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and evening sessions",
+              "Interactive teaching with group discussions and assignments"
+            ],
+            "entry_requirements": [
+              "Ability to read and understand English or local language",
+              "Active involvement in a local church",
+              "Desire for basic biblical and ministry training"
+            ],
+            "level_note": [
+              "Provides introductory biblical knowledge for committed church members.",
+              "Ideal for volunteers and lay leaders who want structured short-term training."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Ministry",
+        "career": [
+          "Associate Pastor",
+          "Church Planting Assistant",
+          "Youth and Young Adults Pastor",
+          "Outreach Coordinator",
+          "Missions Coordinator",
+          "Worship and Music Leader",
+          "Christian Counsellor",
+          "Chaplain Assistant",
+          "Community Development Worker",
+          "Ministry Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,000 (Total)"],
+            "duration": "2 years",
+            "electives": [
+              "Foundations of Christian Ministry",
+              "Preaching and Teaching",
+              "Pastoral Care and Counselling",
+              "Church Leadership and Administration",
+              "Evangelism and Church Planting",
+              "Ethics in Ministry"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 60,000 annually",
+              "USA: $35,000 - $70,000",
+              "Europe: €30,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend delivery for bi-vocational ministers",
+              "Field ministry practice supervised by faculty and pastors"
+            ],
+            "entry_requirements": [
+              "Senior high school completion or equivalent",
+              "Evidence of Christian faith and call to ministry",
+              "Recommendation from a recognised church leader"
+            ],
+            "level_note": [
+              "Focuses on practical aspects of Christian ministry and church leadership.",
+              "Designed for those actively serving or preparing to serve in various ministry roles."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
