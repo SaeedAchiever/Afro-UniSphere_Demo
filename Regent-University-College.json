@@ -1,0 +1,991 @@
+[
+  {
+    "name": "Regent University College of Science and Technology"
+  },
+  {
+    "faculty_name": "School of Computing and Information Technology",
+    "note": [
+      "Focuses on modern computing disciplines with strong foundations in theory and practical problem-solving.",
+      "Programmes are designed to meet industry needs in software development, networking, data management and emerging technologies.",
+      "Graduates work as software engineers, IT consultants, system analysts, data professionals and technology entrepreneurs."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc (Hons) Information Technology",
+        "career": [
+          "Software Developer",
+          "Systems Analyst",
+          "Network Administrator",
+          "Database Administrator",
+          "IT Support Engineer",
+          "Web and Mobile Application Developer",
+          "IT Project Assistant",
+          "Systems Integrator",
+          "IT Consultant",
+          "Cloud and Infrastructure Support Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Undergraduate fees are moderate and published per academic year by the University; applicants should confirm current Ghanaian and international rates from the official fee schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Data Structures and Algorithms",
+              "Database Systems",
+              "Computer Networks",
+              "Web Technologies",
+              "Information Security Basics"
+            ],
+            "salary": [
+              "Entry-level IT roles in Ghana vary by sector and company; graduates can progress to higher-paying software and systems positions with experience."
+            ],
+            "cutt_off": [
+              "General WASSCE requirement: aggregate 36 or better with credit passes (A1–C6) in English Language, Core Mathematics, Integrated Science/Social Studies and three relevant electives.",
+              "Applicants must have Elective Mathematics for Computer Science, Mathematics, Engineering and related science programmes.",
+              "For computing and engineering programmes, passes in Elective Mathematics (and preferably Physics) are expected."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Lectures, tutorials, lab work and project-based learning"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1–C6) in three Core subjects (English Language, Mathematics and Integrated Science or Social Studies) and three Elective subjects, with an aggregate score of 36 or better.",
+              "SSSCE: Passes (A–D) in three Core subjects including English, Mathematics and Science, and three Elective subjects with an aggregate score of 24 or better.",
+              "GCE: Credits in at least 5 subjects including English Language, Mathematics and a Science subject at O-Level, plus 3 passes at A-Level (two at grade D or better) including Mathematics for computing and engineering programmes.",
+              "Mature applicants: At least 25 years old, relevant work experience, passes in required subjects and success in the mature entrance examination and interview."
+            ],
+            "level_note": [
+              "Provides a broad foundation in information technology with emphasis on practical problem-solving and systems implementation.",
+              "Suitable for students who want flexible IT careers across software, networks, databases, and support roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc (Hons) Computer Science",
+        "career": [
+          "Software Engineer",
+          "Full-Stack Developer",
+          "Backend/Frontend Developer",
+          "Systems Designer",
+          "Data Engineer (entry level)",
+          "AI/ML Assistant (entry level)",
+          "Research and Development Assistant",
+          "Software Quality Assurance Engineer",
+          "Technical Architect (with experience)",
+          "Lecturer or Trainer in Computing (with further study)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Uses the general undergraduate fee bands; exact amounts are provided in the current fees schedule for Ghanaian and international students."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Programming",
+              "Data Structures and Algorithms",
+              "Operating Systems",
+              "Software Engineering",
+              "Artificial Intelligence",
+              "Computer Graphics or Human–Computer Interaction"
+            ],
+            "salary": [
+              "Computer science graduates typically access higher-paying technical roles, especially with strong project portfolios; local and international salaries vary significantly."
+            ],
+            "cutt_off": [
+              "WASSCE aggregate 36 or better with required core subjects and strong performance in Elective Mathematics and science/ICT electives.",
+              "Programme requires Elective Mathematics; Physics or ICT is an added advantage."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Intensive lab work, coding projects and team-based software development"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in core English, core Mathematics, core Science/Social Studies and three electives with aggregate 36 or better; Elective Mathematics required.",
+              "SSSCE: Passes in core English, core Mathematics, core Science and three electives with aggregate 24 or better; pass in Elective Mathematics required.",
+              "GCE: Credits in at least 5 O-Level subjects including English Language, Mathematics and a Science subject, plus 3 A-Level passes (two at grade D or better) including Mathematics.",
+              "Other equivalent qualifications (International Baccalaureate, foreign high school diplomas, recognised diplomas) with adequate Mathematics and science background may be considered."
+            ],
+            "level_note": [
+              "More mathematically and algorithmically intensive than general IT, targeting deep technical careers.",
+              "Good path for students who may later specialise in AI, data science, systems engineering or graduate study."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Engineering",
+    "note": [
+      "Provides applied engineering education focused on electronics, telecommunications, computer engineering and instrumentation.",
+      "Programmes combine theoretical grounding with extensive laboratory and design project work.",
+      "Graduates support Ghana’s infrastructure, telecoms, manufacturing and technology sectors."
+    ],
+    "courses": [
+      {
+        "course_name": "BEng (Hons) Applied Electronics & Systems Engineering (Telecommunication Option)",
+        "career": [
+          "Telecommunications Engineer",
+          "Network Planning Engineer",
+          "Radio Frequency (RF) Engineer",
+          "Transmission Engineer",
+          "Telecoms Operations and Maintenance Engineer",
+          "Network Optimization Engineer",
+          "Telecoms Project Engineer",
+          "Technical Support Engineer (Telecoms)",
+          "Field Engineer (Telecoms Infrastructure)",
+          "Regulatory and Spectrum Management Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Engineering programmes follow the standard undergraduate engineering fee band; specific semester fees are published each year."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Circuit Theory and Electronics",
+              "Signals and Systems",
+              "Digital Communications",
+              "Mobile and Wireless Networks",
+              "Telecommunications Systems Design",
+              "Network Management and Protocols"
+            ],
+            "salary": [
+              "Telecoms engineering salaries vary by operator and role; graduates can progress to well-paying network and infrastructure positions."
+            ],
+            "cutt_off": [
+              "Applicants must have strong WASSCE/SSSCE performance with required core subjects and passes in Elective Mathematics, Physics and Chemistry.",
+              "Aggregate requirements align with general university rule: WASSCE 36 or better; SSSCE 24 or better."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Laboratory sessions, design projects and industry exposure"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes in core English, core Mathematics and core Science/Social Studies plus three science/technical electives including Elective Mathematics and Physics (Chemistry recommended).",
+              "SSSCE: Passes in core English, core Mathematics, core Science and three relevant science/technical electives with aggregate 24 or better.",
+              "GCE: O-Level credits in English Language, Mathematics and Science, plus three A-Level passes with Mathematics and Physics.",
+              "HND and recognised engineering diplomas may be considered for top-up entry where applicable."
+            ],
+            "level_note": [
+              "Focuses on electronic systems and communication technologies used in fixed and mobile networks.",
+              "Suitable for students targeting careers in telecoms and network infrastructure companies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BEng (Hons) Applied Electronics & Systems Engineering (Computer Engineering Option)",
+        "career": [
+          "Computer Engineer",
+          "Embedded Systems Engineer",
+          "Hardware Design Engineer",
+          "IoT Systems Engineer",
+          "Systems Integration Engineer",
+          "Network and Systems Engineer",
+          "Electronics and Control Engineer",
+          "Technical Consultant (Hardware/Systems)",
+          "R&D Engineer in Computing Devices",
+          "Field Applications Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Uses the engineering undergraduate fee band; applicants should verify latest values from the University."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Digital Logic and Microprocessors",
+              "Microcontroller Programming",
+              "Computer Architecture",
+              "Embedded Systems Design",
+              "Signals and Systems",
+              "Control Systems"
+            ],
+            "salary": [
+              "Computer engineering roles can be highly paid, especially where hardware and software expertise are combined; remuneration depends on industry and experience."
+            ],
+            "cutt_off": [
+              "Requires WASSCE/SSSCE aggregate within general engineering bounds, with strong passes in Elective Mathematics, Physics and preferably ICT or Chemistry."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Hands-on projects involving hardware, firmware and software integration"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with required core subjects and strong science/technical electives including Elective Mathematics and Physics.",
+              "GCE and other equivalent qualifications with Mathematics and Science are accepted as per general regulations.",
+              "Mature and diploma/HND applicants considered case-by-case for appropriate levels."
+            ],
+            "level_note": [
+              "Bridges electronics and computing, preparing students for embedded, hardware–software and systems roles.",
+              "Good option for students who like both hardware design and programming."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BEng (Hons) Applied Electronics & Systems Engineering (Instrumentation Option)",
+        "career": [
+          "Instrumentation and Control Engineer",
+          "Automation Engineer",
+          "Process Control Engineer",
+          "Industrial Instrumentation Technician (graduate-level)",
+          "SCADA and Control Systems Engineer",
+          "Maintenance Engineer (Instrumentation)",
+          "Calibration and Testing Engineer",
+          "Instrumentation Design Engineer",
+          "Oil and Gas Instrumentation Engineer",
+          "Manufacturing Plant Controls Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Falls under the engineering undergraduate fee band; detailed per-semester amounts are listed in the official fee schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Measurement and Instrumentation",
+              "Industrial Control Systems",
+              "Sensors and Transducers",
+              "Process Control",
+              "Programmable Logic Controllers (PLCs)",
+              "Automation and Robotics Basics"
+            ],
+            "salary": [
+              "Instrumentation engineers in industries like oil & gas, mining and manufacturing generally earn competitive salaries; levels depend on sector and role."
+            ],
+            "cutt_off": [
+              "Applicants must satisfy the general engineering requirements with strong passes in science electives (especially Elective Mathematics and Physics)."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Laboratory work and industry-related project assignments"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with core English, core Mathematics and core Science, plus science/technical electives (Elective Mathematics, Physics and Chemistry preferred).",
+              "GCE and other recognised qualifications with sufficient Mathematics and Science background.",
+              "Relevant technical diplomas/HND may be assessed for advanced placement."
+            ],
+            "level_note": [
+              "Prepares graduates to design, operate and maintain measurement and control systems in industrial environments.",
+              "Well-suited to students interested in automation and industrial process control."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Business, Leadership and Legal Studies",
+    "note": [
+      "Delivers business programmes with strong emphasis on leadership, ethics, computing and legal awareness.",
+      "Programmes combine core business disciplines with information systems, computing and modern business models.",
+      "Graduates work in accounting, HR, marketing, e-commerce, data analytics, consulting and corporate leadership roles."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc (Hons) Accounting and Information Systems",
+        "career": [
+          "Accountant",
+          "Financial Analyst",
+          "Audit Associate",
+          "Tax Consultant",
+          "Management Accountant",
+          "Accounts Officer",
+          "Business Systems Analyst",
+          "ERP/Accounting Systems Support Officer",
+          "Internal Auditor",
+          "Financial Data Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Business undergraduate programmes use the standard fee band; the University publishes exact per-semester Ghanaian and international student fees."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Corporate Finance",
+              "Accounting Information Systems",
+              "Database and Spreadsheet Applications",
+              "Auditing and Assurance"
+            ],
+            "salary": [
+              "Graduates enter accounting and systems-related roles; salaries increase significantly with experience and professional certifications."
+            ],
+            "cutt_off": [
+              "WASSCE aggregate 36 or better with business-relevant electives and required core passes."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Blend of business, accounting and IT labs"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE general requirements with strong performance in business electives such as Accounting, Business Management, Economics and/or Elective Mathematics.",
+              "GCE and other equivalent qualifications with required subjects are accepted.",
+              "Diploma holders and professional certification holders (ACCA, ICA, CIMA stages) may receive advanced standing subject to evaluation."
+            ],
+            "level_note": [
+              "Designed to produce accountants who are also comfortable with information systems and technology.",
+              "A good route for students interested in both finance and IT."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc (Hons) Management with Computing (HR and Marketing Options)",
+        "career": [
+          "HR Officer",
+          "HR Information Systems Officer",
+          "Recruitment and Training Officer",
+          "Marketing Executive",
+          "Brand and Communications Officer",
+          "Digital Marketing Specialist",
+          "Operations Supervisor",
+          "Business Development Officer",
+          "Project Coordinator",
+          "Entrepreneur or SME Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Follows the standard undergraduate business fee band; updated amounts are available on the official fees schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Management",
+              "Organisational Behaviour",
+              "Human Resource Management (for HR option)",
+              "Recruitment and Performance Management (for HR option)",
+              "Marketing Management (for Marketing option)",
+              "Consumer Behaviour and Promotion (for Marketing option)",
+              "Business Computing",
+              "Management Information Systems"
+            ],
+            "salary": [
+              "Management/HR/marketing roles span a wide salary range; computing skills often raise earning potential."
+            ],
+            "cutt_off": [
+              "Adheres to general undergraduate entry standards: WASSCE 36 or better with suitable business or arts electives."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Coursework, group projects and computing labs"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with core English, core Mathematics and core Science/Social Studies plus three electives from Business, General Arts or related fields.",
+              "Mature and diploma applicants assessed under general regulations.",
+              "Applicants choose HR or Marketing option in line with their interests."
+            ],
+            "level_note": [
+              "Combines management skills with computing, with pathways focusing on either HR or Marketing specialisations.",
+              "Suited to students who want management careers enhanced by IT capability."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Business Administration (eCommerce Option)",
+        "career": [
+          "E-Commerce Specialist",
+          "Digital Marketing Manager (with experience)",
+          "Online Store Manager",
+          "Business Development Executive (Digital Channels)",
+          "Customer Experience Manager (Online Platforms)",
+          "Digital Product Manager (entry level)",
+          "Social Media and Content Manager",
+          "Entrepreneur (Online Business)",
+          "Marketplace Account Manager",
+          "E-Business Consultant (with further experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Uses the business bachelor fee structure; applicants should consult the latest schedule for precise figures."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "E-Commerce and Online Business Models",
+              "Digital Marketing and Social Media",
+              "Payment Systems and Fintech Basics",
+              "Customer Relationship Management",
+              "Web Analytics and Online Metrics",
+              "Entrepreneurship and Innovation"
+            ],
+            "salary": [
+              "E-commerce and digital business roles often reward performance and growth; income varies with role, company and entrepreneurial success."
+            ],
+            "cutt_off": [
+              "Meets general WASSCE/SSSCE requirements; strong performance in business, ICT and mathematics-related electives is preferred."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Project work on real or simulated online ventures"
+            ],
+            "entry_requirements": [
+              "General undergraduate requirements (WASSCE/SSSCE, GCE, etc.) as outlined in the University’s regulations, with suitable business or ICT-related electives.",
+              "Diploma and professional qualifications may allow entry with credit transfers, subject to evaluation."
+            ],
+            "level_note": [
+              "Targets students who want to build and manage businesses in the digital economy.",
+              "Strong fit for entrepreneurial and tech-savvy students."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certified Business Data Analytics",
+        "career": [
+          "Business Data Analyst (entry level)",
+          "Reporting and MIS Officer",
+          "Data Reporting Assistant",
+          "Operations Analyst",
+          "Dashboard and BI Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Short professional course fees are listed separately from degree programmes; applicants should check the current professional courses fee list."
+            ],
+            "duration": "Short professional programme (typically a few weeks to months)",
+            "electives": [
+              "Data Analysis Fundamentals",
+              "Spreadsheet Modelling",
+              "Business Intelligence Concepts",
+              "Data Visualization Tools",
+              "Basic Statistics for Business"
+            ],
+            "salary": [
+              "Intended to enhance existing roles or support analyst entry roles; salary impact depends on prior background."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening or weekend delivery for professionals",
+              "Hands-on use of analytics tools"
+            ],
+            "entry_requirements": [
+              "Tertiary students, graduates or professionals with basic quantitative and computer skills.",
+              "Interest in using data to support business decisions."
+            ],
+            "level_note": [
+              "Provides practical skills in analysing and presenting business data.",
+              "Suitable as an upskilling option for business and IT professionals."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certified Management Professional",
+        "career": [
+          "Team Leader",
+          "Supervisor",
+          "Junior Manager",
+          "Project Coordinator",
+          "Operations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Professional certificate fees are set per cohort; refer to current management short-course fees."
+            ],
+            "duration": "Short professional programme",
+            "electives": [
+              "Principles of Management",
+              "Leadership and Team Dynamics",
+              "Business Communication",
+              "Performance Management Basics",
+              "Decision-Making and Problem-Solving"
+            ],
+            "salary": [
+              "Enhances prospects for promotion into supervisory and junior management roles."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and/or evening classes",
+              "Case studies and role-play exercises"
+            ],
+            "entry_requirements": [
+              "Working professionals or graduates seeking management skills.",
+              "Basic prior exposure to organisational environments is helpful."
+            ],
+            "level_note": [
+              "Targets practitioners moving into or strengthening management roles.",
+              "Practical, competence-based approach to management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Project Management Professional",
+        "career": [
+          "Project Assistant",
+          "Project Coordinator",
+          "Junior Project Manager",
+          "Operations and Projects Officer",
+          "Programme Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Project management short-course fees are communicated each intake; participants should confirm current rates."
+            ],
+            "duration": "Short professional programme (aligned with project management body of knowledge principles)",
+            "electives": [
+              "Project Management Fundamentals",
+              "Project Planning and Scheduling",
+              "Risk and Quality Management",
+              "Stakeholder and Communications Management",
+              "Project Monitoring and Evaluation"
+            ],
+            "salary": [
+              "Improves employability and promotion prospects in project-oriented roles; salary effects depend on industry and prior experience."
+            ],
+            "cutt_off": [],
+            "mode": ["Evening/weekend", "Practical, case-based learning"],
+            "entry_requirements": [
+              "Graduates and professionals working on or aspiring to project roles.",
+              "Basic understanding of business operations recommended."
+            ],
+            "level_note": [
+              "Provides a foundation for formal project management practice and certifications.",
+              "Useful across IT, construction, NGOs, public sector and corporate environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Entrepreneurship and Intrapreneurship",
+        "career": [
+          "Startup Founder",
+          "Business Innovation Officer",
+          "Product or Service Innovator within existing organisations",
+          "SME Manager",
+          "Business Development Associate"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Entrepreneurship short-course fees are modest and updated per intake; view current professional fee schedule for details."
+            ],
+            "duration": "Short professional programme",
+            "electives": [
+              "Entrepreneurial Mindset and Opportunity Recognition",
+              "Business Model Design",
+              "Basic Financial Planning for Startups",
+              "Innovation in Existing Organisations (Intrapreneurship)",
+              "Pitching and Presentations"
+            ],
+            "salary": [
+              "Supports founding or growing businesses; income outcomes vary widely depending on venture success."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and/or evening",
+              "Highly interactive, project-based sessions"
+            ],
+            "entry_requirements": [
+              "Aspiring and existing entrepreneurs and intrapreneurs.",
+              "Open to graduates, students and professionals interested in venture creation."
+            ],
+            "level_note": [
+              "Helps participants identify, plan and implement new ventures or innovations.",
+              "Combines theory with practical business planning exercises."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Law and Corporate Administration",
+        "career": [
+          "Corporate Administrator",
+          "Company Secretary (with relevant professional status)",
+          "Corporate Governance Officer",
+          "Compliance and Risk Officer",
+          "Legal and Administrative Executive",
+          "Board Secretariat Officer",
+          "Policy and Regulatory Affairs Officer",
+          "Corporate Services Manager",
+          "Governance and Ethics Consultant",
+          "Academic/Trainer in Corporate Governance (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Postgraduate programmes have specific total fee amounts; for example, comparable Masters programmes at Regent are in the range of tens of thousands of Ghana cedis over the full duration. Exact figures for this programme are listed in the official fees page."
+            ],
+            "duration": "Typically 2 years",
+            "electives": [
+              "Company Law and Corporate Governance",
+              "Corporate Administration and Secretariat Practice",
+              "Business and Commercial Law",
+              "Regulatory Compliance and Risk Management",
+              "Corporate Ethics and Social Responsibility",
+              "Research Methods"
+            ],
+            "salary": [
+              "Graduates often access mid- to senior-level corporate governance and administrative roles; remuneration depends on sector and experience."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening or weekend modes suitable for working professionals",
+              "Coursework plus research project or dissertation"
+            ],
+            "entry_requirements": [
+              "Good first degree in Law, Business, Public Administration or related field from a recognised institution.",
+              "Applicants with significant corporate administration or governance experience may also be considered.",
+              "Other admission requirements as specified by the School of Research and Graduate Studies (e.g., references, interviews)."
+            ],
+            "level_note": [
+              "Provides interdisciplinary training in corporate law, governance and administration.",
+              "Prepares graduates to support boards, executives and organisations in governance and compliance matters."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Theology and Humanities",
+    "note": [
+      "Focuses on Christian theology, ministry, psychology and human development within a holistic, faith-informed framework.",
+      "Programmes are designed to serve churches, NGOs, educational institutions and social services.",
+      "Graduates work as pastors, counsellors, chaplains, psychologists (with further training), educators and community leaders."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc in Theology",
+        "career": [
+          "Pastor or Minister",
+          "Youth Pastor",
+          "Chaplain",
+          "Christian Educator",
+          "Missionary",
+          "Church Administrator",
+          "Non-profit and NGO Ministry Worker",
+          "Theological Education Assistant",
+          "Counsellor in Church Contexts (with additional counselling training)",
+          "Community Development Worker in Faith-Based Organisations"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Undergraduate theology programmes share the general arts/social sciences fee band; exact per-semester figures are in the current schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Old Testament Studies",
+              "New Testament Studies",
+              "Systematic Theology",
+              "Church History",
+              "Pastoral Theology and Homiletics",
+              "Ethics and Contemporary Issues"
+            ],
+            "salary": [
+              "Ministry-related income depends largely on the employing church or organisation; often supplemented by other roles."
+            ],
+            "cutt_off": [
+              "Follows general undergraduate entry standards (WASSCE 36 or better, SSSCE 24 or better) with suitable electives."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Classroom teaching and supervised ministry practice"
+            ],
+            "entry_requirements": [
+              "General undergraduate requirements, with electives from arts, social sciences or religious studies.",
+              "Evidence of Christian commitment and recommendations from church leaders may be required."
+            ],
+            "level_note": [
+              "Provides rigorous theological grounding and ministry skills.",
+              "Ideal for those sensing a call to ministry or theological scholarship."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Psychology",
+        "career": [
+          "Assistant Psychologist (with supervision)",
+          "Human Resource Assistant",
+          "Community and Social Work Assistant",
+          "Counselling Assistant (with further training)",
+          "Research Assistant",
+          "NGO Programme Officer (human services)",
+          "Education Support Worker",
+          "Behavioural Support Worker",
+          "Customer Experience Analyst",
+          "Market or Social Research Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Psychology falls within arts/social science undergraduate fee categories; detailed rates are provided in the University’s fee tables."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Psychology",
+              "Developmental Psychology",
+              "Social Psychology",
+              "Cognitive Psychology",
+              "Abnormal Psychology",
+              "Research Methods and Statistics in Psychology"
+            ],
+            "salary": [
+              "Bachelor-level psychology positions vary widely; many students progress to postgraduate training for professional practice."
+            ],
+            "cutt_off": [
+              "Meets general entry requirements with strong passes in relevant electives (e.g., social sciences, biology, mathematics)."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Lectures, seminars and research projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with required core subjects and suitable electives, as set out in general regulations.",
+              "GCE and equivalent foreign qualifications accepted with appropriate subject combinations."
+            ],
+            "level_note": [
+              "Gives broad grounding in theoretical and applied psychology.",
+              "A foundation for careers and further studies in counselling, clinical, educational and organisational psychology."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Theology (MTh)",
+        "career": [
+          "Theology Lecturer",
+          "Senior Pastor",
+          "Christian Theologian/Writer",
+          "Curriculum Developer for Theological Education",
+          "Church Leader and Strategist",
+          "Mission Agency Leader",
+          "Non-profit Faith-based Director",
+          "Christian Ethicist",
+          "Consultant in Faith and Public Life",
+          "Doctoral Candidate in Theology"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Postgraduate theology fees (e.g., Master of Theology) are listed in the postgraduate fee schedule; they are typically paid per semester with a total amount specified for the full duration."
+            ],
+            "duration": "Normally 2 years (full-time or equivalent part-time)",
+            "electives": [
+              "Advanced Biblical Studies",
+              "Advanced Systematic Theology",
+              "Theology and Contemporary Issues",
+              "Christian Ethics and Public Theology",
+              "Pentecostal/Charismatic Theology (if offered)",
+              "Research Methods in Theology"
+            ],
+            "salary": [
+              "Enables access to more senior ministry and teaching roles; income levels depend on institutions and roles."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "May be offered in block, evening or weekend formats for ministers",
+              "Coursework plus thesis/dissertation"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree in Theology or related field from a recognised institution, normally with good standing.",
+              "Relevant ministry or teaching experience is often preferred.",
+              "Additional requirements may include references and a statement of purpose."
+            ],
+            "level_note": [
+              "Strengthens academic and ministerial depth in theology.",
+              "Appropriate for pastors and Christian leaders seeking higher theological training."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Divinity (MDiv)",
+        "career": [
+          "Ordained Pastor or Minister",
+          "Chaplain (Institutional, Military, Healthcare, Educational)",
+          "Christian Educator",
+          "Missionary and Church Planter",
+          "Ministry Leader or Executive Pastor",
+          "Theological Educator (with experience)",
+          "Faith-based NGO Leader",
+          "Spiritual Director or Counsellor (with additional formation)",
+          "Denominational Leader",
+          "Doctoral Student in Ministry or Practical Theology"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Master of Divinity fees follow the postgraduate theology band; refer to Regent’s current fee schedule for precise semester and total amounts."
+            ],
+            "duration": "Commonly 3 years (professional ministry degree), sometimes offered with flexible delivery patterns",
+            "electives": [
+              "Biblical Languages or Exegesis",
+              "Advanced Homiletics and Preaching",
+              "Pastoral Care and Counselling",
+              "Church Leadership and Administration",
+              "Missiology and Church Planting",
+              "Spiritual Formation"
+            ],
+            "salary": [
+              "MDiv graduates typically serve in full-time ministry; compensation structures depend on church or organisation."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Block, evening and/or weekend formats to accommodate ministers",
+              "Field education and supervised ministry components"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree (often in theology, religious studies, or a related field; some programmes accept other degrees with bridging studies).",
+              "Evidence of Christian faith and ministry calling, with recommendations from church leaders.",
+              "Meeting any additional criteria set by the School of Research and Graduate Studies."
+            ],
+            "level_note": [
+              "Professional ministry degree aimed at preparing students for ordained pastoral and leadership roles.",
+              "Integrates academic study, spiritual formation and practical ministry experience."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Energy and Sustainability",
+    "note": [
+      "Addresses global and local challenges in energy systems, climate change and sustainable development.",
+      "Programmes are interdisciplinary, combining engineering, science, policy, economics and management.",
+      "Graduates work in energy companies, utilities, government, NGOs, consulting firms and international agencies."
+    ],
+    "courses": [
+      {
+        "course_name": "MSc/MPhil Energy and Sustainable Development",
+        "career": [
+          "Energy Analyst",
+          "Sustainable Development Specialist",
+          "Renewable Energy Project Manager",
+          "Energy Policy Analyst",
+          "Climate and Sustainability Consultant",
+          "Environmental and Social Governance (ESG) Officer",
+          "Corporate Sustainability Manager",
+          "Programme Officer in Energy/Environment NGOs",
+          "Researcher in Energy and Sustainability",
+          "Doctoral Candidate in Energy or Sustainability Studies (especially for MPhil graduates)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters/MPhil",
+            "fees": [
+              "The MSc/MPhil Energy and Sustainable Development programme has a specified total fee (tens of thousands of Ghana cedis) published by the University; applicants should confirm the current figure from the fees page."
+            ],
+            "duration": "MSc: about 2 years; MPhil: typically 2 years with stronger research emphasis",
+            "electives": [
+              "Energy Systems and Technologies",
+              "Renewable Energy Resources",
+              "Energy Economics and Policy",
+              "Sustainable Development Theory and Practice",
+              "Climate Change and Environmental Management",
+              "Research Methods and Project/Thesis"
+            ],
+            "salary": [
+              "Energy and sustainability professionals can access competitive roles in utilities, consulting and international development; salaries vary across sectors and countries."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "May offer flexible study patterns (evening/weekend/block) for working professionals",
+              "Coursework plus research project (MSc) or thesis (MPhil)"
+            ],
+            "entry_requirements": [
+              "Good first degree in engineering, natural sciences, environmental studies, economics, or related disciplines from a recognised institution.",
+              "Relevant work experience in energy, environment or development is an advantage.",
+              "Additionally, applicants must satisfy the School of Research and Graduate Studies’ general requirements (references, possibly interview)."
+            ],
+            "level_note": [
+              "Equips students with technical, policy and management perspectives on sustainable energy systems.",
+              "MPhil route is particularly suited to those considering PhD-level research."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Statistics (within School of Research and Graduate Studies)",
+    "note": [
+      "Provides advanced training in statistical theory and applications across a range of fields.",
+      "Emphasizes data analysis, modelling and interpretation to support research and decision-making.",
+      "Graduates work in government statistical services, finance, health, industry, academia and research organisations."
+    ],
+    "courses": [
+      {
+        "course_name": "MSc in Statistics",
+        "career": [
+          "Statistician",
+          "Data Analyst",
+          "Biostatistician",
+          "Quantitative Researcher",
+          "Actuarial Analyst (with further professional exams)",
+          "Statistical Consultant",
+          "Epidemiology Analyst",
+          "Market and Social Research Analyst",
+          "Lecturer or Research Assistant in Statistics",
+          "Data Science Practitioner (with complementary computing skills)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "The fee schedule lists MSc Statistics with a specific total amount (e.g., around GHS 28,000 for the full programme, subject to updates); students should confirm the exact current fee."
+            ],
+            "duration": "Typically 2 years",
+            "electives": [
+              "Probability Theory",
+              "Statistical Inference",
+              "Regression Analysis",
+              "Multivariate Analysis",
+              "Design of Experiments",
+              "Time Series Analysis and Forecasting"
+            ],
+            "salary": [
+              "Statisticians and quantitative analysts are in demand; salaries vary depending on sector (finance, government, health, research, etc.) and experience."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Likely offered in evening or weekend modes to accommodate working professionals",
+              "Combination of coursework and project/dissertation"
+            ],
+            "entry_requirements": [
+              "Good first degree in Statistics, Mathematics, Actuarial Science, Engineering, Economics with strong quantitative content, or related field.",
+              "Adequate background in calculus, linear algebra and basic statistics.",
+              "Meeting general postgraduate requirements of the School of Research and Graduate Studies."
+            ],
+            "level_note": [
+              "Provides strong grounding in statistical methods for research and applied problem-solving.",
+              "Suitable for careers in data-intensive roles and as a foundation for PhD studies."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
