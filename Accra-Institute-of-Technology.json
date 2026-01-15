@@ -1,0 +1,1356 @@
+[
+  {
+    "name": "Accra Institute of Technology"
+  },
+  {
+    "faculty_name": "School of Engineering",
+    "note": [
+      "Offers engineering programmes benchmarked to international standards, with strong emphasis on design, problem-solving and practical laboratory work.",
+      "Bachelor of Engineering programmes prepare students for professional engineering practice and further postgraduate studies.",
+      "Graduates work in infrastructure, ICT, power systems, manufacturing, consulting and related engineering fields."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Engineering (BEng) in Civil Engineering (CVE)",
+        "career": [
+          "Civil Engineer",
+          "Structural Engineer",
+          "Highway and Transportation Engineer",
+          "Water Resources and Environmental Engineer",
+          "Geotechnical Engineer",
+          "Construction Project Engineer",
+          "Consulting Engineer",
+          "Site Engineer",
+          "Urban Infrastructure Planner",
+          "Cost and Quantity Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,990 per semester (SATES – tuition, facility, engineering lab fee and lab coat)",
+              "International: about GHC 6,485 per semester (SATES – tuition, facility, engineering lab fee and lab coat)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Engineering Mathematics",
+              "Engineering Mechanics",
+              "Structural Analysis and Design",
+              "Soil Mechanics and Foundation Engineering",
+              "Transportation Engineering",
+              "Water Supply and Wastewater Engineering"
+            ],
+            "salary": [
+              "Salaries depend on role, industry and country; check current civil engineering job market data for up‑to‑date figures."
+            ],
+            "cutt_off": [
+              "Standard requirement is WASSCE/SSSCE credit passes in six subjects (three core including English and Mathematics, plus three science/technical electives). Specific aggregate cut-offs are determined by AIT each year."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Design- and project-based learning with extensive lab and field work"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Integrated Science",
+              "Credit passes in three Electives including at least two of Physics, Elective Mathematics, Chemistry or Technical Drawing",
+              "Qualified HND graduates in Civil or related engineering fields may enter at higher levels, subject to assessment"
+            ],
+            "level_note": [
+              "Covers structural, geotechnical, transportation, water resources and environmental engineering.",
+              "Prepares graduates for employment in government agencies, consulting firms, construction companies and related sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering (BEng) in Computer Engineering (CE)",
+        "career": [
+          "Computer Engineer",
+          "Embedded Systems Engineer",
+          "Systems Engineer",
+          "Network and Systems Administrator",
+          "Hardware Design Engineer",
+          "IoT Solutions Engineer",
+          "Software Developer",
+          "Systems Integration Engineer",
+          "Technical Consultant",
+          "R&D Engineer in Computing Systems"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,990 per semester (SATES – tuition, facility, engineering lab fee and lab coat)",
+              "International: about GHC 6,485 per semester (SATES – tuition, facility, engineering lab fee and lab coat)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Digital Logic Design",
+              "Microprocessors and Microcontrollers",
+              "Computer Architecture",
+              "Computer Networks",
+              "Embedded Systems Design"
+            ],
+            "salary": [
+              "Salaries depend on role, industry and country; check current computer engineering job market data for up‑to‑date figures."
+            ],
+            "cutt_off": [
+              "Standard requirement is WASSCE/SSSCE credit passes in six subjects (three core including English and Mathematics, plus three science/technical electives). Specific aggregate cut-offs are determined by AIT each year."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Strong lab component with programming, electronics and systems design projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Integrated Science",
+              "Credit passes in three Electives including Physics and Elective Mathematics; ICT/Computer Studies is an advantage",
+              "Qualified HND graduates in Computer/Electrical/Electronic Engineering may be admitted to higher levels after evaluation"
+            ],
+            "level_note": [
+              "Integrates computer science, electronics and hardware design.",
+              "Graduates are prepared for roles across hardware–software design, networking and embedded systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering (BEng) in Electrical & Electronic Engineering (EEE)",
+        "career": [
+          "Electrical Engineer",
+          "Power Systems Engineer",
+          "Electronics Engineer",
+          "Control and Instrumentation Engineer",
+          "Telecommunications Engineer",
+          "Maintenance Engineer",
+          "Energy Systems Engineer",
+          "Automation Engineer",
+          "Technical Consultant",
+          "Design Engineer for Electrical and Electronic Systems"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,990 per semester (SATES – tuition, facility, engineering lab fee and lab coat)",
+              "International: about GHC 6,485 per semester (SATES – tuition, facility, engineering lab fee and lab coat)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Circuit Theory",
+              "Electromagnetic Fields and Waves",
+              "Power Systems Analysis",
+              "Analogue and Digital Electronics",
+              "Control Systems Engineering",
+              "Telecommunications Engineering"
+            ],
+            "salary": [
+              "Salaries depend on role, industry and country; check current electrical and electronic engineering job market data."
+            ],
+            "cutt_off": [
+              "Standard requirement is WASSCE/SSSCE credit passes in six subjects (three core including English and Mathematics, plus three science/technical electives). Specific aggregate cut-offs are determined by AIT each year."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Laboratory-intensive with projects in power, electronics, control and communications"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Integrated Science",
+              "Credit passes in three Electives including Physics and Elective Mathematics; Chemistry or related technical subjects are an advantage",
+              "HND holders in Electrical/Electronic or related fields may qualify for top-up entry after assessment"
+            ],
+            "level_note": [
+              "Covers power systems, electronics, control systems, communications and related areas.",
+              "Prepares graduates for roles in utilities, manufacturing, telecoms, consulting and automation industries."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Business",
+    "note": [
+      "Focuses on technology-enhanced business education, blending management, finance, entrepreneurship and IT.",
+      "CTech and DTech routes provide flexible entry paths for students progressing towards full bachelor’s degrees.",
+      "Programmes are industry‑oriented, targeting job‑ready skills in accounting, banking, HR, marketing and IT‑driven business."
+    ],
+    "courses": [
+      {
+        "course_name": "Certificate of Technology (CTech) in Accounting and Finance",
+        "career": [
+          "Accounts Clerk (entry level)",
+          "Accounts Assistant",
+          "Billing Clerk",
+          "Cashier Supervisor (with experience)",
+          "Finance Support Staff"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Local: about GHC 1,050 per semester (CTech programmes – latest AIT brochure)",
+              "International: about USD 758 per semester (CTech programmes – latest AIT brochure)"
+            ],
+            "duration": "1 semester (fast‑track foundation)",
+            "electives": [
+              "Introduction to Accounting",
+              "Business Mathematics",
+              "Principles of Finance",
+              "Business Communication Basics"
+            ],
+            "salary": [
+              "Intended as an entry-level qualification; actual salaries depend on specific job roles and organisations."
+            ],
+            "cutt_off": [
+              "Generally requires SSS/SHS completion with passes in English Language and Mathematics; used as a foundation route rather than based on a strict aggregate cut-off."
+            ],
+            "mode": [
+              "Full-time fast‑track",
+              "Highly practical, foundation‑level training"
+            ],
+            "entry_requirements": [
+              "SSS/SHS graduates with passes in English Language and Mathematics",
+              "Applicants who do not yet meet direct degree entry requirements but want a business foundation"
+            ],
+            "level_note": [
+              "Introduces core concepts in accounting and finance.",
+              "Successful graduates may progress into DTech or degree programmes in business‑related fields."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate of Technology (CTech) in Marketing & Information Technology (IT)",
+        "career": [
+          "Marketing Assistant",
+          "Sales Support Officer",
+          "Digital Marketing Assistant",
+          "Customer Service Officer",
+          "Office IT/Marketing Support Staff"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Local: about GHC 1,050 per semester (CTech programmes – latest AIT brochure)",
+              "International: about USD 758 per semester (CTech programmes – latest AIT brochure)"
+            ],
+            "duration": "1 semester",
+            "electives": [
+              "Principles of Marketing",
+              "Customer Service Fundamentals",
+              "Introduction to Information Technology",
+              "Computer Applications for Marketing"
+            ],
+            "salary": [
+              "Entry-level salaries vary widely; this certificate is primarily for skill-building and progression."
+            ],
+            "cutt_off": [
+              "Requires SSS/SHS completion with basic passes including English Language; aggregate cut-offs are set administratively each year."
+            ],
+            "mode": [
+              "Full-time, skills‑focused",
+              "Blends basic marketing and IT applications"
+            ],
+            "entry_requirements": [
+              "SSS/SHS completion with passes including English Language",
+              "Interest in sales, marketing and computer applications"
+            ],
+            "level_note": [
+              "Builds foundational skills in marketing concepts and basic ICT tools for business.",
+              "Can serve as a stepping stone to DTech or BSc programmes that combine business and IT."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate of Technology (CTech) in Business Administration (BA)",
+        "career": [
+          "Administrative Assistant (entry level)",
+          "Office Clerk",
+          "Customer Service Representative",
+          "Sales and Marketing Assistant",
+          "Junior Operations Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Local: about GHC 1,050 per semester (CTech programmes – latest AIT brochure)",
+              "International: about USD 758 per semester (CTech programmes – latest AIT brochure)"
+            ],
+            "duration": "1 semester",
+            "electives": [
+              "Introduction to Business Administration",
+              "Business Communication",
+              "Basic Accounting",
+              "Office Applications"
+            ],
+            "salary": [
+              "Actual pay depends on role and employer; the certificate acts as a basic business foundation."
+            ],
+            "cutt_off": [
+              "Requires SSS/SHS completion with passes including English Language; used as a foundation rather than tied to a fixed cut-off aggregate."
+            ],
+            "mode": [
+              "Full-time intensive",
+              "Introductory business modules across key functional areas"
+            ],
+            "entry_requirements": [
+              "SSS/SHS graduates with basic passes including English Language",
+              "Prospective students seeking foundational business training before DTech or degree"
+            ],
+            "level_note": [
+              "Covers basic management, communication, accounting and marketing concepts.",
+              "Designed for students who need a foundation year equivalent before higher business studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology (DTech) in Accounting and Finance",
+        "career": [
+          "Accounts Officer",
+          "Finance Assistant",
+          "Billing and Payroll Officer",
+          "Accounts Payable/Receivable Officer",
+          "Junior Credit Control Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Local: about GHC 1,876 per semester (AIT Business School – tuition plus facility charge)",
+              "International: about GHC 1,876 per semester (same schedule for foreign students on this diploma band)"
+            ],
+            "duration": "2 semesters (approx. 1 academic year)",
+            "electives": [
+              "Financial Accounting",
+              "Management Accounting Fundamentals",
+              "Business Finance",
+              "Taxation Basics",
+              "Spreadsheet Applications for Accounting"
+            ],
+            "salary": [
+              "Graduates typically enter junior finance roles; salaries vary by sector and employer."
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE credit passes in six subjects (three core including English and Mathematics, plus three relevant business electives).",
+              "Some DTech adverts indicate a guideline aggregate around 24 or better, but admission is based on overall profile."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Academic/industrial‑track options depending on programme design"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: credits in English Language, Core Mathematics and other required cores plus relevant business electives",
+              "Holders of related CTech or equivalent qualifications may progress directly"
+            ],
+            "level_note": [
+              "Deepens accounting and finance competencies beyond the CTech level.",
+              "Graduates may work in junior finance roles or progress into BSc programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology (DTech) in Marketing & Information Technology (IT)",
+        "career": [
+          "Marketing Executive (junior)",
+          "Sales and Marketing Officer",
+          "Digital Marketing Coordinator",
+          "Customer Relationship Assistant",
+          "Business Development Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Local: about GHC 1,876 per semester (AIT Business School / ASSDAS diploma band)",
+              "International: about GHC 1,876 per semester (same band for foreign students on this diploma)"
+            ],
+            "duration": "2 semesters",
+            "electives": [
+              "Marketing Management",
+              "Consumer Behaviour",
+              "Sales and Customer Relationship Management",
+              "E‑Marketing and Social Media",
+              "Business Computing and Applications"
+            ],
+            "salary": [
+              "Typical of junior marketing roles; actual earnings depend on commission structures and employer."
+            ],
+            "cutt_off": [
+              "Senior Secondary/High School Certificate or WASSCE with aggregate around 24 or better in six subjects (three core including English and Mathematics plus three electives)."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Practical coursework combining marketing and IT systems"
+            ],
+            "entry_requirements": [
+              "SSSCE/WASSCE: Aggregate score of about 24 or better in six subjects including passes in three core (English and Mathematics compulsory) and three electives",
+              "Certificate of Technology (CTech) or equivalent may also be accepted"
+            ],
+            "level_note": [
+              "Equips students with applied skills in marketing strategy, sales and key IT tools.",
+              "Designed to be both an end‑qualification and a pathway to degree programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology (DTech) in Business Administration (BA)",
+        "career": [
+          "Administrative Officer",
+          "Office Manager (with experience)",
+          "Customer Service Supervisor",
+          "Sales Supervisor",
+          "Operations Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Local: about GHC 1,876 per semester (AIT Business School diploma band)",
+              "International: about GHC 1,876 per semester (same band for foreign students on this diploma)"
+            ],
+            "duration": "2 semesters",
+            "electives": [
+              "Principles of Management",
+              "Business Communication",
+              "Fundamentals of Marketing",
+              "Introduction to Human Resource Management",
+              "Business Law Basics"
+            ],
+            "salary": [
+              "Supervisory and administrative salaries differ widely; this diploma provides intermediate‑level business skills."
+            ],
+            "cutt_off": [
+              "Requires WASSCE/SSSCE credit passes in six subjects; detailed aggregate thresholds are set by AIT for each intake."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Case‑based and skills‑oriented modules"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE credits in English Language, Core Mathematics and other required core subjects",
+              "CTech in Business Administration or equivalent may provide advanced entry"
+            ],
+            "level_note": [
+              "Covers management, marketing, HR, accounting and business communication at intermediate level.",
+              "Prepares students for supervisory roles and further degree‑level studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "DTech in Business Accounting Technology",
+        "career": [
+          "Accounting Technician",
+          "Accounts Supervisor",
+          "Senior Accounts Officer (with experience)",
+          "Costing and Budgeting Assistant",
+          "Finance and Reporting Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma (Professional/Industrial‑based)",
+            "fees": [
+              "Local: about GHC 1,876 per semester (professional DTech band – business)",
+              "International: about GHC 1,876 per semester (same published band for foreign students on this DTech)"
+            ],
+            "duration": "2 semesters",
+            "electives": [
+              "Computerised Accounting Systems",
+              "Advanced Financial Accounting",
+              "Cost and Budgetary Control",
+              "Tax Computation and Compliance",
+              "Accounting Information Systems Practice"
+            ],
+            "salary": [
+              "Job‑ready accounting technician qualification; salaries depend on organisation and experience."
+            ],
+            "cutt_off": [
+              "Typically requires WASSCE/SSSCE credits including English Language and Core Mathematics plus relevant electives, or CTech/equivalent in a related field."
+            ],
+            "mode": [
+              "Industry‑focused with strong practical components",
+              "May include internships or practicum"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE credits including English Language and Core Mathematics plus electives",
+              "CTech or equivalent in related business/accounting field, or work experience in accounting support roles"
+            ],
+            "level_note": [
+              "Concentrates on practical accounting systems, software and procedures used in industry.",
+              "Designed to provide job‑ready skills for business accounting roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "DTech in Entrepreneurship and Information Technology",
+        "career": [
+          "Small Business Entrepreneur",
+          "Business Development Officer",
+          "Startup Operations Assistant",
+          "Digital Business Coordinator",
+          "Innovation and ICT Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma (Professional/Industrial‑based)",
+            "fees": [
+              "Local: about GHC 1,876 per semester (business DTech band)",
+              "International: about GHC 1,876 per semester"
+            ],
+            "duration": "2 semesters",
+            "electives": [
+              "Entrepreneurship and New Venture Creation",
+              "Small Business Management",
+              "E‑Business and Digital Platforms",
+              "Business Computing and Practicum",
+              "Innovation and Growth Strategies"
+            ],
+            "salary": [
+              "Many graduates create or join SMEs; income levels vary widely depending on venture success."
+            ],
+            "cutt_off": [
+              "Requires WASSCE/SSSCE credits including English Language and Core Mathematics; detailed aggregate thresholds set per intake."
+            ],
+            "mode": [
+              "Practical, project‑driven",
+              "Blends entrepreneurship training with core IT competencies"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE credits including English Language and Core Mathematics",
+              "CTech/other business or IT certificates, or demonstrable entrepreneurial interest"
+            ],
+            "level_note": [
+              "Focuses on launching and managing tech‑enabled ventures.",
+              "Ideal for aspiring entrepreneurs wanting both business and IT skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "DTech in Human Resource Management & IT",
+        "career": [
+          "HR Assistant",
+          "HR Officer (junior)",
+          "HR Information Systems Assistant",
+          "Recruitment Assistant",
+          "Training and Records Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma (Professional/Industrial‑based)",
+            "fees": [
+              "Local: about GHC 1,876 per semester (business DTech band)",
+              "International: about GHC 1,876 per semester"
+            ],
+            "duration": "2 semesters",
+            "electives": [
+              "Fundamentals of Human Resource Management",
+              "HR Information Systems",
+              "Employment Law Basics",
+              "Training and Development",
+              "Performance Management Systems"
+            ],
+            "salary": [
+              "Supports progression into HR support roles; pay depends on organisation and responsibilities."
+            ],
+            "cutt_off": [
+              "Requires WASSCE/SSSCE credits including English Language and Core Mathematics with suitable electives, or relevant certificate/diploma."
+            ],
+            "mode": [
+              "Work‑oriented modules in HR processes and supporting IT tools"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE credits including English Language and Core Mathematics",
+              "Business/IT‑related certificate or relevant work experience is an advantage"
+            ],
+            "level_note": [
+              "Combines HR fundamentals with IT for managing HR data and systems.",
+              "Prepares students for support roles in HR and HRIS environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "DTech in Marketing and Information Technology",
+        "career": [
+          "Marketing Officer",
+          "Digital Marketing Executive",
+          "Brand and Communications Assistant",
+          "Sales and CRM Executive",
+          "Marketing Data and IT Systems Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma (Professional/Industrial‑based)",
+            "fees": [
+              "Local: about GHC 1,876 per semester (professional DTech band for Marketing & IT)",
+              "International: about GHC 1,876 per semester (same published band)"
+            ],
+            "duration": "2 semesters",
+            "electives": [
+              "Marketing Principles and Practice",
+              "Marketing and IT Computer‑based Applications",
+              "Business Computing and Practicum",
+              "Entrepreneurship and Marketing & IT Industry Practice",
+              "Advanced Business Computing and Practicum"
+            ],
+            "salary": [
+              "Graduates move into marketing and IT‑enabled sales roles; compensation structures vary."
+            ],
+            "cutt_off": [
+              "Senior Secondary/High School Certificate or WASSCE with an aggregate around 24 or better in six subjects (three core including English and Mathematics plus three electives), or CTech/equivalent."
+            ],
+            "mode": [
+              "Strong emphasis on industry‑relevant IT and marketing tools",
+              "Includes practice in marketing applications and computer‑based tools"
+            ],
+            "entry_requirements": [
+              "SSSCE/WASSCE with aggregate about 24 or better in six subjects including English Language and Core Mathematics",
+              "Certificate of Technology (CTech) in Marketing & IT or equivalent; working professionals in sales/marketing may also qualify"
+            ],
+            "level_note": [
+              "Job‑ready programme focusing on marketing concepts and IT applications for business.",
+              "Graduates can move quickly into frontline and supervisory marketing/IT‑linked roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc in Banking and Finance and Information Technology",
+        "career": [
+          "Banking Officer with IT focus",
+          "Fintech Operations Officer",
+          "Credit and Risk Analyst",
+          "Treasury and Operations Support Officer",
+          "Financial Systems Analyst",
+          "Digital Banking Specialist",
+          "IT Support in Financial Institutions",
+          "Compliance and Reporting Analyst",
+          "Microfinance Officer",
+          "Financial Data Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,453 per semester (AIT Business School – tuition plus facility charge for degree band)",
+              "International: about GHC 5,458 per semester (AIT Business School degree band)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Banking",
+              "Financial Management",
+              "Money and Banking",
+              "Investment Analysis",
+              "Information Systems for Finance",
+              "Database and Spreadsheet Applications"
+            ],
+            "salary": [
+              "Graduates enter varied banking/IT roles; salary levels depend on institution, role and experience."
+            ],
+            "cutt_off": [
+              "Requires WASSCE/SSSCE credit passes in six subjects (three core including English and Mathematics, plus three relevant business/ICT electives).",
+              "Specific aggregate thresholds are fixed by AIT for each intake."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Integrated curriculum combining finance and IT modules"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: credit passes in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three relevant Electives such as Economics, Business Management, Accounting, Elective Mathematics or ICT",
+              "DTech/other diplomas in banking, finance or IT may provide top‑up entry options"
+            ],
+            "level_note": [
+              "Bridges banking and finance with strong IT skills in systems, databases and digital banking tools.",
+              "Targets roles in modern technology‑driven financial institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc in Business Administration (Accounting and Finance)",
+        "career": [
+          "Accountant",
+          "Financial Analyst",
+          "Audit Associate",
+          "Budget and Planning Officer",
+          "Investment Analyst",
+          "Finance Manager (with experience)",
+          "Treasury Officer",
+          "Tax Consultant",
+          "Corporate Reporting Officer",
+          "Internal Auditor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,453 per semester (AIT Business School degree band)",
+              "International: about GHC 5,458 per semester (AIT Business School degree band)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Management Accounting",
+              "Corporate Finance",
+              "Taxation",
+              "Auditing and Assurance",
+              "Business Law and Ethics"
+            ],
+            "salary": [
+              "Salaries vary across accounting and finance roles; check current market data for more precise ranges."
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE credit passes in six subjects including core English and Mathematics plus three business-related electives; detailed aggregates are set by AIT each year."
+            ],
+            "mode": ["Full-time on-campus"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: credit passes in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "Three business‑related Electives including Accounting, Business Management, Economics or Elective Mathematics",
+              "Relevant diplomas and DTech in Business Accounting Technology may allow advanced standing"
+            ],
+            "level_note": [
+              "Deepens combined competence in accounting and finance within a business administration framework.",
+              "Suitable for students aiming for professional accounting qualifications and senior finance roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc in Entrepreneurship and Information Technology",
+        "career": [
+          "Startup Founder",
+          "Digital Entrepreneur",
+          "Business Development Manager",
+          "Innovation and Strategy Associate",
+          "Tech Product Manager (entry level)",
+          "Operations Manager in SMEs",
+          "E‑commerce Specialist",
+          "Technology Consultant (junior)",
+          "Project Coordinator in Tech Startups",
+          "Incubation/Hub Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,453 per semester (AIT Business School / ASSDAS degree band)",
+              "International: about GHC 5,458 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Entrepreneurship and New Venture Creation",
+              "Innovation Management",
+              "E‑Commerce and Digital Business",
+              "Small Business Finance",
+              "Information Systems Fundamentals",
+              "Web and Mobile Technologies for Business"
+            ],
+            "salary": [
+              "Income varies widely, especially for founders; employed graduates follow typical business/IT salary patterns."
+            ],
+            "cutt_off": [
+              "Requires WASSCE/SSSCE credit passes in six subjects; aggregates are determined by AIT admission policy for each cohort."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Project‑based learning and venture development"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE credits in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "Three Electives from Business, General Arts or Science (ICT/Maths related electives advantageous)",
+              "DTech in Entrepreneurship & IT or related qualifications may provide progression"
+            ],
+            "level_note": [
+              "Combines entrepreneurship, management and applied IT to support technology‑enabled ventures.",
+              "Ideal for students who want to create and grow their own businesses."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc in Human Resource Management and Information Technology",
+        "career": [
+          "HR Officer",
+          "HRIS (Human Resource Information Systems) Officer",
+          "Recruitment and Talent Acquisition Officer",
+          "Training and Development Officer",
+          "HR Data Analyst",
+          "HR/IT Coordinator",
+          "Employee Relations Officer",
+          "Payroll and Systems Administrator",
+          "Staff Welfare Officer",
+          "People Analytics Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,453 per semester (AIT Business School degree band)",
+              "International: about GHC 5,458 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Human Resource Management",
+              "Organisational Behaviour",
+              "HR Information Systems",
+              "Recruitment and Selection",
+              "Training and Development",
+              "Performance Management and Analytics"
+            ],
+            "salary": [
+              "HR/IT hybrid salaries vary; typically aligned with HR officer and systems support bands."
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE credit passes in six subjects including core English and Mathematics plus suitable electives; actual cut-offs are set yearly."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Combination of HR theory and IT practice"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE credit passes in English Language, Core Mathematics and another core subject",
+              "Three Electives preferably in Business, General Arts or ICT",
+              "DTech in HR & IT or related business/IT diplomas may support advanced entry"
+            ],
+            "level_note": [
+              "Prepares graduates to manage HR processes and systems using modern IT tools.",
+              "Targets roles at the intersection of HR management and information systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc in Marketing and Information Technology",
+        "career": [
+          "Marketing Executive",
+          "Digital Marketing Specialist",
+          "Brand and Communications Officer",
+          "Sales and CRM Officer",
+          "E‑commerce and Online Sales Officer",
+          "Market Intelligence Analyst (entry level)",
+          "Product Marketing Coordinator",
+          "Social Media Manager",
+          "Advertising and Promotions Executive",
+          "Marketing Data and Analytics Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,453 per semester (AIT Business School / ASSDAS degree band)",
+              "International: about GHC 5,458 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Marketing Strategy",
+              "Consumer Behaviour",
+              "Digital and Social Media Marketing",
+              "Sales and Customer Relationship Management",
+              "Marketing Research",
+              "Web Analytics and E‑Commerce Tools"
+            ],
+            "salary": [
+              "Marketing/IT salaries span a broad range; graduates typically start in junior marketing or digital roles."
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: credit passes in six subjects including core English and Mathematics; aggregates are set by AIT admissions."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Mix of marketing, analytics and IT systems courses"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: credit passes in English Language and Core Mathematics plus one other core",
+              "Three Electives from Business, General Arts, Visual Arts or ICT (marketing‑related electives advantageous)",
+              "Diploma/DTech holders in Marketing & IT can progress to this degree"
+            ],
+            "level_note": [
+              "Equips students with marketing strategy skills and the IT capabilities to execute and measure campaigns.",
+              "Suited for roles in digital‑first marketing and tech‑driven commercial environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Business Administration (MBA)",
+        "career": [
+          "General Manager",
+          "Operations Manager",
+          "Business Development Manager",
+          "Project Manager",
+          "Senior Administrator",
+          "Entrepreneur/Business Owner",
+          "Management Consultant",
+          "Functional Manager (Finance, HR, Marketing, Operations)",
+          "Corporate Strategy Associate",
+          "Lecturer/Trainer in Business (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Open University/Weekend Local: about GHC 4,100 per semester (Masters: tuition around GHC 3,890 plus facility charge about GHC 210)",
+              "Campus-based and international fee variations are published in AIT’s current schedule of fees."
+            ],
+            "duration": "Typically 2 years (part‑time formats available)",
+            "electives": [
+              "Strategic Management",
+              "Managerial Finance",
+              "Marketing Management",
+              "Human Resource Management",
+              "Operations and Project Management",
+              "Business Research Methods"
+            ],
+            "salary": [
+              "MBA holders generally access mid‑ to senior‑level roles; salaries vary significantly by sector and experience."
+            ],
+            "cutt_off": [
+              "Admission is based on possession of a good first degree and work experience rather than WASSCE aggregates."
+            ],
+            "mode": [
+              "Evening/weekend and/or blended formats for working professionals"
+            ],
+            "entry_requirements": [
+              "Good first degree in any relevant discipline from a recognised institution",
+              "Relevant work experience is a strong advantage",
+              "May require interview and other Graduate School criteria"
+            ],
+            "level_note": [
+              "Provides advanced managerial, leadership and strategic skills across core business functions.",
+              "Designed for professionals seeking career progression into middle and senior management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD in Business Administration",
+        "career": [
+          "University Lecturer/Professor",
+          "Senior Management Consultant",
+          "Corporate Strategy Director",
+          "Researcher in Business and Management",
+          "Policy and Planning Advisor",
+          "Think Tank Fellow",
+          "Executive in Public or Private Sector",
+          "Academic Administrator",
+          "Entrepreneurial Ecosystem Leader",
+          "Author and Business Thought Leader"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Open University/Weekend Local: about GHC 6,760 per semester (PhD band: tuition around GHC 6,550 plus facility charge about GHC 210)",
+              "International and campus-based PhD fees follow AIT’s latest PhD fee schedule."
+            ],
+            "duration": "Minimum 3–4 years (research‑based)",
+            "electives": [],
+            "salary": [
+              "PhD graduates enter senior academic and strategic leadership roles; remuneration is highly institution‑ and country‑specific."
+            ],
+            "cutt_off": [
+              "Selection is based on prior postgraduate performance, research potential and proposal quality, not WASSCE aggregates."
+            ],
+            "mode": [
+              "Coursework in research methods and advanced theory (where applicable)",
+              "Independent supervised research and thesis"
+            ],
+            "entry_requirements": [
+              "Relevant Master’s degree in Business Administration or related field from a recognised university",
+              "Strong research proposal and academic record",
+              "Satisfaction of doctoral admission procedures including interviews and proposal review"
+            ],
+            "level_note": [
+              "Aims to produce high‑level scholars and practitioners in business and management.",
+              "Suitable for those pursuing academic careers or top‑tier strategic leadership roles."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Computer Science and Information Technology",
+    "note": [
+      "Provides specialised degrees in computer science and information technology with a strong practical and industry alignment.",
+      "Curricula cover programming, networks, databases, systems design and emerging IT fields.",
+      "Graduates are prepared for software engineering, systems administration, networking, and IT consultancy roles."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc in Computer Science (CS)",
+        "career": [
+          "Software Engineer",
+          "Full‑Stack Developer",
+          "Backend/Frontend Developer",
+          "Systems Analyst",
+          "Data Engineer (entry level)",
+          "DevOps Engineer (entry level)",
+          "Database Developer",
+          "Software QA Engineer",
+          "Technical Consultant",
+          "Research and Development Assistant in Computing"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,453 per semester (ASSDAS – degree band: tuition plus facility charge)",
+              "International: about GHC 5,458 per semester (ASSDAS degree band)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Programming I & II",
+              "Data Structures and Algorithms",
+              "Operating Systems",
+              "Database Systems",
+              "Software Engineering",
+              "Computer Networks"
+            ],
+            "salary": [
+              "Software and computing salaries depend heavily on role, company and geography; refer to current CS job market data."
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: credit passes in six subjects including core English and Mathematics plus suitable science/ICT electives; specific aggregates are set by AIT each year."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Strong emphasis on algorithms, software design and project work"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: credit passes in English Language, Core Mathematics and Integrated Science",
+              "Three Electives including at least one of Elective Mathematics, Physics, ICT or other science subjects",
+              "Relevant IT diplomas may qualify for top‑up entry after evaluation"
+            ],
+            "level_note": [
+              "Covers core computer science topics including algorithms, data structures, operating systems, databases and software engineering.",
+              "Designed for students aiming at deep technical roles and/or further postgraduate studies in computing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc in Information Technology (IT) (Network Systems)",
+        "career": [
+          "Network Administrator",
+          "Systems Administrator",
+          "IT Support Engineer",
+          "Network Operations Centre (NOC) Engineer",
+          "IT Infrastructure Specialist",
+          "Cyber/Network Security Technician",
+          "Cloud and Systems Support Technician",
+          "IT Field Engineer",
+          "Helpdesk Analyst",
+          "IT Consultant (infrastructure‑focused)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,453 per semester (ASSDAS – degree band)",
+              "International: about GHC 5,458 per semester (ASSDAS degree band)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Computer Hardware and Architecture",
+              "Network Fundamentals",
+              "Routing and Switching",
+              "System Administration",
+              "Network Security Basics",
+              "Cloud and Virtualisation Essentials"
+            ],
+            "salary": [
+              "Network and systems salaries range with experience and certification; see current Ghana and international IT salary surveys."
+            ],
+            "cutt_off": [
+              "Requires WASSCE/SSSCE credit passes in six subjects including English Language and Core Mathematics plus ICT/science electives; aggregates are fixed by AIT admissions each year."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Lab‑rich networking and systems courses"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: credit passes in English Language, Core Mathematics and Integrated Science",
+              "Three Electives, preferably including ICT, Elective Mathematics or science/technical subjects",
+              "IT‑related diplomas may be considered for advanced standing"
+            ],
+            "level_note": [
+              "Emphasises network systems, infrastructure, system administration and applied IT.",
+              "Ideal for students targeting network/system admin and support roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Information Technology",
+        "career": [
+          "IT Manager",
+          "Senior Systems Analyst",
+          "Solutions Architect (with experience)",
+          "IT Project Manager",
+          "Enterprise Systems Administrator",
+          "Technology Consultant",
+          "IT Governance and Risk Specialist",
+          "Senior Network/Systems Engineer",
+          "IT Lecturer/Trainer",
+          "Digital Transformation Lead"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Open University/Weekend Local: about GHC 4,100 per semester (Masters band: tuition around GHC 3,890 plus facility charge about GHC 210)",
+              "Detailed campus-based and international fees are in AIT’s current Masters fee schedule."
+            ],
+            "duration": "Typically 2 years (flexible formats)",
+            "electives": [
+              "Advanced Computer Networks",
+              "Advanced Database and Data Warehousing",
+              "Information Security Management",
+              "Software Engineering and Architecture",
+              "IT Project Management",
+              "Emerging Technologies and Innovation"
+            ],
+            "salary": [
+              "Postgraduate IT salaries tend to be in the upper IT brackets; actual pay reflects role, sector and experience."
+            ],
+            "cutt_off": [
+              "Selection is based on first-degree performance and IT background, not WASSCE aggregates."
+            ],
+            "mode": ["Evening/weekend or blended for working professionals"],
+            "entry_requirements": [
+              "Bachelor’s degree in IT, Computer Science, Engineering or closely related field from a recognised institution",
+              "Candidates with other degrees but substantial IT experience may be considered",
+              "Additional Graduate School requirements such as interviews may apply"
+            ],
+            "level_note": [
+              "Provides advanced knowledge in networks, systems, software, security and IT management.",
+              "Prepares professionals for senior technical and leadership roles in the IT sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD in Information Technology",
+        "career": [
+          "University Lecturer/Professor in IT",
+          "Chief Technology Officer (CTO) or CIO (with experience)",
+          "Senior Research Scientist in IT",
+          "Technology Policy Advisor",
+          "Lead Systems Architect",
+          "Innovation and R&D Director",
+          "Consultant in Complex IT Systems",
+          "Author and Thought Leader in IT",
+          "Tech Start‑up Founder (deep‑tech)",
+          "High‑level Technical Manager in Industry"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Open University/Weekend Local: about GHC 6,760 per semester (PhD band: tuition around GHC 6,550 plus facility charge about GHC 210)",
+              "International and campus-based fees follow AIT’s latest PhD fee schedule."
+            ],
+            "duration": "Minimum 3–4 years",
+            "electives": [],
+            "salary": [
+              "Doctoral IT specialists can access top-tier academic and technical leadership roles; compensation varies widely by country and institution."
+            ],
+            "cutt_off": [
+              "Admissions are based on postgraduate performance and research proposal quality, not WASSCE aggregates."
+            ],
+            "mode": [
+              "Research‑intensive with supervision and possible coursework in research methods"
+            ],
+            "entry_requirements": [
+              "Relevant Master’s degree in IT, Computer Science or related field",
+              "Strong academic record and viable research proposal",
+              "Satisfaction of doctoral admissions processes, including interviews and proposal defence"
+            ],
+            "level_note": [
+              "Develops advanced research and innovation capacity in specialised IT fields.",
+              "Suitable for academic careers and top‑tier technical leadership roles."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Health and Safety",
+    "note": [
+      "Specialises in occupational health, safety and risk management education.",
+      "Focuses on regulatory frameworks, risk assessment, safety systems and organisational health programmes.",
+      "Graduates are prepared for roles in industry, oil and gas, construction, manufacturing and public sector safety agencies."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Occupational Health & Safety Management",
+        "career": [
+          "Occupational Health and Safety Officer",
+          "HSE (Health, Safety and Environment) Officer",
+          "Safety Coordinator",
+          "Risk Management Assistant",
+          "Compliance and Audit Officer",
+          "Safety Trainer",
+          "Industrial Hygienist Assistant",
+          "Environmental Health and Safety Specialist (with experience)",
+          "Construction Safety Officer",
+          "Safety Consultant (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Local: about GHC 2,453 per semester (business/management degree band)",
+              "International: about GHC 5,458 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Occupational Health and Safety",
+              "Safety Legislation and Standards",
+              "Risk Assessment and Management",
+              "Industrial Hygiene",
+              "Safety Management Systems",
+              "Emergency Preparedness and Response"
+            ],
+            "salary": [
+              "OHS salaries vary by industry and level; roles in high‑risk sectors like oil & gas often pay more."
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE credit passes in English Language, Core Mathematics and Integrated Science plus suitable science/technical electives; detailed aggregates are published by AIT for each year."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Field visits and practical safety assessments"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: credit passes in English Language, Core Mathematics and Integrated Science",
+              "Three relevant Electives from Science, Technical, or Business programmes",
+              "Relevant diplomas in safety or engineering may support top‑up entry routes"
+            ],
+            "level_note": [
+              "Covers occupational health principles, safety legislation, risk assessment and safety management systems.",
+              "Designed for students targeting occupational health and safety careers across sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Occupational Safety & Risk Management",
+        "career": [
+          "Senior HSE Manager",
+          "Risk Management Specialist",
+          "Safety and Compliance Manager",
+          "Consultant in Occupational Safety",
+          "Corporate Safety Director (with experience)",
+          "Safety Auditor",
+          "Policy Advisor in OHS",
+          "Training and Development Manager (Safety)",
+          "Emergency and Disaster Risk Manager",
+          "Academic/Trainer in OHS"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Open University/Weekend Local: about GHC 4,100 per semester (Masters band: tuition around GHC 3,890 plus facility charge about GHC 210)",
+              "Detailed international and campus-based fees are provided in AIT’s current postgraduate fee schedules."
+            ],
+            "duration": "Typically 2 years (part‑time formats likely)",
+            "electives": [
+              "Advanced Risk Assessment and Control",
+              "Safety Management and Leadership",
+              "Occupational Health and Industrial Hygiene",
+              "Emergency and Disaster Risk Management",
+              "Safety Regulations and Compliance",
+              "Research Methods in Occupational Safety"
+            ],
+            "salary": [
+              "Senior safety and risk roles often command premium pay in high‑risk industries; levels vary by sector."
+            ],
+            "cutt_off": [
+              "Entry depends on prior degree class and professional background, not WASSCE aggregates."
+            ],
+            "mode": [
+              "Evening/weekend or block release to suit working professionals"
+            ],
+            "entry_requirements": [
+              "Relevant Bachelor’s degree in safety, engineering, environmental science or related field",
+              "Professional experience in health and safety or related roles is highly desirable",
+              "Satisfaction of Graduate School admission criteria"
+            ],
+            "level_note": [
+              "Advanced programme focusing on risk management frameworks, advanced safety engineering and organisational safety leadership.",
+              "Prepares graduates for senior and strategic OHS roles."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Education",
+    "note": [
+      "Provides advanced programmes for education professionals and scholars.",
+      "Focuses on educational leadership, policy, curriculum and research.",
+      "Graduates contribute to educational improvement in schools, higher institutions and policy environments."
+    ],
+    "courses": [
+      {
+        "course_name": "PhD in Education",
+        "career": [
+          "University Lecturer/Professor of Education",
+          "Educational Researcher",
+          "Education Policy Analyst",
+          "Director of Education or School System Administrator",
+          "Curriculum and Assessment Specialist",
+          "Consultant in Educational Reform",
+          "NGO Education Programme Director",
+          "Teacher‑Education Leader",
+          "Author in Education and Pedagogy",
+          "Think Tank/Fellow in Education Policy"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "Open University/Weekend Local: about GHC 6,760 per semester (PhD band: tuition around GHC 6,550 plus facility charge about GHC 210)",
+              "International and campus-based PhD fees are provided in AIT’s latest doctoral fee schedules."
+            ],
+            "duration": "Minimum 3–4 years (research‑based)",
+            "electives": [],
+            "salary": [
+              "PhD holders in Education typically work in academia and high‑level educational leadership; remuneration varies widely by country and institution type."
+            ],
+            "cutt_off": [
+              "Doctoral admission is based on postgraduate record and research proposal quality, not WASSCE aggregates."
+            ],
+            "mode": [
+              "Research supervision and seminars; possible coursework in research methods and theory"
+            ],
+            "entry_requirements": [
+              "Relevant Master’s degree in Education or a closely related field from a recognised institution",
+              "Evidence of research aptitude and a strong proposal in an area of educational research",
+              "Completion of doctoral admission procedures including interviews and proposal defence"
+            ],
+            "level_note": [
+              "Aims to develop high‑level scholars and leaders capable of shaping educational theory, policy and practice.",
+              "Appropriate for those pursuing academic careers or senior roles in education systems and organisations."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
