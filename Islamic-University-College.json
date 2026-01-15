@@ -1,0 +1,839 @@
+[
+  {
+    "name": "Islamic University College"
+  },
+  {
+    "faculty_name": "Faculty of Arts",
+    "note": [
+      "Offers arts and humanities programmes with a strong foundation in Islamic and religious thought.",
+      "Emphasizes ethical values, critical thinking and interfaith understanding.",
+      "Graduates are prepared for roles in religious leadership, education and community development."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Arts in Religious Studies",
+        "career": [
+          "Religious Studies Lecturer",
+          "Religious Education Teacher",
+          "Chaplain",
+          "Imam or Religious Leader",
+          "Community Development Officer",
+          "Faith-based NGO Officer",
+          "Ethics and Values Education Officer",
+          "Research Assistant in Religion and Society",
+          "Interfaith Dialogue Coordinator",
+          "Social and Youth Worker in Faith Communities"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to World Religions",
+              "Qur’anic Studies",
+              "Hadith Studies",
+              "Comparative Religion",
+              "Philosophy of Religion",
+              "Religion and Society"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 75,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Seminars, tutorials and field-based community engagement"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Social Studies or Integrated Science",
+              "Credit passes in three Electives such as Islamic Religious Studies, Christian Religious Studies, History, Government or related subjects",
+              "Mature applicants with relevant experience in religious or community work may be considered after an entrance assessment"
+            ],
+            "level_note": [
+              "Provides broad knowledge of religious traditions with a focus on Islamic and African religious contexts.",
+              "Equips graduates to contribute to education, interfaith relations and community development initiatives."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil in Islamic Studies",
+        "career": [
+          "Islamic Studies Lecturer",
+          "Researcher in Islamic Thought and Society",
+          "Policy Advisor on Religious Affairs",
+          "Curriculum Developer for Islamic Education",
+          "Interfaith Relations Specialist",
+          "Think Tank Research Fellow",
+          "Author and Islamic Studies Writer",
+          "Advanced Religious Education Instructor",
+          "Consultant on Islamic Ethics and Law",
+          "Doctoral Candidate in Islamic Studies"
+        ],
+        "levels": [
+          {
+            "level_name": "MPhil",
+            "fees": ["Ghanaian Students: GHC 4,500 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Qur’anic Exegesis",
+              "Islamic Jurisprudence and Legal Theory",
+              "Islamic Theology and Philosophy",
+              "Islam and Contemporary Issues",
+              "Research Methods in Islamic Studies",
+              "Islamic History and Civilization"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 120,000 annually",
+              "USA: $85,000 - $150,000",
+              "Europe: €70,000 - €135,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Coursework and thesis-based study",
+              "Seminars, supervised research and presentations"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree in Islamic Studies, Religious Studies or a closely related field from a recognised institution",
+              "Normally a minimum of Second Class Upper division or strong Second Class Lower with relevant research potential",
+              "Evidence of proficiency in relevant languages and research skills may be required"
+            ],
+            "level_note": [
+              "Provides advanced training in Islamic scholarship, research and analysis.",
+              "Prepares graduates for academic, policy and leadership roles related to Islamic studies."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Business Administration",
+    "note": [
+      "Provides business education grounded in ethical and Islamic values.",
+      "Combines theoretical knowledge with practical skills for corporate and entrepreneurial careers.",
+      "Programmes cover core functional areas of business including accounting, finance, marketing, HR and information systems."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Business Administration (Accounting)",
+        "career": [
+          "Accountant",
+          "Financial Analyst",
+          "Audit Associate",
+          "Tax Consultant",
+          "Cost Accountant",
+          "Budget Analyst",
+          "Internal Auditor",
+          "Payroll Officer",
+          "Finance Officer",
+          "Financial Controller"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Taxation",
+              "Auditing and Assurance",
+              "Corporate Reporting",
+              "Public Sector Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $75,000 - $140,000",
+              "Europe: €65,000 - €130,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-34"],
+            "mode": [
+              "Full-time on-campus",
+              "Lectures, tutorials and accounting software practice"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three Business-related Electives such as Accounting, Business Management, Economics or Elective Mathematics",
+              "HND or diploma holders in accounting or related fields may gain advanced standing after assessment"
+            ],
+            "level_note": [
+              "Develops strong competences in financial reporting, management accounting and auditing.",
+              "Prepares students for professional accounting qualifications and roles in diverse organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (Banking and Finance)",
+        "career": [
+          "Banking Officer",
+          "Credit Analyst",
+          "Risk Management Officer",
+          "Treasury Officer",
+          "Investment Analyst",
+          "Relationship Manager",
+          "Microfinance Officer",
+          "Customer Service Executive (Banking)",
+          "Financial Services Consultant",
+          "Corporate Finance Associate"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Banking",
+              "Financial Management",
+              "Money and Banking",
+              "Investment Analysis",
+              "Risk Management in Financial Institutions",
+              "International Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $80,000 - $145,000",
+              "Europe: €65,000 - €130,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-34"],
+            "mode": [
+              "Full-time on-campus",
+              "Case studies, simulations and guest lectures from industry"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three Electives such as Economics, Business Management, Accounting or Elective Mathematics",
+              "Diploma and HND holders in banking, finance or related areas may apply for top-up"
+            ],
+            "level_note": [
+              "Provides deep understanding of financial systems, banking operations and investment analysis.",
+              "Equips graduates for positions in banks, microfinance institutions and the wider financial sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (Marketing)",
+        "career": [
+          "Marketing Executive",
+          "Brand Manager",
+          "Sales and Marketing Officer",
+          "Market Research Analyst",
+          "Digital Marketing Specialist",
+          "Customer Relationship Manager",
+          "Product Development Officer",
+          "Advertising Account Executive",
+          "Promotions and Events Coordinator",
+          "Business Development Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Marketing",
+              "Consumer Behaviour",
+              "Marketing Research",
+              "Digital and Social Media Marketing",
+              "Sales Management",
+              "Marketing Strategy and Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Project-based learning and marketing campaigns"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language and Core Mathematics",
+              "Credit passes in three Electives from Business, General Arts or related programmes",
+              "Interest in communication, sales and customer relations is expected"
+            ],
+            "level_note": [
+              "Combines theoretical marketing knowledge with applied promotional and digital skills.",
+              "Prepares students for marketing roles in corporate, SME and non-profit organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (Human Resource Management)",
+        "career": [
+          "Human Resource Officer",
+          "HR Manager",
+          "Recruitment and Selection Officer",
+          "Training and Development Officer",
+          "Compensation and Benefits Analyst",
+          "Employee Relations Officer",
+          "HR Generalist",
+          "Staff Welfare Officer",
+          "Performance Management Officer",
+          "Talent Management Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Human Resource Management",
+              "Organisational Behaviour",
+              "Recruitment and Selection",
+              "Training and Development",
+              "Performance Management",
+              "Labour Law and Industrial Relations"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Lectures, presentations and case-based discussions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language and Core Mathematics",
+              "Credit passes in three Electives in Business, General Arts or related fields",
+              "Mature applicants with relevant work experience may be admitted after assessment"
+            ],
+            "level_note": [
+              "Emphasizes the management of people, performance and organisational culture.",
+              "Graduates can work in HR roles in both public and private sector institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Administration (Management Information Systems)",
+        "career": [
+          "Business Systems Analyst",
+          "IT Business Analyst",
+          "Management Information Systems Officer",
+          "IT Project Assistant",
+          "Systems Support Specialist",
+          "Database and Reporting Assistant",
+          "ERP Support Officer",
+          "Business Intelligence Assistant",
+          "ICT Coordinator",
+          "Digital Transformation Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Management Information Systems",
+              "Database Management",
+              "Systems Analysis and Design",
+              "Business Programming Fundamentals",
+              "Enterprise Systems and ERP",
+              "Business Intelligence and Reporting"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $80,000 - $145,000",
+              "Europe: €65,000 - €130,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 24-36"],
+            "mode": [
+              "Full-time on-campus",
+              "Blended business and ICT coursework with lab sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three Electives preferably including ICT, Elective Mathematics or Business subjects",
+              "Applicants with strong interest in both business and ICT are encouraged"
+            ],
+            "level_note": [
+              "Bridges business and technology by focusing on information systems that support decision making.",
+              "Prepares graduates for hybrid roles at the interface of management and ICT."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Communication Studies",
+    "note": [
+      "Trains students in communication theory, media practice, journalism, public relations and advertising.",
+      "Emphasizes ethical, responsible and socially conscious communication grounded in Islamic values.",
+      "Graduates are equipped to work in media houses, corporate communication units and development communication roles."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Arts in Communication Studies",
+        "career": [
+          "Communications Officer",
+          "Public Information Officer",
+          "Corporate Affairs Executive",
+          "Media Content Producer",
+          "Social Media Manager",
+          "Copywriter",
+          "Communication Research Assistant",
+          "NGO Communication Officer",
+          "Development Communication Specialist",
+          "Marketing Communications Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Communication Studies",
+              "Communication Theory",
+              "Writing for the Media",
+              "Communication Research Methods",
+              "Intercultural Communication",
+              "Media Law and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €95,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Lectures, presentations and practical communication projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language and Core Mathematics",
+              "Credit passes in three Electives from General Arts, Business or related programmes",
+              "Good written and oral communication skills are expected"
+            ],
+            "level_note": [
+              "Provides a broad grounding in communication theory and practice.",
+              "Students can specialise in different communication fields at advanced levels."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Communication Studies (Journalism)",
+        "career": [
+          "News Reporter",
+          "Broadcast Journalist",
+          "Print Journalist",
+          "Online Content Writer",
+          "News Editor",
+          "Programme Producer",
+          "Photojournalist",
+          "Copy Editor",
+          "Investigative Journalist",
+          "Community Journalist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "News Writing and Reporting",
+              "Broadcast Journalism",
+              "Feature and Magazine Writing",
+              "Photojournalism",
+              "Data and Investigative Journalism",
+              "Digital and Social Media Journalism"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 85,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €42,000 - €90,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Newsroom simulations, studio practice and field reporting"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language and Core Mathematics",
+              "Credit passes in three Electives preferably in General Arts, Business or Visual Arts",
+              "Interest in writing, media and current affairs"
+            ],
+            "level_note": [
+              "Focuses on the skills and ethics of modern journalism across print, broadcast and online platforms.",
+              "Students gain practical experience through reporting assignments and internships."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Communication Studies (Public Relations)",
+        "career": [
+          "Public Relations Officer",
+          "Corporate Communications Executive",
+          "Media Relations Officer",
+          "Community Relations Officer",
+          "Event and Promotions Coordinator",
+          "Client Service Executive",
+          "Brand Communications Specialist",
+          "Crisis Communication Assistant",
+          "NGO Communications Officer",
+          "Stakeholder Engagement Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Public Relations",
+              "Corporate Communication",
+              "Media Relations and Monitoring",
+              "Event Management and Protocol",
+              "Crisis Communication",
+              "Strategic Communication Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 95,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Case studies, campaigns and group communication projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language and Core Mathematics",
+              "Credit passes in three Electives from recognised SHS programmes",
+              "Applicants should demonstrate strong interpersonal and communication skills"
+            ],
+            "level_note": [
+              "Specialises in managing organisational image, reputation and stakeholder relationships.",
+              "Equips students to work in corporate, governmental and non-profit communication roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Communication Studies (Advertising)",
+        "career": [
+          "Advertising Executive",
+          "Creative Copywriter",
+          "Account Executive in Advertising Agency",
+          "Media Planner and Buyer",
+          "Brand Communications Officer",
+          "Digital Advertising Specialist",
+          "Content Creator",
+          "Marketing Communications Officer",
+          "Campaign Strategist",
+          "Promotions and Activations Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,000 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Advertising",
+              "Creative Strategy and Copywriting",
+              "Media Planning and Buying",
+              "Brand Communication",
+              "Digital Advertising and Social Media",
+              "Consumer Behaviour in Advertising"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 95,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "Studio-based creative work and campaign projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language and Core Mathematics",
+              "Credit passes in three Electives from General Arts, Business or Visual Arts",
+              "Interest in creativity, branding and persuasive communication"
+            ],
+            "level_note": [
+              "Prepares students to design and manage advertising campaigns across media platforms.",
+              "Combines creative development with strategic planning and media management."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Education",
+    "note": [
+      "Trains professional teachers and educators guided by Islamic values and national education standards.",
+      "Programmes focus on pedagogy, curriculum design and classroom management at various levels of education.",
+      "Graduates serve in basic, secondary and faith-based educational institutions."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Education",
+        "career": [
+          "Basic School Teacher",
+          "Secondary School Teacher",
+          "Headteacher or Assistant Headteacher",
+          "Education Officer",
+          "Curriculum Coordinator",
+          "Guidance and Counselling Coordinator",
+          "Instructional Supervisor",
+          "Education NGO Project Officer",
+          "Learning Support Coordinator",
+          "Education Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 2,900 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Foundations of Education",
+              "Educational Psychology",
+              "Curriculum Development",
+              "Instructional Methods and Strategies",
+              "Classroom Management",
+              "Measurement and Evaluation"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 80,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €42,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 26-38"],
+            "mode": [
+              "Full-time on-campus",
+              "School-based teaching practice and micro-teaching"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Integrated Science or Social Studies",
+              "Credit passes in three Electives from any approved SHS programme",
+              "Teacher training college graduates and diploma holders may receive credit transfers"
+            ],
+            "level_note": [
+              "Provides pedagogical and content knowledge for teaching at various educational levels.",
+              "Designed for students committed to careers in classroom teaching and educational leadership."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Early Childhood Education",
+        "career": [
+          "Kindergarten Teacher",
+          "Nursery Teacher",
+          "Early Childhood Centre Supervisor",
+          "Daycare Coordinator",
+          "Teaching Assistant in Early Years",
+          "Curriculum Assistant for Early Childhood",
+          "Childcare Provider",
+          "Early Childhood Programme Assistant",
+          "Preschool Administrator",
+          "Family and Community Outreach Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 2,200 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Early Childhood Education",
+              "Child Growth and Development",
+              "Play and Learning in Early Years",
+              "Language and Literacy in Early Childhood",
+              "Mathematics and Science for Young Children",
+              "Classroom Management in Early Childhood Settings"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 50,000 annually",
+              "USA: $32,000 - $50,000",
+              "Europe: €28,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 30-40"],
+            "mode": [
+              "Full-time on-campus",
+              "Practicum in early childhood centres and schools"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE passes including English Language",
+              "SHS completion with interest in teaching young children",
+              "Caregivers or assistants in early childhood centres may apply for upgrading"
+            ],
+            "level_note": [
+              "Focuses on teaching and caring for children in the early years of schooling.",
+              "Suitable for individuals passionate about early childhood development and education."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Department of Nursing & Midwifery",
+    "note": [
+      "Provides health sciences programmes planned to address the demand for qualified nurses and midwives.",
+      "Combines theoretical coursework with clinical practice in accredited health facilities.",
+      "Emphasizes ethical, compassionate and culturally sensitive care consistent with Islamic values."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Nursing",
+        "career": [
+          "Registered Nurse",
+          "Staff Nurse",
+          "Community Health Nurse",
+          "Ward Manager",
+          "Public Health Nurse",
+          "Nurse Educator",
+          "Occupational Health Nurse",
+          "Clinical Research Nurse",
+          "Home Care Nurse",
+          "Nursing Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Fundamentals of Nursing",
+              "Medical-Surgical Nursing",
+              "Maternal and Child Health Nursing",
+              "Community Health Nursing",
+              "Mental Health Nursing",
+              "Nursing Management and Leadership"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 100,000 annually",
+              "USA: $80,000 - $140,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 18-30"],
+            "mode": [
+              "Full-time on-campus with clinical placements",
+              "Hospital and community-based practical training"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Integrated Science",
+              "Credit passes in three Electives including Biology and Chemistry or other science subjects",
+              "Medical fitness and required immunisations according to nursing training standards"
+            ],
+            "level_note": [
+              "Planned to commence in February 2025, subject to regulatory approvals and scheduling.",
+              "Will provide comprehensive preparation for professional nursing practice in various settings."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Midwifery",
+        "career": [
+          "Registered Midwife",
+          "Maternal and Child Health Officer",
+          "Community Midwife",
+          "Labour Ward Midwife",
+          "Family Planning Officer",
+          "Reproductive Health Educator",
+          "Antenatal Clinic Midwife",
+          "Postnatal and Neonatal Care Midwife",
+          "Maternity Unit Manager",
+          "Midwifery Educator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 3,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Foundations of Midwifery",
+              "Antenatal Care",
+              "Intrapartum Care",
+              "Postnatal and Neonatal Care",
+              "Reproductive and Sexual Health",
+              "Community Midwifery and Public Health"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 100,000 annually",
+              "USA: $80,000 - $135,000",
+              "Europe: €70,000 - €125,000"
+            ],
+            "cutt_off": ["WASSCE aggregate 18-30"],
+            "mode": [
+              "Full-time on-campus",
+              "Clinical rotations in maternity and reproductive health units"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Core Mathematics and Integrated Science",
+              "Credit passes in three Science Electives including Biology and Chemistry where possible",
+              "Applicants must satisfy all health and fitness requirements for midwifery training"
+            ],
+            "level_note": [
+              "Planned to commence in February 2025, pending all necessary approvals.",
+              "Will focus on safe motherhood, newborn care and reproductive health services."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Critical Care Nursing",
+        "career": [
+          "Critical Care Nurse",
+          "Intensive Care Unit Nurse",
+          "Emergency Department Nurse",
+          "High Dependency Unit Nurse",
+          "Clinical Nurse Specialist in Critical Care",
+          "Nurse Educator in Critical Care",
+          "Nurse Manager in ICU or HDU",
+          "Acute Care Research Nurse",
+          "Cardiac Care Nurse",
+          "Advanced Practice Nurse in Critical Care Settings"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 4,800 per semester"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Physiology and Pathophysiology",
+              "Critical Care Nursing Practice",
+              "Advanced Pharmacology in Critical Care",
+              "Ventilator Management and Respiratory Support",
+              "Ethics and End-of-Life Care in Critical Settings",
+              "Research Methods and Evidence-Based Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 130,000 annually",
+              "USA: $95,000 - $170,000",
+              "Europe: €80,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Block release, evening or weekend sessions for working nurses",
+              "Clinical practice in accredited critical care units"
+            ],
+            "entry_requirements": [
+              "Bachelor of Science in Nursing or equivalent from a recognised institution",
+              "Evidence of registration and good standing with the relevant nursing regulatory body",
+              "At least two years of post-qualification clinical experience, preferably in acute or critical care"
+            ],
+            "level_note": [
+              "Provides advanced clinical knowledge and skills for managing critically ill patients.",
+              "Designed for registered nurses seeking specialisation and leadership roles in critical care nursing."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
