@@ -146,7 +146,7 @@
             ]
           },
           {
-            "level_name": "Top-up (HND Marine/Mechanical Engineering – Regular)",
+            "level_name": "Undergraduate",
             "fees": [
               "Top-up HND students are billed using RMU’s degree top-up fee structure; see current schedule for exact figures."
             ],
@@ -193,7 +193,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (Regular – Sea-Going/Marine Focus)",
+            "level_name": "Undergraduate",
             "fees": [
               "B.Sc. Electrical/Electronic Engineering fees are in the engineering degree band; applicants should verify current amounts from RMU’s fee schedule."
             ],
@@ -227,7 +227,7 @@
             ]
           },
           {
-            "level_name": "Top-up (HND Electrical/Electronic Engineering – Regular/Weekend)",
+            "level_name": "Undergraduate",
             "fees": [
               "Top-up students pay according to RMU’s degree top-up fee structure for engineering; see the latest schedule for weekend vs regular amounts."
             ],
@@ -268,7 +268,7 @@
         ],
         "levels": [
           {
-            "level_name": "Diploma (Regular)",
+            "level_name": "Diploma",
             "fees": [
               "Diploma programme tuition is lower than degree-level fees; exact semester charges are given in RMU’s current diploma fee schedule."
             ],
@@ -313,7 +313,7 @@
         ],
         "levels": [
           {
-            "level_name": "Diploma (Regular)",
+            "level_name": "Diploma",
             "fees": [
               "Diploma-level marine engineering fees are specified in RMU’s diploma fee schedule; charges are lower than those for degree programmes."
             ],
@@ -357,7 +357,7 @@
         ],
         "levels": [
           {
-            "level_name": "Diploma (Regular/Weekend)",
+            "level_name": "Diploma",
             "fees": [
               "Diploma fees for Electrical/Electronic Engineering are published in RMU’s fee tables; weekend mode may have slightly different payment schedules."
             ],
@@ -416,7 +416,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "level_name": "Undergraduate",
             "fees": [
               "Regular mechanical engineering students pay degree-level engineering fees; amounts are listed in RMU’s current schedule."
             ],
@@ -446,7 +446,7 @@
             ]
           },
           {
-            "level_name": "Top-up (HND Mechanical/Marine – Weekend)",
+            "level_name": "Undergraduate",
             "fees": [
               "Weekend mechanical engineering top-up students follow RMU’s engineering top-up fee band; check current figures for weekend mode."
             ],
@@ -493,7 +493,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "level_name": "Undergraduate",
             "fees": [
               "Naval Architecture students pay engineering degree fees as specified in the current RMU fee schedule."
             ],
@@ -540,7 +540,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "level_name": "Undergraduate",
             "fees": [
               "Regular computer engineering students are billed under the engineering degree fee band; amounts are published per academic year."
             ],
@@ -574,7 +574,7 @@
             ]
           },
           {
-            "level_name": "Top-up (HND Computer/Electrical/Related – Regular/Weekend)",
+            "level_name": "HND",
             "fees": [
               "HND top-up students in Computer Engineering pay according to RMU’s engineering top-up fee schedule; weekend mode may have specific payment plans."
             ],
@@ -629,7 +629,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "level_name": "Undergraduate",
             "fees": [
               "Computer Science is billed at degree-level science/engineering fees; latest semester charges are on RMU’s fees page."
             ],
@@ -660,7 +660,7 @@
             ]
           },
           {
-            "level_name": "Top-up (HND Computing/IT – Regular/Weekend)",
+            "level_name": "HND",
             "fees": [
               "Top-up Computer Science students pay degree-level top-up fees; weekend programmes may have tailored payment structures."
             ],
@@ -715,7 +715,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "level_name": "Undergraduate",
             "fees": [
               "Undergraduate IT degree fees follow the science/technology band; current figures are listed in RMU’s fee schedule."
             ],
@@ -748,7 +748,7 @@
             ]
           },
           {
-            "level_name": "Top-up (HND IT/Related – Regular/Weekend)",
+            "level_name": "HND",
             "fees": [
               "Top-up IT students are charged according to RMU’s IT degree top-up structure; weekend mode may distribute payments differently across semesters."
             ],
@@ -792,7 +792,7 @@
         ],
         "levels": [
           {
-            "level_name": "Diploma (Regular/Weekend)",
+            "level_name": "Diploma",
             "fees": [
               "Diploma IT fees are lower than degree fees and are provided in RMU’s diploma fee listings; weekend options may have tailored fee structures."
             ],
@@ -852,7 +852,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (Regular/Weekend – 4-Year Degree)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ports and Shipping Administration uses the business/management degree fee band; current Ghanaian and foreign student fees are on RMU’s schedule."
             ],
@@ -886,7 +886,7 @@
             ]
           },
           {
-            "level_name": "Top-up (HND Maritime/Business – Regular/Weekend)",
+            "level_name": "HND",
             "fees": [
               "HND top-up students in Ports and Shipping Administration pay degree top-up fees; weekend and regular fees should be confirmed from RMU’s current schedule."
             ],
@@ -932,7 +932,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "level_name": "Undergraduate",
             "fees": [
               "Logistics Management students follow the business/management fee band; the current schedule includes any additional charges related to the year abroad (where applicable)."
             ],
@@ -965,7 +965,7 @@
             ]
           },
           {
-            "level_name": "Top-up (HND Logistics/Business – Regular/Weekend)",
+            "level_name": "HND",
             "fees": [
               "Top-up Logistics Management students pay B.Sc. top-up fees; weekend/regular details are on RMU’s top-up fee schedule."
             ],
@@ -1005,7 +1005,7 @@
         ],
         "levels": [
           {
-            "level_name": "Diploma (Regular/Weekend)",
+            "level_name": "Diploma",
             "fees": [
               "Diploma in Ports and Shipping Management fees are lower than degree fees and published in RMU’s diploma fee tables."
             ],
@@ -1062,7 +1062,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (MA – Regular/Weekend)",
+            "level_name": "Masters",
             "fees": [
               "Postgraduate maritime fees (MA) are specified as a total programme cost on RMU’s fee schedule; applicants should confirm the current Ghanaian and foreign student amounts."
             ],
@@ -1111,7 +1111,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (M.Sc. – Weekend)",
+            "level_name": "Masters",
             "fees": [
               "Weekend MSc programme fees are indicated as a total tuition and charges amount; applicants should consult RMU’s current postgraduate fee list."
             ],
@@ -1156,7 +1156,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (M.Sc. – Weekend)",
+            "level_name": "Masters",
             "fees": [
               "Safety, Security and Risk Management MSc fees are set in the postgraduate fee schedule; weekend pattern may be associated with specific payment timelines."
             ],
