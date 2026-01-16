@@ -1,0 +1,1633 @@
+[
+  {
+    "name": "Presbyterian University, Ghana"
+  },
+  {
+    "faculty_name": "Faculty of Science and Technology",
+    "note": [
+      "Focuses on science, mathematics, computing and engineering programmes with strong theoretical and practical foundations.",
+      "Programmes are designed to prepare graduates for industry, research, teaching and further postgraduate studies.",
+      "Emphasizes critical thinking, quantitative reasoning and hands-on problem solving."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. Information and Communication Technology",
+        "career": [
+          "Software Developer",
+          "Systems Analyst",
+          "Network Administrator",
+          "Database Administrator",
+          "IT Support Engineer",
+          "Web and Mobile Application Developer",
+          "IT Project Assistant",
+          "Systems Integrator",
+          "ICT Officer",
+          "Technical Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "ICT (Okwahu/Kumasi campus): check current tuition per semester from the official fee schedule; ICT fees are typically in the mid range among science programmes."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Data Structures and Algorithms",
+              "Database Systems",
+              "Computer Networks",
+              "Web Technologies",
+              "Information Security Basics"
+            ],
+            "salary": [
+              "Entry-level ICT salaries in Ghana vary by sector and company; experienced IT professionals often earn significantly more in both local and international roles."
+            ],
+            "cutt_off": [
+              "General requirement: WASSCE aggregate 36 or better / SSSCE aggregate 24 or better.",
+              "Applicants must have credit passes in English Language, Core Mathematics and Integrated Science, plus three relevant electives (e.g. ICT, Elective Mathematics, Physics or other science/technical subjects)."
+            ],
+            "mode": [
+              "Full-time on-campus (day and in some cases weekend, depending on campus and intake)."
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1–C6) in six (6) subjects comprising three (3) Core subjects including English Language and Core Mathematics, plus three (3) relevant Elective subjects with aggregate 36 or better.",
+              "SSSCE: Passes (A–D) in six (6) subjects comprising three (3) Core subjects including English Language and Core Mathematics, plus three (3) relevant Electives with aggregate 24 or better.",
+              "Mature applicants: At least 25 years old with relevant work experience and passes in an entrance examination and/or interview.",
+              "Other equivalent qualifications (GCE, foreign certificates, recognised diplomas) are evaluated case-by-case."
+            ],
+            "level_note": [
+              "Provides a broad and practical foundation in ICT with emphasis on business and organisational applications.",
+              "Suitable for students targeting roles in software development, systems support, networking and IT-enabled business operations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Mathematics with Statistics",
+        "career": [
+          "Statistician",
+          "Data Analyst",
+          "Quantitative Research Assistant",
+          "Business Analyst",
+          "Actuarial Analyst (with further professional training)",
+          "Teacher/Lecturer (with education training or higher degrees)",
+          "Market and Social Research Analyst",
+          "Monitoring and Evaluation Officer",
+          "Financial/Banking Analyst (entry level)",
+          "Operations Research Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Mathematics programmes: check the current “Mathematics” fee band for Okwahu/Kumasi campuses; typically slightly below ICT fees."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Calculus and Linear Algebra",
+              "Probability Theory",
+              "Statistical Inference",
+              "Regression Analysis",
+              "Time Series and Forecasting",
+              "Operations Research"
+            ],
+            "salary": [
+              "Maths/statistics graduates can work in finance, research, education and analytics; salaries depend on sector (e.g. banking, government, NGOs, private analytics firms)."
+            ],
+            "cutt_off": [
+              "WASSCE aggregate 36 or better / SSSCE aggregate 24 or better with strong performance in Mathematics-related electives."
+            ],
+            "mode": ["Full-time on-campus."],
+            "entry_requirements": [
+              "Credit passes in English Language, Core Mathematics and Integrated Science plus credit passes in three (3) relevant elective subjects such as Elective Mathematics, Physics, Economics or other approved combinations.",
+              "General WASSCE/SSSCE aggregates must meet the University’s minimum of 36 (WASSCE) or 24 (SSSCE) or better.",
+              "Equivalent GCE and foreign qualifications accepted per University policy."
+            ],
+            "level_note": [
+              "Emphasizes strong mathematical foundations with applied statistics.",
+              "Good preparation for roles requiring quantitative analysis or for further studies in statistics, data science or actuarial science."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Mathematics with Accounting",
+        "career": [
+          "Financial Analyst (entry level)",
+          "Accounts Officer",
+          "Risk Analyst (with further training)",
+          "Banking and Finance Officer",
+          "Business Analyst",
+          "Cost Analyst",
+          "Research and Data Analyst",
+          "Teacher/Lecturer (with additional education/graduate study)",
+          "Audit Assistant",
+          "Quantitative Consultant (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Mathematics with Accounting: same band as other Mathematics programmes; consult the University’s fee schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Calculus and Algebra",
+              "Introductory and Intermediate Financial Accounting",
+              "Cost and Management Accounting",
+              "Probability and Statistics",
+              "Financial Mathematics",
+              "Corporate Finance (introductory)"
+            ],
+            "salary": [
+              "Combining maths and accounting can support progression into finance, banking, analytics and professional accounting with competitive salaries."
+            ],
+            "cutt_off": [
+              "Meets general undergraduate standard with strong passes in Elective Mathematics and business-related electives (e.g. Accounting, Economics)."
+            ],
+            "mode": ["Full-time on-campus."],
+            "entry_requirements": [
+              "WASSCE/SSSCE with the general aggregate requirement (36/24 or better) and credit passes in English Language, Core Mathematics and Integrated Science.",
+              "Elective subjects should include Elective Mathematics and at least one business-related elective such as Accounting, Business Management or Economics.",
+              "Other acceptable qualifications as defined in the University’s admission regulations."
+            ],
+            "level_note": [
+              "Bridges rigorous mathematics with accounting, offering flexible options in finance, banking, analytics and teaching.",
+              "Suitable for numerate students who also like business and accounting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Computer Engineering",
+        "career": [
+          "Computer Engineer",
+          "Embedded Systems Engineer",
+          "Hardware Design Engineer",
+          "Network and Systems Engineer",
+          "IoT Solutions Engineer",
+          "Systems Integration Engineer",
+          "Technical Support Engineer (Hardware/Systems)",
+          "Field Applications Engineer",
+          "R&D Engineer (Computing Devices)",
+          "IT Infrastructure Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Computer Engineering: check the current engineering/science fee band for Kumasi/Okwahu campuses; higher than some non-lab-based programmes due to lab components."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Programming and Data Structures",
+              "Digital Logic and Microprocessors",
+              "Electronics and Circuit Analysis",
+              "Computer Architecture",
+              "Embedded Systems Design",
+              "Control Systems and Signal Processing"
+            ],
+            "salary": [
+              "Computer engineers can earn strong salaries in technology, telecoms and embedded systems sectors, especially with experience and certifications."
+            ],
+            "cutt_off": [
+              "Applicants must satisfy at least the general aggregate of 36/24 or better and have credit passes in Elective Mathematics and Physics, plus one other relevant elective."
+            ],
+            "mode": [
+              "Full-time on-campus.",
+              "Significant laboratory and project-based learning."
+            ],
+            "entry_requirements": [
+              "Credit passes in English Language, Core Mathematics and Integrated Science plus three (3) Elective subjects including Physics and Elective Mathematics; aggregate 36 (WASSCE) or 24 (SSSCE) or better.",
+              "GCE and equivalent qualifications with strong Mathematics and Physics background considered per University policy.",
+              "Mature and diploma/HND holders evaluated individually for possible advanced standing."
+            ],
+            "level_note": [
+              "Integrates hardware and software, preparing graduates for embedded systems, hardware design and systems engineering roles.",
+              "Good option for students who enjoy both computing and electronics."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc. ICT Management",
+        "career": [
+          "IT Manager",
+          "Chief Information Officer (with experience)",
+          "Systems and Infrastructure Manager",
+          "IT Project Manager",
+          "Technology Consultant",
+          "Digital Transformation Lead",
+          "Business Systems Manager",
+          "IT Governance and Risk Specialist",
+          "Enterprise Architect (with experience)",
+          "IT Lecturer/Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "ICT-related Masters fees follow the graduate programme band; total cost is moderate relative to other private universities and published per cohort."
+            ],
+            "duration": "Typically 2 years (evening/weekend-friendly)",
+            "electives": [
+              "IT Strategy and Governance",
+              "Information Systems Management",
+              "IT Project Management",
+              "Enterprise Systems and Architecture",
+              "Information Security Management",
+              "Emerging Technologies and Innovation"
+            ],
+            "salary": [
+              "Postgraduate ICT managers often hold mid- to senior-level roles with compensation reflecting responsibility, sector and experience."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Designed for working professionals (evening, weekend or modular formats)."
+            ],
+            "entry_requirements": [
+              "Good first degree in ICT, Computer Science, Information Systems, Engineering, Business IT or a related area from a recognised institution.",
+              "Applicants with other degrees but substantial IT/IS management experience may also be considered.",
+              "Meeting School of Graduate Studies’ additional requirements (e.g. references, interview)."
+            ],
+            "level_note": [
+              "Focuses on the management and strategic use of ICT in organisations rather than purely technical aspects.",
+              "Suited to professionals moving into IT leadership, IT-enabled business transformation or consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Extended Diploma in Computing",
+        "career": [
+          "IT Support Technician",
+          "Helpdesk Analyst",
+          "Junior Systems or Network Support",
+          "Assistant Web/Application Developer",
+          "Data Entry and Systems Clerk",
+          "ICT Officer (entry level)"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Diploma-level fees are lower than degree programmes; see the diploma band on the fee schedule."
+            ],
+            "duration": "Typically 2 years",
+            "electives": [
+              "Computer Fundamentals",
+              "Programming Basics",
+              "Database and Web Basics",
+              "PC Maintenance and Troubleshooting",
+              "Networking Fundamentals"
+            ],
+            "salary": [
+              "Diploma computing roles start at junior-level pay; earnings can grow with experience and further study."
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time or flexible schedules, depending on cohort."],
+            "entry_requirements": [
+              "WASSCE/SSSCE with passes in six (6) subjects including English Language and Mathematics; at least three (3) credit passes in relevant electives.",
+              "Other equivalent qualifications as accepted by the University."
+            ],
+            "level_note": [
+              "Provides foundational computing skills for students not yet ready for direct degree entry.",
+              "Can serve as a pathway to BSc ICT or related programmes with good performance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Information and Digital Technologies",
+        "career": [
+          "Digital Support Officer",
+          "ICT Helpdesk Technician",
+          "Digital Marketing/Content Support (with additional skills)",
+          "Office IT Assistant",
+          "Junior Systems Support Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Uses the standard diploma fee band for computing-related programmes."
+            ],
+            "duration": "About 2 years",
+            "electives": [
+              "Digital Literacy and Productivity Tools",
+              "Fundamentals of Information Systems",
+              "Basic Networking and Internet Technologies",
+              "Data Management Basics",
+              "Introduction to Web and Social Media Technologies"
+            ],
+            "salary": [
+              "Diploma-level graduates typically start in entry-level support roles; further study and certifications can increase earning potential."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time; some flexible options may be available depending on demand."
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with required passes including English Language and Mathematics.",
+              "Three (3) or more relevant elective passes at C6/D or better."
+            ],
+            "level_note": [
+              "Aimed at building practical digital and IT support skills.",
+              "Can act as bridge into more advanced computing degrees."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Business",
+    "note": [
+      "Offers business and management programmes that blend theory, ethics and practical skills.",
+      "Emphasizes entrepreneurship, leadership, quantitative skills and the integration of faith and professional life.",
+      "Graduates work in banking, finance, agribusiness, consulting, NGOs and public sector management."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. Business Administration",
+        "career": [
+          "Business Analyst",
+          "Marketing Executive",
+          "Accountant/Accounts Officer (with further training)",
+          "HR Officer",
+          "Banking and Finance Officer",
+          "Operations Supervisor",
+          "Entrepreneur/SME Manager",
+          "Project Officer",
+          "Sales and Customer Service Manager",
+          "Management Consultant (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Business Administration: see current Business Administration fee band by campus (Okwahu, Kumasi, Tema)."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Management",
+              "Financial and Management Accounting",
+              "Marketing Management",
+              "Human Resource Management",
+              "Business Law",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Business graduates’ salaries vary widely across banking, corporate, SME and NGO sectors; managerial roles pay more with experience."
+            ],
+            "cutt_off": [
+              "General undergraduate aggregate requirement (36/24 or better) with appropriate business or arts electives."
+            ],
+            "mode": [
+              "Full-time on-campus; some campuses also run weekend streams for working students."
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credit passes in English Language, Core Mathematics and Integrated Science/Social Studies plus three (3) relevant Electives (e.g. Accounting, Business Management, Economics, Elective Mathematics, General Arts subjects).",
+              "Other recognised qualifications (GCE, ABCE, Diplomas) are assessed per University policy."
+            ],
+            "level_note": [
+              "Provides broad training in key business functions with specialisations such as Marketing, Accounting, Finance, Banking and Human Resource Management.",
+              "Suitable foundation for professional qualifications and postgraduate management studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Agribusiness",
+        "career": [
+          "Agribusiness Manager",
+          "Farm/Plantation Manager",
+          "Agricultural Project Officer",
+          "Value Chain and Supply Chain Officer",
+          "Agricultural Marketer",
+          "Input and Produce Trader",
+          "Rural Development Officer",
+          "NGO Agribusiness Officer",
+          "Agri-finance and Credit Officer",
+          "Agri-entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Agribusiness: fee band similar to other Business/Development programmes; see current schedule for details."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Agribusiness Management",
+              "Agricultural Economics",
+              "Farm Management",
+              "Agricultural Marketing",
+              "Rural and Community Development",
+              "Agricultural Value Chains and Supply Chains"
+            ],
+            "salary": [
+              "Agribusiness incomes range from salaried project/operations roles to entrepreneurial earnings in production, processing and marketing."
+            ],
+            "cutt_off": [
+              "Applicants should have science/agricultural or business background with acceptable aggregates meeting the general 36/24 or better rule."
+            ],
+            "mode": ["Full-time on-campus."],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Three (3) core subjects including English Language and Mathematics, and three (3) elective subjects from Science/Agriculture/Business or related fields.",
+              "Diploma/HND holders in agriculture or related disciplines may gain advanced standing after interview and evaluation."
+            ],
+            "level_note": [
+              "Integrates agriculture with business principles to create value along agricultural value chains.",
+              "Well-suited for students aiming to modernise agriculture or build agribusiness ventures."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Financial Risk Management",
+        "career": [
+          "Risk Analyst",
+          "Credit Risk Manager",
+          "Market Risk Analyst",
+          "Operational Risk Manager",
+          "Treasury and Liquidity Risk Analyst",
+          "Quantitative Analyst (with stronger quantitative background)",
+          "Risk Consultant",
+          "Regulatory Compliance Officer (Risk Focus)",
+          "Portfolio Risk Manager",
+          "Academic/Trainer in Risk Management"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Total programme fees are listed under graduate business programmes; students should confirm current MSC Financial Risk Management fees."
+            ],
+            "duration": "Typically 2 years",
+            "electives": [
+              "Financial Markets and Instruments",
+              "Quantitative Methods for Risk Analysis",
+              "Credit Risk Management",
+              "Market and Liquidity Risk",
+              "Operational Risk and Regulation",
+              "Risk Modelling and Derivatives"
+            ],
+            "salary": [
+              "Risk management professionals, especially in financial institutions, can earn above-average salaries, scaling with responsibility and expertise."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening/weekend to accommodate working finance professionals."
+            ],
+            "entry_requirements": [
+              "Good first degree in Finance, Accounting, Economics, Mathematics, Statistics, Actuarial Science, Business Administration or related field.",
+              "Quantitative aptitude and preferably some professional or industry experience.",
+              "Compliance with Graduate Studies application procedures."
+            ],
+            "level_note": [
+              "Equips graduates with quantitative and regulatory knowledge required for managing financial risks.",
+              "Ideal for professionals in banking, insurance, investment management and corporate finance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Human Resource Management and Development",
+        "career": [
+          "HR Manager",
+          "Learning and Development Manager",
+          "Talent Management Specialist",
+          "Organisational Development Consultant",
+          "Compensation and Benefits Manager",
+          "HR Business Partner",
+          "Employee Relations Manager",
+          "HR Director (with experience)",
+          "Change Management Consultant",
+          "Lecturer/Trainer in HRM (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (MBA)",
+            "fees": [
+              "MBA HRM & Development: fee band comparable to other professional MBAs at the University; details are published per cohort."
+            ],
+            "duration": "Typically 2 years (modular/weekend)",
+            "electives": [
+              "Strategic Human Resource Management",
+              "Organisational Behaviour and Development",
+              "Training and Development",
+              "Performance Management",
+              "Compensation and Benefits",
+              "Labour Law and Employee Relations"
+            ],
+            "salary": [
+              "MBA graduates in HR often move into mid- to senior-level HR roles with associated salary scales."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening/weekend or modular format suited to working professionals."
+            ],
+            "entry_requirements": [
+              "First degree in any recognised field (preferably with HR, management or social sciences background) plus relevant work experience.",
+              "Meeting School of Graduate Studies requirements (references, CV, possible interview)."
+            ],
+            "level_note": [
+              "Focuses on strategic HR, leadership and capacity development within organisations.",
+              "Suited to HR practitioners and managers aspiring to senior responsibilities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Extended Diploma in Business and Management",
+        "career": [
+          "Administrative Officer",
+          "Sales and Marketing Supervisor",
+          "Customer Service Supervisor",
+          "Operations Assistant/Officer",
+          "Team Leader in SMEs",
+          "Junior Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Diploma business programmes use the standard business diploma fee band."
+            ],
+            "duration": "About 2 years",
+            "electives": [
+              "Principles of Management",
+              "Marketing Fundamentals",
+              "Financial and Cost Accounting Basics",
+              "Business Communication",
+              "Human Resource Management Basics"
+            ],
+            "salary": [
+              "Diploma holders typically occupy junior supervisory or administrative roles; salaries depend on organisation and sector."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time; some flexible or weekend deliveries possible."
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with passes in six (6) subjects including English Language and Mathematics and at least three (3) credit passes in relevant business/arts electives.",
+              "Other equivalents accepted according to National Accreditation Board-approved standards."
+            ],
+            "level_note": [
+              "Offers intermediate business and management skills for SHS graduates and workers.",
+              "Provides a route into degree-level Business Administration with good performance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Business",
+        "career": [
+          "Administrative Assistant",
+          "Office Clerk",
+          "Sales and Customer Service Assistant",
+          "Accounts Clerk (with further training)",
+          "Store/Inventory Assistant",
+          "Front Desk Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Standard business diploma fee band; check current schedule."
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Business Administration",
+              "Basic Accounting",
+              "Marketing and Customer Service",
+              "Business Communication and IT",
+              "Principles of Economics"
+            ],
+            "salary": [
+              "Prepares for entry-level positions; pay improves with experience and further qualifications."
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time; possibly modular or weekend in some centres."],
+            "entry_requirements": [
+              "WASSCE/SSSCE with six (6) passes including English Language and Mathematics and some elective credits.",
+              "Mature candidates with work experience may be considered subject to regulations."
+            ],
+            "level_note": [
+              "Foundational programme for business careers and further studies.",
+              "Designed for SHS leavers who want business skills but may not yet meet direct degree entry requirements."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Development Studies",
+    "note": [
+      "Focuses on development, environment, natural resources and related policy and practice.",
+      "Programmes combine social sciences, environmental science and management to address development challenges.",
+      "Graduates work in NGOs, government agencies, international organisations and community development initiatives."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. International Development",
+        "career": [
+          "Development Programme Officer",
+          "NGO Project Officer",
+          "Monitoring and Evaluation Officer",
+          "Policy and Advocacy Officer",
+          "Community Development Officer",
+          "Research Assistant (Development Projects)",
+          "Social Protection Officer",
+          "Donor Liaison/Grants Officer",
+          "Humanitarian Aid Worker",
+          "Consultant (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "International Development uses the development studies fee band; verify from the official schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Development Studies",
+              "Development Theory and Practice",
+              "Project Planning and Management",
+              "Poverty, Inequality and Social Policy",
+              "Governance and Institutions",
+              "Monitoring and Evaluation"
+            ],
+            "salary": [
+              "Development roles vary from modest NGO pay to more competitive international agency packages."
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus."],
+            "entry_requirements": [
+              "WASSCE/SSSCE with general minimum aggregates and relevant electives from Arts, Social Sciences, Business or related areas.",
+              "Other equivalent qualifications (GCE, diplomas, mature applicants) accepted as per University guidelines."
+            ],
+            "level_note": [
+              "Interdisciplinary programme for students passionate about social and economic development locally and globally.",
+              "Good base for roles in NGOs, policy think tanks, international development and postgraduate studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Environmental and Natural Resources Management",
+        "career": [
+          "Environmental and Natural Resources Officer",
+          "Forestry and Wildlife Officer",
+          "Environmental Protection Agency Officer (with recruitment)",
+          "Sustainability and CSR Officer",
+          "NGO Environment Programme Officer",
+          "Conservation Project Officer",
+          "Environmental Impact Assessment Assistant",
+          "Resource Use and Policy Analyst (entry level)",
+          "Climate and Resilience Programme Officer",
+          "Research Assistant (Environment/Resources)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Environmental and Natural Resources Management fees fall under the science/development band; check schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Ecology and Biodiversity",
+              "Natural Resources Management Principles",
+              "Environmental Policy and Governance",
+              "Climate Change and Adaptation",
+              "Watershed and Land Management",
+              "Environmental Impact Assessment (Introductory)"
+            ],
+            "salary": [
+              "Environmental and resources roles have varied pay; international projects and consulting typically pay more."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time on-campus.",
+              "Includes fieldwork and practical projects."
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with science or agriculture background, meeting general aggregates for undergraduate programmes.",
+              "Diploma/HND holders in environment-related disciplines may gain advanced placement after review."
+            ],
+            "level_note": [
+              "Prepares graduates for careers managing environmental and natural resources sustainably.",
+              "Bridges environmental science and development policy."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD in Environment and Development",
+        "career": [
+          "University Lecturer/Professor",
+          "Senior Researcher in Environment and Development",
+          "Policy Analyst and Advisor",
+          "Senior Programme Manager in NGOs/International Organisations",
+          "Consultant in Environmental and Development Projects",
+          "Think Tank or Research Institute Fellow",
+          "Government Director/Manager in Environment/Development Agencies",
+          "Author and Thought Leader in Sustainable Development"
+        ],
+        "levels": [
+          {
+            "level_name": "PhD",
+            "fees": [
+              "PhD programmes have a total fee spread over years; applicants should consult the School of Graduate Studies for current amounts and payment plans."
+            ],
+            "duration": "Typically 3–4 years (full-time), longer for part-time",
+            "electives": [],
+            "salary": [
+              "Doctoral graduates can access senior academic, policy and consulting roles with corresponding compensation."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-focused with seminars, comprehensive exams (where applicable) and thesis.",
+              "Part-time options may be available for professionals."
+            ],
+            "entry_requirements": [
+              "Relevant Masters degree (e.g. in Environment, Development Studies, Geography, Planning, Natural Resources Management) from a recognised institution.",
+              "Evidence of research capacity and a viable research proposal.",
+              "Satisfaction of doctoral admission procedures (e.g. interviews, proposal defence)."
+            ],
+            "level_note": [
+              "Trains researchers and leaders to tackle complex environment–development challenges.",
+              "Appropriate for those targeting high-level academic or policy roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.A. International Development Studies",
+        "career": [
+          "Development Policy Analyst",
+          "Programme Manager/Officer in NGOs and International Agencies",
+          "Monitoring and Evaluation Specialist",
+          "Humanitarian Affairs Officer",
+          "Social Policy Officer",
+          "Advocacy and Campaigns Manager",
+          "Researcher in Development Studies",
+          "Consultant (Development and Social Policy)",
+          "Government Development Planner",
+          "Doctoral Student in Development Studies"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "MA International Development Studies fees are set by the School of Graduate Studies; total programme cost is published per intake."
+            ],
+            "duration": "Typically 2 years",
+            "electives": [
+              "Development Theory and Practice",
+              "Poverty, Inequality and Social Protection",
+              "Gender and Development",
+              "Governance, Institutions and Development",
+              "Project Planning and Management",
+              "Research Methods in Social Science"
+            ],
+            "salary": [
+              "IDS graduates work in development agencies and NGOs; pay scales depend on organisation (local vs international) and seniority."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Often structured for working professionals (evening/weekend/modular)."
+            ],
+            "entry_requirements": [
+              "Good first degree in Development Studies, Social Sciences, Humanities, Business or related areas.",
+              "Relevant professional experience in development work is a significant advantage.",
+              "Meets School of Graduate Studies’ additional criteria."
+            ],
+            "level_note": [
+              "Interdisciplinary programme drawing on economics, politics, sociology, history and policy studies.",
+              "Equips students with analytical and practical skills for development work at multiple levels."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc. Environmental Health and Sanitation",
+        "career": [
+          "Environmental Health Officer",
+          "Sanitation and Waste Management Officer",
+          "Environmental Health and Safety Manager",
+          "Public Health Environmental Specialist",
+          "Consultant in Environmental Sanitation Projects",
+          "NGO Environment and WASH Officer",
+          "Local Government Environmental Officer",
+          "Researcher in Environmental Health",
+          "Policy Advisor (WASH and Environment)",
+          "Lecturer (with further academic experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Listed under the science/health graduate fee band; check School of Graduate Studies fees."
+            ],
+            "duration": "Typically 2 years",
+            "electives": [
+              "Environmental Health Principles",
+              "Water, Sanitation and Hygiene (WASH)",
+              "Solid and Liquid Waste Management",
+              "Environmental Epidemiology",
+              "Environmental Impact Assessment (Health Focus)",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Environmental health professionals’ incomes vary by government, NGO and private sector roles; some international posts offer higher pay."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Block/part-time-friendly design for working practitioners."
+            ],
+            "entry_requirements": [
+              "First degree in Environmental Health, Public Health, Environmental Science, Natural Resources or related fields.",
+              "Relevant work experience in environmental health or public health is an advantage."
+            ],
+            "level_note": [
+              "Focuses on the intersection of environment, sanitation and human health.",
+              "Targets professionals in local government, health services, NGOs and international agencies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc. Natural Resources Management",
+        "career": [
+          "Natural Resources Manager",
+          "Forestry and Wildlife Manager",
+          "Conservation Project Manager",
+          "Environmental and Resources Policy Analyst",
+          "NGO Natural Resources Programme Officer",
+          "Sustainability and CSR Manager (Resources Sector)",
+          "Consultant in Natural Resources and Conservation",
+          "Researcher in Resource Management",
+          "Government Environment and Resources Officer",
+          "Lecturer/Trainer (with further experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Under the Environment and Development graduate fee band; consult School of Graduate Studies."
+            ],
+            "duration": "Around 2 years",
+            "electives": [
+              "Natural Resource Governance and Policy",
+              "Forest and Wildlife Management",
+              "Protected Area and Biodiversity Management",
+              "Community-Based Natural Resource Management",
+              "Climate Change and Resource Use",
+              "Research Methods and Project/Thesis"
+            ],
+            "salary": [
+              "Resource management professionals may work in government, NGOs, private sector and international agencies with varied salary structures."
+            ],
+            "cutt_off": [],
+            "mode": ["Part-time-compatible formats for practitioners."],
+            "entry_requirements": [
+              "Good first degree in Natural Resources Management, Environmental Science, Agriculture, Forestry, Geography or related disciplines.",
+              "Field experience in natural resources or environment is an advantage."
+            ],
+            "level_note": [
+              "Addresses sustainable management of forests, water, biodiversity and other natural resources.",
+              "Appropriate for mid-career professionals seeking specialised resource management expertise."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Law",
+    "note": [
+      "Provides a solid legal education grounded in ethics and social responsibility.",
+      "Prepares students for professional legal training and diverse law-related careers.",
+      "Emphasizes analytical thinking, advocacy and knowledge of Ghanaian and international law."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Laws (LL.B)",
+        "career": [
+          "Lawyer (after professional law school and bar admission)",
+          "Legal Officer in Corporations and Public Institutions",
+          "Compliance Officer",
+          "Legal and Policy Analyst",
+          "Human Rights Advocate",
+          "Judicial Service Staff (with appropriate appointments)",
+          "Consultant in Legal and Regulatory Matters",
+          "Lecturer (with further study)",
+          "NGO/International Organisation Legal Officer",
+          "Corporate Governance and Company Secretarial Support"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Law programmes often carry higher tuition than some other disciplines; current LL.B fee levels are published by the University."
+            ],
+            "duration": "4 years (LL.B)",
+            "electives": [
+              "Constitutional Law",
+              "Criminal Law",
+              "Law of Contract",
+              "Law of Torts",
+              "Property Law",
+              "Jurisprudence and Legal Theory",
+              "Commercial Law (Company, Banking, etc.)",
+              "Human Rights Law",
+              "Public International Law"
+            ],
+            "salary": [
+              "Legal professionals’ incomes range widely from modest early-career earnings to high senior-level remuneration depending on practice area and setting."
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus."],
+            "entry_requirements": [
+              "WASSCE/SSSCE/GBCE with strong aggregates and appropriate electives; Law is typically more competitive than some other programmes.",
+              "Degree-holders may enter via graduate-entry LL.B streams if offered.",
+              "Further details follow National Accreditation Board and Ghana Legal Council guidelines and University-specific criteria."
+            ],
+            "level_note": [
+              "Academic law degree preparing students for entry into professional legal training at the Ghana School of Law or equivalent.",
+              "Also relevant for non-practising careers in policy, governance and corporate regulation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Alternative Dispute Resolution (ADR) & Conflict Management",
+        "career": [
+          "Mediator (after appropriate practice and recognition)",
+          "ADR and Conflict Resolution Officer",
+          "HR or Employee Relations Practitioner with ADR skills",
+          "Community Conflict Resolution Facilitator",
+          "NGO Peacebuilding Project Officer",
+          "Court-Connected ADR Support Officer (where applicable)",
+          "Corporate Negotiation and Dispute Management Support"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Certificate courses in ADR & Conflict Management have separate short-course fees; check current professional programmes list."
+            ],
+            "duration": "Short professional programme (weeks to a few months)",
+            "electives": [
+              "Introduction to ADR Concepts and Processes",
+              "Negotiation and Mediation Skills",
+              "Conflict Analysis and Management",
+              "Ethics in ADR Practice",
+              "ADR in Workplace and Community Settings"
+            ],
+            "salary": [
+              "Enhances the value of existing roles; remuneration impact depends on primary profession and role responsibilities."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening/weekend for working professionals.",
+              "Highly interactive and practice-oriented."
+            ],
+            "entry_requirements": [
+              "Open to graduates and working professionals from law, business, HR, community development and related fields.",
+              "Basic tertiary education or substantial relevant experience recommended."
+            ],
+            "level_note": [
+              "Designed to equip participants with practical tools for managing disputes without litigation.",
+              "Useful complement to law, HR, management and community leadership roles."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Medical Sciences",
+    "note": [
+      "Trains health professionals to serve communities with competence, compassion and integrity.",
+      "Programmes focus on preventive and curative health, with strong community orientation.",
+      "Graduates work in hospitals, clinics, public health institutions, NGOs and faith-based health services."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. Physician Assistantship",
+        "career": [
+          "Physician Assistant (Medical)",
+          "Primary Care Clinician (under supervision/regulatory framework)",
+          "Clinical Officer in Hospitals and Clinics",
+          "Community Health Clinical Practitioner",
+          "Public Health Clinical Officer",
+          "NGO Clinical Programme Officer",
+          "Health Services Administrator (with further training)",
+          "Clinical Research Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Physician Assistantship: one of the higher-fee undergraduate programmes; specific per-semester fees are published by campus."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Anatomy and Physiology",
+              "Biochemistry",
+              "Pathology",
+              "Pharmacology",
+              "Internal Medicine and Surgery (Clinical Rotations)",
+              "Maternal and Child Health",
+              "Community and Public Health"
+            ],
+            "salary": [
+              "Physician Assistants in Ghana receive clinical professional salaries set largely by public service or private employer scales."
+            ],
+            "cutt_off": [
+              "Highly competitive; requires strong science background with good aggregates (typically WASSCE aggregate 36 or better with high grades in science electives)."
+            ],
+            "mode": ["Full-time on-campus with extensive clinical rotations."],
+            "entry_requirements": [
+              "WASSCE/SSSCE with three (3) Elective Science subjects (e.g. Biology, Chemistry, Physics) plus three (3) Core subjects including English Language, Core Mathematics and Integrated Science; aggregate 36/24 or better.",
+              "GCE O-Level plus A-Level science subjects route accepted.",
+              "Other relevant health-related diplomas (e.g. Advanced Diploma in Community Medicine) may allow advanced standing after interview."
+            ],
+            "level_note": [
+              "Prepares mid-level medical personnel to provide diagnostic and therapeutic services under appropriate supervision.",
+              "Strong emphasis on both clinical skills and community-based practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Public Health",
+        "career": [
+          "Public Health Officer",
+          "Health Promotion Officer",
+          "Disease Control Officer",
+          "Environmental Health and Sanitation Officer (with appropriate placement)",
+          "Programme Officer in Health NGOs and International Agencies",
+          "Monitoring and Evaluation Officer (Health Projects)",
+          "Community Health Coordinator",
+          "Research Assistant in Public Health",
+          "Health Policy and Planning Assistant",
+          "Health Education Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Public Health fees are in the health sciences band; moderate-high relative to non-clinical disciplines."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Epidemiology",
+              "Biostatistics",
+              "Environmental Health",
+              "Health Promotion and Education",
+              "Health Policy and Systems",
+              "Research Methods in Public Health"
+            ],
+            "salary": [
+              "Public Health graduates’ salaries depend on whether they work in government, NGOs, international agencies or private sector."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time on-campus with field and practicum components."
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with science or relevant backgrounds meeting general aggregates and required Core subject passes.",
+              "Candidates with health-related diplomas may obtain advanced standing after evaluation."
+            ],
+            "level_note": [
+              "Emphasises prevention, health promotion and population health approaches.",
+              "Suitable for those interested in improving community and national health outcomes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Public Health (MPH)",
+        "career": [
+          "Public Health Manager",
+          "Epidemiology and Surveillance Officer",
+          "Programme Manager in NGOs/International Agencies",
+          "Health Policy Analyst",
+          "Monitoring and Evaluation Specialist",
+          "Health Promotion Specialist",
+          "Researcher in Public Health",
+          "Lecturer/Trainer in Public Health (with further experience)",
+          "Health Systems Strengthening Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "MPH total fees are moderate relative to similar private institutions; details are on the graduate fees schedule."
+            ],
+            "duration": "Commonly 1–2 years depending on mode",
+            "electives": [
+              "Epidemiology",
+              "Biostatistics",
+              "Environmental Health",
+              "Health Policy and Leadership",
+              "Health Systems and Services",
+              "Research Methods and Project"
+            ],
+            "salary": [
+              "MPH graduates often move into mid- to senior-level public health roles; salaries vary widely by employer and level."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Designed for working professionals (may be one-year intensive or modular formats)."
+            ],
+            "entry_requirements": [
+              "First degree in Public Health, Medicine, Nursing, Environmental Health, Pharmacy or related health fields.",
+              "Relevant work experience in health sector strongly preferred.",
+              "Satisfaction of School of Graduate Studies’ requirements."
+            ],
+            "level_note": [
+              "Advanced professional public health degree focusing on leadership, analysis and practical impact.",
+              "Appropriate for health professionals moving into population health and management roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Health Services Management and Administration",
+        "career": [
+          "Unit Head/Administrator in Health Facilities",
+          "Health Records and Administration Officer (enhanced role)",
+          "Programme Assistant in Health NGOs",
+          "Administrative Coordinator in Clinics and Hospitals"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Short-course fees for Health Services Management are set per cohort; see professional/short-course fee list."
+            ],
+            "duration": "Short professional programme",
+            "electives": [
+              "Health Systems and Organisation",
+              "Basics of Health Services Management",
+              "Hospital Administration and Operations",
+              "Leadership and Teamwork in Health Facilities",
+              "Quality Improvement in Health Services"
+            ],
+            "salary": [
+              "Adds management capabilities to clinical or administrative roles; salary impact depends on primary position."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/evening delivery for working health professionals."
+            ],
+            "entry_requirements": [
+              "Health professionals or administrators with at least a diploma or degree and/or relevant experience."
+            ],
+            "level_note": [
+              "Helps clinicians and administrators manage health facilities more effectively.",
+              "Good stepping stone towards further health management studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Occupational Health, Safety and Environmental Management",
+        "career": [
+          "Health and Safety Officer",
+          "Occupational Health Assistant",
+          "HSE Officer in Industry or Health Facilities",
+          "Environmental Health and Safety Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Professional certificate fees vary and are communicated each intake."
+            ],
+            "duration": "Short professional course",
+            "electives": [
+              "Principles of Occupational Health and Safety",
+              "Hazard Identification and Risk Assessment",
+              "Workplace Safety Management Systems",
+              "Environmental Management Basics",
+              "Regulations and Compliance"
+            ],
+            "salary": [
+              "Enhances ability to take on HSE-related responsibilities; salary depends on sector and core job role."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/evening for professionals in healthcare, industry and related sectors."
+            ],
+            "entry_requirements": [
+              "Workers in health, industry, local government or related sectors seeking HSE knowledge.",
+              "Basic tertiary education or demonstrated experience."
+            ],
+            "level_note": [
+              "Provides foundational skills in occupational health, safety and environmental management.",
+              "Relevant for clinical and non-clinical professionals."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Education",
+    "note": [
+      "Trains teachers, educational leaders and researchers for schools, colleges and education-related institutions.",
+      "Emphasizes pedagogy, curriculum development, educational leadership and research skills.",
+      "Aligns with national education standards and needs."
+    ],
+    "courses": [
+      {
+        "course_name": "B.Ed. Social Studies",
+        "career": [
+          "Social Studies Teacher (Basic and Secondary Levels)",
+          "Civic Education and Citizenship Educator",
+          "Curriculum and Instruction Officer (with experience)",
+          "Education NGO Project Officer",
+          "School Administrator (with experience)",
+          "Community Education Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Education degrees often have moderate tuition levels; check the B.Ed fee band."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Foundations of Education",
+              "Educational Psychology",
+              "Curriculum Studies in Social Studies",
+              "Teaching Methods in Social Studies",
+              "Measurement and Evaluation",
+              "Classroom Management"
+            ],
+            "salary": [
+              "Teachers’ salaries are mainly determined by national education service scales and school type."
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus, with teaching practice placements."],
+            "entry_requirements": [
+              "WASSCE/SSSCE with general aggregates and electives suitable for Social Studies (e.g. History, Government, Geography, Economics, CRS).",
+              "Diploma-in-Education holders may gain advanced standing where applicable."
+            ],
+            "level_note": [
+              "Prepares graduates to teach Social Studies and serve as reflective practitioners and leaders in education.",
+              "Includes significant school-based teaching practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Ed in Educational Studies",
+        "career": [
+          "Headteacher/School Principal",
+          "Education Officer/Inspector",
+          "Curriculum Developer",
+          "Education Policy and Planning Officer",
+          "Training and Professional Development Coordinator",
+          "Lecturer/Facilitator in Teacher Education Colleges",
+          "Education NGO Programme Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "M.Ed programme fee is set by School of Graduate Studies; moderate compared to market and payable by modular instalments."
+            ],
+            "duration": "Typically 2 years (modular/evening/weekend)",
+            "electives": [
+              "Educational Leadership and Management",
+              "Curriculum Design and Implementation",
+              "Instructional Strategies and Technology",
+              "Educational Assessment and Evaluation",
+              "Research Methods in Education"
+            ],
+            "salary": [
+              "M.Ed graduates often progress into leadership and specialised roles within educational institutions and agencies."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible schedules (weekend/modular) to support in-service teachers."
+            ],
+            "entry_requirements": [
+              "First degree in Education or related field from a recognised institution.",
+              "Teaching or education-related experience typically required.",
+              "Additional requirements such as references and interviews."
+            ],
+            "level_note": [
+              "Focuses on professional management and transformative leadership in education.",
+              "Provides skills for educational research and evidence-based practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Advanced Research and Academic Publication",
+        "career": [
+          "Academic/Researcher (enhanced capacity)",
+          "Research Officer",
+          "Graduate Student with strengthened research skills",
+          "Publication and Grants Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Short professional fees are communicated per intake."],
+            "duration": "Short intensive programme",
+            "electives": [
+              "Advanced Research Design",
+              "Quantitative and Qualitative Methods",
+              "Academic Writing and Publication Strategies",
+              "Peer Review and Ethics in Research"
+            ],
+            "salary": [
+              "Primarily improves academic career prospects and capacity to secure research funding."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Block or weekend sessions oriented toward academics and postgraduate students."
+            ],
+            "entry_requirements": [
+              "Postgraduate students, academics or professionals engaged in research.",
+              "Basic research background recommended."
+            ],
+            "level_note": [
+              "Strengthens participants’ ability to design studies, analyse data and publish in reputable outlets.",
+              "Helps build an academic and research career profile."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Public Service Leadership and Governance",
+        "career": [
+          "Public Service Manager (with main qualification)",
+          "Local Government Officer",
+          "Policy and Governance Officer",
+          "NGO Governance and Leadership Officer",
+          "Programme Coordinator in Public Sector Projects"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Governance-related certificate fees are set per intake and announced by the University."
+            ],
+            "duration": "Short/modular",
+            "electives": [
+              "Public Service Leadership Principles",
+              "Governance and Accountability",
+              "Ethics and Anti-Corruption",
+              "Public Policy and Implementation",
+              "Change Management in Public Service"
+            ],
+            "salary": [
+              "Enhances leadership capacity in existing public service roles; salary impact is indirect through promotion prospects."
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend/evening format for public servants."],
+            "entry_requirements": [
+              "Public servants and NGO workers in governance-related roles.",
+              "Basic tertiary education or substantial experience."
+            ],
+            "level_note": [
+              "Equips participants with tools for ethical and effective leadership in governance and public administration.",
+              "Relevant for aspiring and current managers in the public sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Project Management",
+        "career": [
+          "Project Assistant",
+          "Project Officer",
+          "Programme Support Officer",
+          "Operations Coordinator in Projects",
+          "Monitoring and Evaluation Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Short-course fees in Project Management are outlined in the professional programmes list."
+            ],
+            "duration": "Short professional course",
+            "electives": [
+              "Project Cycle and Life-Cycle Management",
+              "Project Planning and Scheduling",
+              "Budgeting and Financial Management in Projects",
+              "Risk and Quality Management",
+              "Project Monitoring and Evaluation Basics"
+            ],
+            "salary": [
+              "Improves suitability for project roles across sectors; pay depends on main position and sector."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/evening sessions tailored to working professionals."
+            ],
+            "entry_requirements": [
+              "Tertiary students, graduates and professionals engaged in project work.",
+              "Basic numeracy and communication skills."
+            ],
+            "level_note": [
+              "Provides practical foundations aligned with project management standards.",
+              "Applicable across education, health, development, corporate and public sector projects."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Child and Adolescent Psychotherapy",
+        "career": [
+          "Child and Adolescent Counselling Assistant (with professional supervision)",
+          "School Counsellor (with broader qualifications)",
+          "NGO Child Protection/Support Officer (enhanced skills)",
+          "Social Worker (enhanced skills)",
+          "Youth Work Programme Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Psychotherapy certificate fees are announced for each cohort."
+            ],
+            "duration": "Short-to-medium duration",
+            "electives": [
+              "Child and Adolescent Development",
+              "Basic Counselling Skills",
+              "Common Emotional and Behavioural Issues",
+              "Therapeutic Approaches with Children and Adolescents",
+              "Ethics and Safeguarding"
+            ],
+            "salary": [
+              "Adds value to existing roles in education, social work and NGOs; direct salary impact depends on primary role."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/block teaching suitable for teachers, counsellors and social workers."
+            ],
+            "entry_requirements": [
+              "Professionals in education, psychology, social work, ministry and related fields.",
+              "Basic tertiary education or equivalent experience."
+            ],
+            "level_note": [
+              "Enhances capacity to support children and young people with emotional and psychological challenges.",
+              "Not a licence to practise independently as a clinical psychologist, but an important professional enhancement."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Emotional Intelligence",
+        "career": [
+          "Enhanced leadership and HR roles",
+          "Team and Organisational Development Facilitator",
+          "Counselling and Coaching Assistant (within scope)",
+          "Education/Training Professional with EI focus"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Emotional Intelligence certificate fees are published in the professional programmes fee schedule."
+            ],
+            "duration": "Short professional course",
+            "electives": [
+              "Foundations of Emotional Intelligence",
+              "Self-Awareness and Self-Regulation",
+              "Empathy and Social Skills",
+              "Emotional Intelligence in Leadership",
+              "Conflict Management and Communication"
+            ],
+            "salary": [
+              "Helps improve performance and leadership potential, which can support long-term career and salary growth."
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend or evening delivery."],
+            "entry_requirements": [
+              "Open to professionals and students seeking personal and leadership development.",
+              "No strict academic prerequisites beyond basic tertiary-level literacy."
+            ],
+            "level_note": [
+              "Supports personal and professional growth by strengthening emotional and interpersonal competencies.",
+              "Useful for educators, managers, counsellors and leaders across sectors."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Nursing and Midwifery",
+    "note": [
+      "Trains nurses and midwives to provide holistic, patient-centred care.",
+      "Programmes are aligned with national regulatory standards for nursing and midwifery education.",
+      "Graduates work in hospitals, clinics, community health settings and international health organisations."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc. Nursing",
+        "career": [
+          "Registered Nurse",
+          "Staff Nurse",
+          "Community Health Nurse",
+          "Ward Manager (with experience)",
+          "Public Health Nurse (with additional training)",
+          "Nurse Educator (with postgraduate study)",
+          "Occupational Health Nurse",
+          "Clinical Research Nurse",
+          "Home Care Nurse",
+          "Nursing Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Nursing: one of the higher-fee undergraduate programmes; detailed amounts are in the health sciences fee band."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Fundamentals of Nursing",
+              "Medical-Surgical Nursing",
+              "Maternal and Child Health Nursing",
+              "Mental Health Nursing",
+              "Community Health Nursing",
+              "Nursing Leadership and Management"
+            ],
+            "salary": [
+              "Nursing salaries in Ghana are determined mainly by public service scales and private facility policies; international opportunities can yield higher earnings."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time on-campus with clinical rotations in accredited health facilities."
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with appropriate science/home economics/general arts backgrounds and specified aggregate thresholds (typically 36/24 or better with key subjects at C6 or better).",
+              "SRN/RGN and other nursing diploma holders may enter at advanced levels on successful interview."
+            ],
+            "level_note": [
+              "Prepares graduates for professional registration as nurses subject to regulatory requirements.",
+              "Strong community and practical orientation consistent with the University’s mission."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc. Midwifery",
+        "career": [
+          "Registered Midwife",
+          "Maternal and Child Health Officer",
+          "Community Midwife",
+          "Family Planning and Reproductive Health Officer",
+          "Antenatal/Postnatal Care Midwife",
+          "Labour Ward Midwife",
+          "Midwifery Educator (with postgraduate training)",
+          "NGO Maternal Health Programme Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Midwifery fees are in the same health sciences band as Nursing and Physician Assistantship."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Foundations of Midwifery",
+              "Antenatal Care",
+              "Intrapartum (Labour and Delivery) Care",
+              "Postnatal and Neonatal Care",
+              "Reproductive and Sexual Health",
+              "Community Midwifery"
+            ],
+            "salary": [
+              "Midwives’ salaries are set largely by national and institutional pay scales for health professionals."
+            ],
+            "cutt_off": [],
+            "mode": ["Full-time on-campus with extensive clinical practice."],
+            "entry_requirements": [
+              "Science/home economics/general arts backgrounds meeting specified aggregates and subject requirements per University and Nursing and Midwifery Council guidelines.",
+              "SRN/RGN and other relevant certificate holders may gain advanced standing after assessment."
+            ],
+            "level_note": [
+              "Focuses on comprehensive care of women and newborns across the maternity continuum.",
+              "Addresses maternal and neonatal health priorities in Ghana and beyond."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
