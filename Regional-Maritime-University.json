@@ -1,0 +1,1490 @@
+[
+  {
+    "name": "Regional Maritime University"
+  },
+  {
+    "faculty_name": "Sea-Going / Merchant Marine Programmes",
+    "note": [
+      "Prepares officers and engineers for careers in the global merchant navy and offshore maritime industry.",
+      "Programmes meet international maritime training standards and include mandatory sea-going practical exposure.",
+      "Graduates typically serve on board ships as deck or engineering officers, and progress into port, offshore, and shore-based roles."
+    ],
+    "courses": [
+      {
+        "course_name": "B.Sc. Nautical Science",
+        "career": [
+          "Deck Officer (Third/Second/Chief Officer)",
+          "Ship Captain (Master Mariner with experience and certification)",
+          "Marine Pilot (with additional certification)",
+          "Marine Superintendent",
+          "Marine Surveyor",
+          "Port Operations Officer",
+          "Marine Safety and Security Officer",
+          "Vessel Traffic Services (VTS) Officer",
+          "Shipping Company Operations Executive",
+          "Maritime Lecturer/Trainer (with further study)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Tuition and charges vary by nationality and programme; applicants should consult RMU’s current undergraduate fee schedule for exact semester amounts."
+            ],
+            "duration": "4 years (including sea-going practical requirements)",
+            "electives": [
+              "Navigation and Seamanship",
+              "Marine Meteorology",
+              "Cargo Handling and Stowage",
+              "Ship Stability and Construction",
+              "Maritime Law and Ship Management",
+              "Bridge Watchkeeping and Simulation"
+            ],
+            "salary": [
+              "Sea-going officers generally earn internationally competitive tax-efficient salaries; earnings depend on rank, vessel type, company and trading area."
+            ],
+            "cutt_off": [
+              "Typical minimum: WASSCE aggregate 36 or better / SSSCE aggregate 24 or better with required core and elective subjects.",
+              "Cut-off may be more competitive in some intakes; applicants should confirm current cut-off guidance from RMU."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Classroom, simulator training and mandatory shipboard practical exposure arranged by the University where required"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO holders: credits in three (3) Core subjects – English, Mathematics and Integrated Science – plus credits in three (3) elective subjects, with an aggregate of 24 (SSSCE) or 36 (WASSCE) or better.",
+              "GCE holders: at least five (5) O-Level credits including English Language and Mathematics, plus A-Level passes in relevant subjects.",
+              "Medical fitness, including eyesight and physical fitness, as required for sea-going service.",
+              "Mature and other equivalent qualifications are considered under RMU’s general admission policies."
+            ],
+            "level_note": [
+              "Prepares students for deck officer certification and progression to Master Mariner through sea service and professional examinations.",
+              "Strong emphasis on navigation, ship handling, cargo work and maritime safety management."
+            ]
+          },
+          {
+            "level_name": "Top-up (HND Holders – Sea-Going/Related Fields)",
+            "fees": [
+              "Top-up students pay degree-level tuition according to RMU’s current fee schedule for Ghanaian and international HND entrants."
+            ],
+            "duration": "Typically 2 years (entry at Level 300, subject to transcript evaluation)",
+            "electives": [
+              "Advanced Navigation and Shiphandling",
+              "Marine Operations Management",
+              "Maritime Safety and Environmental Protection"
+            ],
+            "salary": [
+              "HND top-up graduates align with degree-level officer career pathways; income follows sea-going officer scales."
+            ],
+            "cutt_off": [
+              "Minimum of Second Class Lower (or equivalent) HND in a relevant maritime/nautical field from a recognised institution."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "May include additional simulator and sea-going requirements depending on prior sea experience"
+            ],
+            "entry_requirements": [
+              "Relevant HND (minimum Second Class Lower) in Nautical Science, Marine Transport or closely related area.",
+              "Evidence of sea service (where applicable) and medical fitness for sea-going duties.",
+              "Any additional requirements communicated by RMU for top-up entrants in merchant marine programmes."
+            ],
+            "level_note": [
+              "Designed for HND graduates who wish to earn a full B.Sc. degree in Nautical Science and broaden their career prospects.",
+              "Recognises prior diploma studies while deepening academic and professional competencies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Marine Engineering",
+        "career": [
+          "Marine Engineer Officer (4th/3rd/2nd/Chief Engineer)",
+          "Shipboard Maintenance Engineer",
+          "Technical Superintendent (with experience)",
+          "Shipyard Engineer",
+          "Offshore/Platform Engineer",
+          "Marine Surveyor (Machinery)",
+          "Marine Equipment Sales and Service Engineer",
+          "Port Engineer",
+          "Marine Safety and Compliance Engineer",
+          "Lecturer/Trainer in Marine Engineering (with further study)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (Regular)",
+            "fees": [
+              "Degree tuition and related charges are specified in RMU’s official undergraduate fee schedule; fees differ for local and foreign students."
+            ],
+            "duration": "4 years (with required engine-room practical exposure/internship)",
+            "electives": [
+              "Thermodynamics and Heat Engines",
+              "Marine Diesel Engines",
+              "Marine Auxiliary Machinery",
+              "Ship Power Plant Systems",
+              "Electrical Machines and Shipboard Power Systems",
+              "Marine Engineering Drawing and Workshop Practice"
+            ],
+            "salary": [
+              "Marine engineers at sea generally earn strong tax-advantaged pay; shore-based marine engineers also receive competitive engineering salaries."
+            ],
+            "cutt_off": [
+              "WASSCE: aggregate 36 or better; SSSCE: aggregate 24 or better with the required science electives.",
+              "Specific aggregates and competitiveness can vary by intake."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Laboratory, workshop and shipboard training components"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: credits in English, Mathematics and Integrated Science plus credits in three (3) relevant electives including Physics and Elective Mathematics, with aggregate 24 (SSSCE) or 36 (WASSCE) or better.",
+              "GCE: five (5) O-Level credits including Mathematics and English plus A-Level passes in relevant subjects (e.g., Physics, Mathematics).",
+              "Medical fitness (including standards for sea service) as required.",
+              "Other equivalent technical qualifications may be accepted per RMU’s policies."
+            ],
+            "level_note": [
+              "Meets requirements for progression towards marine engineer officer certificates of competency.",
+              "Combines mechanical, electrical and marine system engineering topics relevant to shipboard machinery."
+            ]
+          },
+          {
+            "level_name": "Top-up (HND Marine/Mechanical Engineering – Regular)",
+            "fees": [
+              "Top-up HND students are billed using RMU’s degree top-up fee structure; see current schedule for exact figures."
+            ],
+            "duration": "About 2 years (entry typically at Level 300)",
+            "electives": [
+              "Advanced Marine Plant Operations",
+              "Marine Maintenance Management",
+              "Marine Safety, Security and Environmental Protection"
+            ],
+            "salary": [
+              "Top-up degree enhances progression to higher engineering ranks and shore-based technical leadership roles."
+            ],
+            "cutt_off": [
+              "At least Second Class Lower HND in Marine Engineering or closely related Mechanical/Engineering field."
+            ],
+            "mode": [
+              "Full-time on-campus (Regular)",
+              "Designed for working HND holders who can meet academic schedule requirements"
+            ],
+            "entry_requirements": [
+              "HND in Marine Engineering or related discipline from a recognised institution with minimum Second Class Lower.",
+              "Satisfying RMU’s additional top-up entry conditions, including possible interviews or transcript review."
+            ],
+            "level_note": [
+              "Provides academic upgrading for HND marine/mechanical engineers.",
+              "Positions graduates for advanced technical and management roles in the maritime industry."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Electrical / Electronic Engineering (Sea-Going Stream)",
+        "career": [
+          "Electro-Technical Officer (ETO) on ships",
+          "Marine Electrical Engineer",
+          "Shipboard Power and Control Systems Engineer",
+          "Offshore Electrical/Instrumentation Engineer",
+          "Shipyard Electrical Engineer",
+          "Marine Automation Engineer",
+          "Electrical Maintenance Engineer",
+          "Port Electrical Systems Engineer",
+          "Technical Support Engineer (Marine Electrical Systems)",
+          "Electrical Engineering Consultant (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (Regular – Sea-Going/Marine Focus)",
+            "fees": [
+              "B.Sc. Electrical/Electronic Engineering fees are in the engineering degree band; applicants should verify current amounts from RMU’s fee schedule."
+            ],
+            "duration": "4 years (may include sea-going or marine-focused internships, depending on stream)",
+            "electives": [
+              "Circuit Theory and Electronics",
+              "Electrical Machines and Drives",
+              "Power Systems",
+              "Digital Electronics and Microprocessors",
+              "Control Systems",
+              "Marine Electrical and Automation Systems (for sea-going emphasis)"
+            ],
+            "salary": [
+              "Electrical/electronic engineers in marine and industrial sectors have competitive earnings that rise with experience and specialization."
+            ],
+            "cutt_off": [
+              "Minimum general engineering requirement: WASSCE aggregate 36 / SSSCE aggregate 24 or better with Physics and Elective Mathematics."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Extensive laboratory-based training"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: credits in English, Mathematics and Integrated Science plus credits in Physics, Elective Mathematics and one other relevant elective; aggregate 24 (SSSCE) or 36 (WASSCE) or better.",
+              "GCE route with O-Level credits and A-Level passes in relevant subjects is accepted.",
+              "Other equivalent science/technical qualifications considered under RMU rules."
+            ],
+            "level_note": [
+              "Provides strong grounding in electrical and electronic systems with options for marine applications.",
+              "Graduates can work both at sea and ashore in electrical/electronic engineering roles."
+            ]
+          },
+          {
+            "level_name": "Top-up (HND Electrical/Electronic Engineering – Regular/Weekend)",
+            "fees": [
+              "Top-up students pay according to RMU’s degree top-up fee structure for engineering; see the latest schedule for weekend vs regular amounts."
+            ],
+            "duration": "Normally 2 years (Level 300 entry), with Regular and Weekend options",
+            "electives": [
+              "Advanced Power and Control Systems",
+              "Industrial and Marine Automation",
+              "Electrical Protection and Reliability"
+            ],
+            "salary": [
+              "Top-up degree supports promotion into supervisory and design-level electrical/electronic engineering roles."
+            ],
+            "cutt_off": [
+              "HND with at least Second Class Lower in Electrical/Electronic or related engineering discipline."
+            ],
+            "mode": [
+              "Regular (weekday) and Weekend delivery to cater for working professionals"
+            ],
+            "entry_requirements": [
+              "Recognised HND in Electrical/Electronic Engineering with minimum Second Class Lower.",
+              "Other equivalent higher diplomas may be accepted after evaluation."
+            ],
+            "level_note": [
+              "Strengthens theoretical and analytical skills of diploma-qualified electrical/electronic engineers.",
+              "Weekend mode is particularly suited to employed technicians and technologists."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Nautical Science",
+        "career": [
+          "Deck Cadet",
+          "Able Seafarer (Deck) with experience and certification",
+          "Junior Officer Trainee",
+          "Port and Terminal Operations Assistant",
+          "Marine Operations Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma (Regular)",
+            "fees": [
+              "Diploma programme tuition is lower than degree-level fees; exact semester charges are given in RMU’s current diploma fee schedule."
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Basic Navigation and Chart Work",
+              "Seamanship and Shipboard Operations",
+              "Cargo Work Fundamentals",
+              "Marine Safety and Survival",
+              "Marine Communication and Regulations"
+            ],
+            "salary": [
+              "Diploma holders generally start as cadets or junior ratings; earnings increase significantly with sea service and certification."
+            ],
+            "cutt_off": [
+              "Applicants must meet RMU’s diploma entry criteria; typically passes in six subjects including English and Mathematics with at least three relevant electives at C6 or better."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Practical training including basic simulator and shipboard familiarisation"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: at least six passes (A1–D7/A–D) including English Language and Mathematics and a minimum of C6 in three relevant elective subjects.",
+              "GCE: O-Level credits including English Language and Mathematics plus acceptable equivalent qualifications.",
+              "Science background is advantageous for sea-going diploma programmes."
+            ],
+            "level_note": [
+              "Entry route into sea-going careers for applicants who may not yet qualify for the full degree.",
+              "Successful graduates may progress to B.Sc. Nautical Science subject to meeting progression requirements."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Marine Engineering",
+        "career": [
+          "Engine Room Rating",
+          "Engine Cadet",
+          "Marine Mechanic",
+          "Shipyard Technician",
+          "Marine Maintenance Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma (Regular)",
+            "fees": [
+              "Diploma-level marine engineering fees are specified in RMU’s diploma fee schedule; charges are lower than those for degree programmes."
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Engineering Drawing and Workshop Practice",
+              "Basic Thermodynamics",
+              "Marine Engines and Auxiliaries (Introductory)",
+              "Fuel and Lubrication Systems",
+              "Engine Room Safety and Operations"
+            ],
+            "salary": [
+              "Diploma-qualified engine ratings/cadets earn at entry-level marine scales; earnings rise with rank and sea time."
+            ],
+            "cutt_off": [
+              "Meets RMU’s diploma standard: six passes including English and Mathematics with at least three C6 or better in relevant technical/science electives."
+            ],
+            "mode": [
+              "Full-time on-campus",
+              "Workshop-based training and engine-room familiarisation"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO with passes in English Language, Mathematics and Integrated Science, plus passes in relevant science/technical electives.",
+              "GCE or equivalent technical/TVET qualifications considered in line with RMU policy."
+            ],
+            "level_note": [
+              "Provides practical foundation for engine-room work and further marine engineering studies.",
+              "Suitable for candidates targeting technical sea-going roles without immediate entry into a degree."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Electrical / Electronic Engineering",
+        "career": [
+          "Electrical/Electronic Technician (Marine or Shore-based)",
+          "Shipboard Electrical Rating/Assistant",
+          "Industrial Maintenance Technician",
+          "Control and Instrumentation Technician (junior)",
+          "Technical Support Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma (Regular/Weekend)",
+            "fees": [
+              "Diploma fees for Electrical/Electronic Engineering are published in RMU’s fee tables; weekend mode may have slightly different payment schedules."
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Basic Electrical Principles",
+              "Electronics Fundamentals",
+              "Digital Electronics Basics",
+              "Electrical Machines (Introductory)",
+              "Practical Wiring, Testing and Safety"
+            ],
+            "salary": [
+              "Diploma holders typically enter technician-level roles; salaries rise with experience and specialisation."
+            ],
+            "cutt_off": [
+              "RMU general diploma requirement: six passes including English and Mathematics; at least three relevant electives with C6 or better."
+            ],
+            "mode": [
+              "Regular and Weekend options to accommodate different student categories",
+              "Hands-on laboratory and workshop sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO with passes in English, Mathematics and Integrated Science and at least three relevant science/technical electives.",
+              "GCE ‘O’ Level and equivalent qualifications accepted under RMU’s diploma regulations."
+            ],
+            "level_note": [
+              "Good starting point for those seeking electrical/electronic technician roles or later B.Sc. top-up entry.",
+              "Weekend option is suitable for working technicians upgrading their qualifications."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Engineering Programmes (Undergraduate – Non Sea-Going)",
+    "note": [
+      "Provides engineering education in mechanical, naval architecture and computer engineering with applications in maritime, offshore and general industry.",
+      "Programmes include regular and weekend delivery where indicated, and support progression from HND top-up to full degree status.",
+      "Graduates work in shipyards, ports, energy, manufacturing, logistics and broader engineering sectors."
+    ],
+    "courses": [
+      {
+        "course_name": "B.Sc. Mechanical Engineering (Regular/Weekend)",
+        "career": [
+          "Mechanical Engineer",
+          "Maintenance Engineer",
+          "Design Engineer (Mechanical Systems)",
+          "Plant/Production Engineer",
+          "Marine/Shipyard Mechanical Engineer",
+          "HVAC and Utilities Engineer",
+          "Automotive or Heavy Equipment Engineer",
+          "Project Engineer",
+          "Field Service Engineer",
+          "Engineering Consultant (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "fees": [
+              "Regular mechanical engineering students pay degree-level engineering fees; amounts are listed in RMU’s current schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Engineering Mechanics",
+              "Thermodynamics",
+              "Fluid Mechanics",
+              "Machine Design",
+              "Materials Science",
+              "Manufacturing Processes"
+            ],
+            "salary": [
+              "Mechanical engineers earn varied salaries depending on industry (e.g., energy, manufacturing, maritime, construction) and experience."
+            ],
+            "cutt_off": [
+              "General engineering standard: WASSCE aggregate 36 or better / SSSCE aggregate 24 or better with required science electives."
+            ],
+            "mode": ["Full-time on-campus (Regular)"],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: credits in English, Mathematics and Integrated Science plus credits in Physics, Elective Mathematics and another relevant elective; aggregate 24 (SSSCE) or 36 (WASSCE) or better.",
+              "GCE path with O-Level credits including English and Mathematics and relevant A-Level passes (e.g., Physics, Mathematics)."
+            ],
+            "level_note": [
+              "Prepares students for broad mechanical engineering roles in maritime and non-maritime industries.",
+              "Strong analytical and practical component through labs and projects."
+            ]
+          },
+          {
+            "level_name": "Top-up (HND Mechanical/Marine – Weekend)",
+            "fees": [
+              "Weekend mechanical engineering top-up students follow RMU’s engineering top-up fee band; check current figures for weekend mode."
+            ],
+            "duration": "Approximately 2 years (Level 300 entry), Weekend schedule",
+            "electives": [
+              "Advanced Machine Design",
+              "Reliability and Maintenance Engineering",
+              "Project and Operations Management"
+            ],
+            "salary": [
+              "Top-up degree enhances chances for supervisory, design and management roles in mechanical engineering fields."
+            ],
+            "cutt_off": [
+              "Minimum of Second Class Lower HND in Mechanical, Marine or related Engineering discipline."
+            ],
+            "mode": [
+              "Weekend (to suit working professionals)",
+              "Intensive coursework and project work"
+            ],
+            "entry_requirements": [
+              "Recognised HND in Mechanical, Marine or related Engineering with at least Second Class Lower.",
+              "Other relevant higher diplomas are considered per RMU’s top-up entry regulations."
+            ],
+            "level_note": [
+              "Designed for practicing mechanical/marine engineering technologists upgrading to a full degree.",
+              "Weekend structure facilitates work–study balance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Naval Architecture (Small Craft & Ocean Engineering Options)",
+        "career": [
+          "Naval Architect",
+          "Ship Designer",
+          "Small Craft Designer",
+          "Offshore Structural Engineer",
+          "Shipyard Design Office Engineer",
+          "Marine Consultant (design/performance)",
+          "Yacht and Boat Design Engineer",
+          "Classification Society Surveyor (with experience)",
+          "Research Engineer in Ocean Structures",
+          "Project Engineer (Shipbuilding/Offshore)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "fees": [
+              "Naval Architecture students pay engineering degree fees as specified in the current RMU fee schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Ship Hydrostatics and Stability",
+              "Ship Resistance and Propulsion",
+              "Ship Structural Design",
+              "Small Craft Design",
+              "Ocean Engineering Fundamentals",
+              "Computer-Aided Ship Design (e.g., Maxsurf, CAD tools)"
+            ],
+            "salary": [
+              "Naval architects are in specialised demand; remuneration depends on shipyards, design offices, offshore firms and region."
+            ],
+            "cutt_off": [
+              "Similar to other engineering programmes: WASSCE aggregate 36 / SSSCE 24 or better with Physics and Elective Mathematics."
+            ],
+            "mode": ["Full-time on-campus (Regular)"],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: credits in English, Mathematics and Integrated Science plus credits in Physics, Elective Mathematics and another science/technical elective; aggregate within the standard engineering thresholds.",
+              "GCE and equivalent qualifications with strong Mathematics and Physics background."
+            ],
+            "level_note": [
+              "Specialised engineering programme focusing on design, construction and analysis of marine and offshore structures.",
+              "Options in Small Craft and Ocean Engineering allow focus on specific industry segments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Computer Engineering (Regular/Weekend)",
+        "career": [
+          "Computer Engineer",
+          "Embedded Systems Engineer",
+          "Network and Systems Engineer",
+          "Hardware/Systems Design Engineer",
+          "IoT Solutions Engineer",
+          "Systems Integration Engineer",
+          "Technical Support Engineer",
+          "Firmware/Device Driver Developer",
+          "Field Applications Engineer",
+          "R&D Engineer in Computing Systems"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "fees": [
+              "Regular computer engineering students are billed under the engineering degree fee band; amounts are published per academic year."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Programming and Algorithms",
+              "Digital Logic Design",
+              "Microprocessors and Microcontrollers",
+              "Computer Architecture",
+              "Embedded Systems Design",
+              "Control Systems and Signal Processing"
+            ],
+            "salary": [
+              "Computer engineers can access competitive pay in hardware, embedded systems, telecoms, and IT infrastructure sectors."
+            ],
+            "cutt_off": [
+              "Engineering standard: WASSCE aggregate 36 / SSSCE 24 or better with credits in Elective Mathematics and Physics."
+            ],
+            "mode": [
+              "Full-time on-campus (Regular)",
+              "Substantial laboratory and project work"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: credits in English Language, Mathematics and Integrated Science plus credits in Physics, Elective Mathematics and another science/technical elective.",
+              "GCE O-Level and A-Level combinations with Mathematics and Physics or equivalent accepted.",
+              "Other acceptable science/technical qualifications per RMU general admission requirements."
+            ],
+            "level_note": [
+              "Bridges hardware and software, preparing graduates for diverse roles in computing and electronics.",
+              "Appropriate for students interested in both programming and hardware systems."
+            ]
+          },
+          {
+            "level_name": "Top-up (HND Computer/Electrical/Related – Regular/Weekend)",
+            "fees": [
+              "HND top-up students in Computer Engineering pay according to RMU’s engineering top-up fee schedule; weekend mode may have specific payment plans."
+            ],
+            "duration": "Typically 2 years (Level 300 entry), Regular or Weekend",
+            "electives": [
+              "Advanced Embedded Systems",
+              "Systems Integration and Testing",
+              "Networked and Distributed Systems"
+            ],
+            "salary": [
+              "Top-up enables progression into full engineer roles and higher responsibility technical posts."
+            ],
+            "cutt_off": [
+              "HND with at least Second Class Lower in Computer, Electrical/Electronic or closely related Engineering field."
+            ],
+            "mode": [
+              "Regular (weekday) and Weekend options to support working professionals"
+            ],
+            "entry_requirements": [
+              "Recognised HND in Computer/Electrical/Electronic Engineering with minimum Second Class Lower.",
+              "Satisfaction of additional RMU top-up entry procedures where applicable."
+            ],
+            "level_note": [
+              "Provides academic enhancement for engineering technologists seeking full B.Sc. Computer Engineering status.",
+              "Weekend delivery especially targets employed HND holders."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Applied Science Programme",
+    "note": [
+      "Offers core science training in computing to serve maritime, logistics, and general ICT sectors.",
+      "Emphasises software development, algorithms and computer systems with relevance to maritime and broader industries."
+    ],
+    "courses": [
+      {
+        "course_name": "B.Sc. Computer Science (Regular/Weekend)",
+        "career": [
+          "Software Developer",
+          "Systems Analyst",
+          "Database Developer",
+          "Web and Application Developer",
+          "Data Analyst (entry level)",
+          "Research and Development Assistant",
+          "IT Consultant",
+          "Systems Support Engineer",
+          "Cybersecurity Analyst (entry level, with specialisation)",
+          "Lecturer/Teacher (with further training)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "fees": [
+              "Computer Science is billed at degree-level science/engineering fees; latest semester charges are on RMU’s fees page."
+            ],
+            "duration": "4 years (Regular)",
+            "electives": [
+              "Programming I & II",
+              "Data Structures and Algorithms",
+              "Operating Systems",
+              "Database Systems",
+              "Software Engineering",
+              "Computer Networks"
+            ],
+            "salary": [
+              "Computer science graduates are in demand across sectors; salaries vary with role, skills and location."
+            ],
+            "cutt_off": [
+              "Standard science/engineering entry: WASSCE aggregate 36 / SSSCE 24 or better with credits including Elective Mathematics and Physics."
+            ],
+            "mode": ["Full-time on-campus (Regular)"],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: credits in three (3) core subjects including English Language and Mathematics plus three (3) relevant electives which must include Physics and Elective Mathematics.",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better.",
+              "GCE and other equivalents with Mathematics and Science subjects accepted under RMU policy."
+            ],
+            "level_note": [
+              "Provides a strong theoretical and practical foundation for computing careers and graduate study.",
+              "Well-suited for students with strong mathematics and problem-solving interests."
+            ]
+          },
+          {
+            "level_name": "Top-up (HND Computing/IT – Regular/Weekend)",
+            "fees": [
+              "Top-up Computer Science students pay degree-level top-up fees; weekend programmes may have tailored payment structures."
+            ],
+            "duration": "Normally 2 years (Level 300 entry), available in Regular and Weekend modes",
+            "electives": [
+              "Advanced Software Engineering",
+              "Data Management and Analytics",
+              "Emerging Topics in Computer Science"
+            ],
+            "salary": [
+              "Top-up degrees can significantly improve prospects for senior developer and analyst roles relative to HND alone."
+            ],
+            "cutt_off": [
+              "Minimum Second Class Lower HND in Computer Science, ICT or a closely related field."
+            ],
+            "mode": [
+              "Regular weekday classes or Weekend sessions for working professionals"
+            ],
+            "entry_requirements": [
+              "HND in a computing/ICT discipline from a recognised institution with at least Second Class Lower.",
+              "Satisfaction of RMU’s general top-up admission guidelines for IT/CS programmes."
+            ],
+            "level_note": [
+              "Intended for diploma graduates seeking a full B.Sc. Computer Science degree.",
+              "Helps bridge into more advanced technical and leadership roles in IT."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Information Technology Programmes",
+    "note": [
+      "Provides specialist IT education to support automation, digitalisation and information systems in maritime and non-maritime contexts.",
+      "Programmes are available at both degree and diploma levels, with some modes offered on weekend basis to support working students."
+    ],
+    "courses": [
+      {
+        "course_name": "B.Sc. Information Technology (Regular/Weekend)",
+        "career": [
+          "IT Support Engineer",
+          "Network and Systems Administrator",
+          "Database Administrator (entry level)",
+          "Web/Application Developer",
+          "Helpdesk Analyst",
+          "ICT Officer in Ports/Shipping/Logistics",
+          "IT Project Assistant",
+          "Systems Support Technician",
+          "Digital Transformation Support Officer",
+          "Cloud Support Technician (with further certifications)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "fees": [
+              "Undergraduate IT degree fees follow the science/technology band; current figures are listed in RMU’s fee schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Computer Hardware and Architecture",
+              "Networking Fundamentals",
+              "Database Management Systems",
+              "Web Technologies",
+              "Systems Administration",
+              "Information Security Fundamentals"
+            ],
+            "salary": [
+              "IT roles’ pay varies by organisation and sector; skills and certifications can raise salary levels over time."
+            ],
+            "cutt_off": [
+              "General requirement: WASSCE aggregate 36 or better / SSSCE 24 or better with core subjects and relevant electives (often including ICT and/or Elective Mathematics)."
+            ],
+            "mode": [
+              "Full-time on-campus (Regular)",
+              "Some intakes may have Weekend options depending on demand"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: passes in English Language, Mathematics and Integrated Science plus three (3) relevant electives (e.g., ICT, Elective Mathematics, Physics, other science/technical subjects) meeting the required aggregate.",
+              "GCE and equivalent qualifications in line with RMU general admission regulations."
+            ],
+            "level_note": [
+              "Focuses on practical IT systems support, networking and databases.",
+              "Suitable for students targeting hands-on ICT roles in maritime and general sectors."
+            ]
+          },
+          {
+            "level_name": "Top-up (HND IT/Related – Regular/Weekend)",
+            "fees": [
+              "Top-up IT students are charged according to RMU’s IT degree top-up structure; weekend mode may distribute payments differently across semesters."
+            ],
+            "duration": "Approx. 2 years (Level 300 entry)",
+            "electives": [
+              "Advanced Network Systems",
+              "Systems Administration and Cloud Basics",
+              "IT Project and Service Management"
+            ],
+            "salary": [
+              "Top-up degree can significantly improve career progression and pay relative to HND-only IT roles."
+            ],
+            "cutt_off": [
+              "HND (minimum Second Class Lower) in Information Technology, Computer Science or related programme."
+            ],
+            "mode": ["Regular and/or Weekend classes, depending on intake"],
+            "entry_requirements": [
+              "Recognised HND in IT/Computing or closely related area, at least Second Class Lower.",
+              "Meeting any additional RMU top-up conditions for IT programmes."
+            ],
+            "level_note": [
+              "Converts higher diploma-level knowledge into a full B.Sc. IT qualification.",
+              "Ideal for working technicians and technologists aiming at higher responsibilities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Information Technology (Regular/Weekend)",
+        "career": [
+          "IT Support Technician",
+          "Helpdesk Officer",
+          "Computer Lab Assistant",
+          "Data Entry and Systems Clerk",
+          "Network Support Assistant",
+          "Office ICT Assistant",
+          "Technical Sales Support",
+          "Digital Centre Attendant",
+          "Junior Web/Systems Support Assistant",
+          "ICT Support in Ports and Logistics"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma (Regular/Weekend)",
+            "fees": [
+              "Diploma IT fees are lower than degree fees and are provided in RMU’s diploma fee listings; weekend options may have tailored fee structures."
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Computer Fundamentals",
+              "Office Productivity Software",
+              "Basic Networking",
+              "PC Maintenance and Troubleshooting",
+              "Introductory Programming",
+              "Database and Web Basics"
+            ],
+            "salary": [
+              "Diploma IT roles typically start at junior technician/support pay levels; further study and experience can raise earnings."
+            ],
+            "cutt_off": [
+              "Usually requires passes in six (6) subjects including English Language and Mathematics, with at least three relevant elective passes at C6 or better."
+            ],
+            "mode": [
+              "Regular and Weekend delivery",
+              "Strong focus on hands-on lab practice"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: six passes including English Language and Mathematics, with at least three relevant elective passes.",
+              "GCE and other equivalent qualifications as detailed in RMU’s general diploma requirements.",
+              "Applicants are encouraged to have basic computer literacy."
+            ],
+            "level_note": [
+              "Entry pathway for students aiming at junior ICT roles or later B.Sc. top-up.",
+              "Weekend mode serves workers upgrading their ICT skills and credentials."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Business / Humanities Programmes",
+    "note": [
+      "Offers business and humanities programmes that support port, shipping, logistics and general management careers.",
+      "Designed to produce graduates capable of managing complex supply chains and port operations within the global maritime sector."
+    ],
+    "courses": [
+      {
+        "course_name": "B.Sc. Port and Shipping Administration (Regular/Weekend)",
+        "career": [
+          "Port Operations Officer",
+          "Shipping Agency Executive",
+          "Terminal Operations Supervisor",
+          "Port Planning and Development Officer",
+          "Maritime Logistics Coordinator",
+          "Shipping Documentation and Customer Service Officer",
+          "Marine Cargo Planner",
+          "Port Safety and Compliance Officer",
+          "Freight Forwarding and Customs Brokerage Officer",
+          "Maritime Policy and Regulatory Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (Regular/Weekend – 4-Year Degree)",
+            "fees": [
+              "Ports and Shipping Administration uses the business/management degree fee band; current Ghanaian and foreign student fees are on RMU’s schedule."
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Shipping and Maritime Trade",
+              "Port Operations and Management",
+              "Maritime Economics",
+              "International Trade and Transport",
+              "Maritime Law and Policy (Introductory)",
+              "Logistics and Supply Chain Fundamentals"
+            ],
+            "salary": [
+              "Port and shipping roles can be well-remunerated, especially in senior positions and international organisations; actual salaries vary widely."
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE/NECO holders: credits (A1–C6/A–D) in English, Mathematics and Integrated Science/Social Studies plus credits in three (3) elective subjects with aggregate 24 (SSSCE) or 36 (WASSCE) or better."
+            ],
+            "mode": [
+              "Regular (weekday) and Weekend options, depending on intake",
+              "Field visits and industry attachments in ports and shipping companies"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: credits in English Language, Mathematics and Integrated Science/Social Studies plus three (3) elective subjects; aggregate 24 (SSSCE) or 36 (WASSCE) or better.",
+              "GCE: five (5) O-Level credits including English and Mathematics plus required A-Level passes.",
+              "Other qualifications such as ABCE, HND and mature entry are accepted under RMU’s general admission framework."
+            ],
+            "level_note": [
+              "Flagship business programme tailored to port and shipping administration careers.",
+              "Weekend mode supports professionals already working in maritime and logistics sectors."
+            ]
+          },
+          {
+            "level_name": "Top-up (HND Maritime/Business – Regular/Weekend)",
+            "fees": [
+              "HND top-up students in Ports and Shipping Administration pay degree top-up fees; weekend and regular fees should be confirmed from RMU’s current schedule."
+            ],
+            "duration": "Typically 2 years (Level 300 entry)",
+            "electives": [
+              "Advanced Port Operations",
+              "Shipping Management and Strategy",
+              "Maritime Policy and Regulation"
+            ],
+            "salary": [
+              "Top-up degree can open opportunities for supervisory and managerial roles in ports and shipping organisations."
+            ],
+            "cutt_off": [
+              "Minimum Second Class Lower HND (or equivalent) in relevant maritime, business or logistics disciplines."
+            ],
+            "mode": [
+              "Regular and Weekend delivery to suit working professionals"
+            ],
+            "entry_requirements": [
+              "HND in Port and Shipping, Logistics, Maritime Business or related field with at least Second Class Lower.",
+              "Other recognised higher diplomas may be accepted for top-up entry per RMU policies."
+            ],
+            "level_note": [
+              "Allows diploma-level practitioners to upgrade to a full B.Sc. in Port and Shipping Administration.",
+              "Strengthens theoretical and analytical skills for higher responsibility roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Logistics Management (Regular)",
+        "career": [
+          "Logistics and Supply Chain Officer",
+          "Freight Forwarding Officer",
+          "Warehouse and Inventory Supervisor",
+          "Transport and Fleet Coordinator",
+          "Procurement and Operations Officer",
+          "Distribution and Planning Officer",
+          "Import/Export Documentation Officer",
+          "3PL/4PL Operations Officer",
+          "Logistics Analyst (entry level)",
+          "Project Logistics Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (Regular – 4-Year Degree)",
+            "fees": [
+              "Logistics Management students follow the business/management fee band; the current schedule includes any additional charges related to the year abroad (where applicable)."
+            ],
+            "duration": "4 years (including a year abroad component in collaboration with Shanghai Maritime University for some intakes)",
+            "electives": [
+              "Supply Chain Management",
+              "Transport and Distribution Management",
+              "Inventory and Warehouse Management",
+              "International Logistics and Trade",
+              "Port and Terminal Logistics",
+              "Strategic Procurement and Sourcing"
+            ],
+            "salary": [
+              "Logistics and supply chain roles can be competitively paid, with higher earnings in senior and international positions."
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE/NECO: credits in English, Mathematics and Integrated Science/Social Studies plus credits in three (3) elective subjects; aggregate 24 (SSSCE) or 36 (WASSCE) or better."
+            ],
+            "mode": [
+              "Full-time (Regular)",
+              "Includes potential study-abroad year (e.g., Shanghai Maritime University) as indicated by RMU."
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO with core English, core Mathematics, core Integrated Science/Social Studies and three (3) suitable electives.",
+              "GCE, ABCE, HND and mature entry routes per RMU general requirements for business programmes."
+            ],
+            "level_note": [
+              "Jointly run in some cohorts with an international partner university, offering global exposure.",
+              "Focuses on integrated logistics and supply chain management in maritime and general contexts."
+            ]
+          },
+          {
+            "level_name": "Top-up (HND Logistics/Business – Regular/Weekend)",
+            "fees": [
+              "Top-up Logistics Management students pay B.Sc. top-up fees; weekend/regular details are on RMU’s top-up fee schedule."
+            ],
+            "duration": "Approx. 2 years (Level 300 entry)",
+            "electives": [
+              "Advanced Supply Chain Strategy",
+              "Global Logistics and Trade Facilitation",
+              "Logistics Analytics and Performance Management"
+            ],
+            "salary": [
+              "Top-up degree supports advancement into mid-level logistics and supply chain management positions."
+            ],
+            "cutt_off": [
+              "At least Second Class Lower HND in Logistics, Transport, Procurement or related business field."
+            ],
+            "mode": ["Regular and/or Weekend (depending on cohort)"],
+            "entry_requirements": [
+              "Recognised HND or similar higher diploma in logistics, transport, procurement or business.",
+              "Eligibility determined by RMU’s HND top-up admission policies."
+            ],
+            "level_note": [
+              "Targeted at practitioners seeking academic upgrading for more senior roles in logistics and supply chain.",
+              "Weekend mode is attractive to those already employed in related sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Ports and Shipping Management",
+        "career": [
+          "Port Operations Assistant",
+          "Shipping Agency Clerk",
+          "Documentation and Customer Service Clerk",
+          "Terminal Operations Assistant",
+          "Freight Forwarding and Customs Assistant",
+          "Logistics and Transport Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma (Regular/Weekend)",
+            "fees": [
+              "Diploma in Ports and Shipping Management fees are lower than degree fees and published in RMU’s diploma fee tables."
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Shipping and Maritime Trade",
+              "Port Operations Basics",
+              "Shipping Documentation and Procedures",
+              "Maritime Transport Fundamentals",
+              "Customer Service in Ports and Shipping"
+            ],
+            "salary": [
+              "Diploma holders typically start at junior/assistant-level roles in ports and shipping organisations."
+            ],
+            "cutt_off": [
+              "Standard RMU diploma requirement: six passes including English and Mathematics with at least three relevant elective passes at C6 or better."
+            ],
+            "mode": [
+              "Regular and possibly Weekend options, subject to RMU scheduling"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE/NECO: at least six passes including English Language and Mathematics and minimum C6 in three relevant electives.",
+              "GCE and other equivalent qualifications per RMU diploma policy."
+            ],
+            "level_note": [
+              "Entry route into operational roles in ports and shipping.",
+              "Diploma graduates may later upgrade to B.Sc. Port and Shipping Administration or related programmes."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Maritime Studies Programmes (Postgraduate)",
+    "note": [
+      "Postgraduate maritime programmes address advanced management, logistics, safety and risk issues in the shipping and maritime domains.",
+      "Designed for professionals from maritime, logistics, port operations and related sectors."
+    ],
+    "courses": [
+      {
+        "course_name": "Master of Arts (M.A.) Ports & Shipping Administration (Regular and Weekend)",
+        "career": [
+          "Port Manager",
+          "Shipping Company Executive",
+          "Maritime Policy and Planning Officer",
+          "Port and Maritime Consultant",
+          "Senior Operations Manager (Ports/Terminals)",
+          "Maritime Regulator/Administrator",
+          "International Organisation Programme Officer (Maritime)",
+          "Logistics and Trade Development Specialist",
+          "Academic/Trainer in Port and Shipping Administration",
+          "Doctoral Researcher in Maritime Studies"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (MA – Regular/Weekend)",
+            "fees": [
+              "Postgraduate maritime fees (MA) are specified as a total programme cost on RMU’s fee schedule; applicants should confirm the current Ghanaian and foreign student amounts."
+            ],
+            "duration": "Typically 18–24 months depending on mode",
+            "electives": [
+              "Advanced Port Management",
+              "Shipping Economics and Finance",
+              "Maritime Law and Policy (Advanced)",
+              "International Trade and Transport",
+              "Maritime Safety and Environmental Management",
+              "Research Methods in Maritime Studies"
+            ],
+            "salary": [
+              "MA graduates often occupy senior roles in ports, shipping companies and regulatory bodies with commensurate remuneration."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular weekday and Weekend options",
+              "Combination of coursework and dissertation/project"
+            ],
+            "entry_requirements": [
+              "Good first degree (at least Second Class Lower) in Social Sciences, Business Administration, Maritime disciplines or related areas from a recognised university, plus at least two (2) years post-qualification working experience in logistics or maritime-related organisations.",
+              "Or highest-grade Certificate of Competency for unrestricted service as Master Mariner or Chief Engineer in the Merchant Navy.",
+              "Other candidates with relevant background may be considered according to RMU and partner university policies."
+            ],
+            "level_note": [
+              "Jointly run with partner institutions for some cohorts, aligning academic content with industry needs.",
+              "Emphasises strategic and policy aspects of port and shipping management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science (M.Sc.) International Shipping and Logistics (Weekend)",
+        "career": [
+          "International Shipping Manager",
+          "Global Logistics and Supply Chain Manager",
+          "Freight Forwarding and 3PL/4PL Manager",
+          "Shipping and Transport Consultant",
+          "Trade Facilitation and Customs Specialist",
+          "Maritime and Transport Policy Analyst",
+          "International Business Development Manager",
+          "Operations Director (Shipping/Logistics)",
+          "Project Logistics Manager",
+          "Researcher in Shipping and Logistics"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (M.Sc. – Weekend)",
+            "fees": [
+              "Weekend MSc programme fees are indicated as a total tuition and charges amount; applicants should consult RMU’s current postgraduate fee list."
+            ],
+            "duration": "Usually 2 years (Weekend pattern)",
+            "electives": [
+              "Global Shipping and Trade",
+              "Advanced Logistics and Supply Chain Management",
+              "Transport Economics",
+              "Maritime and Transport Law (Introductory/Intermediate)",
+              "Risk and Insurance in Shipping",
+              "Research Methods and Thesis/Project"
+            ],
+            "salary": [
+              "Graduates typically access mid- to senior-level roles in global shipping and logistics organisations; salary levels vary widely."
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend-only delivery to suit working professionals"],
+            "entry_requirements": [
+              "Good first degree in logistics, transport, maritime studies, business, economics or related areas from a recognised university.",
+              "Relevant professional experience in shipping, ports, logistics or supply chain is usually required or strongly preferred."
+            ],
+            "level_note": [
+              "Emphasises international dimensions of shipping and logistics.",
+              "Designed for practitioners seeking advanced strategic and analytical skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science (M.Sc.) Safety, Security and Risk Management (Weekend)",
+        "career": [
+          "Safety and Security Manager (Maritime/Ports/Logistics)",
+          "Risk Manager in Transport and Supply Chains",
+          "HSE Manager in Maritime and Offshore Industries",
+          "Security and Compliance Officer",
+          "Consultant in Safety, Security and Risk",
+          "Port Facility Security Officer (PFCO) with proper certification",
+          "Crisis and Emergency Response Planner",
+          "Policy and Regulatory Advisor (Safety and Security)",
+          "Project Risk Analyst",
+          "Academic/Trainer in Safety and Risk Management"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (M.Sc. – Weekend)",
+            "fees": [
+              "Safety, Security and Risk Management MSc fees are set in the postgraduate fee schedule; weekend pattern may be associated with specific payment timelines."
+            ],
+            "duration": "Approximately 2 years (Weekend mode)",
+            "electives": [
+              "Risk Assessment and Management Frameworks",
+              "Safety and Security in Maritime and Transport Sectors",
+              "Regulatory Compliance and Auditing",
+              "Crisis and Emergency Management",
+              "Security Technologies and Systems",
+              "Research Methods and Project/Thesis"
+            ],
+            "salary": [
+              "Specialist risk and safety roles, especially in high-risk sectors, are often well-compensated; exact salaries depend on employer and jurisdiction."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend blocks for working professionals",
+              "Combination of lectures, case studies and research"
+            ],
+            "entry_requirements": [
+              "Good first degree in relevant fields such as engineering, maritime studies, safety, security, management or related disciplines.",
+              "Significant work experience in safety, security, risk, maritime or industrial environments is typically required or highly advantageous."
+            ],
+            "level_note": [
+              "Equips professionals with integrated perspectives on safety, security and risk in complex operational environments.",
+              "Relevant to maritime, logistics, energy and broader high-risk industries."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Engineering Programmes (Postgraduate)",
+    "note": [
+      "Advanced engineering programmes focus on renewable energy, environment, bioprocesses, subsea systems, electrical power and coastal management.",
+      "Programmes support regional needs in sustainable energy, environmental protection and offshore resource development."
+    ],
+    "courses": [
+      {
+        "course_name": "M.Sc. Renewable Energy Engineering",
+        "career": [
+          "Renewable Energy Engineer",
+          "Project Engineer/Manager (Solar, Wind, Biomass, etc.)",
+          "Energy Systems Designer",
+          "Sustainable Energy Consultant",
+          "Grid Integration Engineer (Renewables)",
+          "Policy and Planning Analyst (Energy)",
+          "Research and Development Engineer (Renewable Technologies)",
+          "Energy Efficiency Specialist",
+          "NGO/Development Agency Energy Officer",
+          "Academic/Trainer in Renewable Energy"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "MSc Renewable Energy Engineering fees are listed in the postgraduate engineering fee band; applicants should check RMU’s official fee schedule."
+            ],
+            "duration": "Typically 2 years",
+            "electives": [
+              "Renewable Energy Resources and Technologies",
+              "Solar and Wind Energy Systems",
+              "Bioenergy Systems",
+              "Energy Conversion and Storage",
+              "Power Systems and Grid Integration of Renewables",
+              "Energy Policy, Economics and Regulation"
+            ],
+            "salary": [
+              "Renewable energy engineers can obtain competitive pay in utilities, IPPs, consulting and development agencies; levels depend on role and region."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Likely delivered in flexible formats (e.g., evening/weekend/block) to suit professionals",
+              "Coursework with project or thesis"
+            ],
+            "entry_requirements": [
+              "Good first degree in Mechanical, Electrical, Environmental, Chemical, Marine or related Engineering or Natural Science discipline.",
+              "Relevant experience in energy projects or utilities is an advantage."
+            ],
+            "level_note": [
+              "Provides interdisciplinary knowledge essential for planning and implementing renewable energy systems.",
+              "Suitable for engineers transitioning into the growing renewable energy sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Sc. Environmental Engineering",
+        "career": [
+          "Environmental Engineer",
+          "Water and Wastewater Treatment Engineer",
+          "Pollution Control Engineer",
+          "Environmental Compliance Officer",
+          "EIA Consultant",
+          "Waste Management Engineer",
+          "Sustainability and Environmental Management Specialist",
+          "NGO/International Agency Environment Officer",
+          "Environmental Researcher",
+          "Academic/Trainer in Environmental Engineering"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Environmental Engineering MSc is priced within the postgraduate engineering band; see RMU’s fees for detailed amounts."
+            ],
+            "duration": "Typically 2 years",
+            "electives": [
+              "Water and Wastewater Engineering",
+              "Air Quality and Emissions Control",
+              "Solid and Hazardous Waste Management",
+              "Environmental Impact Assessment and Auditing",
+              "Environmental Systems Modelling",
+              "Environmental Law and Policy (engineering focus)"
+            ],
+            "salary": [
+              "Environmental engineers find roles in consulting, government, industry and international agencies with varying but often competitive salary scales."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Designed for working professionals (evening/weekend/blocks as scheduled)",
+              "Coursework plus project/dissertation"
+            ],
+            "entry_requirements": [
+              "First degree in Civil, Environmental, Chemical, Marine or related Engineering or Environmental Science with sufficient quantitative background.",
+              "Work experience in environmental projects is an added advantage."
+            ],
+            "level_note": [
+              "Addresses engineering solutions to environmental challenges, particularly in maritime, coastal and industrial contexts.",
+              "Prepares graduates for roles at the intersection of engineering and environmental management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Sc. Bioprocess Engineering",
+        "career": [
+          "Bioprocess Engineer",
+          "Process Development Engineer (Biotech/Food/Pharma)",
+          "Production Engineer in Bioprocess Industries",
+          "Quality and Regulatory Specialist (Bioprocessing)",
+          "R&D Engineer (Bioproducts)",
+          "Sustainability Engineer (Bio-based Systems)",
+          "Technical Sales Engineer (Bioprocess Equipment/Chemicals)",
+          "Consultant in Bioprocess and Environmental Biotechnology",
+          "Academic/Researcher in Bioprocess Engineering",
+          "Process Optimisation Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Bioprocess Engineering MSc fees fall within the postgraduate engineering band; the exact figure is listed on RMU’s fee schedule."
+            ],
+            "duration": "Approximately 2 years",
+            "electives": [
+              "Bioreactor Design and Operation",
+              "Biochemical Reaction Engineering",
+              "Downstream Processing",
+              "Bioprocess Modelling and Control",
+              "Industrial Biotechnology Applications",
+              "Quality Assurance and Regulation in Bioprocessing"
+            ],
+            "salary": [
+              "Bioprocess engineers are sought in food, pharmaceutical, biotech and environmental sectors, often with attractive compensation for specialised roles."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible delivery (as scheduled), suitable for professionals",
+              "Coursework and research project"
+            ],
+            "entry_requirements": [
+              "Good first degree in Chemical, Biochemical, Agricultural, Environmental or related Engineering, or relevant Biological Sciences with adequate engineering background.",
+              "Relevant industry experience is desirable."
+            ],
+            "level_note": [
+              "Focuses on the design and optimisation of biological and biochemical processes for industry.",
+              "Links biotechnology with process engineering practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Sc. Subsea Engineering",
+        "career": [
+          "Subsea Engineer",
+          "Offshore Pipeline Engineer",
+          "Subsea Systems Engineer",
+          "Offshore Project Engineer",
+          "Integrity and Inspection Engineer",
+          "Riser and Umbilical Engineer",
+          "Installation and Commissioning Engineer",
+          "Offshore Field Development Engineer",
+          "Consultant in Offshore and Subsea Projects",
+          "Academic/Researcher in Offshore Engineering"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Subsea Engineering MSc fees are within the upper engineering postgraduate range due to specialised content; see official fee tables for details."
+            ],
+            "duration": "Around 2 years",
+            "electives": [
+              "Offshore Structures and Hydrodynamics",
+              "Subsea Systems and Components",
+              "Pipeline Design and Installation",
+              "Risers, Umbilicals and Cables",
+              "Offshore Field Development and Planning",
+              "Safety, Risk and Reliability in Offshore Engineering"
+            ],
+            "salary": [
+              "Subsea engineering roles, especially in oil and gas, tend to be among the higher-paying engineering positions, subject to market conditions."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Structured for professionals in offshore industries (block/evening/weekend modes as appropriate)",
+              "Coursework with intensive design/project work"
+            ],
+            "entry_requirements": [
+              "First degree in Mechanical, Marine, Civil, Offshore, Petroleum or related Engineering.",
+              "Relevant offshore or subsea industry experience is strongly advantageous."
+            ],
+            "level_note": [
+              "Targets engineering challenges associated with subsea production systems and offshore infrastructure.",
+              "Ideal for engineers seeking to move into or advance within offshore energy sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Sc. Electrical Power Engineering",
+        "career": [
+          "Power Systems Engineer",
+          "Protection and Control Engineer",
+          "Transmission and Distribution Engineer",
+          "Grid Planning and Operations Engineer",
+          "Renewable Integration Engineer",
+          "Utility Engineer",
+          "Industrial Power Engineer",
+          "Consultant in Power Systems",
+          "Regulatory and Planning Analyst (Electric Power)",
+          "Academic/Trainer in Power Engineering"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Electrical Power Engineering MSc follows the postgraduate engineering fee structure; students should consult RMU’s published rates."
+            ],
+            "duration": "Typically 2 years",
+            "electives": [
+              "Advanced Power System Analysis",
+              "Power System Protection and Relaying",
+              "High Voltage Engineering",
+              "Power Electronics and Drives",
+              "Renewable Energy Integration",
+              "Power System Planning and Reliability"
+            ],
+            "salary": [
+              "Power engineers can obtain strong compensation in utilities, heavy industry and renewables, depending on responsibility and location."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Likely part-time-friendly formats (evening/weekend/blocks)",
+              "Coursework plus project/dissertation"
+            ],
+            "entry_requirements": [
+              "Good first degree in Electrical/Electronic, Power, Energy or related Engineering discipline.",
+              "Relevant experience in power or electrical engineering enhances candidacy."
+            ],
+            "level_note": [
+              "Provides advanced competence in design, analysis and management of power systems and equipment.",
+              "Supports careers in utilities, consulting and industrial power environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Sc. Coastal Environmental Management",
+        "career": [
+          "Coastal Zone Manager",
+          "Environmental Consultant (Coastal/Marine)",
+          "Climate Adaptation and Resilience Officer",
+          "Integrated Coastal Zone Management (ICZM) Specialist",
+          "Marine Spatial Planning Officer",
+          "Policy and Planning Analyst (Coastal/Marine)",
+          "NGO/International Agency Coastal Programme Officer",
+          "Coastal Risk and Disaster Management Planner",
+          "Researcher in Coastal and Marine Environment",
+          "Academic/Trainer in Coastal Environmental Management"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Coastal Environmental Management MSc is listed in RMU’s postgraduate engineering/environmental fee band; see official schedule for exact tuition and charges."
+            ],
+            "duration": "Usually 2 years",
+            "electives": [
+              "Coastal Processes and Geomorphology",
+              "Marine and Coastal Ecosystems",
+              "Integrated Coastal Zone Management",
+              "Coastal Hazards, Climate Change and Adaptation",
+              "GIS and Remote Sensing for Coastal Management",
+              "Environmental Impact Assessment in Coastal Zones"
+            ],
+            "salary": [
+              "Coastal and marine environmental professionals' pay varies, with potential for higher earnings in international projects and consultancy."
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Designed for professionals (study modes scheduled to accommodate working students)",
+              "Fieldwork and applied research elements"
+            ],
+            "entry_requirements": [
+              "First degree in Environmental Science, Marine Science, Geography, Civil/Coastal/Environmental Engineering or related discipline.",
+              "Relevant field experience in coastal, marine or environmental work is an advantage."
+            ],
+            "level_note": [
+              "Focuses on sustainable management of coastal and marine environments under climate and development pressures.",
+              "Particularly relevant to West African coastal states and global coastal management challenges."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
