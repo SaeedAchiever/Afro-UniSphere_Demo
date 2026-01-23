@@ -1,0 +1,730 @@
+[
+  {
+    "name": "Ashesi University"
+  },
+  {
+    "faculty_name": "School of Engineering",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "B.Sc. Computer Engineering",
+        "career": [
+          "Computer Hardware Engineer",
+          "Embedded Systems Engineer",
+          "Systems Engineer",
+          "Network Engineer",
+          "Computer Architect",
+          "Firmware Engineer",
+          "Robotics Engineer",
+          "IoT Engineer",
+          "Hardware Developer",
+          "Technical Lead"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Digital Logic Design",
+              "Computer Architecture",
+              "Embedded Systems",
+              "Microprocessors",
+              "Computer Networks",
+              "Hardware-Software Co-design"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 120,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €60,000 - €110,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time liberal arts integrated programme",
+              "Hands-on labs and practical projects",
+              "Industry internships and research opportunities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science",
+              "Elective Mathematics and Physics required",
+              "Aggregate 24 or better",
+              "Personal interview and selection committee review"
+            ],
+            "level_note": [
+              "Premium private university with focus on ethics and leadership",
+              "Combines engineering excellence with liberal arts education"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Electrical/Electronic Engineering",
+        "career": [
+          "Electrical Engineer",
+          "Electronics Engineer",
+          "Power Systems Engineer",
+          "Control Systems Engineer",
+          "Telecommunications Engineer",
+          "Instrumentation Engineer",
+          "Electrical Design Engineer",
+          "Project Engineer",
+          "Technical Consultant",
+          "Energy Systems Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Circuit Analysis",
+              "Power Systems",
+              "Control Systems",
+              "Electronics",
+              "Signal Processing",
+              "Telecommunications"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 120,000 annually",
+              "USA: $70,000 - $125,000",
+              "Europe: €58,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time with extensive laboratory work",
+              "Project-based learning",
+              "Industry partnerships and internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science",
+              "Elective Mathematics and Physics required",
+              "Aggregate 24 or better",
+              "Interview and holistic admissions review"
+            ],
+            "level_note": [
+              "Strong focus on practical engineering and ethical leadership",
+              "Access to modern engineering laboratories and equipment"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Mechanical Engineering",
+        "career": [
+          "Mechanical Engineer",
+          "Design Engineer",
+          "Manufacturing Engineer",
+          "HVAC Engineer",
+          "Automotive Engineer",
+          "Project Engineer",
+          "Quality Engineer",
+          "Process Engineer",
+          "Energy Engineer",
+          "Technical Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Thermodynamics",
+              "Fluid Mechanics",
+              "Machine Design",
+              "Manufacturing Processes",
+              "Materials Science",
+              "Heat Transfer"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 110,000 annually",
+              "USA: $70,000 - $120,000",
+              "Europe: €58,000 - €100,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time with hands-on workshops",
+              "Design and fabrication projects",
+              "Industry collaborations and internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science",
+              "Elective Mathematics and Physics required",
+              "Aggregate 24 or better",
+              "Strong analytical and problem-solving aptitude"
+            ],
+            "level_note": [
+              "Rigorous programme combining theory and practical application",
+              "Emphasis on innovation and entrepreneurial thinking"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Mechatronic Engineering",
+        "career": [
+          "Mechatronics Engineer",
+          "Automation Engineer",
+          "Robotics Engineer",
+          "Control Systems Engineer",
+          "Instrumentation Engineer",
+          "Manufacturing Systems Engineer",
+          "Product Development Engineer",
+          "IoT Engineer",
+          "Systems Integration Engineer",
+          "Research Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Robotics",
+              "Control Systems",
+              "Microcontrollers",
+              "Sensors and Actuators",
+              "Automation",
+              "Mechatronics System Design"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 115,000 annually",
+              "USA: $75,000 - $130,000",
+              "Europe: €62,000 - €108,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time interdisciplinary programme",
+              "Hands-on labs with robotics and automation",
+              "Industry projects and research"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science",
+              "Elective Mathematics and Physics required",
+              "Aggregate 24 or better",
+              "Interest in multidisciplinary engineering"
+            ],
+            "level_note": [
+              "Integrates mechanical, electrical, and computer engineering",
+              "High demand in manufacturing and automation sectors"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Biological Engineering",
+        "career": [
+          "Bioprocess Engineer",
+          "Environmental Engineer",
+          "Agricultural Engineer",
+          "Biotechnology Engineer",
+          "Food Process Engineer",
+          "Water Resources Engineer",
+          "Sustainability Engineer",
+          "Bioenergy Engineer",
+          "Research Scientist",
+          "Quality Assurance Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Bioprocess Engineering",
+              "Environmental Engineering",
+              "Agricultural Systems",
+              "Biotechnology",
+              "Food Engineering",
+              "Sustainable Design"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 105,000 annually",
+              "USA: $65,000 - $115,000",
+              "Europe: €55,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time interdisciplinary programme",
+              "Laboratory and field work",
+              "Research and industry partnerships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science",
+              "Elective Mathematics and Physics or Biology required",
+              "Aggregate 24 or better",
+              "Interest in biological systems and sustainability"
+            ],
+            "level_note": [
+              "Emerging field addressing food security and sustainability",
+              "Combines biology, chemistry, and engineering principles"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Sc. Mechatronic Engineering",
+        "career": [
+          "Senior Mechatronics Engineer",
+          "Automation Specialist",
+          "Robotics Systems Engineer",
+          "Control Systems Specialist",
+          "Research Engineer",
+          "Product Development Manager",
+          "Systems Integration Manager",
+          "Technical Consultant",
+          "Innovation Manager",
+          "Engineering Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Estimated GHC 60,000 per semester", "Total programme: GHC 240,000"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Robotics",
+              "Advanced Control Systems",
+              "Intelligent Systems",
+              "Advanced Sensors and Instrumentation",
+              "Automation and Manufacturing",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 165,000 annually",
+              "USA: $95,000 - $165,000",
+              "Europe: €80,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time research and coursework",
+              "Advanced laboratory work",
+              "Industry collaboration projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Mechatronics, Mechanical, Electrical or related engineering field",
+              "Strong academic record (minimum Second Class Upper)",
+              "Research proposal and interview"
+            ],
+            "level_note": [
+              "Advanced technical training with research focus",
+              "Prepares for leadership roles in automation industry"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Mechatronic Engineering",
+        "career": [
+          "Research Scientist",
+          "University Lecturer",
+          "PhD Candidate",
+          "Innovation Researcher",
+          "R&D Manager",
+          "Technical Specialist",
+          "Engineering Researcher",
+          "Product Innovation Lead",
+          "Academic Researcher",
+          "Technology Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Estimated GHC 65,000 per semester", "Total programme: GHC 260,000"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Research Methods",
+              "Mechatronics Theory",
+              "Intelligent Systems Design",
+              "Advanced Automation",
+              "Robotics Research",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 95,000 - 180,000 annually",
+              "USA: $105,000 - $185,000",
+              "Europe: €88,000 - €155,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Seminars and colloquia",
+              "Independent research thesis"
+            ],
+            "entry_requirements": [
+              "Master's degree in Mechatronics or related engineering field",
+              "Minimum GPA 3.0 or equivalent",
+              "Research proposal and interview"
+            ],
+            "level_note": [
+              "Prepares for PhD and academic research careers",
+              "Original research contribution in mechatronics"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Computing & Information Systems",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "B.Sc. Computer Science",
+        "career": [
+          "Software Developer",
+          "Software Engineer",
+          "Systems Analyst",
+          "Data Scientist",
+          "Machine Learning Engineer",
+          "Full Stack Developer",
+          "Cybersecurity Analyst",
+          "Cloud Solutions Architect",
+          "IT Consultant",
+          "Technical Lead"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Software Engineering",
+              "Data Structures and Algorithms",
+              "Database Systems",
+              "Artificial Intelligence",
+              "Machine Learning",
+              "Computer Networks"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 150,000 annually",
+              "USA: $80,000 - $140,000",
+              "Europe: €65,000 - €115,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time with liberal arts core",
+              "Project-based learning and hackathons",
+              "Industry internships and research"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science",
+              "Strong analytical and problem-solving skills",
+              "Aggregate 24 or better",
+              "Personal interview required"
+            ],
+            "level_note": [
+              "World-class computer science education with African context",
+              "Emphasis on ethical technology leadership"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Management Information Systems",
+        "career": [
+          "Information Systems Manager",
+          "IT Consultant",
+          "Business Analyst",
+          "Systems Analyst",
+          "IT Project Manager",
+          "Data Analyst",
+          "Database Administrator",
+          "IT Strategy Consultant",
+          "Enterprise Architect",
+          "Technology Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Information Systems Management",
+              "Database Management",
+              "Business Analytics",
+              "IT Project Management",
+              "Enterprise Systems",
+              "IT Strategy"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 140,000 annually",
+              "USA: $75,000 - $130,000",
+              "Europe: €62,000 - €110,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time interdisciplinary programme",
+              "Real-world business case studies",
+              "Technology and business integration"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science",
+              "Interest in technology and business",
+              "Aggregate 24 or better",
+              "Interview and holistic review"
+            ],
+            "level_note": [
+              "Bridges technology and business management",
+              "High demand for IS professionals in digital transformation"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Sc./MPhil in Intelligent Computing Systems",
+        "career": [
+          "AI Engineer",
+          "Machine Learning Specialist",
+          "Data Scientist",
+          "Research Scientist",
+          "AI Consultant",
+          "Deep Learning Engineer",
+          "Computer Vision Engineer",
+          "NLP Specialist",
+          "AI Research Manager",
+          "University Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Estimated GHC 65,000 per semester", "Total programme: GHC 260,000"],
+            "duration": "2 years",
+            "electives": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Computer Vision",
+              "AI Ethics",
+              "Advanced Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 120,000 - 250,000 annually",
+              "USA: $110,000 - $190,000",
+              "Europe: €90,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time research programme",
+              "Advanced AI labs and computing resources",
+              "Research collaborations and publications"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Computer Science, IT, Engineering or related field",
+              "Strong programming and mathematical background",
+              "Research proposal (for MPhil)",
+              "Interview required"
+            ],
+            "level_note": [
+              "Cutting-edge AI and intelligent systems research",
+              "Prepares for PhD and advanced research careers in AI"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Business & Economics",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "B.Sc. Business Administration",
+        "career": [
+          "Business Manager",
+          "Management Consultant",
+          "Financial Analyst",
+          "Marketing Manager",
+          "Operations Manager",
+          "Entrepreneur",
+          "Business Development Manager",
+          "Project Manager",
+          "Strategy Analyst",
+          "Corporate Executive"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Strategic Management",
+              "Finance",
+              "Marketing",
+              "Operations Management",
+              "Entrepreneurship",
+              "Business Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 130,000 annually",
+              "USA: $65,000 - $115,000",
+              "Europe: €55,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time with liberal arts integration",
+              "Case studies and business simulations",
+              "Internships with leading companies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science",
+              "Three elective subjects",
+              "Aggregate 24 or better",
+              "Strong leadership and communication potential"
+            ],
+            "level_note": [
+              "Develops ethical, entrepreneurial business leaders",
+              "Strong alumni network across Africa and globally"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Sc. Economics",
+        "career": [
+          "Economist",
+          "Economic Analyst",
+          "Policy Analyst",
+          "Financial Analyst",
+          "Research Economist",
+          "Data Analyst",
+          "Investment Analyst",
+          "Development Economist",
+          "Economic Consultant",
+          "Risk Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Microeconomics",
+              "Macroeconomics",
+              "Econometrics",
+              "Development Economics",
+              "International Economics",
+              "Financial Economics"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 140,000 annually",
+              "USA: $70,000 - $125,000",
+              "Europe: €58,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time with quantitative emphasis",
+              "Research projects and data analysis",
+              "Policy and economic research opportunities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science",
+              "Strong quantitative and analytical skills",
+              "Aggregate 24 or better",
+              "Economics or Mathematics background advantageous"
+            ],
+            "level_note": [
+              "Rigorous training in economic theory and analysis",
+              "Focus on African economic development and policy"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Law, Humanities & Social Sciences",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "LLB Law with Public Policy",
+        "career": [
+          "Lawyer",
+          "Policy Analyst",
+          "Legal Consultant",
+          "Corporate Counsel",
+          "Government Attorney",
+          "Public Policy Advisor",
+          "Human Rights Advocate",
+          "Legal Researcher",
+          "Regulatory Affairs Specialist",
+          "International Law Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "Constitutional Law",
+              "Contract Law",
+              "Criminal Law",
+              "Public Policy",
+              "International Law",
+              "Human Rights Law"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 160,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €62,000 - €115,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 (Average B+ or better)",
+              "2024: Aggregate 24 (Average B+ or better)",
+              "2023: Aggregate 24 (Average B+ or better)"
+            ],
+            "mode": [
+              "Full-time with liberal arts foundation",
+              "Moot court and legal clinics",
+              "Policy research and practical legal training"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science or Social Studies",
+              "Strong writing and analytical skills",
+              "Aggregate 24 or better",
+              "Personal interview and holistic review"
+            ],
+            "level_note": [
+              "Unique combination of law and public policy training",
+              "Requires Ghana School of Law Professional Course for legal practice"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
