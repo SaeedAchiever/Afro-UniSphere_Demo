@@ -1,0 +1,930 @@
+[
+  {
+    "name": "Akrofi-Christaller Institute of Theology, Mission and Culture"
+  },
+  {
+    "faculty_name": "Graduate School of Theology and Mission",
+    "note": ["The Graduate School of Theology and Mission at ACI is dedicated to rigorous research and training in African Christian thought and theology, equipping scholars, pastors, and Christian leaders to strengthen the African church through scholarship rooted in African cultural context and world Christianity."],
+    "courses": [
+      {
+        "course_name": "Master of Arts in Theology and Mission (Regular)",
+        "career": [
+          "Pastor",
+          "Minister",
+          "Theological Educator",
+          "Seminary Instructor",
+          "Missionary",
+          "Chaplain",
+          "Church Administrator",
+          "Denominational Leader",
+          "Religious Scholar",
+          "Faith-Based NGO Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 18,000 total", "International Students: $2,479 per year", "Application fee: GHC 200 or USD 60"],
+            "duration": "2 years",
+            "electives": [
+              "African Christian Theology",
+              "Mission Studies",
+              "Biblical Studies",
+              "African Church History",
+              "Theology and Culture",
+              "Christian Ministry"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $50,000 - $115,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time research and coursework",
+              "Residential programme",
+              "Seminars and thesis research"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Theology or related field",
+              "Official transcript and certificate",
+              "Research proposal",
+              "Application fee (GHC 200/USD 60)",
+              "Two referee reports"
+            ],
+            "level_note": [
+              "Focus on African Christian theology in global context",
+              "February intake with historic Basel Mission heritage campus"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Theology and Mission - Holistic Mission and Development Option",
+        "career": [
+          "Development Officer",
+          "Faith-Based NGO Director",
+          "Church Development Coordinator",
+          "Mission and Development Specialist",
+          "Community Development Worker",
+          "Holistic Ministry Coordinator",
+          "Christian Relief Organization Manager",
+          "Social Justice Advocate",
+          "Sustainable Development Officer",
+          "Mission Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 18,000 total", "International Students: $2,479 per year", "Application fee: GHC 200 or USD 60"],
+            "duration": "2 years",
+            "electives": [
+              "Holistic Mission",
+              "Development Theology",
+              "Gospel and Development",
+              "Climate Change and Mission",
+              "Transformative Development",
+              "Community Development"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 115,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €48,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Designed for NGO and development workers",
+              "Integration of faith and development work",
+              "Field research projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in relevant field",
+              "Development work experience preferred",
+              "Research proposal",
+              "Application fee and official transcripts"
+            ],
+            "level_note": [
+              "Integrates Gospel with transformative development work",
+              "Addresses climate change and sustainable mission"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Theology and Mission - Biblical Studies Option",
+        "career": [
+          "Biblical Scholar",
+          "Seminary Instructor",
+          "Pastor",
+          "Bible Teacher",
+          "Theological Educator",
+          "Christian Writer",
+          "Curriculum Developer",
+          "Biblical Translator",
+          "Church Leader",
+          "Biblical Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 18,000 total", "International Students: $2,479 per year", "Application fee: GHC 200 or USD 60"],
+            "duration": "2 years",
+            "electives": [
+              "Biblical Hermeneutics",
+              "Old Testament Studies",
+              "New Testament Studies",
+              "Biblical Interpretation in Africa",
+              "Exegesis",
+              "Biblical Theology"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €48,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Intensive biblical scholarship",
+              "African contextual interpretation",
+              "Exegetical research methods"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Theology or Biblical Studies",
+              "Strong biblical knowledge",
+              "Research proposal",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Focuses on Bible study in African context",
+              "Equips for confident biblical exposition and application"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Theology and Mission - Pentecostal Studies Option",
+        "career": [
+          "Pentecostal Pastor",
+          "Charismatic Minister",
+          "Pentecostal Scholar",
+          "Seminary Instructor",
+          "Theological Educator",
+          "Denominational Leader",
+          "Pentecostal Missionary",
+          "Church Planter",
+          "Spiritual Formation Director",
+          "Pentecostal Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 18,000 total", "International Students: $2,479 per year", "Application fee: GHC 200 or USD 60"],
+            "duration": "2 years",
+            "electives": [
+              "Pentecostal Theology",
+              "Pneumatology",
+              "Holy Spirit and Mission",
+              "Healing and Exorcism",
+              "Charismatic Movement",
+              "Pentecostal Worship"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 115,000 annually",
+              "USA: $50,000 - $115,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Pentecostal and Charismatic focus",
+              "Spirit-led ministry training",
+              "Theological research in Pentecostalism"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Theology or related field",
+              "Interest in Pentecostal and Charismatic studies",
+              "Research proposal",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Addresses Pentecostal perspective on Christian mission",
+              "Focus on Holy Spirit's work in individuals and church"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Theology and Mission - Mother Tongue Theology Option",
+        "career": [
+          "Theological Translator",
+          "Indigenous Language Theologian",
+          "Bible Translator",
+          "Cultural Theologian",
+          "Language Development Officer",
+          "Seminary Instructor",
+          "Indigenous Church Leader",
+          "Theological Researcher",
+          "Curriculum Developer",
+          "Contextual Theology Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 18,000 total", "International Students: $2,479 per year", "Application fee: GHC 200 or USD 60"],
+            "duration": "2 years",
+            "electives": [
+              "Mother Tongue Theology",
+              "Vernacular Theology",
+              "Contextual Theology",
+              "African Languages and Christianity",
+              "Theological Translation",
+              "Indigenous Christian Expression"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 105,000 annually",
+              "USA: $55,000 - $115,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Focus on indigenous language theology",
+              "African vernacular theological expression",
+              "Cultural and linguistic contextualization"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Theology or related field",
+              "Knowledge of African language advantageous",
+              "Research proposal",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Unique programme reflecting ACI's language heritage",
+              "Named after Christaller and Akrofi's Twi language work"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Theology and Mission - Leadership Option",
+        "career": [
+          "Church Leader",
+          "Denominational Executive",
+          "Seminary Administrator",
+          "Christian Organization Director",
+          "Ministry Leader",
+          "Senior Pastor",
+          "Church Planting Leader",
+          "Leadership Development Trainer",
+          "Christian Leadership Consultant",
+          "Faith-Based NGO Leader"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 18,000 total", "International Students: $2,479 per year", "Application fee: GHC 200 or USD 60"],
+            "duration": "2 years",
+            "electives": [
+              "Christian Leadership",
+              "Leadership in African Context",
+              "Incarnate Leadership",
+              "Church Administration",
+              "Leadership Ethics",
+              "Vision and Calling"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 120,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €48,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Leadership crisis in Africa focus",
+              "Incarnate leadership model",
+              "Vision, calling, integrity, example"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Theology or related field",
+              "Leadership experience preferred",
+              "Research proposal",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Addresses African leadership crisis through theology",
+              "Emphasis on integrity and example in leadership"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Theology and Mission - Bible and Science Option",
+        "career": [
+          "Theologian-Scientist",
+          "Seminary Instructor",
+          "Science and Religion Researcher",
+          "Christian Apologist",
+          "Science Educator",
+          "Creation Care Advocate",
+          "Theological Writer",
+          "Environmental Theologian",
+          "Science-Faith Dialogue Coordinator",
+          "Christian Scholar"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 18,000 total", "International Students: $2,479 per year", "Application fee: GHC 200 or USD 60"],
+            "duration": "2 years",
+            "electives": [
+              "Bible and Science Dialogue",
+              "Creation and Evolution",
+              "Biblical Interpretation and Science",
+              "Universe and Life",
+              "Science and Stewardship",
+              "Jesus Christ and New Testament Historicity"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 115,000 annually",
+              "USA: $60,000 - $125,000",
+              "Europe: €52,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Interdisciplinary Bible and Science",
+              "Big questions for Christian scientists",
+              "Research in faith and science integration"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Theology, Science or related field",
+              "Interest in science-faith dialogue",
+              "Research proposal",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Addresses meaning of universe, life, and human stewardship",
+              "Biblical authenticity and Jesus Christ historicity"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Theology and Mission - World Christianity Option",
+        "career": [
+          "World Christianity Scholar",
+          "Missionary",
+          "Intercultural Theologian",
+          "Global Christianity Researcher",
+          "Seminary Instructor",
+          "International Ministry Leader",
+          "Diaspora Ministry Coordinator",
+          "Theological Educator",
+          "Christian Mission Strategist",
+          "Church Historian"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 18,000 total", "International Students: $2,479 per year", "Application fee: GHC 200 or USD 60"],
+            "duration": "2 years",
+            "electives": [
+              "World Christianity",
+              "African Diaspora Christianity",
+              "Global Theologies",
+              "Biblical Interpretation Worldwide",
+              "Primal Christianity",
+              "African Christianity in Global Context"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 115,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €50,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Global Christian thought and practice",
+              "African Diaspora focus",
+              "Non-Western Christianity research"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Theology or related field",
+              "Interest in global Christianity",
+              "Research proposal",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Focus on forms of Christianity drawing from primal traditions",
+              "Special attention to historic African Diaspora"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts for Mature Students",
+        "career": [
+          "Pastor",
+          "Church Leader",
+          "Ministry Director",
+          "Denominational Leader",
+          "Theological Educator",
+          "Chaplain",
+          "Christian Administrator",
+          "Faith-Based NGO Director",
+          "Seminary Instructor",
+          "Senior Minister"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 18,000 total", "International Students: $2,479 per year", "Application fee: GHC 200 or USD 60"],
+            "duration": "2 years",
+            "electives": [
+              "African Christian Theology",
+              "Mission Studies",
+              "Pastoral Ministry",
+              "Church Administration",
+              "Biblical Studies",
+              "Christian Leadership"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 110,000 annually",
+              "USA: $50,000 - $115,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Designed for experienced ministers",
+              "Flexible for working professionals",
+              "Practical ministry integration"
+            ],
+            "entry_requirements": [
+              "Mature student status (typically 35+ years)",
+              "Significant ministry experience",
+              "Bachelor's degree or equivalent experience",
+              "Research proposal and recommendation letters"
+            ],
+            "level_note": [
+              "Tailored for seasoned Christian workers and ministers",
+              "Recognition of life and ministry experience"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Theology - African Christianity",
+        "career": [
+          "University Lecturer",
+          "African Christianity Scholar",
+          "Seminary Professor",
+          "PhD Candidate",
+          "Theological Researcher",
+          "Church Historian",
+          "African Theology Specialist",
+          "Research Fellow",
+          "Denominational Theologian",
+          "Academic Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 20,000 total", "International Students: $2,700 per year"],
+            "duration": "2 years",
+            "electives": [
+              "African Christian History",
+              "African Christian Theology",
+              "Primal Christianity",
+              "African Church Development",
+              "Research Methodology",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 140,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €60,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Advanced research programme",
+              "African Christianity specialization",
+              "Thesis-focused"
+            ],
+            "entry_requirements": [
+              "MA in Theology or related field with excellent grades",
+              "Strong research background",
+              "Research proposal required",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Prepares for PhD and university teaching",
+              "Focus on distinctive African Christian traditions"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Theology - Bible Translation & Interpretation",
+        "career": [
+          "Bible Translator",
+          "Biblical Scholar",
+          "Translation Consultant",
+          "Seminary Professor",
+          "PhD Candidate",
+          "Language Development Officer",
+          "Biblical Researcher",
+          "Translation Project Manager",
+          "Academic Researcher",
+          "Theological Educator"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 20,000 total", "International Students: $2,700 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Bible Translation Theory",
+              "Biblical Interpretation",
+              "Translation Practice",
+              "African Language Bible Translation",
+              "Research Methodology",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 140,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €60,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Advanced research in translation",
+              "Biblical interpretation focus",
+              "Thesis required"
+            ],
+            "entry_requirements": [
+              "MA in Biblical Studies or related field",
+              "Strong biblical language skills preferred",
+              "Research proposal required",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Reflects ACI's heritage in language and translation work",
+              "Prepares for Bible translation projects and teaching"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Theology (Regular)",
+        "career": [
+          "University Lecturer",
+          "Theological Scholar",
+          "Seminary Professor",
+          "PhD Candidate",
+          "Theological Researcher",
+          "Senior Pastor",
+          "Denominational Theologian",
+          "Research Fellow",
+          "Christian Writer",
+          "Academic Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 20,000 total", "International Students: $2,700 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Systematic Theology",
+              "Advanced Biblical Studies",
+              "Theological Research",
+              "African Theology",
+              "Research Methodology",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 140,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €60,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Advanced theological research",
+              "Seminars and thesis",
+              "Full-time programme"
+            ],
+            "entry_requirements": [
+              "MA in Theology with excellent grades",
+              "Strong academic record",
+              "Research proposal required",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Prepares for PhD and advanced theological scholarship",
+              "Original research contribution to theology"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Theology (Intensive/Modular)",
+        "career": [
+          "University Lecturer",
+          "Seminary Professor",
+          "Senior Pastor",
+          "Theological Educator",
+          "PhD Candidate",
+          "Research Fellow",
+          "Denominational Leader",
+          "Christian Scholar",
+          "Theological Writer",
+          "Church Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 22,000 total", "International Students: $2,900 per year"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Theology",
+              "Research Methodology",
+              "Theological Specialization",
+              "African Christian Studies",
+              "Intensive Seminars",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 140,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €60,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Intensive modular format",
+              "Flexible for working professionals",
+              "Block teaching periods"
+            ],
+            "entry_requirements": [
+              "MA in Theology with strong grades",
+              "Professional ministry experience preferred",
+              "Research proposal required",
+              "Application fee and transcripts"
+            ],
+            "level_note": [
+              "Designed for working ministers and educators",
+              "Intensive residential modules with research periods"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Doctor of Philosophy (PhD) in Theology (Regular)",
+        "career": [
+          "University Professor",
+          "Senior Research Fellow",
+          "Seminary President",
+          "Theological Scholar",
+          "Denominational Theologian",
+          "Academic Dean",
+          "Postdoctoral Researcher",
+          "Think Tank Director",
+          "Theological Writer",
+          "Research Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate",
+            "fees": ["Ghanaian Students: Approximately GHC 30,000 total", "International Students: $3,500 per year"],
+            "duration": "3 to 4 years",
+            "electives": [
+              "Advanced Theological Research",
+              "Research Methodology",
+              "Theological Theory",
+              "African Christian Scholarship",
+              "Doctoral Seminars",
+              "Dissertation Research"
+            ],
+            "salary": [
+              "Ghana: GHS 110,000 - 220,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €85,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time research programme",
+              "Doctoral seminars and colloquia",
+              "Independent dissertation work"
+            ],
+            "entry_requirements": [
+              "MTh or MPhil in Theology with excellent record",
+              "Strong research and publication background",
+              "Research proposal defense",
+              "Application fee and interview"
+            ],
+            "level_note": [
+              "Highest theological qualification with research focus",
+              "Original scholarly contribution to African Christian thought"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Doctor of Philosophy (PhD) in Theology (Intensive)",
+        "career": [
+          "University Professor",
+          "Senior Research Fellow",
+          "Seminary Dean",
+          "Senior Pastor-Scholar",
+          "Theological Consultant",
+          "Denominational Leader",
+          "Academic Researcher",
+          "Think Tank Director",
+          "Postdoctoral Fellow",
+          "Christian Writer"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate",
+            "fees": ["Ghanaian Students: Approximately GHC 35,000 total", "International Students: $4,000 per year"],
+            "duration": "3 to 5 years",
+            "electives": [
+              "Advanced Research Methods",
+              "Theological Scholarship",
+              "African Christianity Research",
+              "Intensive Doctoral Seminars",
+              "Research Supervision",
+              "Dissertation"
+            ],
+            "salary": [
+              "Ghana: GHS 110,000 - 220,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €85,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Part-time or intensive format",
+              "Modular doctoral seminars",
+              "Flexible for senior ministers and educators"
+            ],
+            "entry_requirements": [
+              "MTh or MPhil with excellent grades",
+              "Significant ministry or teaching experience",
+              "Research proposal defense",
+              "Application fee and interview"
+            ],
+            "level_note": [
+              "Designed for working senior ministers and academics",
+              "Intensive residential periods with research supervision"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Christian-Muslim Relations",
+        "career": [
+          "Interfaith Coordinator",
+          "Religious Affairs Officer",
+          "Church Interfaith Liaison",
+          "Community Relations Officer",
+          "NGO Peacebuilding Officer",
+          "Religious Educator",
+          "Chaplain",
+          "Interfaith Dialogue Facilitator",
+          "Religious Studies Teacher",
+          "Social Cohesion Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 1,500 - 2,500", "International Students: $300 - $500"],
+            "duration": "3 modular levels (69 contact hours)",
+            "electives": [
+              "Basics of Islam",
+              "Christian-Muslim Relations",
+              "Interfaith Dialogue",
+              "Peaceful Co-existence",
+              "Christian Witness in Interfaith Context",
+              "Building Community Relations"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 70,000 annually",
+              "USA: $40,000 - $80,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Continuing Education online",
+              "Three modular levels: Basic, Intermediate, Advanced",
+              "Interactive discussions and lectures"
+            ],
+            "entry_requirements": [
+              "No formal degree required",
+              "Interest in interfaith relations",
+              "Christian commitment",
+              "Registration and payment"
+            ],
+            "level_note": [
+              "Non-credit certificate for practical interfaith work",
+              "Promotes peaceful co-existence between Christians and Muslims"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in African Christian Creation Care Studies",
+        "career": [
+          "Creation Care Coordinator",
+          "Environmental Ministry Officer",
+          "Church Sustainability Officer",
+          "Christian Environmental Educator",
+          "Faith-Based Climate Advocate",
+          "Church Green Space Manager",
+          "Environmental NGO Officer",
+          "Creation Care Trainer",
+          "Church Creation Care Leader",
+          "Environmental Mission Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 1,500 - 2,500", "International Students: $300 - $500"],
+            "duration": "3 modular levels (69 contact hours)",
+            "electives": [
+              "Environmental Problems",
+              "Christian Creation Care",
+              "Climate Change and Faith",
+              "Environmental Mission",
+              "Church and Environment",
+              "Sustainable Christian Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 75,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Continuing Education online",
+              "Three levels: Basic, Intermediate, Advanced",
+              "Lectures and interactive discussions"
+            ],
+            "entry_requirements": [
+              "No formal degree required",
+              "Interest in creation care and environment",
+              "Christian faith commitment",
+              "Registration and payment"
+            ],
+            "level_note": [
+              "Addresses climate change from Christian perspective",
+              "Equips for environmental mission and creation stewardship"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Christian Mission and Evangelism",
+        "career": [
+          "Missionary",
+          "Evangelism Coordinator",
+          "Church Planter",
+          "Mission Director",
+          "Evangelism Trainer",
+          "Outreach Coordinator",
+          "Church Mission Leader",
+          "Campus Minister",
+          "Community Evangelist",
+          "Mission Mobilizer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: GHC 1,500 - 2,500", "International Students: $300 - $500"],
+            "duration": "3 modular levels (69 contact hours)",
+            "electives": [
+              "Christian Mission",
+              "Evangelism Methods",
+              "Church Planting",
+              "Mission Strategies",
+              "Contextual Evangelism",
+              "Cross-Cultural Mission"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 70,000 annually",
+              "USA: $35,000 - $80,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Continuing Education online",
+              "Three levels: Basic, Intermediate, Advanced",
+              "Practical evangelism training"
+            ],
+            "entry_requirements": [
+              "No formal degree required",
+              "Interest in mission and evangelism",
+              "Christian commitment",
+              "Registration and payment"
+            ],
+            "level_note": [
+              "Non-credit certificate for practical mission work",
+              "Equips for effective Christian witness and evangelism"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
