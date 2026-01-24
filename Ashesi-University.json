@@ -23,7 +23,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Digital Logic Design",
@@ -78,7 +82,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Circuit Analysis",
@@ -133,7 +141,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Thermodynamics",
@@ -188,7 +200,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Robotics",
@@ -243,7 +259,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Bioprocess Engineering",
@@ -298,7 +318,10 @@
         "levels": [
           {
             "level_name": "Masters",
-            "fees": ["Ghanaian Students: Estimated GHC 60,000 per semester", "Total programme: GHC 240,000"],
+            "fees": [
+              "Ghanaian Students: Estimated GHC 60,000 per semester",
+              "Total programme: GHC 240,000"
+            ],
             "duration": "2 years",
             "electives": [
               "Advanced Robotics",
@@ -348,7 +371,10 @@
         "levels": [
           {
             "level_name": "Masters",
-            "fees": ["Ghanaian Students: Estimated GHC 65,000 per semester", "Total programme: GHC 260,000"],
+            "fees": [
+              "Ghanaian Students: Estimated GHC 65,000 per semester",
+              "Total programme: GHC 260,000"
+            ],
             "duration": "2 years",
             "electives": [
               "Advanced Research Methods",
@@ -404,7 +430,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Software Engineering",
@@ -459,7 +489,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Information Systems Management",
@@ -514,7 +548,10 @@
         "levels": [
           {
             "level_name": "Masters",
-            "fees": ["Ghanaian Students: Estimated GHC 65,000 per semester", "Total programme: GHC 260,000"],
+            "fees": [
+              "Ghanaian Students: Estimated GHC 65,000 per semester",
+              "Total programme: GHC 260,000"
+            ],
             "duration": "2 years",
             "electives": [
               "Machine Learning",
@@ -571,7 +608,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Strategic Management",
@@ -626,7 +667,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Microeconomics",
@@ -687,7 +732,11 @@
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": ["Ghanaian Students: GHC 49,331 per semester", "Total per year: GHC 98,662", "Housing (optional): GHC 8,963 per semester"],
+            "fees": [
+              "Ghanaian Students: GHC 49,331 per semester",
+              "Total per year: GHC 98,662",
+              "Housing (optional): GHC 8,963 per semester"
+            ],
             "duration": "4 years",
             "electives": [
               "Constitutional Law",
