@@ -1,0 +1,3242 @@
+[
+  {
+    "name": "Central University"
+  },
+  {
+    "faculty_name": "Faculty of Law",
+    "note": [
+      "The Faculty of Law at Central University provides comprehensive legal education grounded in Christian values, training advocates, solicitors, and legal practitioners who combine professional excellence with ethical integrity to serve Ghana's justice system."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Laws",
+        "career": [
+          "Lawyer",
+          "Barrister",
+          "Solicitor",
+          "Legal Consultant",
+          "Corporate Counsel",
+          "Magistrate",
+          "State Attorney",
+          "Legal Officer",
+          "Human Rights Advocate",
+          "Legal Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,245 per semester",
+              "Total per year: GHC 8,490",
+              "SRC Dues: GHC 35, Hall Dues: GHC 5"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Constitutional Law",
+              "Contract Law",
+              "Criminal Law",
+              "Land Law",
+              "Company Law",
+              "International Law"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 160,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €62,000 - €115,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 7-12",
+              "2024: Aggregate 7-12",
+              "2023: Aggregate 7-12"
+            ],
+            "mode": [
+              "Full-time weekday programme",
+              "Practical legal training",
+              "Moot court and legal clinics"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Aggregate 24 or better",
+              "Strong analytical and communication skills"
+            ],
+            "level_note": [
+              "Requires Ghana School of Law Professional Course for legal practice",
+              "Faith-based legal education combining law and Christian ethics"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Law",
+        "career": [
+          "Legal Assistant",
+          "Paralegal",
+          "Court Clerk",
+          "Legal Secretary",
+          "Legal Records Officer",
+          "Law Firm Administrator",
+          "Legal Research Assistant",
+          "Court Officer",
+          "Legal Documentation Officer",
+          "Judicial Service Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 3,500 per semester",
+              "Total per year: GHC 7,000"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Legal Systems",
+              "Contract Law Basics",
+              "Criminal Law",
+              "Legal Research",
+              "Court Procedures",
+              "Legal Documentation"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 42,000 annually",
+              "USA: $30,000 - $50,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 12-24",
+              "2024: Aggregate 12-24",
+              "2023: Aggregate 12-24"
+            ],
+            "mode": [
+              "Full-time or part-time options",
+              "Practical legal procedures training",
+              "Court attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Social Studies or Integrated Science",
+              "Three electives",
+              "Aggregate 24 or better"
+            ],
+            "level_note": [
+              "Foundation for legal careers and pathway to LLB",
+              "Practical training in legal administration and court procedures"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Paralegal Studies",
+        "career": [
+          "Paralegal",
+          "Legal Assistant",
+          "Litigation Support Specialist",
+          "Legal Research Assistant",
+          "Compliance Officer",
+          "Contract Administrator",
+          "Legal Documentation Officer",
+          "Corporate Paralegal",
+          "Real Estate Paralegal",
+          "Legal Records Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 3,500 per semester",
+              "Total per year: GHC 7,000"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Paralegal Practice",
+              "Legal Writing",
+              "Litigation Support",
+              "Legal Research Methods",
+              "Contract Drafting",
+              "Legal Office Management"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 45,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €28,000 - €52,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 12-24",
+              "2024: Aggregate 12-24",
+              "2023: Aggregate 12-24"
+            ],
+            "mode": [
+              "Full-time or part-time",
+              "Practical legal skills training",
+              "Law firm attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Social Studies or Integrated Science",
+              "Three electives",
+              "Interest in legal profession"
+            ],
+            "level_note": [
+              "Specialized training for paralegal career",
+              "Growing demand in law firms and corporate legal departments"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Arts and Social Sciences",
+    "note": [
+      "The Faculty of Arts and Social Sciences nurtures critical thinking, social responsibility, and effective communication skills, preparing graduates to address contemporary social challenges through interdisciplinary education rooted in Christian worldview and service to humanity."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Science in Economics",
+        "career": [
+          "Economist",
+          "Economic Analyst",
+          "Financial Analyst",
+          "Policy Analyst",
+          "Investment Analyst",
+          "Data Analyst",
+          "Research Economist",
+          "Development Economist",
+          "Economic Consultant",
+          "Bank Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,270 per semester",
+              "Total per year: GHC 4,540",
+              "SRC Dues: GHC 35, Hall Dues: GHC 5"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Microeconomics",
+              "Macroeconomics",
+              "Econometrics",
+              "Development Economics",
+              "International Economics",
+              "Monetary Economics"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 140,000 annually",
+              "USA: $70,000 - $125,000",
+              "Europe: €58,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Quantitative and analytical focus",
+              "Research projects and data analysis"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Economics or Mathematics elective advantageous",
+              "Three electives"
+            ],
+            "level_note": [
+              "Strong quantitative and analytical skills development",
+              "High demand in banks, government, and research institutions"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Environment and Development Studies",
+        "career": [
+          "Environmental Analyst",
+          "Development Officer",
+          "Project Officer",
+          "Environmental Consultant",
+          "Sustainability Officer",
+          "NGO Programme Officer",
+          "Community Development Officer",
+          "Environmental Policy Analyst",
+          "Climate Change Analyst",
+          "Natural Resource Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,270 per semester",
+              "Total per year: GHC 4,540",
+              "Field Trips: GHC 275 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Environmental Management",
+              "Development Planning",
+              "Sustainable Development",
+              "Environmental Policy",
+              "Community Development",
+              "Climate Change"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 85,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time with field work",
+              "Community engagement projects",
+              "Practical environmental studies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Interest in environmental and development issues"
+            ],
+            "level_note": [
+              "Addresses critical environmental and development challenges",
+              "Field trips and practical community projects included"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Communication Studies",
+        "career": [
+          "Journalist",
+          "Public Relations Officer",
+          "Media Producer",
+          "Communications Manager",
+          "Content Creator",
+          "Social Media Manager",
+          "Broadcast Journalist",
+          "Corporate Communications Officer",
+          "Media Analyst",
+          "Communications Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,270 per semester",
+              "Total per year: GHC 4,540"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Journalism",
+              "Public Relations",
+              "Media Production",
+              "Digital Communication",
+              "Broadcast Media",
+              "Strategic Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 85,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Media practicals and internships",
+              "Studio and field production"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Strong communication skills",
+              "Three electives"
+            ],
+            "level_note": [
+              "Practical training in traditional and digital media",
+              "Growing opportunities in digital media and content creation"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Theology",
+        "career": [
+          "Pastor",
+          "Minister",
+          "Chaplain",
+          "Missionary",
+          "Theology Lecturer",
+          "Church Administrator",
+          "Youth Minister",
+          "Religious Educator",
+          "Faith-Based NGO Officer",
+          "Christian Writer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 1,660 per semester",
+              "Total per year: GHC 3,320"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Biblical Studies",
+              "Systematic Theology",
+              "Church History",
+              "Pastoral Ministry",
+              "Christian Ethics",
+              "Homiletics"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 75,000 annually",
+              "USA: $40,000 - $95,000",
+              "Europe: €35,000 - €80,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Ministry practicum",
+              "Church-based practical training"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Christian commitment required"
+            ],
+            "level_note": [
+              "Most affordable programme at Central University",
+              "Rooted in ICGC's mission to train Christian leaders"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Psychology",
+        "career": [
+          "Psychologist",
+          "Clinical Psychologist",
+          "Counselor",
+          "HR Specialist",
+          "Organizational Psychologist",
+          "Research Psychologist",
+          "School Counselor",
+          "Mental Health Officer",
+          "Behavioral Analyst",
+          "Psychometrist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,270 per semester",
+              "Total per year: GHC 4,540"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Developmental Psychology",
+              "Abnormal Psychology",
+              "Social Psychology",
+              "Cognitive Psychology",
+              "Counseling Psychology",
+              "Organizational Psychology"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time with practical placements",
+              "Clinical and counseling practicals",
+              "Research projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Interest in human behavior and mental health"
+            ],
+            "level_note": [
+              "Growing field with increasing awareness of mental health",
+              "Professional licensure requires additional training"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Sociology",
+        "career": [
+          "Sociologist",
+          "Social Researcher",
+          "Policy Analyst",
+          "Community Development Officer",
+          "NGO Officer",
+          "Social Worker",
+          "Human Rights Officer",
+          "Research Officer",
+          "Social Policy Advisor",
+          "Programme Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,270 per semester",
+              "Total per year: GHC 4,540"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Social Theory",
+              "Research Methods",
+              "Urban Sociology",
+              "Rural Sociology",
+              "Social Change",
+              "Gender Studies"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 75,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Field research projects",
+              "Community engagement"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Social Studies or Integrated Science",
+              "Three electives",
+              "Interest in social issues and research"
+            ],
+            "level_note": [
+              "Critical analysis of social structures and change",
+              "Career opportunities in NGOs, government, and research"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Social Work",
+        "career": [
+          "Social Worker",
+          "Case Manager",
+          "Child Welfare Officer",
+          "Community Social Worker",
+          "Medical Social Worker",
+          "School Social Worker",
+          "Family Counselor",
+          "Social Services Manager",
+          "NGO Social Worker",
+          "Mental Health Social Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,270 per semester",
+              "Total per year: GHC 4,540"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Social Work Practice",
+              "Community Development",
+              "Child Welfare",
+              "Family Therapy",
+              "Social Work Ethics",
+              "Case Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 70,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €42,000 - €75,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time with field placements",
+              "Practical social work training",
+              "Community service projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Social Studies or Integrated Science",
+              "Three electives",
+              "Compassion and commitment to helping others"
+            ],
+            "level_note": [
+              "Practical training in various social work settings",
+              "Critical role in addressing social welfare needs"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Agribusiness",
+        "career": [
+          "Agribusiness Manager",
+          "Agricultural Marketing Officer",
+          "Farm Manager",
+          "Agribusiness Consultant",
+          "Agricultural Finance Officer",
+          "Supply Chain Manager (Agriculture)",
+          "Agricultural Economist",
+          "Agro-processing Manager",
+          "Commodity Trader",
+          "Agricultural Project Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,320 per semester",
+              "Total per year: GHC 4,640",
+              "Field Trips L200 & 300: GHC 275 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Agricultural Marketing",
+              "Farm Management",
+              "Agribusiness Finance",
+              "Agricultural Economics",
+              "Agro-processing",
+              "Agricultural Supply Chain"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €48,000 - €88,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time with field trips",
+              "Farm visits and practical agriculture",
+              "Agribusiness projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Agricultural Science advantageous",
+              "Three electives"
+            ],
+            "level_note": [
+              "Addresses Ghana's agricultural transformation needs",
+              "Field trips to farms and agribusiness enterprises"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Arts and Social Sciences - Masters/MPhil Programmes",
+    "note": [
+      "Graduate programmes in the Faculty of Arts and Social Sciences offer advanced research and professional training in communication, education, development policy, theology, and counseling, equipping leaders for academic, policy, and ministry roles."
+    ],
+    "courses": [
+      {
+        "course_name": "MA Sacred Ministry",
+        "career": [
+          "Pastor",
+          "Senior Minister",
+          "Chaplain",
+          "Seminary Instructor",
+          "Ministry Director",
+          "Church Administrator",
+          "Theological Educator",
+          "Missionary",
+          "Faith-Based NGO Leader",
+          "Christian Counselor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 14,468.22 total",
+              "International Students: $3,110 total"
+            ],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Advanced Theology",
+              "Pastoral Care",
+              "Church Leadership",
+              "Homiletics",
+              "Christian Ethics",
+              "Ministry Administration"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 115,000 annually",
+              "USA: $50,000 - $115,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Part-time or full-time options",
+              "Ministry-based research",
+              "Seminar and practical ministry"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Theology or related field",
+              "Minimum Second Class Lower",
+              "Active ministry involvement",
+              "Official transcript and two referee reports"
+            ],
+            "level_note": [
+              "Advanced training for Christian ministry leadership",
+              "ICGC-affiliated programme with practical ministry focus"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Religious Studies",
+        "career": [
+          "Religious Studies Scholar",
+          "University Lecturer",
+          "Interfaith Coordinator",
+          "Religious Educator",
+          "Chaplain",
+          "Religious Affairs Officer",
+          "Researcher",
+          "NGO Programme Officer",
+          "Policy Advisor (Religious Affairs)",
+          "Religious Heritage Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 14,468.22 total"],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Comparative Religion",
+              "African Traditional Religion",
+              "Islam and Christianity",
+              "Religious Philosophy",
+              "Religion and Society",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 100,000 annually",
+              "USA: $55,000 - $105,000",
+              "Europe: €48,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time",
+              "Research and seminars",
+              "Academic and field research"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Religious Studies, Theology or related field",
+              "Minimum Second Class Lower",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Academic study of religions in African and global contexts",
+              "Prepares for teaching, research, and interfaith work"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Communication Studies",
+        "career": [
+          "Communications Manager",
+          "Public Relations Manager",
+          "Media Consultant",
+          "Communications Director",
+          "Media Producer",
+          "University Lecturer",
+          "Communication Researcher",
+          "Content Strategy Manager",
+          "Corporate Communications Manager",
+          "Media Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 16,000 total"],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Communication Theory",
+              "Media Studies",
+              "Strategic Communication",
+              "Digital Communication",
+              "Research Methods",
+              "Communication Policy"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 120,000 annually",
+              "USA: $70,000 - $125,000",
+              "Europe: €58,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time",
+              "Research and coursework",
+              "Media production projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Communication or related field",
+              "Minimum Second Class Lower",
+              "Official transcript and two referee reports"
+            ],
+            "level_note": [
+              "Advanced training in communication theory and practice",
+              "Prepares for senior media and communications roles"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Communication Management",
+        "career": [
+          "Communication Manager",
+          "Public Relations Director",
+          "Corporate Communications Manager",
+          "Brand Manager",
+          "Media Relations Manager",
+          "Communication Consultant",
+          "Crisis Communication Manager",
+          "Stakeholder Relations Manager",
+          "Internal Communications Manager",
+          "Strategic Communications Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 16,000 total"],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Strategic Communication Management",
+              "Brand Communication",
+              "Crisis Communication",
+              "Media Management",
+              "Public Relations Management",
+              "Communication Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 130,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €62,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Part-time or full-time",
+              "Case studies and projects",
+              "Strategic communication planning"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Communication or related field",
+              "Minimum Second Class Lower",
+              "Submit transcript and certificate",
+              "Professional experience advantageous"
+            ],
+            "level_note": [
+              "Focus on strategic management of organizational communication",
+              "High demand in corporate and government sectors"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Communication & Development",
+        "career": [
+          "Development Communication Officer",
+          "Programme Communication Manager",
+          "NGO Communications Officer",
+          "Development Researcher",
+          "Social Change Communicator",
+          "Development Project Officer",
+          "Media Development Officer",
+          "Communication for Development Specialist",
+          "Community Mobilization Officer",
+          "Development Advocacy Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 16,000 total"],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Communication for Development",
+              "Participatory Communication",
+              "Development Media",
+              "Social Change Communication",
+              "Development Research",
+              "Community Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 110,000 annually",
+              "USA: $65,000 - $115,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time",
+              "Community-based research",
+              "Development projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Communication, Development Studies or related field",
+              "Minimum Second Class Lower",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Addresses development challenges through strategic communication",
+              "High demand in NGOs and development agencies"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Education",
+        "career": [
+          "Education Officer",
+          "Curriculum Developer",
+          "Education Consultant",
+          "School Administrator",
+          "Education Researcher",
+          "Education Policy Analyst",
+          "Teacher Trainer",
+          "Education Programme Manager",
+          "Assessment Officer",
+          "Education Project Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 16,000 total"],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Curriculum Development",
+              "Educational Research",
+              "Instructional Design",
+              "Educational Psychology",
+              "Assessment and Evaluation",
+              "Education Policy"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 95,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €48,000 - €88,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time",
+              "Research and coursework",
+              "School-based practicals"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Education or related field",
+              "Minimum Second Class Lower",
+              "Teaching experience preferred",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Advanced training for education professionals",
+              "Prepares for leadership roles in education sector"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Educational Leadership & Administration",
+        "career": [
+          "School Principal",
+          "Education Administrator",
+          "District Education Director",
+          "School Supervisor",
+          "Educational Consultant",
+          "College Administrator",
+          "Training Manager",
+          "Education Project Manager",
+          "School Management Consultant",
+          "Education Programme Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 16,000 total"],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Educational Leadership",
+              "School Management",
+              "Education Finance",
+              "Strategic Planning",
+              "Human Resource Management",
+              "Change Management"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 115,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Part-time or full-time",
+              "Leadership development",
+              "Case studies and projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Education or related field",
+              "Minimum Second Class Lower",
+              "Teaching or education management experience",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Prepares for senior leadership in educational institutions",
+              "Focus on management and administrative competencies"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MA Development Policy",
+        "career": [
+          "Policy Analyst",
+          "Development Officer",
+          "Programme Officer",
+          "Policy Advisor",
+          "Development Consultant",
+          "Research Officer",
+          "NGO Programme Manager",
+          "Government Policy Officer",
+          "Development Economist",
+          "International Development Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: Approximately GHC 16,000 total"],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Development Policy Analysis",
+              "Policy Formulation",
+              "Development Economics",
+              "Development Research",
+              "Policy Implementation",
+              "Programme Evaluation"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 125,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €58,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time",
+              "Policy research and analysis",
+              "Field research projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Social Sciences, Development Studies or related field",
+              "Minimum Second Class Lower",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Addresses development challenges through policy analysis",
+              "High demand in government, NGOs, and international organizations"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Communication Studies",
+        "career": [
+          "University Lecturer",
+          "Communication Researcher",
+          "PhD Candidate",
+          "Media Researcher",
+          "Senior Communications Consultant",
+          "Communication Policy Analyst",
+          "Research Fellow",
+          "Academic Researcher",
+          "Media Analyst",
+          "Communication Theorist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Communication Theory",
+              "Research Methodology",
+              "Media Studies Research",
+              "Communication Research Design",
+              "Advanced Media Analysis",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - 145,000 annually",
+              "USA: $85,000 - $155,000",
+              "Europe: €70,000 - €135,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Seminars and colloquia",
+              "Independent research thesis"
+            ],
+            "entry_requirements": [
+              "Master's degree in Communication or related field",
+              "Minimum Second Class Upper or equivalent",
+              "Strong research aptitude",
+              "Research proposal required"
+            ],
+            "level_note": [
+              "Prepares for PhD and university teaching positions",
+              "Original research contribution in communication"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Communication Management",
+        "career": [
+          "University Lecturer",
+          "Senior Communication Consultant",
+          "Communication Research Director",
+          "PhD Candidate",
+          "Strategic Communications Researcher",
+          "Communication Policy Researcher",
+          "Corporate Strategy Consultant",
+          "Media Research Director",
+          "Academic Researcher",
+          "Communication Training Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Research Methods",
+              "Communication Management Theory",
+              "Strategic Communication Research",
+              "Organizational Communication Research",
+              "Advanced Communication Planning",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 155,000 annually",
+              "USA: $90,000 - $165,000",
+              "Europe: €75,000 - €145,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Doctoral seminars",
+              "Independent research"
+            ],
+            "entry_requirements": [
+              "Master's degree in Communication Management or related field",
+              "Minimum Second Class Upper",
+              "Strong research background",
+              "Research proposal defense"
+            ],
+            "level_note": [
+              "Advanced research in strategic communication management",
+              "Prepares for PhD and senior consultancy roles"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Communication & Development",
+        "career": [
+          "Development Research Fellow",
+          "University Lecturer",
+          "PhD Candidate",
+          "Senior Development Communication Officer",
+          "Communication Policy Researcher",
+          "Development Researcher",
+          "Social Change Research Specialist",
+          "International Development Consultant",
+          "Academic Researcher",
+          "Development Think Tank Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Research Methods",
+              "Development Communication Theory",
+              "Social Change Research",
+              "Participatory Research",
+              "Development Policy Research",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - 150,000 annually",
+              "USA: $85,000 - $160,000",
+              "Europe: €70,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-focused programme",
+              "Field research",
+              "Independent thesis work"
+            ],
+            "entry_requirements": [
+              "Master's degree in Communication, Development Studies or related field",
+              "Minimum Second Class Upper",
+              "Research proposal required"
+            ],
+            "level_note": [
+              "Original research in communication for development",
+              "Prepares for PhD and senior development roles"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Education",
+        "career": [
+          "University Lecturer",
+          "Education Researcher",
+          "PhD Candidate",
+          "Curriculum Specialist",
+          "Education Policy Researcher",
+          "Senior Education Consultant",
+          "Research Fellow",
+          "Educational Psychologist",
+          "Assessment Specialist",
+          "Academic Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Educational Research",
+              "Research Methodology",
+              "Educational Theory",
+              "Curriculum Research",
+              "Advanced Educational Psychology",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 140,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €65,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Doctoral seminars",
+              "Independent research thesis"
+            ],
+            "entry_requirements": [
+              "Master's degree in Education or related field",
+              "Minimum Second Class Upper",
+              "Research proposal required"
+            ],
+            "level_note": [
+              "Prepares for PhD and university teaching careers",
+              "Original research contribution to education knowledge"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Educational Leadership & Administration",
+        "career": [
+          "University Lecturer",
+          "Senior Education Administrator",
+          "Education Policy Researcher",
+          "PhD Candidate",
+          "Education Management Consultant",
+          "Educational Leadership Researcher",
+          "College Dean",
+          "Research Fellow",
+          "Education Training Director",
+          "Academic Programme Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Research Methods",
+              "Educational Leadership Theory",
+              "School Management Research",
+              "Education Policy Research",
+              "Leadership Development Research",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 160,000 annually",
+              "USA: $90,000 - $170,000",
+              "Europe: €75,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-focused programme",
+              "Leadership seminars",
+              "Independent research"
+            ],
+            "entry_requirements": [
+              "Master's degree in Educational Leadership or related field",
+              "Minimum Second Class Upper",
+              "Education management experience",
+              "Research proposal defense"
+            ],
+            "level_note": [
+              "Advanced research in educational leadership",
+              "Prepares for PhD and senior education leadership"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Development Policy",
+        "career": [
+          "University Lecturer",
+          "Development Policy Researcher",
+          "PhD Candidate",
+          "Senior Policy Analyst",
+          "Research Fellow",
+          "Development Consultant",
+          "Policy Research Director",
+          "Think Tank Researcher",
+          "International Development Researcher",
+          "Academic Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Policy Research",
+              "Research Methodology",
+              "Development Theory",
+              "Policy Analysis Research",
+              "Economic Development Research",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 165,000 annually",
+              "USA: $95,000 - $180,000",
+              "Europe: €80,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Policy seminars",
+              "Independent thesis work"
+            ],
+            "entry_requirements": [
+              "Master's degree in Development Policy or related field",
+              "Minimum Second Class Upper",
+              "Strong research background",
+              "Research proposal required"
+            ],
+            "level_note": [
+              "Original research contribution to development policy",
+              "Prepares for PhD and senior policy advisory roles"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Theology",
+        "career": [
+          "University Lecturer",
+          "Theological Researcher",
+          "PhD Candidate",
+          "Seminary Professor",
+          "Religious Scholar",
+          "Denominational Theologian",
+          "Research Fellow",
+          "Theological Writer",
+          "Church Historian",
+          "Academic Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 15,493.17 total",
+              "International Students: $5,175 total (older data)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Theological Research",
+              "Biblical Studies Research",
+              "Systematic Theology Research",
+              "Research Methodology",
+              "Church History Research",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 135,000 annually",
+              "USA: $75,000 - $130,000",
+              "Europe: €60,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Theological seminars",
+              "Independent research thesis"
+            ],
+            "entry_requirements": [
+              "Master's degree in Theology or related field",
+              "Minimum Second Class Upper",
+              "Strong theological and research background",
+              "Research proposal required"
+            ],
+            "level_note": [
+              "Prepares for PhD and seminary teaching positions",
+              "Original theological research contribution"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Guidance & Counselling",
+        "career": [
+          "University Lecturer",
+          "Counseling Psychologist",
+          "PhD Candidate",
+          "Senior Counselor",
+          "Counseling Researcher",
+          "Counseling Supervisor",
+          "School Counselor Trainer",
+          "Mental Health Researcher",
+          "Counseling Consultant",
+          "Academic Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Counseling Theory",
+              "Research Methodology",
+              "Counseling Psychology Research",
+              "Psychotherapy Research",
+              "Career Development Research",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 140,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €65,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Clinical supervision",
+              "Independent research"
+            ],
+            "entry_requirements": [
+              "Master's degree in Counselling, Psychology or related field",
+              "Minimum Second Class Upper",
+              "Counseling experience preferred",
+              "Research proposal required"
+            ],
+            "level_note": [
+              "Prepares for PhD and advanced counseling practice",
+              "Growing demand for counseling professionals in Ghana"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Central Business School",
+    "note": [
+      "The Central Business School provides comprehensive business education grounded in Christian values, developing ethical leaders and entrepreneurs equipped with financial, marketing, HR, and management expertise for success in dynamic global markets."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Science in Management Studies",
+        "career": [
+          "Business Manager",
+          "Operations Manager",
+          "Project Manager",
+          "Management Consultant",
+          "Business Development Manager",
+          "Strategic Manager",
+          "General Manager",
+          "Management Analyst",
+          "Corporate Manager",
+          "Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,320 per semester",
+              "Total per year: GHC 4,640"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Strategic Management",
+              "Operations Management",
+              "Project Management",
+              "Organizational Behaviour",
+              "Business Ethics",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 115,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Case studies and projects",
+              "Business simulations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Aggregate 24 or better"
+            ],
+            "level_note": [
+              "Comprehensive management training for organizational leadership",
+              "Combines theory with practical business application"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Banking and Finance",
+        "career": [
+          "Banker",
+          "Financial Analyst",
+          "Investment Manager",
+          "Risk Manager",
+          "Credit Officer",
+          "Loan Officer",
+          "Portfolio Manager",
+          "Treasury Manager",
+          "Compliance Officer",
+          "Financial Controller"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,320 per semester",
+              "Total per year: GHC 4,640"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Banking and Finance",
+              "Financial Markets",
+              "Investment Analysis",
+              "Risk Management",
+              "Financial Institutions",
+              "Credit Management"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 120,000 annually",
+              "USA: $70,000 - $135,000",
+              "Europe: €60,000 - €115,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Finance practicals",
+              "Bank internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Strong mathematics background",
+              "Three electives"
+            ],
+            "level_note": [
+              "High demand in Ghana's growing banking and finance sector",
+              "Professional certification pathways available"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science Finance with Economics",
+        "career": [
+          "Financial Economist",
+          "Economic Analyst",
+          "Financial Planner",
+          "Investment Analyst",
+          "Financial Research Officer",
+          "Policy Analyst (Finance)",
+          "Financial Risk Analyst",
+          "Credit Analyst",
+          "Treasury Officer",
+          "Financial Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,320 per semester",
+              "Total per year: GHC 4,640"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Analysis",
+              "Economic Theory",
+              "Econometrics",
+              "Financial Economics",
+              "Investment Economics",
+              "Monetary Economics"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 130,000 annually",
+              "USA: $75,000 - $140,000",
+              "Europe: €65,000 - €120,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Quantitative focus",
+              "Financial and economic research"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "Strong mathematics required",
+              "Three electives"
+            ],
+            "level_note": [
+              "Specialized combination of finance and economics",
+              "High demand for financial economists in policy and banking"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Business Administration (Marketing option)",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Product Manager",
+          "Market Research Manager",
+          "Sales Manager",
+          "Marketing Director",
+          "Digital Marketing Manager",
+          "Marketing Consultant",
+          "Advertising Manager",
+          "Business Development Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,320 per semester",
+              "Total per year: GHC 4,640"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Strategic Marketing",
+              "Brand Management",
+              "Digital Marketing",
+              "Consumer Behaviour",
+              "Market Research",
+              "Advertising and Promotion"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 120,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €52,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Marketing projects",
+              "Internships with companies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Aggregate 24 or better"
+            ],
+            "level_note": [
+              "Growing opportunities in digital marketing and brand management",
+              "Practical marketing campaigns and projects"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Business Administration (Human Resource Management option)",
+        "career": [
+          "HR Manager",
+          "Recruitment Specialist",
+          "Training and Development Manager",
+          "Compensation Manager",
+          "Employee Relations Manager",
+          "HR Consultant",
+          "Talent Acquisition Manager",
+          "Performance Manager",
+          "HR Director",
+          "Organizational Development Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,320 per semester",
+              "Total per year: GHC 4,640"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Recruitment and Selection",
+              "Training and Development",
+              "Compensation Management",
+              "Labour Relations",
+              "Performance Management",
+              "Organizational Behaviour"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 110,000 annually",
+              "USA: $55,000 - $105,000",
+              "Europe: €48,000 - €92,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "HR case studies",
+              "Company internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Interest in people management"
+            ],
+            "level_note": [
+              "High demand for HR professionals in corporate sector",
+              "Practical HR projects and training"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Business Administration (Accounting option)",
+        "career": [
+          "Accountant",
+          "Auditor",
+          "Financial Analyst",
+          "Tax Consultant",
+          "Management Accountant",
+          "Accounting Manager",
+          "Internal Auditor",
+          "Financial Controller",
+          "Accounting Systems Analyst",
+          "Chief Financial Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,320 per semester",
+              "Total per year: GHC 4,640"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Management Accounting",
+              "Auditing",
+              "Taxation",
+              "Accounting Information Systems",
+              "Financial Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 52,000 - 120,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €56,000 - €110,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Accounting practicals",
+              "Audit and compliance training"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "Strong mathematics background",
+              "Three electives"
+            ],
+            "level_note": [
+              "Pathway to professional certifications (ACCA, ICAG, CPA)",
+              "High demand for qualified accountants"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Accounting",
+        "career": [
+          "Senior Accountant",
+          "Audit Manager",
+          "Financial Controller",
+          "Tax Manager",
+          "Accounting Consultant",
+          "Academic Researcher",
+          "CFO",
+          "Accounting Standards Specialist",
+          "Risk and Compliance Manager",
+          "Forensic Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Advanced Accounting",
+              "Advanced Auditing",
+              "International Accounting Standards",
+              "Accounting Research Methods",
+              "Advanced Taxation",
+              "Forensic Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - 160,000 annually",
+              "USA: $85,000 - $155,000",
+              "Europe: €70,000 - €135,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Part-time or full-time options",
+              "Advanced accounting theory",
+              "Research and case studies"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Accounting or related field",
+              "Minimum Second Class Lower",
+              "Official transcript and two referee reports"
+            ],
+            "level_note": [
+              "Prepares for senior accounting and audit roles",
+              "Excellent salary prospects with advanced qualifications"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Economics",
+        "career": [
+          "Senior Economist",
+          "Policy Analyst",
+          "Research Economist",
+          "Development Economist",
+          "Investment Analyst",
+          "Academic Researcher",
+          "International Organization Analyst",
+          "Central Bank Analyst",
+          "Economic Consultant",
+          "Think Tank Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "18 months to 2 years",
+            "electives": [
+              "Advanced Economic Theory",
+              "Econometrics",
+              "Development Economics",
+              "Policy Analysis",
+              "Research Methods",
+              "International Economics"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 150,000 annually",
+              "USA: $90,000 - $170,000",
+              "Europe: €75,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time",
+              "Research and seminars",
+              "Economic policy projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Economics or related field",
+              "Minimum Second Class Lower",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Prepares for senior economic research and policy roles",
+              "High demand in government and international organizations"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Finance",
+        "career": [
+          "Finance Director",
+          "Chief Financial Officer",
+          "Investment Manager",
+          "Corporate Finance Manager",
+          "Financial Consultant",
+          "Treasury Manager",
+          "Risk Manager",
+          "Portfolio Manager",
+          "Banking Executive",
+          "Finance Business Partner"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 18,249 total",
+              "Alumnus: GHC 16,424.10"
+            ],
+            "duration": "18 months",
+            "electives": [
+              "Corporate Finance",
+              "Investment Analysis",
+              "Financial Risk Management",
+              "Financial Markets",
+              "Portfolio Management",
+              "Strategic Financial Management"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 160,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €85,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Executive evening and weekend programme",
+              "Practical finance projects",
+              "Case studies"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower)",
+              "Professional work experience preferred",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Evening and weekend format for working professionals",
+              "Alumni discount available on tuition"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Marketing",
+        "career": [
+          "Marketing Director",
+          "Chief Marketing Officer",
+          "Brand Manager",
+          "Marketing Consultant",
+          "Product Manager",
+          "Digital Marketing Director",
+          "Market Research Director",
+          "Business Development Director",
+          "Sales Director",
+          "Marketing Strategy Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 18,249 total",
+              "Alumnus: GHC 16,424.10"
+            ],
+            "duration": "18 months",
+            "electives": [
+              "Strategic Marketing Management",
+              "Brand Management",
+              "Digital Marketing Strategy",
+              "Consumer Behaviour",
+              "Market Research Methods",
+              "Marketing Analytics"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - 155,000 annually",
+              "USA: $90,000 - $165,000",
+              "Europe: €75,000 - €145,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend executive format",
+              "Marketing case studies and projects",
+              "Industry practitioner sessions"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower)",
+              "Professional work experience preferred",
+              "Submit transcript and certificate"
+            ],
+            "level_note": [
+              "Flexible schedule for working marketing professionals",
+              "Growing digital marketing opportunities"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Project Management",
+        "career": [
+          "Project Manager",
+          "Programme Manager",
+          "Project Director",
+          "PMO Manager",
+          "Project Consultant",
+          "Construction Project Manager",
+          "IT Project Manager",
+          "Portfolio Manager",
+          "Operations Project Manager",
+          "Executive Project Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 18,249 total",
+              "Alumnus: GHC 16,424.10"
+            ],
+            "duration": "18 months",
+            "electives": [
+              "Project Planning and Control",
+              "Risk Management",
+              "Project Finance",
+              "Quality Management",
+              "Project Leadership",
+              "Stakeholder Management"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 155,000 annually",
+              "USA: $90,000 - $170,000",
+              "Europe: €75,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend executive programme",
+              "Project-based learning",
+              "Real-world project case studies"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower)",
+              "Project management experience advantageous",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Prepares for PMP and professional certifications",
+              "High demand across all industries"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Human Resource Management",
+        "career": [
+          "HR Director",
+          "Chief Human Resources Officer",
+          "Talent Management Director",
+          "Organizational Development Manager",
+          "HR Consultant",
+          "Compensation Director",
+          "Employee Relations Director",
+          "Learning and Development Director",
+          "Strategic HR Manager",
+          "Change Management Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 18,249 total",
+              "Alumnus: GHC 16,424.10"
+            ],
+            "duration": "18 months",
+            "electives": [
+              "Strategic HR Management",
+              "Organizational Development",
+              "Talent Management",
+              "HR Analytics",
+              "Leadership Development",
+              "Change Management"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 170,000 annually",
+              "USA: $95,000 - $170,000",
+              "Europe: €80,000 - €155,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend classes",
+              "Interactive HR case studies",
+              "Organizational projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower)",
+              "HR or management experience preferred",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Develops strategic HR leadership capabilities",
+              "Flexible format for working HR professionals"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA General Management",
+        "career": [
+          "General Manager",
+          "Operations Manager",
+          "Executive Manager",
+          "Chief Executive Officer",
+          "Business Unit Manager",
+          "Management Consultant",
+          "Strategic Manager",
+          "Managing Director",
+          "Business Development Director",
+          "Corporate Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 18,249 total",
+              "Alumnus: GHC 16,424.10"
+            ],
+            "duration": "18 months",
+            "electives": [
+              "Strategic Management",
+              "Operations Management",
+              "Financial Management",
+              "Marketing Management",
+              "HR Management",
+              "Business Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 165,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €85,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend executive format",
+              "Comprehensive management cases",
+              "Integrated business projects"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower)",
+              "Significant work experience preferred",
+              "Submit transcript and two referee reports"
+            ],
+            "level_note": [
+              "Comprehensive business leadership development",
+              "Prepares for senior general management roles"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Entrepreneurship",
+        "career": [
+          "Entrepreneur",
+          "Business Owner",
+          "Start-up Founder",
+          "Business Consultant",
+          "Venture Capitalist",
+          "Business Development Manager",
+          "Innovation Manager",
+          "Startup Advisor",
+          "Investment Manager",
+          "Small Business Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 18,249 total",
+              "Alumnus: GHC 16,424.10"
+            ],
+            "duration": "18 months",
+            "electives": [
+              "Entrepreneurship Development",
+              "New Venture Creation",
+              "Business Planning",
+              "Innovation Management",
+              "Startup Finance",
+              "Entrepreneurial Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 200,000+ annually (highly variable)",
+              "USA: $80,000 - $300,000+ (variable for entrepreneurs)",
+              "Europe: €70,000 - €250,000+ (variable)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend programme",
+              "Business plan development",
+              "Mentorship and networking"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower)",
+              "Entrepreneurial mindset and drive",
+              "Submit transcript and business concept proposal"
+            ],
+            "level_note": [
+              "Supports Ghana's growing startup and innovation ecosystem",
+              "Mentorship from experienced entrepreneurs included"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Accounting",
+        "career": [
+          "University Lecturer",
+          "Accounting Researcher",
+          "PhD Candidate",
+          "Senior Accounting Consultant",
+          "Accounting Standards Expert",
+          "Audit Research Director",
+          "Academic Researcher",
+          "Think Tank Researcher",
+          "Accounting Policy Advisor",
+          "Research Fellow"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Accounting Research",
+              "Research Methodology",
+              "Accounting Theory",
+              "Advanced Auditing Research",
+              "International Accounting Standards Research",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 160,000 annually",
+              "USA: $90,000 - $160,000",
+              "Europe: €75,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Seminars and colloquia",
+              "Independent research thesis"
+            ],
+            "entry_requirements": [
+              "MSc in Accounting or related field with excellent grades",
+              "Minimum Second Class Upper",
+              "Strong research background",
+              "Research proposal required"
+            ],
+            "level_note": [
+              "Prepares for PhD and university teaching positions",
+              "Original research contribution in accounting"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "M.Phil. Economics",
+        "career": [
+          "University Lecturer",
+          "Economic Researcher",
+          "PhD Candidate",
+          "Senior Policy Analyst",
+          "Research Fellow",
+          "Academic Researcher",
+          "International Organization Analyst",
+          "Think Tank Researcher",
+          "Economic Policy Researcher",
+          "Development Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 18,249 total"],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Economic Research",
+              "Research Methodology",
+              "Economic Theory",
+              "Development Economics Research",
+              "Policy Analysis Research",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 170,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €80,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Doctoral seminars",
+              "Independent research"
+            ],
+            "entry_requirements": [
+              "MSc in Economics or related field",
+              "Minimum Second Class Upper or equivalent",
+              "Strong research background",
+              "Research proposal required"
+            ],
+            "level_note": [
+              "Prepares for PhD and senior research roles",
+              "Original research contribution to economics"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Finance",
+        "career": [
+          "University Professor",
+          "Senior Research Fellow",
+          "Finance Research Director",
+          "Think Tank Director",
+          "Policy Advisor",
+          "Academic Dean",
+          "Postdoctoral Researcher",
+          "International Finance Consultant",
+          "Financial Policy Researcher",
+          "University Research Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate",
+            "fees": ["Ghanaian Students: Approximately GHC 50,000 total"],
+            "duration": "3 to 4 years",
+            "electives": [
+              "Advanced Financial Research",
+              "Finance Theory",
+              "Research Methodology",
+              "Advanced Financial Analysis",
+              "Doctoral Seminars",
+              "Dissertation Research"
+            ],
+            "salary": [
+              "Ghana: GHS 150,000 - 300,000+ annually",
+              "USA: $150,000 - $350,000+",
+              "Europe: €130,000 - €280,000+"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time research",
+              "Doctoral seminars and colloquia",
+              "Independent dissertation work"
+            ],
+            "entry_requirements": [
+              "MSc in Finance or related field with excellent record",
+              "Strong research and publication record",
+              "Research proposal defense",
+              "Interview required"
+            ],
+            "level_note": [
+              "Highest finance qualification with research focus",
+              "Original research contribution to finance knowledge"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Pharmacy",
+    "note": [
+      "The School of Pharmacy delivers rigorous pharmaceutical science education combined with clinical practice, training future pharmacists to ensure safe, effective, and ethical medication use while advancing public health in Ghana and beyond."
+    ],
+    "courses": [
+      {
+        "course_name": "Doctor of Pharmacy",
+        "career": [
+          "Pharmacist",
+          "Hospital Pharmacist",
+          "Community Pharmacist",
+          "Clinical Pharmacist",
+          "Pharmaceutical Company Manager",
+          "Pharmacy Owner",
+          "Drug Regulatory Officer",
+          "Pharmaceutical Researcher",
+          "Medical Representative",
+          "Quality Assurance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Doctorate",
+            "fees": [
+              "Ghanaian Students: GHC 3,240 per semester",
+              "Total per year: GHC 6,480",
+              "Practical fees: Additional charges per semester"
+            ],
+            "duration": "5 years",
+            "electives": [
+              "Pharmaceutical Chemistry",
+              "Pharmacology",
+              "Pharmaceutics",
+              "Clinical Pharmacy",
+              "Pharmacy Practice",
+              "Pharmaceutical Research"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 150,000 annually",
+              "USA: $100,000 - $150,000",
+              "Europe: €65,000 - €110,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 14-18",
+              "2024: Aggregate 14-18",
+              "2023: Aggregate 14-18"
+            ],
+            "mode": [
+              "Full-time professional programme",
+              "Extensive clinical placements",
+              "Hospital and community pharmacy rotations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "Chemistry and Biology required",
+              "Physics advantageous",
+              "Aggregate 24 or better"
+            ],
+            "level_note": [
+              "Requires Pharmacy Council registration for practice",
+              "Critical role in healthcare delivery system"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Architecture and Design",
+    "note": [
+      "The School of Architecture and Design cultivates creative professionals with technical expertise and sustainable design principles, preparing architects, planners, real estate and design specialists to shape Ghana's built environment responsibly."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Architecture",
+        "career": [
+          "Architect",
+          "Architectural Designer",
+          "Architect in Private Practice",
+          "Sustainable Architect",
+          "Heritage Conservation Architect",
+          "Urban Designer",
+          "Interior Architect",
+          "Design Manager",
+          "Project Architect",
+          "Architectural Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,960 per semester",
+              "Total per year: GHC 5,920"
+            ],
+            "duration": "5 years",
+            "electives": [
+              "Architectural Design",
+              "Building Technology",
+              "Urban Planning",
+              "Sustainable Design",
+              "Heritage Conservation",
+              "Interior Design"
+            ],
+            "salary": [
+              "Ghana: GHS 58,000 - 110,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-20",
+              "2024: Aggregate 18-20",
+              "2023: Aggregate 18-20"
+            ],
+            "mode": [
+              "Full-time with design studios",
+              "Site visits and field work",
+              "Architectural projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "Physics and Elective Mathematics preferred",
+              "Three electives",
+              "Strong design aptitude"
+            ],
+            "level_note": [
+              "Requires professional registration for architectural practice",
+              "Growing opportunities in construction and real estate development"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Planning",
+        "career": [
+          "Urban Planner",
+          "Town Planner",
+          "Regional Planner",
+          "Land Use Planner",
+          "Environmental Planner",
+          "Development Planner",
+          "Planning Consultant",
+          "City Planner",
+          "Strategic Planner",
+          "Project Planner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,960 per semester",
+              "Total per year: GHC 5,920"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Urban Planning",
+              "Regional Planning",
+              "Land Use Planning",
+              "Environmental Planning",
+              "Infrastructure Planning",
+              "Planning Law"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 100,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €52,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-20",
+              "2024: Aggregate 18-20",
+              "2023: Aggregate 18-20"
+            ],
+            "mode": [
+              "Full-time programme",
+              "Field surveys and planning studies",
+              "Urban development projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Interest in urban development"
+            ],
+            "level_note": [
+              "Critical for sustainable urban development in Ghana",
+              "Addresses rapid urbanization challenges"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Real Estate",
+        "career": [
+          "Real Estate Agent",
+          "Property Manager",
+          "Real Estate Developer",
+          "Property Valuer",
+          "Real Estate Consultant",
+          "Land Agent",
+          "Property Broker",
+          "Facilities Manager",
+          "Real Estate Investor",
+          "Estate Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,960 per semester",
+              "Total per year: GHC 5,920"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Real Estate Management",
+              "Property Development",
+              "Real Estate Finance",
+              "Property Valuation",
+              "Real Estate Law",
+              "Land Administration"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €45,000 - €88,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time with property visits",
+              "Real estate market analysis",
+              "Practical estate management"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Interest in property and real estate"
+            ],
+            "level_note": [
+              "High demand in Ghana's booming real estate sector",
+              "Salary includes commissions for active practitioners"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Graphic Design",
+        "career": [
+          "Graphic Designer",
+          "Brand Identity Designer",
+          "Visual Designer",
+          "UI/UX Designer",
+          "Advertising Designer",
+          "Publication Designer",
+          "Web Designer",
+          "Design Consultant",
+          "Creative Director",
+          "Design Studio Owner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,960 per semester",
+              "Total per year: GHC 5,920"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Graphic Design",
+              "Digital Design",
+              "Brand Identity",
+              "Web Design",
+              "User Experience Design",
+              "Design Theory"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 85,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time with design labs",
+              "Design projects and portfolio development",
+              "Industry internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Strong creative and artistic ability"
+            ],
+            "level_note": [
+              "Growing demand for digital and graphic designers",
+              "Freelance and remote opportunities available"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Landscape Design",
+        "career": [
+          "Landscape Designer",
+          "Landscape Architect",
+          "Gardens Designer",
+          "Environmental Designer",
+          "Park Planner",
+          "Sustainability Designer",
+          "Design Consultant",
+          "Landscape Manager",
+          "Resort Designer",
+          "Urban Greenspace Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,960 per semester",
+              "Total per year: GHC 5,920",
+              "Field Trips: GHC 275 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Landscape Design",
+              "Garden Design",
+              "Environmental Design",
+              "Plant Material Knowledge",
+              "Landscape Management",
+              "Sustainable Landscaping"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 105,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €52,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time with site work",
+              "Garden and landscape visits",
+              "Practical design projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Interest in environmental and landscape design"
+            ],
+            "level_note": [
+              "Growing emphasis on sustainable and green spaces",
+              "Field trips to landscape and garden sites included"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Interior Design",
+        "career": [
+          "Interior Designer",
+          "Interior Decorator",
+          "Design Consultant",
+          "Space Planner",
+          "Hospitality Designer",
+          "Retail Designer",
+          "Residential Designer",
+          "Design Project Manager",
+          "Interior Architect",
+          "Design Studio Owner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,960 per semester",
+              "Total per year: GHC 5,920"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Interior Design",
+              "Space Planning",
+              "Design Technology",
+              "Furniture Design",
+              "Lighting Design",
+              "Sustainable Interior Design"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 90,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time with design studios",
+              "Interior space visits",
+              "Design portfolio projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Creative and design aptitude required"
+            ],
+            "level_note": [
+              "Growing demand in hospitality and residential sectors",
+              "Freelance portfolio development encouraged"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Fashion Design",
+        "career": [
+          "Fashion Designer",
+          "Clothing Designer",
+          "Fashion Consultant",
+          "Fashion Entrepreneur",
+          "Textile Designer",
+          "Pattern Maker",
+          "Fashion Illustrator",
+          "Fashion Brand Manager",
+          "Design Consultant",
+          "Fashion Production Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,960 per semester",
+              "Total per year: GHC 5,920"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Fashion Design",
+              "Textile Design",
+              "Pattern Making",
+              "Garment Construction",
+              "Fashion Business",
+              "Fashion Illustration"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 100,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 18-24",
+              "2024: Aggregate 18-24",
+              "2023: Aggregate 18-24"
+            ],
+            "mode": [
+              "Full-time with design studios",
+              "Fashion practicals and sewing labs",
+              "Fashion show opportunities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science or Social Studies",
+              "Three electives",
+              "Strong creative and design ability"
+            ],
+            "level_note": [
+              "Growing fashion industry in Ghana and West Africa",
+              "Entrepreneurship and small business opportunities"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Engineering and Technology",
+    "note": [
+      "The School of Engineering and Technology develops innovative engineers and computer scientists equipped with cutting-edge technical knowledge and problem-solving skills to drive technological advancement and infrastructure development in Ghana."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Science in Computer Science",
+        "career": [
+          "Software Developer",
+          "Software Engineer",
+          "Systems Analyst",
+          "Data Scientist",
+          "Machine Learning Engineer",
+          "Full Stack Developer",
+          "Cybersecurity Analyst",
+          "IT Consultant",
+          "Cloud Solutions Architect",
+          "Technical Lead"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,887.50 per semester",
+              "Total per year: GHC 5,775"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Software Engineering",
+              "Data Structures and Algorithms",
+              "Database Systems",
+              "Artificial Intelligence",
+              "Machine Learning",
+              "Computer Networks"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 150,000 annually",
+              "USA: $80,000 - $140,000",
+              "Europe: €65,000 - €115,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 15",
+              "2024: Aggregate 15",
+              "2023: Aggregate 15"
+            ],
+            "mode": [
+              "Full-time with IT labs",
+              "Hands-on programming projects",
+              "Tech company internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "Elective Mathematics and ICT preferred",
+              "Strong analytical skills required"
+            ],
+            "level_note": [
+              "Highest demand in Ghana's tech sector",
+              "Excellent salary prospects with experience"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Civil Engineering",
+        "career": [
+          "Civil Engineer",
+          "Structural Engineer",
+          "Construction Engineer",
+          "Project Engineer",
+          "Design Engineer",
+          "Quality Engineer",
+          "Geotechnical Engineer",
+          "Hydraulic Engineer",
+          "Infrastructure Engineer",
+          "Engineering Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,534.30 per semester",
+              "Total per year: GHC 7,068.60"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Structural Design",
+              "Hydraulics and Water Resources",
+              "Geotechnical Engineering",
+              "Construction Management",
+              "Transportation Engineering",
+              "Infrastructure Design"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 110,000 annually",
+              "USA: $70,000 - $125,000",
+              "Europe: €58,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 14",
+              "2024: Aggregate 14",
+              "2023: Aggregate 14"
+            ],
+            "mode": [
+              "Full-time with engineering labs",
+              "Construction site visits",
+              "Design and drawing practicals"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "Physics and Elective Mathematics required",
+              "Aggregate 24 or better"
+            ],
+            "level_note": [
+              "Critical for Ghana's infrastructure development",
+              "High demand in construction and government projects"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Information Technology",
+        "career": [
+          "IT Specialist",
+          "Systems Administrator",
+          "Network Engineer",
+          "IT Support Manager",
+          "Database Administrator",
+          "IT Consultant",
+          "Technology Manager",
+          "IT Project Manager",
+          "Cybersecurity Analyst",
+          "Business Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,887.50 per semester",
+              "Total per year: GHC 5,775"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Network Administration",
+              "Database Systems",
+              "IT Security",
+              "Systems Analysis",
+              "Cloud Computing",
+              "IT Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 120,000 annually",
+              "USA: $65,000 - $115,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 15",
+              "2024: Aggregate 15",
+              "2023: Aggregate 15"
+            ],
+            "mode": [
+              "Full-time with IT labs",
+              "Hands-on practical training",
+              "Industry certifications pathway"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "ICT or Elective Mathematics preferred",
+              "Aggregate 24 or better"
+            ],
+            "level_note": [
+              "High demand in Ghana's growing tech sector",
+              "IT infrastructure support growing rapidly"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Medical Sciences",
+    "note": [
+      "The School of Medical Sciences trains competent and compassionate healthcare professionals, particularly Physician Assistants and Public Health specialists, addressing critical gaps in Ghana's healthcare delivery system with evidence-based practice."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Science in Physician Assistantship",
+        "career": [
+          "Physician Assistant",
+          "Medical Officer",
+          "Clinical Assistant",
+          "Primary Care Provider",
+          "Emergency Medicine PA",
+          "Surgical Assistant",
+          "Hospital PA",
+          "Community Health Officer",
+          "Medical Team Leader",
+          "Clinical Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,560 per semester",
+              "Total per year: GHC 7,120"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Clinical Medicine",
+              "Emergency Medicine",
+              "Surgery",
+              "Primary Care",
+              "Diagnostic Medicine",
+              "Clinical Pharmacology"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 135,000 annually",
+              "USA: $90,000 - $145,000",
+              "Europe: €70,000 - €115,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 12-14",
+              "2024: Aggregate 12-14",
+              "2023: Aggregate 12-14"
+            ],
+            "mode": [
+              "Full-time with extensive clinical training",
+              "Hospital rotations and clinical practice",
+              "Rural health service exposure"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "Biology and Chemistry required",
+              "Physics advantageous",
+              "Aggregate 24 or better"
+            ],
+            "level_note": [
+              "Critical role in Ghana's healthcare delivery",
+              "Excellent career prospects with good remuneration"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Public Health",
+        "career": [
+          "Public Health Officer",
+          "Health Promotion Officer",
+          "Epidemiologist",
+          "Disease Control Officer",
+          "Maternal Health Officer",
+          "Environmental Health Officer",
+          "Nutrition Officer",
+          "Health Educator",
+          "Disease Surveillance Officer",
+          "Public Health Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,200 per semester",
+              "Total per year: GHC 6,400"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Epidemiology",
+              "Health Promotion",
+              "Environmental Health",
+              "Maternal and Child Health",
+              "Disease Prevention",
+              "Public Health Research"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 14-18",
+              "2024: Aggregate 14-18",
+              "2023: Aggregate 14-18"
+            ],
+            "mode": [
+              "Full-time with field work",
+              "Community health projects",
+              "Health facility attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "Biology or Chemistry preferred",
+              "Aggregate 24 or better"
+            ],
+            "level_note": [
+              "Critical for disease prevention and health promotion",
+              "Growing emphasis on primary healthcare in Ghana"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Nursing and Midwifery",
+    "note": [
+      "The School of Nursing and Midwifery prepares highly skilled and compassionate nurses, addressing critical healthcare workforce shortages while delivering evidence-based, patient-centered care across diverse health settings in Ghana."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Science in Nursing",
+        "career": [
+          "Registered Nurse",
+          "Clinical Nurse",
+          "Ward Manager",
+          "Public Health Nurse",
+          "Community Health Nurse",
+          "Theatre Nurse",
+          "Critical Care Nurse",
+          "Nurse Educator",
+          "Nurse Administrator",
+          "Nurse Practitioner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,384-3,943.90 per semester",
+              "Total per year: GHC 6,768-7,887.80"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Medical-Surgical Nursing",
+              "Maternal and Child Health",
+              "Community Health Nursing",
+              "Psychiatric Nursing",
+              "Critical Care Nursing",
+              "Geriatric Nursing"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 50,000 annually",
+              "USA: $65,000 - $110,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 12",
+              "2024: Aggregate 12",
+              "2023: Aggregate 12"
+            ],
+            "mode": [
+              "Full-time with clinical placements",
+              "Hospital-based training",
+              "Community health rotations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits in English, Mathematics, Integrated Science",
+              "Biology, Chemistry or Physics preferred",
+              "Aggregate 24 or better",
+              "Active PIN from Nursing and Midwifery Council"
+            ],
+            "level_note": [
+              "Critical shortage of nurses in Ghana's healthcare system",
+              "Combines professional nursing training with Christian values"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
