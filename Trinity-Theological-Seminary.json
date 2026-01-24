@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Trinity Theological Seminary"
+  },
+  {
+    "faculty_name": "Arts and Theology",
+    "note": ["Trinity Theological Seminary is the premier ecumenical Protestant seminary in Ghana and West Africa, preparing men and women for ordained ministry and Christian service through rigorous theological education, practical ministry training, and a strong emphasis on pedagogy, guidance, and counseling."],
+    "courses": [
+      {
+        "course_name": "Certificate in Ministry (CIM)",
+        "career": [
+          "Church Worker",
+          "Lay Minister",
+          "Ministry Assistant",
+          "Youth Leader",
+          "Sunday School Teacher",
+          "Church Secretary",
+          "Evangelism Worker",
+          "Community Ministry Worker",
+          "Church Volunteer Coordinator",
+          "Ministry Support Staff"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": ["Ghanaian Students: Approximately GHC 2,500 total", "Application fee: GHC 300"],
+            "duration": "6 months to 1 year",
+            "electives": [
+              "Basic Bible Study",
+              "Christian Ministry",
+              "Church Administration",
+              "Evangelism",
+              "Christian Ethics",
+              "Worship Leadership"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 45,000 annually",
+              "USA: $28,000 - $65,000",
+              "Europe: €24,000 - €55,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Short certificate programme",
+              "Practical ministry training",
+              "Evening or weekend options"
+            ],
+            "entry_requirements": [
+              "WASSCE or equivalent",
+              "Christian commitment",
+              "Church membership and recommendation",
+              "Application fee GHC 300"
+            ],
+            "level_note": [
+              "Foundation for Christian ministry and church service",
+              "Prepares lay leaders for effective church work"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Theology (Dip.Th.)",
+        "career": [
+          "Church Worker",
+          "Assistant Pastor",
+          "Lay Minister",
+          "Church Administrator",
+          "Youth Pastor",
+          "Evangelism Coordinator",
+          "Ministry Assistant",
+          "Church Educator",
+          "Mission Worker",
+          "Pastoral Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": ["Ghanaian Students: GHC 3,500 - 5,000 per year", "Total programme: GHC 7,000 - 10,000", "Application fee: GHC 300"],
+            "duration": "2 years",
+            "electives": [
+              "Biblical Studies",
+              "Systematic Theology",
+              "Church History",
+              "Pastoral Ministry",
+              "Christian Ethics",
+              "Homiletics"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 55,000 annually",
+              "USA: $32,000 - $75,000",
+              "Europe: €28,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time options",
+              "Practical ministry training",
+              "Field work and internships"
+            ],
+            "entry_requirements": [
+              "WASSCE with Credits in English and other subjects",
+              "Mature students accepted (25+ with entrance exam)",
+              "Christian commitment required",
+              "Church recommendation"
+            ],
+            "level_note": [
+              "Foundation diploma for theological education",
+              "Pathway to Bachelor of Theology programme"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Theology (BTh)",
+        "career": [
+          "Pastor",
+          "Minister",
+          "Chaplain",
+          "Youth Pastor",
+          "Missionary",
+          "Church Planter",
+          "Church Administrator",
+          "Religious Educator",
+          "Parish Priest",
+          "Ministry Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 4,500 - 6,500 per year", "Total programme: GHC 13,500 - 19,500", "Application fee: GHC 300"],
+            "duration": "3 to 4 years",
+            "electives": [
+              "Biblical Studies",
+              "Systematic Theology",
+              "Church History",
+              "Pastoral Ministry",
+              "Homiletics",
+              "Christian Ethics",
+              "Practical Theology",
+              "Counseling"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 75,000 annually",
+              "USA: $40,000 - $95,000",
+              "Europe: €35,000 - €80,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time residential programme",
+              "Fieldwork and practical ministry",
+              "Chapel services and spiritual formation"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (C6 or better) in English, Mathematics, and relevant subjects",
+              "Mature students: Age 25+, entrance exam (GHC 100 per paper)",
+              "Christian commitment and church membership",
+              "Application fee GHC 300"
+            ],
+            "level_note": [
+              "Strong foundation for ministry and theological scholarship",
+              "Ecumenical education serving Protestant denominations"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Theology (MTh)",
+        "career": [
+          "University Lecturer",
+          "Seminary Professor",
+          "Theological Researcher",
+          "Pastor-Scholar",
+          "Denominational Leader",
+          "Theological Educator",
+          "PhD Candidate",
+          "Research Fellow",
+          "Church Historian",
+          "Academic Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 7,000 - 10,000 per year", "Total programme: GHC 14,000 - 20,000", "Application fee: GHC 300"],
+            "duration": "2 to 3 years",
+            "electives": [
+              "Advanced Systematic Theology",
+              "Advanced Biblical Studies",
+              "Theological Research Methods",
+              "African Theology",
+              "Pastoral Theology",
+              "Thesis Research"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 130,000 annually",
+              "USA: $65,000 - $140,000",
+              "Europe: €55,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive programme",
+              "Thesis required",
+              "Seminars and colloquia"
+            ],
+            "entry_requirements": [
+              "First degree (minimum Second Class Lower) in Theology or related field",
+              "Commitment to Christian ministry",
+              "Official transcripts and certificates",
+              "Two passport-size photographs",
+              "Application fee GHC 300"
+            ],
+            "level_note": [
+              "Prepares for PhD and university teaching positions",
+              "Advanced theological research and scholarship"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Ministry (MAM)",
+        "career": [
+          "Pastor",
+          "Ministry Director",
+          "Chaplain",
+          "Counselor",
+          "Missionary",
+          "Church Administrator",
+          "Pastoral Care Specialist",
+          "Evangelism Coordinator",
+          "Youth Pastor",
+          "Ministry Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 8,000 - 12,000 total", "Application fee: GHC 300"],
+            "duration": "12 months (Evening programme)",
+            "electives": [
+              "Counselling & Pastoral Care",
+              "Mission & Evangelism",
+              "Practical Theology",
+              "Ministry Leadership",
+              "Contemporary Church Issues",
+              "Spiritual Formation"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 120,000 annually",
+              "USA: $55,000 - $125,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening programme for working professionals",
+              "Two specializations: Counselling & Pastoral Care; Mission & Evangelism",
+              "12-month intensive format"
+            ],
+            "entry_requirements": [
+              "First degree (minimum Second Class Lower) in any field",
+              "Commitment to and involvement in Christian Ministry",
+              "Official transcripts and certified certificates",
+              "Two passport-size photographs",
+              "Application deadline: 31st March 2025"
+            ],
+            "level_note": [
+              "Flexible evening programme designed for working ministers",
+              "Practical ministry focus with specialization options"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Divinity (MDiv)",
+        "career": [
+          "Senior Pastor",
+          "Minister",
+          "Chaplain",
+          "Theological Educator",
+          "Church Planter",
+          "Denominational Leader",
+          "Seminary Instructor",
+          "Missionary",
+          "Parish Priest",
+          "Ministry Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 8,000 - 12,000 per year", "Total programme: GHC 16,000 - 24,000", "Application fee: GHC 300"],
+            "duration": "2 to 3 years",
+            "electives": [
+              "Advanced Biblical Studies",
+              "Systematic Theology",
+              "Church History",
+              "Pastoral Ministry",
+              "Homiletics",
+              "Counseling",
+              "Mission Studies",
+              "Practical Theology"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 125,000 annually",
+              "USA: $55,000 - $130,000",
+              "Europe: €50,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time professional ministry degree",
+              "Comprehensive theological training",
+              "Fieldwork and practical ministry required"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower)",
+              "Strong commitment to Christian ministry",
+              "Church recommendation",
+              "Official transcripts and certificates",
+              "Application fee GHC 300"
+            ],
+            "level_note": [
+              "Professional ministry degree for pastoral leadership",
+              "Comprehensive preparation for ordained ministry"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Theological Studies (MATS)",
+        "career": [
+          "Theological Educator",
+          "Seminary Instructor",
+          "Religious Studies Teacher",
+          "Theological Researcher",
+          "Church Educator",
+          "Curriculum Developer",
+          "PhD Candidate",
+          "Academic Researcher",
+          "Theological Writer",
+          "Ministry Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": ["Ghanaian Students: GHC 7,000 - 10,000 per year", "Total programme: GHC 14,000 - 20,000", "Application fee: GHC 300"],
+            "duration": "2 years",
+            "electives": [
+              "Theological Studies",
+              "Biblical Interpretation",
+              "Church History",
+              "Systematic Theology",
+              "Research Methods",
+              "Contemporary Theology"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 120,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €52,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Academic theological studies",
+              "Research and seminars",
+              "Thesis or major project"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree (minimum Second Class Lower) in Theology or related field",
+              "Official transcripts and certified certificates",
+              "Two passport-size photographs",
+              "Research interest statement",
+              "Application fee GHC 300"
+            ],
+            "level_note": [
+              "Academic theological training for teaching and research",
+              "Preparation for PhD studies and theological scholarship"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Doctor of Ministry (DMin)",
+        "career": [
+          "Senior Pastor",
+          "Seminary President",
+          "Denominational Executive",
+          "Church Consultant",
+          "Theological Educator",
+          "Ministry Trainer",
+          "Leadership Development Director",
+          "Chaplain Supervisor",
+          "Mission Director",
+          "University Professor"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate",
+            "fees": ["Ghanaian Students: GHC 10,000 - 14,000 per year", "Total programme: GHC 30,000 - 42,000", "Application fee: GHC 300"],
+            "duration": "3 to 4 years",
+            "electives": [
+              "Advanced Ministry Practice",
+              "Leadership Development",
+              "Missional Church",
+              "Advanced Pastoral Theology",
+              "Research Methodology",
+              "Major Ministry Project"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 180,000 annually",
+              "USA: $80,000 - $160,000",
+              "Europe: €70,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Professional doctorate for ministry practitioners",
+              "Major ministry project required",
+              "Cohort-based learning"
+            ],
+            "entry_requirements": [
+              "Master's degree in Theology, Divinity or Ministry (minimum Second Class Upper)",
+              "Significant ministry experience (typically 5+ years)",
+              "Church or organization endorsement",
+              "Research proposal",
+              "Application fee GHC 300"
+            ],
+            "level_note": [
+              "Highest professional degree for ministry practice",
+              "Focus on advanced ministry leadership and strategic thinking"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
