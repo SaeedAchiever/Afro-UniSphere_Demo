@@ -1,0 +1,1731 @@
+[
+  {
+    "name": "University of Media, Arts and Communication"
+  },
+  {
+    "faculty_name": "Undergraduate Programmes",
+    "note": [
+      "The University of Media, Arts and Communication (UniMAC) was established in 2020 through the merger of the Ghana Institute of Journalism (GIJ), Ghana Institute of Languages (GIL), and the National Film and Television Institute (NAFTI).",
+      "UniMAC is Ghana's specialised public university for media, communication, film, and language education, offering programmes through its three constituent institutes: Institute of Journalism, Institute of Film and Television, and Institute of Languages."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Arts in Communication Studies (Journalism Option) – Print, Broadcast and Online",
+        "career": [
+          "Journalist (Print/Broadcast/Online)",
+          "News Editor",
+          "Investigative Reporter",
+          "Media House Manager",
+          "News Anchor",
+          "Foreign Correspondent",
+          "Editorial Writer",
+          "Multimedia Journalist",
+          "Fact-Checker/Verification Specialist",
+          "Freelance Journalist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "News Writing and Reporting",
+              "Investigative Journalism",
+              "Digital Journalism and Online Media",
+              "Broadcast News Production",
+              "Media Law and Ethics",
+              "Data Journalism"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and practical newsroom sessions",
+              "Internships at media houses during programme"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Mature applicants: 25 years and above, must pass UniMAC special entrance examination in English, Mathematics, and Aptitude Test"
+            ],
+            "level_note": [
+              "Flagship journalism programme originally offered by the Ghana Institute of Journalism (GIJ).",
+              "Covers print, broadcast, and online journalism with emphasis on multimedia storytelling."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Communication Studies (Public Relations Option)",
+        "career": [
+          "Public Relations Officer",
+          "Corporate Communications Manager",
+          "Media Relations Specialist",
+          "Crisis Communications Manager",
+          "Government Spokesperson",
+          "Event Communications Coordinator",
+          "Brand Communications Strategist",
+          "Public Affairs Officer",
+          "Communications Consultant",
+          "Reputation Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Public Relations Principles and Practice",
+              "Corporate Communication",
+              "Crisis and Risk Communication",
+              "Media Relations",
+              "Event Management",
+              "Strategic Communication Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 85,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €38,000 - €75,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and practical sessions",
+              "Industry internships and PR campaign projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Mature applicants: 25 years and above, must pass UniMAC special entrance examination"
+            ],
+            "level_note": [
+              "Trains professionals in strategic communication, media relations, and corporate reputation management.",
+              "Strong industry connections with PR firms and corporate communications departments across Ghana."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Broadcast Journalism (Radio, TV, and Online)",
+        "career": [
+          "Radio Presenter/Host",
+          "Television News Anchor",
+          "Broadcast Producer",
+          "Radio/TV Reporter",
+          "Podcast Producer",
+          "Online Video Journalist",
+          "News Director",
+          "Documentary Narrator",
+          "Broadcast Editor",
+          "Media Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,500 - 6,500 per semester (estimated 2025/2026, IFT rates)",
+              "International Students: USD 3,000 - 4,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Radio Production",
+              "Television Studio Production",
+              "Online Broadcasting and Streaming",
+              "Broadcast Scriptwriting",
+              "Audio and Video Editing",
+              "Broadcast Journalism Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $45,000 - $95,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus with practical radio and TV studio sessions",
+              "Field reporting exercises and industry attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Audition/portfolio review may be required for Institute of Film and Television programmes"
+            ],
+            "level_note": [
+              "Offered through UniMAC's Institute of Film and Television (formerly NAFTI).",
+              "Practical training in professional radio, television, and digital broadcast studios."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Journalism (Specialisation in Sports, Economics and Politics)",
+        "career": [
+          "Sports Journalist",
+          "Political Reporter",
+          "Economic/Business Journalist",
+          "Sports Commentator",
+          "Political Analyst/Commentator",
+          "Financial News Reporter",
+          "Parliamentary Correspondent",
+          "Sports Editor",
+          "Political Campaign Media Advisor",
+          "Business News Anchor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Sports Reporting and Commentary",
+              "Political Reporting and Analysis",
+              "Economic and Financial Journalism",
+              "Investigative Journalism",
+              "Media Law and Ethics",
+              "Digital Journalism Tools"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $48,000 - $100,000",
+              "Europe: €38,000 - €80,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus lectures with beat reporting practice",
+              "Internships at sports desks, parliamentary press corps, and business news outlets"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Mature applicants: 25 years and above, must pass UniMAC special entrance examination"
+            ],
+            "level_note": [
+              "Specialist journalism programme allowing students to focus on sports, economics, or political reporting.",
+              "Unique programme addressing Ghana's demand for expert beat journalists."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Public Relations with Marketing",
+        "career": [
+          "PR and Marketing Manager",
+          "Brand Manager",
+          "Marketing Communications Specialist",
+          "Digital Marketing Strategist",
+          "Corporate Affairs Manager",
+          "Campaign Manager",
+          "Market Research Analyst",
+          "Social Media Marketing Manager",
+          "Communications and Marketing Director",
+          "Advertising Account Executive"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Integrated Marketing Communication",
+              "Brand Management",
+              "Digital Marketing",
+              "Consumer Behaviour",
+              "Advertising Principles",
+              "Public Relations Campaign Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 95,000 annually",
+              "USA: $52,000 - $110,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Practical campaign projects and industry internships"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Mature applicants: 25 years and above, must pass UniMAC special entrance examination"
+            ],
+            "level_note": [
+              "Combines public relations strategy with marketing principles for versatile communication professionals.",
+              "Graduates are well-suited for roles bridging corporate communications and marketing departments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Development Communication",
+        "career": [
+          "Development Communication Specialist",
+          "NGO Communications Officer",
+          "Health Communication Specialist",
+          "Advocacy and Campaign Officer",
+          "Community Mobilisation Specialist",
+          "Social Behaviour Change Communication Officer",
+          "UN/International Development Communication Advisor",
+          "Government Communication Officer",
+          "Research and M&E Communication Specialist",
+          "Public Health Campaign Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Communication for Development Theory",
+              "Health Communication",
+              "Participatory Communication",
+              "Social Marketing",
+              "Media for Social Change",
+              "Community Media and Advocacy"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 90,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus with community fieldwork components",
+              "Internships at NGOs, international development agencies, and government institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Mature applicants: 25 years and above, must pass UniMAC special entrance examination"
+            ],
+            "level_note": [
+              "Prepares communicators to drive social change through strategic media and advocacy.",
+              "High demand from NGOs, UN agencies, and government development programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Business and Communication",
+        "career": [
+          "Corporate Communications Manager",
+          "Business Development Officer",
+          "Marketing Communications Manager",
+          "Entrepreneurship and Media Consultant",
+          "Business Journalist",
+          "Stakeholder Relations Manager",
+          "Strategic Communication Advisor",
+          "Corporate Affairs Officer",
+          "Public Affairs and Lobbying Specialist",
+          "Communication and Brand Strategist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Business Communication",
+              "Corporate Governance and Ethics",
+              "Financial Literacy for Communicators",
+              "Organisational Communication",
+              "Stakeholder Engagement",
+              "Entrepreneurship and Innovation"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 95,000 annually",
+              "USA: $50,000 - $105,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Industry attachment and case-based business communication projects"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Mature applicants: 25 years and above, must pass UniMAC special entrance examination"
+            ],
+            "level_note": [
+              "Interdisciplinary programme blending business management with strategic communication skills.",
+              "Equips graduates for roles at the intersection of corporate strategy and communications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Bilingual Business Administration",
+        "career": [
+          "Bilingual Business Executive",
+          "International Trade Officer",
+          "Diplomatic Service Officer",
+          "Bilingual Corporate Secretary",
+          "Translation and Business Consultant",
+          "International Marketing Manager",
+          "Cross-cultural Business Advisor",
+          "Bilingual Customer Relations Manager",
+          "Export/Import Trade Specialist",
+          "Francophone Market Liaison Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Business French",
+              "International Business Management",
+              "Cross-cultural Communication",
+              "Commercial Translation (English-French)",
+              "International Trade and Commerce",
+              "Business Ethics and Governance"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 100,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €90,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus with bilingual instruction (English and French)",
+              "Business internships at Francophone and international organisations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives; French is an advantage",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Mature applicants: 25 years and above, must pass UniMAC special entrance examination including French"
+            ],
+            "level_note": [
+              "Offered through UniMAC's Institute of Languages (formerly Ghana Institute of Languages - GIL).",
+              "Uniquely positions graduates for business roles across Francophone West Africa and international markets."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Translation",
+        "career": [
+          "Professional Translator",
+          "Conference Interpreter",
+          "Localisation Specialist",
+          "Subtitling/Dubbing Specialist",
+          "Diplomatic Interpreter",
+          "Court Interpreter",
+          "Translation Project Manager",
+          "Freelance Translator",
+          "UN/AU Language Professional",
+          "Technical Writer/Translator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Translation Theory and Practice",
+              "Simultaneous and Consecutive Interpreting",
+              "Legal and Technical Translation",
+              "Computer-Assisted Translation (CAT) Tools",
+              "Comparative Linguistics",
+              "Terminology Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus with language laboratory sessions",
+              "Translation workshops and interpreting booth practice"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and French as part of electives",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and French",
+              "Proficiency in French is required for admission"
+            ],
+            "level_note": [
+              "Ghana's premier translation training programme, offered through UniMAC's Institute of Languages.",
+              "Graduates serve as translators and interpreters for government, international organisations, and the private sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Arabic",
+        "career": [
+          "Arabic Language Teacher",
+          "Arabic-English Translator",
+          "Diplomatic Service Officer (Middle East Desk)",
+          "Islamic Studies Lecturer",
+          "Arabic Media Correspondent",
+          "Cultural Liaison Officer",
+          "International Relations Officer",
+          "Arabic Content Writer",
+          "NGO Programme Officer (Arabic-speaking regions)",
+          "Intelligence/Security Language Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Modern Standard Arabic",
+              "Arabic Literature",
+              "Arabic-English Translation",
+              "Islamic Civilisation and Culture",
+              "Arabic for Business and Diplomacy",
+              "Arabic Media and Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 75,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €38,000 - €80,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus with language laboratory immersion",
+              "Cultural exchange and study-abroad opportunities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives; prior Arabic knowledge is an advantage",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Mature applicants: 25 years and above, must pass UniMAC special entrance examination"
+            ],
+            "level_note": [
+              "Offered through UniMAC's Institute of Languages.",
+              "Addresses the growing demand for Arabic language professionals in Ghana's diplomatic, trade, and religious sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in French with Business Communication",
+        "career": [
+          "French Business Communication Specialist",
+          "Francophone Market Coordinator",
+          "French Language Teacher",
+          "International Business Liaison",
+          "Diplomatic Service Officer",
+          "French Media Correspondent",
+          "Export/Import Coordinator (Francophone Africa)",
+          "Cultural Affairs Officer",
+          "Bilingual Corporate Relations Officer",
+          "Translation and Interpretation Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,500 - 3,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced French Language",
+              "French for Business and Commerce",
+              "Professional Communication in French",
+              "Commercial Translation",
+              "Francophone African Literature",
+              "International Trade and Diplomacy"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36"
+            ],
+            "mode": [
+              "Full-time on-campus with language laboratory and bilingual instruction",
+              "Exchange programmes with Francophone universities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and French as part of electives",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and French",
+              "Proficiency in French is required"
+            ],
+            "level_note": [
+              "Combines French language mastery with business communication skills.",
+              "Strategic programme given Ghana's geographical position surrounded by Francophone nations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Fine Arts in Animation",
+        "career": [
+          "2D/3D Animator",
+          "Character Designer",
+          "Storyboard Artist",
+          "Animation Director",
+          "Motion Graphics Artist",
+          "Visual Effects Artist",
+          "Game Animation Designer",
+          "Animation Lecturer/Instructor",
+          "Freelance Animator",
+          "Animation Studio Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,500 - 6,500 per semester (estimated 2025/2026, IFT rates)",
+              "International Students: USD 3,000 - 4,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "2D Animation Techniques",
+              "3D Modelling and Animation",
+              "Character Design and Rigging",
+              "Visual Storytelling",
+              "Animation Software (Maya, Blender, After Effects)",
+              "History of Animation"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (plus portfolio/aptitude test)"
+            ],
+            "mode": [
+              "Full-time on-campus with intensive studio and lab sessions",
+              "Portfolio-based assessment and industry screenings"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Portfolio submission and/or aptitude test may be required",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives"
+            ],
+            "level_note": [
+              "Offered at UniMAC's Institute of Film and Television (formerly NAFTI) at East Cantonments, Accra.",
+              "One of the few accredited animation degree programmes in West Africa."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Fine Arts in Film Directing",
+        "career": [
+          "Film Director",
+          "Assistant Director",
+          "Screenwriter",
+          "Film Producer",
+          "Documentary Filmmaker",
+          "Music Video Director",
+          "Commercial Director",
+          "Casting Director",
+          "Film Festival Programmer",
+          "Film Studies Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,500 - 6,500 per semester (estimated 2025/2026, IFT rates)",
+              "International Students: USD 3,000 - 4,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Directing Actors",
+              "Screenwriting",
+              "Visual Storytelling and Mise-en-scène",
+              "Film Analysis and Criticism",
+              "Documentary Filmmaking",
+              "Production Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 100,000 annually",
+              "USA: $55,000 - $130,000",
+              "Europe: €40,000 - €95,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (plus portfolio/audition)"
+            ],
+            "mode": [
+              "Full-time on-campus with practical film production exercises",
+              "Short film productions and industry mentorship"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Portfolio and/or audition/interview required",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives"
+            ],
+            "level_note": [
+              "NAFTI/UniMAC-IFT has trained many of Ghana and Africa's leading filmmakers since 1978.",
+              "Students produce short films as part of graduation requirements."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Fine Arts in Television Production",
+        "career": [
+          "Television Producer",
+          "TV Director",
+          "Studio Floor Manager",
+          "Television Scriptwriter",
+          "TV Programme Commissioner",
+          "Live Events Producer",
+          "Reality TV Producer",
+          "TV Content Distributor",
+          "Broadcasting Manager",
+          "TV Production Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,500 - 6,500 per semester (estimated 2025/2026, IFT rates)",
+              "International Students: USD 3,000 - 4,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Television Studio Production",
+              "Multi-Camera Direction",
+              "TV Scriptwriting",
+              "Live Broadcasting Techniques",
+              "Post-Production for TV",
+              "Television Programme Formats"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 95,000 annually",
+              "USA: $50,000 - $120,000",
+              "Europe: €38,000 - €90,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (plus portfolio/aptitude test)"
+            ],
+            "mode": [
+              "Full-time on-campus with intensive TV studio practicals",
+              "Industry attachments at major broadcast stations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Portfolio and/or aptitude test may be required",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives"
+            ],
+            "level_note": [
+              "Trains specialists in multi-camera studio production and live broadcast operations.",
+              "Graduates work at GTV, TV3, JoyPrime, Citi TV, and other leading Ghanaian broadcasters."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Fine Arts in Production Design",
+        "career": [
+          "Production Designer",
+          "Art Director (Film/TV)",
+          "Set Designer",
+          "Props Master",
+          "Scenic Artist",
+          "Costume Designer",
+          "Visual Concept Artist",
+          "Theatre Set Designer",
+          "Location Manager",
+          "Production Design Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,500 - 6,500 per semester (estimated 2025/2026, IFT rates)",
+              "International Students: USD 3,000 - 4,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Set Design and Construction",
+              "Costume Design",
+              "Visual Concept Development",
+              "Model Making and Miniatures",
+              "Digital Set Design",
+              "Art Direction for Film and TV"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (plus portfolio/aptitude test)"
+            ],
+            "mode": [
+              "Full-time on-campus with workshop and studio sessions",
+              "Film set practicals and industry collaboration"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Portfolio submission showing artistic ability required",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives"
+            ],
+            "level_note": [
+              "Trains the visual architects of film and television productions.",
+              "Unique programme in Ghana focusing on the visual design of film and TV environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Fine Arts in Motion Picture Photography",
+        "career": [
+          "Cinematographer/Director of Photography",
+          "Camera Operator",
+          "Lighting Director",
+          "Aerial Cinematographer",
+          "Documentary Cinematographer",
+          "Music Video Cinematographer",
+          "Commercial/Advertising Photographer",
+          "Colour Grading Specialist",
+          "Steadicam Operator",
+          "Cinematography Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,500 - 6,500 per semester (estimated 2025/2026, IFT rates)",
+              "International Students: USD 3,000 - 4,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Lighting for Film",
+              "Camera Operation and Techniques",
+              "Digital Cinematography",
+              "Colour Science and Grading",
+              "Visual Composition and Framing",
+              "Documentary Photography"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 100,000 annually",
+              "USA: $55,000 - $130,000",
+              "Europe: €42,000 - €100,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (plus portfolio/aptitude test)"
+            ],
+            "mode": [
+              "Full-time on-campus with intensive practical cinematography sessions",
+              "On-location shoots and professional equipment training"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Portfolio of photography/visual work may be required",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives"
+            ],
+            "level_note": [
+              "Focuses on the art and science of visual storytelling through camera work and lighting.",
+              "Students train with professional cinema cameras and lighting equipment."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Fine Arts in Sound Production",
+        "career": [
+          "Sound Designer",
+          "Sound Mixer (Film/TV)",
+          "Foley Artist",
+          "Boom Operator",
+          "Audio Post-Production Engineer",
+          "Music Recording Engineer",
+          "Live Sound Engineer",
+          "Podcast Audio Producer",
+          "Sound Effects Editor",
+          "Sound Production Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,500 - 6,500 per semester (estimated 2025/2026, IFT rates)",
+              "International Students: USD 3,000 - 4,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Sound Recording Techniques",
+              "Sound Design for Film",
+              "Audio Post-Production and Mixing",
+              "Foley and Sound Effects",
+              "Music Production",
+              "Acoustics and Audio Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (plus aptitude test)"
+            ],
+            "mode": [
+              "Full-time on-campus with professional sound studio sessions",
+              "Film production practicals and industry attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Aptitude test in audio/sound awareness may be required",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives"
+            ],
+            "level_note": [
+              "Trains audio professionals for Ghana's film, music, and broadcast industries.",
+              "Students work in professional-grade sound studios at the Institute of Film and Television."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Fine Arts in Multimedia Production (Graphic Design, Web Design, Motion Graphics, Visual Effects, and 3D Modelling)",
+        "career": [
+          "Graphic Designer",
+          "Web Designer/Developer",
+          "Motion Graphics Artist",
+          "Visual Effects (VFX) Artist",
+          "3D Modeller",
+          "UI/UX Designer",
+          "Multimedia Producer",
+          "Creative Director",
+          "Digital Content Creator",
+          "Multimedia Production Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,500 - 6,500 per semester (estimated 2025/2026, IFT rates)",
+              "International Students: USD 3,000 - 4,500 per semester"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Graphic Design Principles",
+              "Web Design and Development",
+              "Motion Graphics and Visual Effects",
+              "3D Modelling and Rendering",
+              "Digital Illustration",
+              "Interactive Media Design"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 95,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (plus portfolio/aptitude test)"
+            ],
+            "mode": [
+              "Full-time on-campus with intensive computer lab and studio sessions",
+              "Portfolio-based projects and industry showcases"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects including English Language, Mathematics, and three relevant electives",
+              "Portfolio submission showing creative/design aptitude required",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and three relevant electives"
+            ],
+            "level_note": [
+              "Comprehensive multimedia programme covering graphic design, web, VFX, motion graphics, and 3D.",
+              "Offered at UniMAC's Institute of Film and Television (formerly NAFTI)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Communication Studies",
+        "career": [
+          "Junior Reporter",
+          "Media Assistant",
+          "Communications Assistant",
+          "Social Media Coordinator",
+          "Content Writer",
+          "Editorial Assistant",
+          "Public Relations Assistant",
+          "Newsroom Assistant",
+          "Media Monitoring Officer",
+          "Community Radio Presenter"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 3,500 - 4,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,000 - 3,000 per semester"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Journalism",
+              "Media and Society",
+              "Basic News Writing",
+              "Introduction to Public Relations",
+              "Communication Skills",
+              "Media Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 48,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE passes in core and elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and practical newsroom sessions",
+              "Supervised fieldwork and media attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in six subjects including English Language and Mathematics with minimum C6 in three relevant subjects",
+              "SSSCE: Passes (A-D) in six subjects including English Language and Mathematics",
+              "Mature applicants: 25 years and above"
+            ],
+            "level_note": [
+              "Foundation programme in communication and journalism.",
+              "Pathway to BA Communication Studies at UniMAC; Diploma holders with CGPA 2.5+ may enter Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Public Relations",
+        "career": [
+          "PR Assistant",
+          "Communications Coordinator",
+          "Event Planning Assistant",
+          "Social Media Assistant",
+          "Customer Relations Officer",
+          "Media Liaison Assistant",
+          "Community Engagement Officer",
+          "Office Administrator (PR firm)",
+          "Junior Campaign Coordinator",
+          "Brand Ambassador Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 3,500 - 4,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,000 - 3,000 per semester"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Public Relations",
+              "Communication Skills",
+              "Event Management Basics",
+              "Media Relations",
+              "Writing for PR",
+              "Introduction to Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 48,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE passes in core and elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and practical sessions",
+              "Industry attachment component"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in six subjects including English Language and Mathematics with minimum C6 in three relevant subjects",
+              "SSSCE: Passes (A-D) in six subjects including English Language and Mathematics",
+              "Mature applicants: 25 years and above"
+            ],
+            "level_note": [
+              "Foundation programme in public relations and communication management.",
+              "Pathway to BA Public Relations with Marketing or BA Communication Studies (PR Option) at UniMAC."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Bilingual Business Administration",
+        "career": [
+          "Bilingual Secretary",
+          "Office Administrator (Francophone organisations)",
+          "Junior Bilingual Business Executive",
+          "Receptionist (International firms)",
+          "Administrative Assistant",
+          "Translation Assistant",
+          "Customer Service Officer (Bilingual)",
+          "Data Entry Clerk (Bilingual)",
+          "Front Office Manager",
+          "Export Documentation Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 3,500 - 4,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,000 - 3,000 per semester"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Business French",
+              "Business English",
+              "Office Management",
+              "Commercial Correspondence (English/French)",
+              "Introduction to Business Administration",
+              "Keyboarding and Office Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $52,000",
+              "Europe: €26,000 - €45,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE passes in core and elective subjects including French"
+            ],
+            "mode": [
+              "Full-time on-campus with bilingual instruction",
+              "Internships at Francophone organisations and embassies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in six subjects including English Language, Mathematics, and French",
+              "SSSCE: Passes (A-D) in six subjects including English Language, Mathematics, and French",
+              "Mature applicants: 25 years and above, must pass entrance examination including French"
+            ],
+            "level_note": [
+              "Offered through UniMAC's Institute of Languages.",
+              "Previously known as HND in Bilingual Secretaryship; pathway to BA Bilingual Business Administration."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Arabic",
+        "career": [
+          "Arabic Language Assistant",
+          "Junior Translator (Arabic-English)",
+          "Islamic School Teacher",
+          "Cultural Liaison Assistant",
+          "Embassy/Consulate Administrative Assistant",
+          "NGO Field Assistant (Arabic-speaking regions)",
+          "Arabic Content Assistant",
+          "Tourism Officer (Arabic-speaking visitors)",
+          "Junior Arabic Media Correspondent",
+          "Arabic Language Tutor"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 3,500 - 4,200 per semester (estimated 2025/2026)",
+              "International Students: USD 2,000 - 3,000 per semester"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Elementary Arabic",
+              "Arabic Grammar and Composition",
+              "Arabic Reading and Comprehension",
+              "Islamic Culture and Civilisation",
+              "Arabic for Communication",
+              "Introduction to Arabic Literature"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - 42,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE passes in core and elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus with language immersion sessions",
+              "Cultural exchange activities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in six subjects including English Language and Mathematics",
+              "SSSCE: Passes (A-D) in six subjects including English Language and Mathematics",
+              "Prior Arabic knowledge is an advantage but not mandatory"
+            ],
+            "level_note": [
+              "Foundation programme in Arabic language offered through UniMAC's Institute of Languages.",
+              "Pathway to BA Arabic at UniMAC."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Postgraduate Programmes",
+    "note": [
+      "The School of Graduate Studies and Research (SoGSaR) at UniMAC coordinates all postgraduate programmes including taught master's, research master's, and the newly launched PhD in Media and Communication.",
+      "Postgraduate programmes are delivered in regular mode (lectures from 3pm weekdays) and weekend mode (Fridays and Saturdays), making them accessible to working professionals."
+    ],
+    "courses": [
+      {
+        "course_name": "Master of Arts in Journalism",
+        "career": [
+          "Senior Journalist",
+          "News Director",
+          "Editor-in-Chief",
+          "Media House Manager",
+          "Journalism Lecturer",
+          "Investigative Journalism Team Lead",
+          "Foreign Affairs Correspondent",
+          "Media Policy Advisor",
+          "News Bureau Chief",
+          "Digital Newsroom Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 12,500 - 14,000 per semester (estimated 2025/2026)",
+              "International Students: USD 4,500 - 6,000 per semester"
+            ],
+            "duration": "15 months (Regular or Weekend mode)",
+            "electives": [
+              "Advanced Investigative Journalism",
+              "Digital and Data Journalism",
+              "Media Law and Policy",
+              "Journalism Ethics and Standards",
+              "Multimedia Storytelling",
+              "Research Methods in Journalism"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 130,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €48,000 - €95,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular mode: Lectures from 3pm weekdays (Monday-Thursday)",
+              "Weekend mode: Fridays at 3pm and Saturdays at 7:30am"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Communication Studies from UniMAC or any accredited university with at least Second Class Lower Division",
+              "Bachelor's degree in other disciplines from a reputable university with at least Second Class Lower Division",
+              "Third Class degree holders with 4 years relevant working experience may apply"
+            ],
+            "level_note": [
+              "15-month intensive taught master's programme with dissertation component.",
+              "Delivered in partnership with industry practitioners from leading Ghanaian media houses."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Public Relations with Marketing",
+        "career": [
+          "PR Director",
+          "Marketing Communications Director",
+          "Chief Communications Officer",
+          "Corporate Affairs Director",
+          "Brand Strategy Consultant",
+          "Government Communications Advisor",
+          "PR Agency Managing Director",
+          "Integrated Marketing Manager",
+          "Reputation Management Consultant",
+          "Stakeholder Relations Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 12,500 - 14,000 per semester (estimated 2025/2026)",
+              "International Students: USD 4,500 - 6,000 per semester"
+            ],
+            "duration": "15 months (Regular or Weekend mode)",
+            "electives": [
+              "Advanced Public Relations Theory",
+              "Integrated Marketing Communications",
+              "Brand and Reputation Management",
+              "Digital Marketing Strategy",
+              "Stakeholder Engagement and Advocacy",
+              "Research Methods in PR"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 140,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €52,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular mode: Lectures from 3pm weekdays (Monday-Thursday)",
+              "Weekend mode: Fridays at 3pm and Saturdays at 7:30am"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Communication Studies from UniMAC or any accredited university with at least Second Class Lower Division",
+              "Bachelor's degree in other disciplines from a reputable university with at least Second Class Lower Division",
+              "Third Class degree holders with 4 years relevant working experience may apply"
+            ],
+            "level_note": [
+              "Combines advanced PR strategy with marketing management for senior communication roles.",
+              "15-month intensive programme with taught courses and dissertation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Media Management",
+        "career": [
+          "Media House General Manager",
+          "Broadcasting Director",
+          "Digital Media Director",
+          "Content Strategy Director",
+          "Media Entrepreneurship Consultant",
+          "Publishing House Manager",
+          "Media Investment Analyst",
+          "Streaming Platform Manager",
+          "Media Policy and Regulation Advisor",
+          "Media Company CEO"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 12,500 - 14,000 per semester (estimated 2025/2026)",
+              "International Students: USD 4,500 - 6,000 per semester"
+            ],
+            "duration": "15 months (Regular or Weekend mode)",
+            "electives": [
+              "Media Economics and Business Models",
+              "Digital Media Strategy",
+              "Media Law and Regulation",
+              "Leadership in Media Organisations",
+              "Audience Analytics and Metrics",
+              "Media Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 150,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €55,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular mode: Lectures from 3pm weekdays (Monday-Thursday)",
+              "Weekend mode: Fridays at 3pm and Saturdays at 7:30am"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Communication Studies from UniMAC or any accredited university with at least Second Class Lower Division",
+              "Bachelor's degree in other disciplines from a reputable university with at least Second Class Lower Division",
+              "Third Class degree holders with 4 years relevant working experience may apply"
+            ],
+            "level_note": [
+              "Equips professionals to lead and manage media enterprises in a rapidly evolving digital landscape.",
+              "Addresses the business side of media that traditional journalism programmes often overlook."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Development Communication",
+        "career": [
+          "Development Communication Director",
+          "UN/INGO Communication Advisor",
+          "Health Communication Specialist",
+          "Social Behaviour Change Communication Manager",
+          "Advocacy and Policy Communication Director",
+          "M&E Communication Specialist",
+          "Community Engagement Director",
+          "Government Communication Director",
+          "Social Marketing Manager",
+          "Development Research Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 12,500 - 14,000 per semester (estimated 2025/2026)",
+              "International Students: USD 4,500 - 6,000 per semester"
+            ],
+            "duration": "15 months (Regular or Weekend mode)",
+            "electives": [
+              "Communication for Social Change",
+              "Health Communication Strategies",
+              "Participatory Development Communication",
+              "ICT for Development",
+              "Development Policy and Communication",
+              "Research Methods in Development Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 140,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular mode: Lectures from 3pm weekdays (Monday-Thursday)",
+              "Weekend mode: Fridays at 3pm and Saturdays at 7:30am"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Communication Studies from UniMAC or any accredited university with at least Second Class Lower Division",
+              "Bachelor's degree in other disciplines from a reputable university with at least Second Class Lower Division",
+              "Third Class degree holders with 4 years relevant working experience may apply"
+            ],
+            "level_note": [
+              "Trains communication strategists for the international development sector.",
+              "High demand from NGOs, UN agencies, and government development agencies in Ghana and across Africa."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Strategic Public Relations Management",
+        "career": [
+          "Strategic PR Director",
+          "Chief Communications Officer",
+          "Government Spokesperson",
+          "Crisis Management Consultant",
+          "PR Agency Managing Partner",
+          "Corporate Reputation Director",
+          "Political Communication Advisor",
+          "Stakeholder Relations Director",
+          "Communications Strategy Consultant",
+          "International PR Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 12,500 - 14,000 per semester (estimated 2025/2026)",
+              "International Students: USD 4,500 - 6,000 per semester"
+            ],
+            "duration": "15 months (Regular or Weekend mode)",
+            "electives": [
+              "Strategic PR Planning and Management",
+              "Crisis Communication and Risk Management",
+              "Stakeholder Theory and Practice",
+              "Corporate Social Responsibility Communication",
+              "Digital PR and Social Media Strategy",
+              "Research Methods in PR"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 145,000 annually",
+              "USA: $70,000 - $135,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular mode: Lectures from 3pm weekdays (Monday-Thursday)",
+              "Weekend mode: Fridays at 3pm and Saturdays at 7:30am"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Communication Studies from UniMAC or any accredited university with at least Second Class Lower Division",
+              "Bachelor's degree in other disciplines from a reputable university with at least Second Class Lower Division",
+              "Third Class degree holders with 4 years relevant working experience may apply"
+            ],
+            "level_note": [
+              "Focuses on the strategic management dimension of public relations practice.",
+              "15-month intensive programme with dissertation component."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Arts in Political Communication Management",
+        "career": [
+          "Political Communication Strategist",
+          "Campaign Manager",
+          "Government Communications Director",
+          "Political Analyst",
+          "Public Policy Communications Advisor",
+          "Political Party Communications Director",
+          "Electoral Commission Communication Officer",
+          "Parliamentary Affairs Officer",
+          "Advocacy and Lobbying Director",
+          "Political Media Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 12,500 - 14,000 per semester (estimated 2025/2026)",
+              "International Students: USD 4,500 - 6,000 per semester"
+            ],
+            "duration": "15 months (Regular or Weekend mode)",
+            "electives": [
+              "Political Communication Theory",
+              "Campaign Communication and Strategy",
+              "Political Marketing",
+              "Government Communication and Public Affairs",
+              "Media and Democracy",
+              "Research Methods in Political Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 140,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular mode: Lectures from 3pm weekdays (Monday-Thursday)",
+              "Weekend mode: Fridays at 3pm and Saturdays at 7:30am"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Communication Studies from UniMAC or any accredited university with at least Second Class Lower Division",
+              "Bachelor's degree in other disciplines from a reputable university with at least Second Class Lower Division",
+              "Third Class degree holders with 4 years relevant working experience may apply"
+            ],
+            "level_note": [
+              "Interdisciplinary programme spanning politics, management, marketing, and communication.",
+              "Newly introduced programme addressing the growing intersection of media and politics in Africa."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Philosophy in Strategic Public Relations Management",
+        "career": [
+          "University Lecturer (PR/Communication)",
+          "Senior Research Fellow",
+          "PR Strategy Consultant",
+          "PhD Candidate",
+          "Communication Research Director",
+          "Public Relations Academic",
+          "Think Tank Research Analyst",
+          "Communication Policy Researcher",
+          "Academic Dean (Communication)",
+          "Senior Government Communication Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research)",
+            "fees": [
+              "Ghanaian Students: GHC 13,500 - 15,000 per semester (estimated 2025/2026)",
+              "International Students: USD 5,000 - 7,000 per semester"
+            ],
+            "duration": "24 months (Full-time)",
+            "electives": [
+              "Advanced PR Theory and Research",
+              "Qualitative Research Methods in Communication",
+              "Quantitative Research Methods",
+              "Critical Analysis of PR Practice",
+              "Contemporary Issues in Strategic Communication",
+              "Thesis Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 150,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €55,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular semester-based lectures with research supervision",
+              "Thesis required with original contribution to PR knowledge"
+            ],
+            "entry_requirements": [
+              "MA in Communication (Public Relations option) with CGPA of not less than 3.5",
+              "CGPA of 3.0 may be accepted if the applicant demonstrates strong research acumen",
+              "Must pass a selection interview"
+            ],
+            "level_note": [
+              "Research-intensive master's designed to produce scholars and researchers in public relations.",
+              "Direct pathway to PhD in Media and Communication at UniMAC."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Philosophy in Political Communication Management",
+        "career": [
+          "University Lecturer (Political Communication)",
+          "Senior Research Fellow",
+          "Political Communication Researcher",
+          "PhD Candidate",
+          "Think Tank Research Director",
+          "Communication Policy Advisor",
+          "Academic Dean (Media Studies)",
+          "Political Campaign Research Analyst",
+          "Democracy and Governance Researcher",
+          "Senior Government Strategy Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research)",
+            "fees": [
+              "Ghanaian Students: GHC 13,500 - 15,000 per semester (estimated 2025/2026)",
+              "International Students: USD 5,000 - 7,000 per semester"
+            ],
+            "duration": "24 months (Full-time)",
+            "electives": [
+              "Advanced Political Communication Theory",
+              "Research Design and Methodology",
+              "Media Effects and Public Opinion Research",
+              "Comparative Political Communication",
+              "New Media and Political Participation",
+              "Thesis Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 145,000 annually",
+              "USA: $65,000 - $135,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular semester-based lectures with research supervision",
+              "Thesis required with original contribution to political communication knowledge"
+            ],
+            "entry_requirements": [
+              "MA in Communication or related field with CGPA of not less than 3.5",
+              "CGPA of 3.0 may be accepted if the applicant demonstrates strong research acumen",
+              "Must pass a selection interview"
+            ],
+            "level_note": [
+              "Research-intensive programme training future academics in political communication.",
+              "Addresses the emerging field of political communication scholarship in Africa."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Philosophy in Political Communication Management (Top-Up)",
+        "career": [
+          "University Lecturer (Political Communication)",
+          "Senior Research Fellow",
+          "Political Communication Researcher",
+          "PhD Candidate",
+          "Think Tank Research Director",
+          "Communication Policy Advisor",
+          "Academic Dean (Media Studies)",
+          "Political Campaign Research Analyst",
+          "Democracy and Governance Researcher",
+          "Senior Government Strategy Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 13,500 - 15,000 per semester (estimated 2025/2026)",
+              "International Students: USD 5,000 - 7,000 per semester"
+            ],
+            "duration": "12 months",
+            "electives": [
+              "Advanced Research Methodology",
+              "Thesis Development Seminar",
+              "Contemporary Political Communication Research",
+              "Critical Review of Literature",
+              "Statistical Analysis for Communication Research",
+              "Thesis Writing Workshop"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 145,000 annually",
+              "USA: $65,000 - $135,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Intensive research supervision with seminar sessions",
+              "Thesis completion with original contribution to knowledge"
+            ],
+            "entry_requirements": [
+              "Must hold an MA in Political Communication Management or closely related field from UniMAC or accredited university",
+              "CGPA of not less than 3.0 in the MA programme",
+              "Must pass a selection interview and submit research proposal"
+            ],
+            "level_note": [
+              "Designed for MA holders who want to upgrade to an MPhil through thesis completion.",
+              "Accelerated pathway to research master's for professionals already holding a taught MA."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Doctor of Philosophy in Media and Communication",
+        "career": [
+          "University Professor",
+          "Senior Research Fellow",
+          "Media Policy Advisor",
+          "Chief Communications Strategist",
+          "Dean of Faculty (Communication/Media)",
+          "Think Tank Director",
+          "Communication Research Director",
+          "International Development Communication Advisor",
+          "Government Chief Information Officer",
+          "Media Industry Thought Leader"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctoral",
+            "fees": [
+              "Ghanaian Students: GHC 17,250 per year (Year One, subject to review)",
+              "International Students: USD 6,000 - 8,000 per year"
+            ],
+            "duration": "3 - 5 years",
+            "electives": [
+              "Advanced Communication Theory",
+              "Philosophy of Social Science Research",
+              "Advanced Quantitative Methods",
+              "Advanced Qualitative Methods",
+              "Media and Communication Seminar",
+              "Doctoral Research Colloquium"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 280,000 annually",
+              "USA: $90,000 - $200,000",
+              "Europe: €70,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Blended mode: virtual and in-person lectures",
+              "Collaboration with Virginia Tech University (USA) and Nelson Mandela University (South Africa)"
+            ],
+            "entry_requirements": [
+              "Master's degree in a communication-related field from an accredited university with CGPA of 3.0 and above",
+              "MPhil or MFA in a communication-related field from an accredited university",
+              "At least grade B in master's Dissertation/Thesis; must submit a 3,000-word research proposal and pass selection interview"
+            ],
+            "level_note": [
+              "UniMAC's first doctoral programme, launched in November 2024 under the School of Graduate Studies and Research (SoGSaR).",
+              "Specialisation strands: Media and Journalism, Political Communication, Public Relations, Marketing and Advertising, Development Communication, and Theatre Studies."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
