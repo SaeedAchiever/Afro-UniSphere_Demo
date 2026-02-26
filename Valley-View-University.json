@@ -3,6 +3,1514 @@
     "name": "Valley View University"
   },
   {
+    "faculty_name": "School of Education",
+    "note": [
+      "The School of Education at Valley View University prepares professional teachers for basic, secondary, and tertiary institutions in Ghana.",
+      "Programmes combine strong subject content with pedagogy, teaching practice, and Christian values in line with the university’s Seventh-day Adventist philosophy."
+    ],
+    "courses": [
+      {
+        "course_name": "B.Ed Social Studies",
+        "career": [
+          "Social Studies Teacher",
+          "Curriculum Developer",
+          "Education Officer",
+          "School Administrator",
+          "Education Policy Analyst",
+          "Community Development Officer",
+          "NGO Education Program Coordinator",
+          "Educational Consultant",
+          "Textbook Content Developer",
+          "Youth Development Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 - 3,212 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "African Politics and Governance",
+              "Environmental Education",
+              "Civic Education and Human Rights",
+              "Contemporary Social Issues",
+              "Guidance and Counselling",
+              "Measurement and Evaluation in Education"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 72,000 annually",
+              "USA: $45,000 - $75,000",
+              "Europe: €32,000 - €55,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "School-based teaching practice and field experience"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, Integrated Science or Social Studies, plus three relevant electives",
+              "Holders of Cert 'A' or Diploma in Education may be admitted to higher levels",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Valley View University is Ghana's first chartered private university, a Seventh-day Adventist institution.",
+              "Emphasizes civic responsibility, citizenship education, and community engagement with supervised teaching practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Ed Mathematics",
+        "career": [
+          "Mathematics Teacher",
+          "Curriculum Specialist in Mathematics",
+          "Education Quality Assurance Officer",
+          "Educational Data Analyst",
+          "Assessment and Examination Officer",
+          "Education Consultant",
+          "STEM Program Coordinator",
+          "Instructional Coach",
+          "Education Research Assistant",
+          "Private Tutor/Training Instructor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 - 3,212 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Algebra for Teachers",
+              "Geometry and Trigonometry Education",
+              "Statistics for Teachers",
+              "Mathematics Teaching Methods",
+              "Use of Technology in Mathematics Education",
+              "Classroom Assessment in Mathematics"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 80,000 annually",
+              "USA: $48,000 - $80,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30"],
+            "mode": [
+              "Full-time classroom, tutorial and workshop sessions",
+              "School-based teaching practice with supervision"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including Core Mathematics, English Language, Integrated Science, plus three relevant electives including Elective Mathematics",
+              "Holders of Cert 'A' or Diploma in Education may apply",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Strong emphasis on pedagogical content knowledge for mathematics instruction in Ghanaian schools.",
+              "Graduates are qualified for GES postings and STEM-related teaching roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Ed Management",
+        "career": [
+          "Business Studies Teacher",
+          "School Administrator",
+          "Education Manager",
+          "Curriculum Coordinator",
+          "Training and Development Officer",
+          "Education Program Manager",
+          "Human Resource Officer (Education Sector)",
+          "NGO Program Officer",
+          "Educational Planner",
+          "Vocational Training Instructor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 - 3,212 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Management",
+              "Financial Management in Education",
+              "Human Resource Management in Education",
+              "Educational Planning and Administration",
+              "Organizational Behaviour",
+              "Entrepreneurship Education"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 75,000 annually",
+              "USA: $45,000 - $78,000",
+              "Europe: €33,000 - €58,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "School-based teaching practice and field experience"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, Integrated Science or Social Studies, plus three relevant electives (preferably Business Management, Accounting, Economics)",
+              "Holders of Cert 'A' or Diploma in Education may apply",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Combines management theory with education pedagogy for teaching business-related subjects.",
+              "Graduates qualify for GES postings and roles in educational administration."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Ed Accounting",
+        "career": [
+          "Accounting Teacher",
+          "School Bursar/Finance Officer",
+          "Education Accounts Officer",
+          "Curriculum Developer (Accounting)",
+          "Vocational Training Instructor",
+          "Educational Administrator",
+          "GES District Education Finance Officer",
+          "Private Tutor (Accounting)",
+          "NGO Finance and Education Officer",
+          "Examination Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 - 3,212 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Auditing Principles",
+              "Tax Accounting for Educators",
+              "Accounting Information Systems",
+              "Entrepreneurship Education"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 78,000 annually",
+              "USA: $46,000 - $78,000",
+              "Europe: €34,000 - €58,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Practical accounting lab sessions and teaching practice"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Core Mathematics, plus three relevant electives (preferably Accounting, Business Management, Economics or Cost Accounting)",
+              "Holders of Cert 'A' or Diploma in Education may apply",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Produces qualified accounting teachers for senior high schools and technical/vocational institutes.",
+              "Blends accounting expertise with strong pedagogical training."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MEd Educational Administration and Leadership",
+        "career": [
+          "School Principal/Headteacher",
+          "District Director of Education",
+          "Education Policy Analyst",
+          "University Administrator",
+          "Education Consultant",
+          "Curriculum Director",
+          "Education Program Manager (NGO/INGO)",
+          "Ministry of Education Officer",
+          "Quality Assurance Officer",
+          "Academic Dean"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 6,295 - 6,595 per semester (Year One)"
+            ],
+            "duration": "12 months (Full-time) or 24 months (Part-time/Sandwich)",
+            "electives": [
+              "Educational Leadership Theory",
+              "School Finance and Budgeting",
+              "Educational Policy Analysis",
+              "Human Resource Management in Education",
+              "Supervision of Instruction",
+              "Research Methods in Education"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 120,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Education or related field with at least Second Class Lower division",
+              "Third Class degree holders with at least 3 years post-qualification work experience may apply",
+              "PGDE holders with GPA of 3.0 or above may be considered for upgrade"
+            ],
+            "level_note": [
+              "Prepares education leaders for senior administrative roles in Ghana's education system.",
+              "Accredited by the Ghana Tertiary Education Commission (GTEC) and the Adventist Accrediting Association."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Postgraduate Diploma in Education",
+        "career": [
+          "Secondary School Teacher",
+          "Lecturer (Polytechnic/College of Education)",
+          "Curriculum Developer",
+          "Education Officer",
+          "Training Specialist",
+          "Education Consultant",
+          "Instructional Designer",
+          "Assessment Specialist",
+          "Corporate Trainer",
+          "Education Program Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Postgraduate Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 4,642 - 4,942 per semester (Year One)"
+            ],
+            "duration": "12 months (Full-time) or 24 months (Part-time)",
+            "electives": [
+              "Foundations of Education",
+              "Curriculum Development",
+              "Educational Psychology",
+              "Assessment and Evaluation",
+              "Teaching Methods and Pedagogy",
+              "Educational Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 85,000 annually",
+              "USA: $45,000 - $75,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions during school vacations",
+              "Blended learning with online and face-to-face components"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in any field from a recognized university",
+              "Suitable for non-education degree holders who want to teach",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "Designed for graduates from non-education backgrounds seeking professional teaching qualifications.",
+              "PGDE holders with GPA of 3.0 or better can upgrade to MEd within 5 years."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Ed Religions",
+        "career": [
+          "Religious and Moral Education Teacher",
+          "School Chaplain",
+          "Christian Education Director",
+          "Guidance and Counselling Officer",
+          "Church Education Secretary",
+          "Curriculum Developer (Religious Studies)",
+          "Youth Ministry Coordinator",
+          "NGO Community Development Officer",
+          "Interfaith Dialogue Facilitator",
+          "Education Officer (Faith-based Organizations)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 - 3,212 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Comparative Religion",
+              "African Traditional Religion",
+              "Islamic Studies",
+              "Christian Ethics",
+              "Philosophy of Religion",
+              "Moral Education Pedagogy"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 68,000 annually",
+              "USA: $40,000 - $70,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "School-based teaching practice and community engagement"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives (preferably Christian Religious Studies, Islamic Studies, or related subjects)",
+              "Holders of Cert 'A' or Diploma in Education may apply",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Grounded in the Adventist educational philosophy emphasizing spiritual and academic excellence.",
+              "Graduates qualify to teach Religious and Moral Education at basic and secondary school levels."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Ed Information Technology",
+        "career": [
+          "ICT Teacher",
+          "Educational Technology Specialist",
+          "IT Instructor (TVET)",
+          "School ICT Coordinator",
+          "Instructional Designer",
+          "E-learning Developer",
+          "Education Technology Consultant",
+          "Digital Literacy Trainer",
+          "IT Support Officer (Education Sector)",
+          "Curriculum Developer (ICT)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 - 3,212 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Computer Programming Fundamentals",
+              "Database Management Systems",
+              "Web Design and Development",
+              "Educational Software Applications",
+              "Networking Fundamentals",
+              "IT Project Management in Education"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 85,000 annually",
+              "USA: $50,000 - $85,000",
+              "Europe: €38,000 - €65,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 20 - 30"],
+            "mode": [
+              "Full-time on-campus lectures with practical IT lab sessions",
+              "School-based ICT teaching practice with supervision"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including Core Mathematics, English Language, plus three relevant electives (preferably ICT, General Knowledge in Art, or Elective Mathematics)",
+              "Holders of Diploma in IT or Education may apply",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Combines IT expertise with teacher education pedagogy for schools and training institutions.",
+              "Aligned with Ghana's push for digital literacy across all educational levels."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Education in Music",
+        "career": [
+          "Music Teacher",
+          "Music Director (Schools/Churches)",
+          "Performing Arts Coordinator",
+          "Music Curriculum Developer",
+          "Choir Director",
+          "Music Therapist Assistant",
+          "Cultural Arts Officer",
+          "Music Event Coordinator",
+          "Private Music Instructor",
+          "Arts Education Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 - 3,212 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "African Music and Dance",
+              "Music Theory and Composition",
+              "Choral Conducting",
+              "Instrumental Performance",
+              "Music Technology",
+              "History of Western Music"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 70,000 annually",
+              "USA: $40,000 - $72,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (plus audition/aptitude test)"
+            ],
+            "mode": [
+              "Full-time on-campus with practical music studio sessions",
+              "Ensemble rehearsals, recitals, and teaching practice"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives (preferably Music)",
+              "Applicants may be required to pass a music aptitude/audition test",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Combines music performance and theory with professional teacher education training.",
+              "Valley View University is one of few Ghanaian private universities offering a dedicated B.Ed in Music."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Music",
+        "career": [
+          "Music Instructor (Basic Schools)",
+          "Church Music Director",
+          "Choir Leader",
+          "Music Studio Assistant",
+          "Performing Artist",
+          "Cultural Events Coordinator",
+          "Music Arranger",
+          "Community Music Facilitator",
+          "Sound Crew Member",
+          "Music Production Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 - 3,212 per semester (Tuition + General fees)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Introduction to Music Theory",
+              "African Drumming and Dance",
+              "Vocal Training",
+              "Keyboard Studies",
+              "Music Appreciation",
+              "Basics of Music Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
+            "mode": [
+              "Full-time on-campus with practical studio sessions",
+              "Ensemble and performance workshops"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes (A1-C6/A-D) in at least five subjects including English Language and Mathematics",
+              "Music aptitude/audition test may be required",
+              "Mature applicants: 25 years and above"
+            ],
+            "level_note": [
+              "Foundation programme in music that serves as a pathway to the B.Ed Music degree.",
+              "Practical skills development in vocal and instrumental performance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Sound Engineering",
+        "career": [
+          "Sound Engineer",
+          "Audio Technician",
+          "Live Sound Operator",
+          "Studio Recording Engineer",
+          "Broadcast Audio Technician",
+          "Church Sound Technician",
+          "Event Sound Manager",
+          "Podcast/Media Audio Editor",
+          "Music Production Assistant",
+          "PA System Operator"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 2,500 - 4,000 per programme"
+            ],
+            "duration": "6 - 12 months",
+            "electives": [
+              "Introduction to Acoustics",
+              "Audio Signal Processing",
+              "Mixing and Mastering",
+              "Live Sound Reinforcement",
+              "Studio Recording Techniques",
+              "Digital Audio Workstations (DAWs)"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 55,000 annually",
+              "USA: $35,000 - $70,000",
+              "Europe: €28,000 - €55,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Intensive practical sessions with hands-on studio equipment",
+              "Flexible schedule with weekend and evening options"
+            ],
+            "entry_requirements": [
+              "Minimum WASSCE/SSSCE pass or equivalent",
+              "Interest in audio engineering and music technology",
+              "Basic computer literacy preferred"
+            ],
+            "level_note": [
+              "Hands-on training in professional studio and live sound environments.",
+              "Pathway to careers in Ghana's growing media and entertainment industry."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Early Childhood Education",
+        "career": [
+          "Early Childhood Educator",
+          "Kindergarten Teacher",
+          "Preschool Teacher",
+          "Daycare Centre Manager",
+          "Child Development Officer",
+          "Early Childhood Programme Coordinator",
+          "Nursery School Proprietor",
+          "Childcare Specialist",
+          "Community Child Education Facilitator",
+          "Education NGO Fieldworker"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 2,000 - 3,500 per programme"
+            ],
+            "duration": "6 - 12 months",
+            "electives": [
+              "Child Development and Psychology",
+              "Creative Arts for Young Learners",
+              "Language and Literacy in Early Childhood",
+              "Play-based Learning Methods",
+              "Health, Safety and Nutrition for Children",
+              "Classroom Management for Young Learners"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - 45,000 annually",
+              "USA: $28,000 - $48,000",
+              "Europe: €22,000 - €40,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Practical classroom observation and teaching practice",
+              "Flexible schedule with weekend options"
+            ],
+            "entry_requirements": [
+              "Minimum WASSCE/SSSCE pass or equivalent",
+              "Interest in early childhood education",
+              "Experience working with children is an advantage"
+            ],
+            "level_note": [
+              "Equips practitioners with foundational skills for early childhood teaching and care.",
+              "Serves as a stepping stone to diploma and degree programmes in education."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Ed English Language",
+        "career": [
+          "English Language Teacher",
+          "Curriculum Developer (English/Language Arts)",
+          "Education Officer (Language Education)",
+          "Literature Teacher",
+          "Communications Officer",
+          "Instructional Coach (English)",
+          "IELTS/TOEFL Preparation Instructor",
+          "Textbook Editor/Writer",
+          "Education Consultant (Literacy)",
+          "Language Programme Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 - 3,212 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Phonetics and Phonology",
+              "Syntax and Morphology",
+              "Sociolinguistics",
+              "Literature in English",
+              "Language Teaching Methodology",
+              "Second Language Acquisition"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 72,000 annually",
+              "USA: $45,000 - $78,000",
+              "Europe: €33,000 - €58,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "School-based teaching practice with supervision"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language (mandatory, strong pass expected), Mathematics, plus three relevant electives (preferably Literature in English)",
+              "Holders of Cert 'A' or Diploma in Education may apply",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Develops skilled English language educators with strong linguistics and literature foundations.",
+              "Graduates qualify for GES postings as professional English Language teachers."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Science",
+    "note": [
+      "The Faculty of Science offers rigorous science and technology programmes designed to address Ghana’s development needs in IT, agriculture, mathematics, and engineering.",
+      "Students benefit from modern laboratories, industry attachments, and research-oriented teaching that integrates faith and learning."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Information Technology",
+        "career": [
+          "Software Developer",
+          "Systems Administrator",
+          "Network Engineer",
+          "Database Administrator",
+          "IT Project Manager",
+          "Web Developer",
+          "IT Consultant",
+          "Cybersecurity Analyst",
+          "Cloud Solutions Architect",
+          "IT Support Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,441 - 4,741 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Software Engineering",
+              "Database Management Systems",
+              "Computer Networking",
+              "Web Application Development",
+              "Operating Systems",
+              "Information Security"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 120,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 15 - 24"],
+            "mode": [
+              "Full-time on-campus lectures with practical IT lab sessions",
+              "Industry attachment and project-based learning"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including Core Mathematics, English Language, Integrated Science, plus three relevant electives (preferably Elective Mathematics, ICT, Physics)",
+              "HND holders in relevant field with Second Class Lower may enter at Level 200/300",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Comprehensive IT programme covering software development, networking, and systems administration.",
+              "Faculty of Science programmes include practical lab work and industry-aligned projects."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Mathematics with Economics",
+        "career": [
+          "Economist",
+          "Statistician",
+          "Data Analyst",
+          "Actuarial Analyst",
+          "Financial Analyst",
+          "Research Analyst",
+          "Policy Analyst",
+          "Quantitative Analyst",
+          "Operations Research Analyst",
+          "Academic Researcher/Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,441 - 4,741 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Mathematical Analysis",
+              "Microeconomics",
+              "Macroeconomics",
+              "Econometrics",
+              "Operations Research",
+              "Linear Algebra"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 100,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €48,000 - €90,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 28"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Computational lab sessions and research projects"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including Core Mathematics, Elective Mathematics, English Language, plus relevant electives (preferably Economics, Physics, or Statistics)",
+              "Strong mathematical aptitude required",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Interdisciplinary programme combining advanced mathematics with economic theory and analysis.",
+              "Prepares graduates for analytical roles in finance, research, and public policy."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Agribusiness",
+        "career": [
+          "Agribusiness Manager",
+          "Agricultural Economist",
+          "Farm Operations Manager",
+          "Agricultural Marketing Officer",
+          "Commodity Trader",
+          "Agricultural Extension Officer",
+          "Supply Chain Manager (Agri-sector)",
+          "Food Industry Manager",
+          "Agricultural Finance Officer",
+          "Agri-tech Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,178 - 3,478 per semester (Agriculture fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Agricultural Economics",
+              "Farm Business Management",
+              "Agricultural Marketing",
+              "Agri-food Value Chain Management",
+              "Agricultural Finance and Credit",
+              "Entrepreneurship in Agriculture"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus with field practicals and farm visits",
+              "Industry attachment in agribusiness firms"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Core Mathematics, Integrated Science, plus three relevant electives (preferably General Agriculture, Biology, Economics)",
+              "HND in Agriculture or related field may be considered",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Focuses on the business and management aspects of Ghana's agricultural sector.",
+              "Hands-on learning at VVU's on-campus farm and partner agribusiness enterprises."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Business Information Systems",
+        "career": [
+          "Business Systems Analyst",
+          "IT Business Analyst",
+          "ERP Consultant",
+          "Information Systems Manager",
+          "Business Intelligence Analyst",
+          "IT Project Manager",
+          "Systems Integrator",
+          "Data Analyst",
+          "Digital Transformation Consultant",
+          "Process Improvement Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,441 - 4,741 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Systems Analysis and Design",
+              "Enterprise Resource Planning",
+              "Business Process Management",
+              "Management Information Systems",
+              "E-Commerce Systems",
+              "Data Analytics for Business"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 110,000 annually",
+              "USA: $65,000 - $125,000",
+              "Europe: €52,000 - €95,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 28"],
+            "mode": [
+              "Full-time on-campus with IT lab and business case study sessions",
+              "Industry attachment and capstone project"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including Core Mathematics, English Language, Integrated Science, plus three relevant electives (preferably ICT, Business Management, Economics)",
+              "HND holders in IT or Business may enter at higher levels",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Bridges the gap between business management and information technology systems.",
+              "Graduates are well-suited for Ghana's growing demand for IT-savvy business professionals."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Computer Science",
+        "career": [
+          "University Professor/Lecturer",
+          "Research Scientist",
+          "Chief Technology Officer",
+          "AI/Machine Learning Researcher",
+          "Senior Data Scientist",
+          "IT Director",
+          "Research and Development Lead",
+          "Technology Policy Advisor",
+          "Computer Science Department Head",
+          "Consultant (Advanced Computing)"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctoral",
+            "fees": [
+              "Ghanaian Students: USD 2,000 per semester (paid in GHC equivalent), approximately GHC 18,550 - 35,500 per semester"
+            ],
+            "duration": "3 years (Full-time) or 4 years (Part-time)",
+            "electives": [
+              "Advanced Machine Learning",
+              "Cybersecurity and Digital Forensics",
+              "Data Science and Big Data Analytics",
+              "High Performance Computing",
+              "Advanced Algorithms and Complexity",
+              "Internet of Things and Smart Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 250,000 annually",
+              "USA: $120,000 - $250,000",
+              "Europe: €90,000 - €180,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive with coursework in specialization tracks",
+              "Thesis/dissertation required with original contribution to knowledge"
+            ],
+            "entry_requirements": [
+              "Research master's degree (MPhil or equivalent) in Computer Science or related field with GPA of at least 2.7",
+              "Non-research master's (MSc) holders with GPA of 2.7 or better may apply after satisfying additional requirements",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "VVU's PhD CS offers three specialization tracks: Machine Learning, Cybersecurity, and Data Science.",
+              "One of a few private universities in Ghana offering a doctoral programme in Computer Science."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Computer Science",
+        "career": [
+          "Software Architect",
+          "Data Scientist",
+          "Machine Learning Engineer",
+          "Cybersecurity Specialist",
+          "IT Manager",
+          "Systems Analyst",
+          "Cloud Computing Engineer",
+          "Research Scientist",
+          "Technology Consultant",
+          "University Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,132 - 8,962 per semester (MPhil/MSc rates)"
+            ],
+            "duration": "12 months (Full-time) or 24 months (Part-time)",
+            "electives": [
+              "Advanced Software Engineering",
+              "Machine Learning and AI",
+              "Computer Networks and Security",
+              "Cloud Computing",
+              "Database Systems and Data Mining",
+              "Research Methods in Computing"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 150,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €75,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular semester-based lectures with practical lab sessions",
+              "Research dissertation component required"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Computer Science, IT, or related field with at least Second Class Lower division",
+              "Third Class holders with 3 years relevant work experience may apply",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "Advanced programme building on VVU's strength in computing and information technology.",
+              "Prepares graduates for senior technical roles or progression to PhD studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Agriculture",
+        "career": [
+          "Agricultural Officer",
+          "Farm Manager",
+          "Agricultural Extension Agent",
+          "Crop Scientist",
+          "Soil Scientist",
+          "Agricultural Researcher",
+          "Agronomist",
+          "Plantation Manager",
+          "Agricultural Policy Analyst",
+          "Environmental Conservation Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,178 - 3,478 per semester (Agriculture fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Crop Science",
+              "Animal Science",
+              "Soil Science",
+              "Agricultural Engineering",
+              "Plant Pathology",
+              "Agricultural Extension Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus with field practicals and farm work",
+              "Industry attachment at agricultural research stations"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Core Mathematics, Integrated Science, plus three relevant electives (preferably General Agriculture, Biology, Chemistry)",
+              "HND in Agriculture or related field may be considered",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Comprehensive agricultural science programme with both theoretical and practical components.",
+              "VVU's Oyibi campus provides on-site farm facilities for hands-on student training."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Information Technology",
+        "career": [
+          "IT Support Technician",
+          "Help Desk Analyst",
+          "Junior Web Developer",
+          "Network Technician",
+          "Data Entry Specialist",
+          "Hardware Technician",
+          "IT Sales Representative",
+          "Desktop Support Specialist",
+          "Junior Systems Administrator",
+          "Technical Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 4,441 - 4,741 per semester (Faculty of Science Diploma rates)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Introduction to Programming",
+              "Computer Hardware and Maintenance",
+              "Networking Fundamentals",
+              "Database Basics",
+              "Web Development Fundamentals",
+              "IT Support and Troubleshooting"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 55,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €28,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
+            "mode": [
+              "Full-time on-campus with practical IT lab sessions",
+              "Blended learning approach"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in at least five subjects including English Language and Mathematics",
+              "Basic interest in computing and technology",
+              "Mature applicants: 25 years and above"
+            ],
+            "level_note": [
+              "Foundation programme providing essential IT skills for entry-level roles.",
+              "Pathway to BSc Information Technology or BSc Business Information Systems at VVU."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Mathematics with Statistics",
+        "career": [
+          "Statistician",
+          "Biostatistician",
+          "Data Analyst",
+          "Research Analyst",
+          "Actuarial Analyst",
+          "Survey Statistician",
+          "Quantitative Researcher",
+          "Operations Research Analyst",
+          "Academic Lecturer",
+          "Financial Risk Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,441 - 4,741 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Probability Theory",
+              "Statistical Inference",
+              "Regression Analysis",
+              "Time Series Analysis",
+              "Sampling Techniques",
+              "Mathematical Modelling"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 100,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €48,000 - €90,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 28"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Computational lab sessions using statistical software"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including Core Mathematics, Elective Mathematics, English Language, plus relevant electives (preferably Physics, Statistics, or Economics)",
+              "Strong mathematical aptitude required",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Rigorous programme combining pure mathematics with applied statistical methods.",
+              "High demand for statistics graduates in Ghana's public sector, finance, and research institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Computer Science",
+        "career": [
+          "Junior Programmer",
+          "IT Support Specialist",
+          "Computer Lab Technician",
+          "Help Desk Support",
+          "Data Entry Officer",
+          "Junior System Administrator",
+          "Technical Support Officer",
+          "Desktop Publisher",
+          "IT Sales Associate",
+          "Junior Database Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 4,441 - 4,741 per semester (Faculty of Science Diploma rates)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Introduction to Computer Science",
+              "Programming Fundamentals",
+              "Computer Architecture",
+              "Discrete Mathematics",
+              "Database Management",
+              "Operating Systems Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $32,000 - $58,000",
+              "Europe: €26,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
+            "mode": [
+              "Full-time on-campus with practical lab-based learning",
+              "Project-based assessments"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in at least five subjects including English Language and Mathematics",
+              "Basic computing knowledge preferred",
+              "Mature applicants: 25 years and above"
+            ],
+            "level_note": [
+              "Foundation-level programme introducing core computer science concepts.",
+              "Successful graduates can progress to BSc Computer Science or BSc Information Technology at VVU."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Biomedical Engineering",
+        "career": [
+          "Biomedical Engineer",
+          "Medical Equipment Technician",
+          "Clinical Engineer",
+          "Hospital Equipment Manager",
+          "Biomedical Equipment Sales Specialist",
+          "Medical Device Quality Assurance Officer",
+          "Health Technology Consultant",
+          "Research Scientist (Biomedical)",
+          "Rehabilitation Engineer",
+          "Regulatory Affairs Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,441 - 4,741 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Medical Instrumentation",
+              "Biomechanics",
+              "Bioelectronics",
+              "Medical Imaging Systems",
+              "Biomaterials",
+              "Hospital Equipment Maintenance"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 14 - 24"],
+            "mode": [
+              "Full-time on-campus with extensive laboratory and workshop sessions",
+              "Hospital clinical attachments and industry internships"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including Core Mathematics, English Language, Integrated Science, plus three science electives (preferably Physics, Chemistry, Elective Mathematics or Biology)",
+              "Strong science and mathematics background required",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "VVU is one of few Ghanaian universities offering Biomedical Engineering at the undergraduate level.",
+              "Graduates support Ghana's healthcare infrastructure through medical equipment maintenance and innovation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA Theological Studies",
+        "career": [
+          "Pastor/Minister",
+          "Church Administrator",
+          "Chaplain",
+          "Missionary",
+          "Theological Educator",
+          "Youth Ministry Director",
+          "Christian Counsellor",
+          "Church Planter",
+          "Religious NGO Officer",
+          "Seminary Instructor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,740 - 4,040 per semester (Tuition + General fees)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Old Testament Studies",
+              "New Testament Studies",
+              "Systematic Theology",
+              "Church History",
+              "Homiletics and Preaching",
+              "Pastoral Ministry and Counselling"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 80,000 annually (varies by denomination and role)",
+              "USA: $40,000 - $85,000",
+              "Europe: €32,000 - €65,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus with chapel services and ministry practicum",
+              "Field evangelism and community outreach components"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives (preferably Christian Religious Studies, Literature in English, or related subjects)",
+              "Commitment to Christian values and lifestyle as per VVU's Adventist principles",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Valley View University's founding programme, rooted in the Seventh-day Adventist educational tradition.",
+              "Graduates serve as pastors, educators, and leaders in churches across West Africa and beyond."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "School of Graduate Studies",
+    "note": [
+      "The School of Graduate Studies coordinates all postgraduate and research programmes across Valley View University.",
+      "It provides advanced training for professionals and researchers through flexible master’s and doctoral options supported by experienced faculty."
+    ],
+    "courses": [
+      {
+        "course_name": "MEd Educational Administration and Leadership",
+        "career": [
+          "School Principal/Headteacher",
+          "District Director of Education",
+          "Education Policy Analyst",
+          "University Administrator",
+          "Education Consultant",
+          "Curriculum Director",
+          "Education Program Manager (NGO/INGO)",
+          "Ministry of Education Officer",
+          "Quality Assurance Officer",
+          "Academic Dean"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 6,295 - 6,595 per semester (Year One)"
+            ],
+            "duration": "12 months (Full-time) or 24 months (Part-time/Sandwich)",
+            "electives": [
+              "Educational Leadership Theory",
+              "School Finance and Budgeting",
+              "Educational Policy Analysis",
+              "Human Resource Management in Education",
+              "Supervision of Instruction",
+              "Research Methods in Education"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 120,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Education or related field with at least Second Class Lower division",
+              "Third Class degree holders with at least 3 years post-qualification work experience may apply",
+              "PGDE holders with GPA of 3.0 or above may be considered for upgrade"
+            ],
+            "level_note": [
+              "Prepares education leaders for senior administrative roles in Ghana's education system.",
+              "Accredited by the Ghana Tertiary Education Commission (GTEC) and the Adventist Accrediting Association."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Postgraduate Diploma in Education",
+        "career": [
+          "Secondary School Teacher",
+          "Lecturer (Polytechnic/College of Education)",
+          "Curriculum Developer",
+          "Education Officer",
+          "Training Specialist",
+          "Education Consultant",
+          "Instructional Designer",
+          "Assessment Specialist",
+          "Corporate Trainer",
+          "Education Program Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Postgraduate Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 4,642 - 4,942 per semester (Year One)"
+            ],
+            "duration": "12 months (Full-time) or 24 months (Part-time)",
+            "electives": [
+              "Foundations of Education",
+              "Curriculum Development",
+              "Educational Psychology",
+              "Assessment and Evaluation",
+              "Teaching Methods and Pedagogy",
+              "Educational Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 85,000 annually",
+              "USA: $45,000 - $75,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions during school vacations",
+              "Blended learning with online and face-to-face components"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in any field from a recognized university",
+              "Suitable for non-education degree holders who want to teach",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "Designed for graduates from non-education backgrounds seeking professional teaching qualifications.",
+              "PGDE holders with GPA of 3.0 or better can upgrade to MEd within 5 years."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Computer Science",
+        "career": [
+          "Software Architect",
+          "Data Scientist",
+          "Machine Learning Engineer",
+          "Cybersecurity Specialist",
+          "IT Manager",
+          "Systems Analyst",
+          "Cloud Computing Engineer",
+          "Research Scientist",
+          "Technology Consultant",
+          "University Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,132 - 8,962 per semester (MPhil/MSc rates)"
+            ],
+            "duration": "12 months (Full-time) or 24 months (Part-time)",
+            "electives": [
+              "Advanced Software Engineering",
+              "Machine Learning and AI",
+              "Computer Networks and Security",
+              "Cloud Computing",
+              "Database Systems and Data Mining",
+              "Research Methods in Computing"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 150,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €75,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular semester-based lectures with practical lab sessions",
+              "Research dissertation component required"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Computer Science, IT, or related field with at least Second Class Lower division",
+              "Third Class holders with 3 years relevant work experience may apply",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "Advanced programme building on VVU's strength in computing and information technology.",
+              "Prepares graduates for senior technical roles or progression to PhD studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Computer Science",
+        "career": [
+          "University Professor/Lecturer",
+          "Research Scientist",
+          "Chief Technology Officer",
+          "AI/Machine Learning Researcher",
+          "Senior Data Scientist",
+          "IT Director",
+          "Research and Development Lead",
+          "Technology Policy Advisor",
+          "Computer Science Department Head",
+          "Consultant (Advanced Computing)"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctoral",
+            "fees": [
+              "Ghanaian Students: USD 2,000 per semester (paid in GHC equivalent), approximately GHC 18,550 - 35,500 per semester"
+            ],
+            "duration": "3 years (Full-time) or 4 years (Part-time)",
+            "electives": [
+              "Advanced Machine Learning",
+              "Cybersecurity and Digital Forensics",
+              "Data Science and Big Data Analytics",
+              "High Performance Computing",
+              "Advanced Algorithms and Complexity",
+              "Internet of Things and Smart Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 250,000 annually",
+              "USA: $120,000 - $250,000",
+              "Europe: €90,000 - €180,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive with coursework in specialization tracks",
+              "Thesis/dissertation required with original contribution to knowledge"
+            ],
+            "entry_requirements": [
+              "Research master's degree (MPhil or equivalent) in Computer Science or related field with GPA of at least 2.7",
+              "Non-research master's (MSc) holders with GPA of 2.7 or better may apply after satisfying additional requirements",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "VVU's PhD CS offers three specialization tracks: Machine Learning, Cybersecurity, and Data Science.",
+              "One of a few private universities in Ghana offering a doctoral programme in Computer Science."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "faculty_name": "School of Business",
     "note": [
       "The School of Business at Valley View University equips students with practical management, finance, and leadership skills grounded in ethical Christian values.",
