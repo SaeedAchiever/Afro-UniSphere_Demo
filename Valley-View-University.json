@@ -3,8 +3,628 @@
     "name": "Valley View University"
   },
   {
+    "faculty_name": "School of Business",
+    "note": [
+      "The School of Business at Valley View University equips students with practical management, finance, and leadership skills grounded in ethical Christian values.",
+      "Programmes span undergraduate diplomas and degrees to MBA specializations, with flexible delivery modes for working professionals."
+    ],
+    "courses": [
+      {
+        "course_name": "BBA Human Resource Management",
+        "career": [
+          "Human Resource Manager",
+          "Talent Acquisition Specialist",
+          "Training and Development Officer",
+          "Employee Relations Manager",
+          "Compensation and Benefits Analyst",
+          "HR Consultant",
+          "Organizational Development Specialist",
+          "Recruitment Coordinator",
+          "Labour Relations Officer",
+          "HR Business Partner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,740 - 4,040 per semester (Tuition 2,250 + General 1,490-1,790)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Strategic Human Resource Management",
+              "Recruitment and Selection",
+              "Training and Development",
+              "Compensation Management",
+              "Labour Law and Industrial Relations",
+              "Organizational Behaviour"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 90,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €42,000 - €80,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Case study and group project-based learning"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives (preferably Business Management, Economics, Accounting)",
+              "HND holders with Second Class Lower and above may pursue a two-year top-up programme",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Develops HR professionals equipped to manage Ghana's evolving workforce challenges.",
+              "Curriculum integrates ethical leadership principles consistent with VVU's Adventist educational philosophy."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Market Research Analyst",
+          "Sales Manager",
+          "Advertising Executive",
+          "Public Relations Officer",
+          "Product Manager",
+          "Social Media Strategist",
+          "Customer Relationship Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,740 - 4,040 per semester (Tuition 2,250 + General 1,490-1,790)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Consumer Behaviour",
+              "Marketing Research",
+              "Digital Marketing",
+              "International Marketing",
+              "Sales Management",
+              "Advertising and Promotion"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 95,000 annually",
+              "USA: $50,000 - $105,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Practical marketing projects and industry case studies"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives (preferably Business Management, Economics, Accounting)",
+              "HND holders with Second Class Lower and above may pursue a two-year top-up programme",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Prepares graduates for dynamic roles in Ghana's growing consumer and digital economy.",
+              "Emphasis on both traditional and digital marketing strategies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Human Resource Management",
+        "career": [
+          "HR Director",
+          "Chief Human Resource Officer",
+          "Talent Management Director",
+          "Organizational Development Consultant",
+          "Compensation and Benefits Director",
+          "HR Strategy Consultant",
+          "Employee Engagement Manager",
+          "Change Management Specialist",
+          "Labour Relations Director",
+          "Learning and Development Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 8,300 - 8,962 per semester (Year One)"
+            ],
+            "duration": "2 years (Full-time) or 3 years (Part-time/Sandwich)",
+            "electives": [
+              "Strategic Human Resource Management",
+              "Organizational Behaviour and Development",
+              "Labour Law and Employee Relations",
+              "Compensation and Benefits Strategy",
+              "Talent Management and Succession Planning",
+              "Research Methods in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 140,000 annually",
+              "USA: $90,000 - $170,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or its equivalent from a recognized university with at least Second Class Lower division",
+              "Minimum two years post-graduation work experience required",
+              "Third Class holders with at least 3 years post-qualification work experience may apply"
+            ],
+            "level_note": [
+              "MBA programme requires 66 total credits: 45 core + 15 concentration + 6 seminar/dissertation.",
+              "Accredited by GTEC and the Adventist Accrediting Association (AAA)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Strategic Management",
+        "career": [
+          "Strategy Director",
+          "Business Development Director",
+          "Management Consultant",
+          "Chief Operating Officer",
+          "Corporate Planning Manager",
+          "Strategy Analyst",
+          "General Manager",
+          "Operations Director",
+          "Programme Director",
+          "Entrepreneur/Startup Founder"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 8,300 - 8,962 per semester (Year One)"
+            ],
+            "duration": "2 years (Full-time) or 3 years (Part-time/Sandwich)",
+            "electives": [
+              "Strategic Management Theory",
+              "Corporate Governance",
+              "Competitive Strategy",
+              "Strategic Leadership",
+              "Business Policy and Ethics",
+              "Research Methods in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 160,000 annually",
+              "USA: $100,000 - $190,000",
+              "Europe: €75,000 - €145,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or its equivalent from a recognized university with at least Second Class Lower division",
+              "Minimum two years post-graduation work experience required",
+              "Third Class holders with at least 3 years post-qualification work experience may apply"
+            ],
+            "level_note": [
+              "Develops senior-level strategic thinkers for corporate and entrepreneurial environments.",
+              "MBA programme requires 66 total credits: 45 core + 15 concentration + 6 seminar/dissertation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Banking and Finance",
+        "career": [
+          "Banking Manager",
+          "Financial Analyst",
+          "Investment Banker",
+          "Risk Manager",
+          "Treasury Manager",
+          "Credit Analyst",
+          "Fund Manager",
+          "Corporate Finance Manager",
+          "Financial Controller",
+          "Chief Financial Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 8,300 - 8,962 per semester (Year One)"
+            ],
+            "duration": "2 years (Full-time) or 3 years (Part-time/Sandwich)",
+            "electives": [
+              "Corporate Finance",
+              "Financial Markets and Institutions",
+              "Investment Analysis and Portfolio Management",
+              "Banking Operations and Regulation",
+              "Risk Management in Finance",
+              "Research Methods in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 160,000 annually",
+              "USA: $110,000 - $200,000",
+              "Europe: €80,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or its equivalent from a recognized university with at least Second Class Lower division",
+              "Minimum two years post-graduation work experience required",
+              "Third Class holders with at least 3 years post-qualification work experience may apply"
+            ],
+            "level_note": [
+              "Prepares finance professionals for leadership roles in Ghana's banking and financial services sector.",
+              "MBA programme requires 66 total credits: 45 core + 15 concentration + 6 seminar/dissertation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Curriculum and Instruction",
+        "career": [
+          "University Lecturer",
+          "Curriculum Development Specialist",
+          "Education Researcher",
+          "Academic Dean",
+          "Quality Assurance Director (Education)",
+          "Instructional Design Consultant",
+          "Education Policy Researcher",
+          "Teaching and Learning Coordinator",
+          "Assessment and Evaluation Expert",
+          "PhD Candidate/Academic Scholar"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research)",
+            "fees": [
+              "Ghanaian Students: GHC 8,132 - 7,432 per semester (Year One: Sem 1 / Sem 2)"
+            ],
+            "duration": "24 months (Full-time) or 36 months (Part-time)",
+            "electives": [
+              "Curriculum Theory and Design",
+              "Instructional Strategies and Methods",
+              "Educational Research Methodology",
+              "Assessment and Evaluation in Education",
+              "Educational Technology and Innovation",
+              "Thesis Research Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 130,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €48,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular semester-based lectures with research supervision",
+              "Thesis required with original contribution to educational knowledge"
+            ],
+            "entry_requirements": [
+              "Bachelor of Education, Bachelor of Arts degree with Education, or Bachelor's degree with a Postgraduate Diploma in Education",
+              "Master of Education (M.Ed.) holders may also apply",
+              "Applicants must have graduated with at least Second Class Lower division with three years teaching experience"
+            ],
+            "level_note": [
+              "Research-intensive programme (60-72 total credits) producing scholars in curriculum and instruction.",
+              "Serves as the direct pathway to PhD studies in Education at VVU and other universities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Accounting",
+        "career": [
+          "Chief Financial Officer",
+          "Finance Director",
+          "Management Accountant",
+          "External Auditor (Senior)",
+          "Tax Consultant",
+          "Financial Controller",
+          "Accounting Manager",
+          "Internal Audit Director",
+          "Forensic Accountant",
+          "Financial Planning and Analysis Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 8,300 - 8,962 per semester (Year One)"
+            ],
+            "duration": "2 years (Full-time) or 3 years (Part-time/Sandwich)",
+            "electives": [
+              "Advanced Financial Accounting",
+              "Management Accounting",
+              "Auditing and Assurance",
+              "Taxation and Tax Planning",
+              "Corporate Governance and Ethics",
+              "Research Methods in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 150,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €75,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or its equivalent from a recognized university with at least Second Class Lower division",
+              "Minimum two years post-graduation work experience required",
+              "Third Class holders with at least 3 years post-qualification work experience may apply"
+            ],
+            "level_note": [
+              "Strengthens advanced accounting competencies for leadership roles in finance and audit.",
+              "MBA programme requires 66 total credits: 45 core + 15 concentration + 6 seminar/dissertation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Educational Administration and Leadership",
+        "career": [
+          "University Administrator",
+          "Education Researcher",
+          "District/Regional Director of Education",
+          "Education Policy Researcher",
+          "Academic Dean",
+          "Quality Assurance Director",
+          "Education Programme Evaluator",
+          "PhD Candidate/Academic Scholar",
+          "Higher Education Consultant",
+          "Ministry of Education Senior Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research)",
+            "fees": [
+              "Ghanaian Students: GHC 8,132 - 7,432 per semester (Year One: Sem 1 / Sem 2)"
+            ],
+            "duration": "24 months (Full-time) or 36 months (Part-time)",
+            "electives": [
+              "Advanced Educational Leadership Theory",
+              "Educational Policy Analysis and Planning",
+              "School Finance and Resource Management",
+              "Research Methods and Statistics in Education",
+              "Organizational Theory in Education",
+              "Thesis Research Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 140,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular semester-based lectures with research supervision",
+              "Thesis required with original contribution to knowledge in educational leadership"
+            ],
+            "entry_requirements": [
+              "Bachelor of Education, Bachelor of Arts degree with Education, or Bachelor's degree with a Postgraduate Diploma in Education",
+              "Master of Education (M.Ed.) holders may also apply",
+              "Applicants must have graduated with at least Second Class Lower division with three years teaching experience"
+            ],
+            "level_note": [
+              "Research-intensive programme (60-72 total credits) producing scholars in educational administration.",
+              "Direct pathway to PhD in Education at VVU and other Adventist universities worldwide."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Business Administration - Finance Option",
+        "career": [
+          "University Professor (Finance)",
+          "Senior Research Fellow",
+          "Chief Financial Officer",
+          "Finance Policy Advisor",
+          "Central Bank Research Analyst",
+          "Investment Research Director",
+          "Financial Economics Researcher",
+          "Dean of Business School",
+          "Corporate Strategy Advisor",
+          "Consulting Firm Partner"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctoral",
+            "fees": ["Ghanaian Students: GHC 18,412 - 19,550 per semester"],
+            "duration": "3 years (Full-time) or 4 years (Part-time)",
+            "electives": [
+              "Advanced Corporate Finance Theory",
+              "Financial Econometrics",
+              "Capital Markets and Investment Theory",
+              "Quantitative Research Methods",
+              "Behavioural Finance",
+              "Doctoral Research Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 120,000 - 300,000 annually",
+              "USA: $130,000 - $280,000",
+              "Europe: €100,000 - €200,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive with advanced coursework",
+              "Doctoral dissertation with original contribution to finance knowledge"
+            ],
+            "entry_requirements": [
+              "Research master's degree (MPhil or equivalent) in a relevant field with GPA of at least 2.7",
+              "Non-research master's (MBA/MSc) holders with GPA of 2.7 or better may apply after satisfying additional school/faculty requirements",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "Produces high-level finance academics and researchers for universities and policy institutions.",
+              "Coordinated by the School of Graduate Studies in partnership with affiliated Adventist universities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Business Administration - Management Option",
+        "career": [
+          "University Professor (Management)",
+          "Senior Research Fellow",
+          "Chief Executive Officer",
+          "Management Policy Advisor",
+          "Dean of Business School",
+          "Organizational Behaviour Researcher",
+          "Strategic Management Consultant",
+          "Public Sector Senior Administrator",
+          "Think Tank Research Director",
+          "Consulting Firm Partner"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctoral",
+            "fees": ["Ghanaian Students: GHC 18,412 - 19,550 per semester"],
+            "duration": "3 years (Full-time) or 4 years (Part-time)",
+            "electives": [
+              "Advanced Strategic Management Theory",
+              "Organizational Theory and Behaviour",
+              "Advanced Research Methods in Management",
+              "Leadership and Governance",
+              "Innovation and Entrepreneurship Theory",
+              "Doctoral Research Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 120,000 - 300,000 annually",
+              "USA: $130,000 - $280,000",
+              "Europe: €100,000 - €200,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive with advanced coursework",
+              "Doctoral dissertation with original contribution to management knowledge"
+            ],
+            "entry_requirements": [
+              "Research master's degree (MPhil or equivalent) in a relevant field with GPA of at least 2.7",
+              "Non-research master's (MBA/MSc) holders with GPA of 2.7 or better may apply after satisfying additional school/faculty requirements",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "Produces high-level management scholars and thought leaders for academia and industry.",
+              "Coordinated by the School of Graduate Studies in partnership with affiliated Adventist universities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Business Administration",
+        "career": [
+          "Administrative Assistant",
+          "Office Manager",
+          "Business Support Officer",
+          "Customer Service Supervisor",
+          "Sales Coordinator",
+          "Procurement Assistant",
+          "Accounts Assistant",
+          "Junior Marketing Officer",
+          "Operations Assistant",
+          "Entrepreneurial Venture Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 3,740 - 4,040 per semester (Tuition 2,250 + General 1,490-1,790)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Principles of Management",
+              "Introduction to Accounting",
+              "Business Communication",
+              "Marketing Fundamentals",
+              "Business Mathematics",
+              "Introduction to Economics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 48,000 annually",
+              "USA: $30,000 - $50,000",
+              "Europe: €25,000 - €42,000"
+            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Practical business projects and case studies"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes (A1-D7) in core subjects including English Language and Mathematics, plus minimum three passes in elective subjects",
+              "Professional certificate holders from accredited institutions may apply",
+              "Mature applicants: 25 years and above"
+            ],
+            "level_note": [
+              "Foundation programme providing essential business administration knowledge.",
+              "Pathway to BBA degree programmes at Valley View University."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA in Accounting",
+        "career": [
+          "Accountant",
+          "Auditor",
+          "Tax Consultant",
+          "Financial Analyst",
+          "Cost Accountant",
+          "Budget Analyst",
+          "Accounts Manager",
+          "Internal Auditor",
+          "Revenue Officer",
+          "Forensic Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,740 - 4,040 per semester (Tuition 2,250 + General 1,490-1,790)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Auditing and Assurance",
+              "Taxation",
+              "Accounting Information Systems",
+              "Corporate Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 100,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Practical accounting lab and case study sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives (preferably Accounting, Business Management, Economics, Cost Accounting)",
+              "HND holders with Second Class Lower and above may pursue a two-year top-up programme",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Builds strong accounting foundation with pathways to professional qualifications like ICA-GH and ACCA.",
+              "Graduates are well-positioned for roles in audit firms, banks, and corporate finance departments."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "faculty_name": "School of Education",
-    "note": [],
+    "note": [
+      "The School of Education at Valley View University prepares professional teachers for basic, secondary, and tertiary institutions in Ghana.",
+      "Programmes combine strong subject content with pedagogy, teaching practice, and Christian values in line with the university's Seventh-day Adventist philosophy."
+    ],
     "courses": [
       {
         "course_name": "B.Ed Social Studies",
@@ -40,9 +660,7 @@
               "USA: $45,000 - $75,000",
               "Europe: €32,000 - €55,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures and tutorials",
               "School-based teaching practice and field experience"
@@ -53,8 +671,8 @@
               "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
             ],
             "level_note": [
-              "Valley View University is Ghana's first chartered private university, a Seventh-day Adventist institution.",
-              "Emphasizes civic responsibility, citizenship education, and community engagement with supervised teaching practice."
+              "Four-year professional teacher education programme preparing graduates to teach Social Studies in basic and secondary schools.",
+              "Emphasizes civic responsibility, citizenship education, and community engagement."
             ]
           }
         ]
@@ -93,9 +711,7 @@
               "USA: $48,000 - $80,000",
               "Europe: €35,000 - €60,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 18 - 30"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30"],
             "mode": [
               "Full-time classroom, tutorial and workshop sessions",
               "School-based teaching practice with supervision"
@@ -146,9 +762,7 @@
               "USA: $45,000 - $78,000",
               "Europe: €33,000 - €58,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures and tutorials",
               "School-based teaching practice and field experience"
@@ -199,9 +813,7 @@
               "USA: $46,000 - $78,000",
               "Europe: €34,000 - €58,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures and tutorials",
               "Practical accounting lab sessions and teaching practice"
@@ -354,9 +966,7 @@
               "USA: $40,000 - $70,000",
               "Europe: €30,000 - €55,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures and tutorials",
               "School-based teaching practice and community engagement"
@@ -407,9 +1017,7 @@
               "USA: $50,000 - $85,000",
               "Europe: €38,000 - €65,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 20 - 30"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 20 - 30"],
             "mode": [
               "Full-time on-campus lectures with practical IT lab sessions",
               "School-based ICT teaching practice with supervision"
@@ -513,9 +1121,7 @@
               "USA: $30,000 - $55,000",
               "Europe: €25,000 - €45,000"
             ],
-            "cutt_off": [
-              "WASSCE/SSSCE passes in core and elective subjects"
-            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
             "mode": [
               "Full-time on-campus with practical studio sessions",
               "Ensemble and performance workshops"
@@ -668,9 +1274,7 @@
               "USA: $45,000 - $78,000",
               "Europe: €33,000 - €58,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures and tutorials",
               "School-based teaching practice with supervision"
@@ -691,7 +1295,10 @@
   },
   {
     "faculty_name": "Faculty of Science",
-    "note": [],
+    "note": [
+      "The Faculty of Science offers rigorous science and technology programmes designed to address Ghana's development needs in IT, agriculture, mathematics, and engineering.",
+      "Students benefit from modern laboratories, industry attachments, and research-oriented teaching that integrates faith and learning."
+    ],
     "courses": [
       {
         "course_name": "BSc Information Technology",
@@ -727,9 +1334,7 @@
               "USA: $70,000 - $130,000",
               "Europe: €55,000 - €100,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 15 - 24"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 15 - 24"],
             "mode": [
               "Full-time on-campus lectures with practical IT lab sessions",
               "Industry attachment and project-based learning"
@@ -780,9 +1385,7 @@
               "USA: $60,000 - $120,000",
               "Europe: €48,000 - €90,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 18 - 28"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 28"],
             "mode": [
               "Full-time on-campus lectures and tutorials",
               "Computational lab sessions and research projects"
@@ -833,9 +1436,7 @@
               "USA: $50,000 - $95,000",
               "Europe: €40,000 - €75,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus with field practicals and farm visits",
               "Industry attachment in agribusiness firms"
@@ -886,9 +1487,7 @@
               "USA: $65,000 - $125,000",
               "Europe: €52,000 - €95,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 18 - 28"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 28"],
             "mode": [
               "Full-time on-campus with IT lab and business case study sessions",
               "Industry attachment and capstone project"
@@ -1041,9 +1640,7 @@
               "USA: $45,000 - $85,000",
               "Europe: €35,000 - €70,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus with field practicals and farm work",
               "Industry attachment at agricultural research stations"
@@ -1094,9 +1691,7 @@
               "USA: $35,000 - $60,000",
               "Europe: €28,000 - €48,000"
             ],
-            "cutt_off": [
-              "WASSCE/SSSCE passes in core and elective subjects"
-            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
             "mode": [
               "Full-time on-campus with practical IT lab sessions",
               "Blended learning approach"
@@ -1147,9 +1742,7 @@
               "USA: $60,000 - $120,000",
               "Europe: €48,000 - €90,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 18 - 28"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 28"],
             "mode": [
               "Full-time on-campus lectures and tutorials",
               "Computational lab sessions using statistical software"
@@ -1200,9 +1793,7 @@
               "USA: $32,000 - $58,000",
               "Europe: €26,000 - €45,000"
             ],
-            "cutt_off": [
-              "WASSCE/SSSCE passes in core and elective subjects"
-            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
             "mode": [
               "Full-time on-campus with practical lab-based learning",
               "Project-based assessments"
@@ -1253,9 +1844,7 @@
               "USA: $70,000 - $130,000",
               "Europe: €55,000 - €100,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 14 - 24"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 14 - 24"],
             "mode": [
               "Full-time on-campus with extensive laboratory and workshop sessions",
               "Hospital clinical attachments and industry internships"
@@ -1306,9 +1895,7 @@
               "USA: $40,000 - $85,000",
               "Europe: €32,000 - €65,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus with chapel services and ministry practicum",
               "Field evangelism and community outreach components"
@@ -1328,8 +1915,769 @@
     ]
   },
   {
+    "faculty_name": "School of Nursing and Midwifery",
+    "note": [
+      "The School of Nursing and Midwifery trains compassionate, skilled nurses and midwives to serve Ghana's healthcare needs.",
+      "All programmes are accredited by the Nursing and Midwifery Council of Ghana (NMC) and emphasize clinical excellence with Adventist Christian values."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Midwifery",
+        "career": [
+          "Registered Midwife",
+          "Maternal Health Specialist",
+          "Community Health Midwife",
+          "Midwifery Educator",
+          "Reproductive Health Officer",
+          "Neonatal Care Specialist",
+          "Public Health Officer (Maternal & Child Health)",
+          "Family Planning Coordinator",
+          "Midwifery Research Assistant",
+          "NGO Maternal Health Programme Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,490 - 5,790 per semester (Tuition 3,360 + General 2,130-2,430)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Anatomy and Physiology",
+              "Antenatal and Postnatal Care",
+              "Labour and Delivery Management",
+              "Neonatal Nursing",
+              "Reproductive Health",
+              "Community Midwifery"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 96,000 annually",
+              "USA: $65,000 - $115,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 or better (six subjects)"
+            ],
+            "mode": [
+              "Full-time on-campus lectures with clinical placements at partner hospitals",
+              "Students admitted only in August; courses are sequential and offered once a year"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects: three core (Mathematics, Integrated Science, English Language) plus three relevant electives (Physics, Chemistry, Biology, Elective Mathematics, or Home Economics - Food & Nutrition)",
+              "SSSCE: Credit passes (A-D) in six subjects with aggregate of 24 or better",
+              "Age: 18-35 years; must pass admission interview with School of Nursing and Midwifery admissions committee"
+            ],
+            "level_note": [
+              "Professional programme accredited by the Nursing and Midwifery Council of Ghana (NMC).",
+              "First year is primarily pre-clinical; clinical rotations intensify from Year 2 onwards."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc General Nursing",
+        "career": [
+          "Registered General Nurse",
+          "Clinical Nurse Specialist",
+          "Ward Manager/Charge Nurse",
+          "Public Health Nurse",
+          "Community Health Nurse",
+          "Nursing Educator/Instructor",
+          "Emergency/Trauma Nurse",
+          "Paediatric Nurse",
+          "Surgical Nurse",
+          "Nursing Research Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,490 - 5,790 per semester (Tuition 3,360 + General 2,130-2,430)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Anatomy and Physiology",
+              "Medical-Surgical Nursing",
+              "Pharmacology",
+              "Community Health Nursing",
+              "Paediatric Nursing",
+              "Nursing Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 96,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 or better (six subjects)"
+            ],
+            "mode": [
+              "Full-time on-campus lectures with clinical placements at partner hospitals",
+              "Students admitted only in August; courses are sequential and offered once a year"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects: three core (Mathematics, Integrated Science, English Language) plus three relevant electives (Physics, Chemistry, Biology, Elective Mathematics, General Arts, or Home Economics - Food & Nutrition)",
+              "SSSCE: Credit passes (A-D) in six subjects with aggregate of 24 or better",
+              "Age: 18-35 years; must pass admission interview; HAC/NAC applicants require NMC-recognized Access Course"
+            ],
+            "level_note": [
+              "Flagship nursing programme accredited by the Nursing and Midwifery Council of Ghana (NMC).",
+              "Graduates are eligible to sit for the NMC licensing examination to practice as Registered General Nurses."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Mental Health Nursing",
+        "career": [
+          "Mental Health Nurse",
+          "Psychiatric Nurse Specialist",
+          "Community Mental Health Officer",
+          "Substance Abuse Counsellor",
+          "Mental Health Educator",
+          "Psychiatric Ward Manager",
+          "Crisis Intervention Specialist",
+          "Rehabilitation Nurse (Mental Health)",
+          "Mental Health Policy Officer",
+          "NGO Mental Health Programme Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 5,490 - 5,790 per semester (Tuition 3,360 + General 2,130-2,430)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Psychiatric Nursing",
+              "Abnormal Psychology",
+              "Psychopharmacology",
+              "Therapeutic Communication",
+              "Community Mental Health",
+              "Mental Health Legislation and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 100,000 annually",
+              "USA: $60,000 - $115,000",
+              "Europe: €42,000 - €80,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 or better (six subjects)"
+            ],
+            "mode": [
+              "Full-time on-campus lectures with clinical placements at psychiatric hospitals and community facilities",
+              "Students admitted only in August; courses are sequential and offered once a year"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects: three core (Mathematics, Integrated Science, English Language) plus three relevant electives (Physics, Chemistry, Biology, Elective Mathematics, General Arts, or Home Economics - Food & Nutrition)",
+              "SSSCE: Credit passes (A-D) in six subjects with aggregate of 24 or better",
+              "Age: 18-35 years; must pass admission interview with School of Nursing and Midwifery admissions committee"
+            ],
+            "level_note": [
+              "Addresses Ghana's critical shortage of mental health professionals as highlighted by the Mental Health Act 846 (2012).",
+              "Accredited by the Nursing and Midwifery Council of Ghana (NMC)."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Arts and Social Sciences",
+    "note": [
+      "The Faculty of Arts and Social Sciences offers programmes in development studies, communication, and theology that address social challenges in Ghana and beyond.",
+      "Teaching emphasizes critical thinking, ethical leadership, and practical community engagement."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Development Studies",
+        "career": [
+          "Development Planner",
+          "NGO Programme Officer",
+          "Social Policy Analyst",
+          "Community Development Officer",
+          "Monitoring and Evaluation Officer",
+          "Project Manager (Development Sector)",
+          "Research Analyst (Social Development)",
+          "Government District Planning Officer",
+          "International Development Consultant",
+          "Gender and Social Inclusion Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,740 - 4,040 per semester (Tuition 2,250 + General 1,490-1,790)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Theories of Development",
+              "Poverty and Inequality Analysis",
+              "Project Planning and Management",
+              "Monitoring and Evaluation",
+              "Gender and Development",
+              "Environmental Sustainability"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €40,000 - €78,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Community fieldwork and development project attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives",
+              "HND holders with Second Class Lower and above may be considered",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Interdisciplinary programme addressing poverty, governance, and social development in Africa.",
+              "Strong emphasis on practical fieldwork and community-based research."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Development Studies",
+        "career": [
+          "Community Development Assistant",
+          "NGO Field Officer",
+          "Social Worker Assistant",
+          "Research Assistant",
+          "Data Collection Officer",
+          "Humanitarian Aid Worker",
+          "Local Government Officer",
+          "Youth Development Facilitator",
+          "Extension Services Assistant",
+          "Volunteer Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 3,740 - 4,040 per semester (Tuition 2,250 + General 1,490-1,790)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Introduction to Development Studies",
+              "Sociology and Social Change",
+              "Community Mobilization",
+              "Introduction to Project Management",
+              "Basic Research Methods",
+              "Environmental Studies"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 45,000 annually",
+              "USA: $28,000 - $48,000",
+              "Europe: €24,000 - €40,000"
+            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Community fieldwork component"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes (A1-D7) in core subjects including English Language and Mathematics, plus minimum three passes in elective subjects",
+              "Professional certificate holders from accredited institutions may apply",
+              "Mature applicants: 25 years and above"
+            ],
+            "level_note": [
+              "Foundation programme in development studies with practical community engagement.",
+              "Pathway to BSc Development Studies at Valley View University."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA Communication Studies",
+        "career": [
+          "Journalist",
+          "Public Relations Officer",
+          "Corporate Communications Manager",
+          "Media Producer",
+          "Social Media Manager",
+          "Broadcast Journalist",
+          "Advertising Executive",
+          "Content Creator/Writer",
+          "Communications Consultant",
+          "News Editor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,740 - 4,040 per semester (Tuition 2,250 + General 1,490-1,790)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Media and Society",
+              "Broadcast Journalism",
+              "Public Relations Principles",
+              "Digital Media and Communication",
+              "Communication Research Methods",
+              "Corporate Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Media production practicals and industry internships"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives",
+              "HND holders with Second Class Lower and above may be considered",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Develops versatile communicators for Ghana's expanding media landscape.",
+              "Practical training in print, broadcast, and digital media production."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Professional Courses",
+    "note": [
+      "Valley View University serves as a tuition provider for internationally recognized professional accounting qualifications.",
+      "Students pursue these qualifications alongside or after their degree programmes to enhance career prospects in accounting and finance."
+    ],
+    "courses": [
+      {
+        "course_name": "ACCA-UK (Association of Chartered Certified Accountants)",
+        "career": [
+          "Chartered Certified Accountant",
+          "External Auditor",
+          "Tax Advisor",
+          "Financial Controller",
+          "Management Accountant",
+          "Forensic Accountant",
+          "Chief Financial Officer",
+          "Compliance Officer",
+          "Corporate Finance Analyst",
+          "Risk and Assurance Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Qualification",
+            "fees": [
+              "Estimated Tuition: GHC 3,000 - 5,000 per level (Applied Knowledge, Applied Skills, Strategic Professional)",
+              "ACCA registration and exam fees paid separately to ACCA-UK"
+            ],
+            "duration": "2 - 4 years (depending on exemptions and exam pace)",
+            "electives": [
+              "Financial Reporting (FR)",
+              "Audit and Assurance (AA)",
+              "Taxation (TX)",
+              "Performance Management (PM)",
+              "Strategic Business Leader (SBL)",
+              "Advanced Financial Management (AFM) or Advanced Audit and Assurance (AAA)"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 180,000 annually",
+              "USA: $70,000 - $160,000",
+              "Europe: €55,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Tuition classes at VVU campus (evening and weekend options)",
+              "Self-study supported with ACCA learning resources"
+            ],
+            "entry_requirements": [
+              "Minimum 5 WASSCE/GCE O-Level passes including English and Mathematics for ACCA Foundation; or direct entry with 3 A-Level passes or a relevant degree",
+              "BBA/BSc Accounting degree holders from VVU may qualify for multiple paper exemptions",
+              "Registration with ACCA-UK required"
+            ],
+            "level_note": [
+              "Globally recognized professional accounting qualification with over 240,000 members worldwide.",
+              "VVU BBA Accounting graduates may receive up to 9 paper exemptions from ACCA."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "ICA-GH (Institute of Chartered Accountants, Ghana)",
+        "career": [
+          "Chartered Accountant (Ghana)",
+          "Auditor",
+          "Tax Practitioner",
+          "Financial Manager",
+          "Accounting Manager",
+          "Government Comptroller/Auditor",
+          "Internal Auditor",
+          "Banking and Finance Officer",
+          "Forensic Accountant",
+          "Financial Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Professional Qualification",
+            "fees": [
+              "ICA-GH Registration: GHC 400; Examination fees: GHC 511 - 1,104 per paper per level",
+              "Estimated tuition at VVU: GHC 3,000 - 5,000 per level"
+            ],
+            "duration": "2 - 4 years (depending on exemptions and exam pace)",
+            "electives": [
+              "Financial Reporting",
+              "Management Accounting",
+              "Public Sector Accounting",
+              "Audit and Assurance",
+              "Taxation",
+              "Corporate Strategy and Governance"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 170,000 annually",
+              "USA: $65,000 - $140,000",
+              "Europe: €50,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Tuition classes at VVU campus (evening and weekend options)",
+              "Structured preparation for ICA-GH examinations"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Five passes including English Language and Mathematics for Level 1 entry; or advanced entry with relevant degree or HND",
+              "BBA/BSc Accounting degree holders from VVU may qualify for exemptions",
+              "Registration with ICA-GH required"
+            ],
+            "level_note": [
+              "The premier professional accounting qualification in Ghana, regulated by the Chartered Accountants Act 1963 (Act 170).",
+              "Mandatory qualification for signing audit reports in Ghana."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Center for Adult and Continuing Education",
+    "note": [
+      "The Center for Adult and Continuing Education (CACE) provides flexible degree programmes for working adults and mature students.",
+      "Classes are held on evenings, weekends, and Sundays at VVU's Oyibi, Kumasi, and Techiman campuses, allowing professionals to earn degrees without leaving employment."
+    ],
+    "courses": [
+      {
+        "course_name": "BBA in Accounting (CACE)",
+        "career": [
+          "Accountant",
+          "Auditor",
+          "Tax Consultant",
+          "Financial Analyst",
+          "Cost Accountant",
+          "Budget Analyst",
+          "Accounts Manager",
+          "Internal Auditor",
+          "Revenue Officer",
+          "Forensic Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,827 - 3,127 per semester (Adult Ed. rates: Tuition 1,692 + General 1,135-1,435)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Auditing and Assurance",
+              "Taxation",
+              "Accounting Information Systems",
+              "Corporate Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 100,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Evening, weekend, and Sunday classes for working professionals",
+              "Available at Oyibi, Kumasi, and Techiman campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives",
+              "HND holders with Second Class Lower and above may pursue a two-year top-up",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Same curriculum and degree as the regular School of Business BBA in Accounting.",
+              "Reduced fees and flexible schedules designed for working adults and mature students."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA in Management (CACE)",
+        "career": [
+          "Business Manager",
+          "Operations Manager",
+          "Administrative Manager",
+          "Project Manager",
+          "Business Development Officer",
+          "Entrepreneur",
+          "Management Consultant",
+          "Human Resource Officer",
+          "Procurement Officer",
+          "General Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,827 - 3,127 per semester (Adult Ed. rates: Tuition 1,692 + General 1,135-1,435)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Management",
+              "Organizational Behaviour",
+              "Business Strategy",
+              "Operations Management",
+              "Financial Management",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 90,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Evening, weekend, and Sunday classes for working professionals",
+              "Available at Oyibi, Kumasi, and Techiman campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives",
+              "HND holders with Second Class Lower and above may pursue a two-year top-up",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Same curriculum and degree as the regular School of Business BBA in Management.",
+              "Flexible delivery for adults balancing work and education."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA in HRM (CACE)",
+        "career": [
+          "Human Resource Manager",
+          "Talent Acquisition Specialist",
+          "Training and Development Officer",
+          "Employee Relations Manager",
+          "Compensation and Benefits Analyst",
+          "HR Consultant",
+          "Organizational Development Specialist",
+          "Recruitment Coordinator",
+          "Labour Relations Officer",
+          "HR Business Partner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,827 - 3,127 per semester (Adult Ed. rates: Tuition 1,692 + General 1,135-1,435)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Strategic Human Resource Management",
+              "Recruitment and Selection",
+              "Training and Development",
+              "Compensation Management",
+              "Labour Law and Industrial Relations",
+              "Organizational Behaviour"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 90,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €42,000 - €80,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Evening, weekend, and Sunday classes for working professionals",
+              "Available at Oyibi, Kumasi, and Techiman campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives",
+              "HND holders with Second Class Lower and above may pursue a two-year top-up",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Same curriculum and degree as the regular School of Business BBA in HRM.",
+              "Reduced fees and flexible schedules designed for working adults."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BBA in Marketing (CACE)",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Market Research Analyst",
+          "Sales Manager",
+          "Advertising Executive",
+          "Public Relations Officer",
+          "Product Manager",
+          "Social Media Strategist",
+          "Customer Relationship Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,827 - 3,127 per semester (Adult Ed. rates: Tuition 1,692 + General 1,135-1,435)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Consumer Behaviour",
+              "Marketing Research",
+              "Digital Marketing",
+              "International Marketing",
+              "Sales Management",
+              "Advertising and Promotion"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 95,000 annually",
+              "USA: $50,000 - $105,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Evening, weekend, and Sunday classes for working professionals",
+              "Available at Oyibi, Kumasi, and Techiman campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives",
+              "HND holders with Second Class Lower and above may pursue a two-year top-up",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Same curriculum and degree as the regular School of Business BBA in Marketing.",
+              "Flexible delivery for adults balancing work and education."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BA in Communication Studies (CACE)",
+        "career": [
+          "Journalist",
+          "Public Relations Officer",
+          "Corporate Communications Manager",
+          "Media Producer",
+          "Social Media Manager",
+          "Broadcast Journalist",
+          "Advertising Executive",
+          "Content Creator/Writer",
+          "Communications Consultant",
+          "News Editor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,827 - 3,127 per semester (Adult Ed. rates: Tuition 1,692 + General 1,135-1,435)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Media and Society",
+              "Broadcast Journalism",
+              "Public Relations Principles",
+              "Digital Media and Communication",
+              "Communication Research Methods",
+              "Corporate Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Evening, weekend, and Sunday classes for working professionals",
+              "Available at Oyibi, Kumasi, and Techiman campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives",
+              "HND holders with Second Class Lower and above may be considered",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Same curriculum and degree as the regular Faculty of Arts BA in Communication Studies.",
+              "Flexible delivery for working adults at multiple VVU campuses."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc in Development Studies (CACE)",
+        "career": [
+          "Development Planner",
+          "NGO Programme Officer",
+          "Social Policy Analyst",
+          "Community Development Officer",
+          "Monitoring and Evaluation Officer",
+          "Project Manager (Development Sector)",
+          "Research Analyst (Social Development)",
+          "Government District Planning Officer",
+          "International Development Consultant",
+          "Gender and Social Inclusion Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,827 - 3,127 per semester (Adult Ed. rates: Tuition 1,692 + General 1,135-1,435)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Theories of Development",
+              "Poverty and Inequality Analysis",
+              "Project Planning and Management",
+              "Monitoring and Evaluation",
+              "Gender and Development",
+              "Environmental Sustainability"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €40,000 - €78,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Evening, weekend, and Sunday classes for working professionals",
+              "Available at Oyibi, Kumasi, and Techiman campuses"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6/A-D) in six subjects including English Language, Mathematics, plus three relevant electives",
+              "HND holders with Second Class Lower and above may be considered",
+              "Mature applicants: 25 years and above, must pass VVU Mature Entrance Examination"
+            ],
+            "level_note": [
+              "Same curriculum and degree as the regular Faculty of Arts BSc in Development Studies.",
+              "Reduced fees and flexible schedules designed for working adults and mature students."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "faculty_name": "School of Graduate Studies",
-    "note": [],
+    "note": [
+      "The School of Graduate Studies coordinates all postgraduate and research programmes across Valley View University.",
+      "It provides advanced training for professionals and researchers through flexible master's and doctoral options supported by experienced faculty."
+    ],
     "courses": [
       {
         "course_name": "MEd Educational Administration and Leadership",
@@ -1531,6 +2879,410 @@
             "level_note": [
               "VVU's PhD CS offers three specialization tracks: Machine Learning, Cybersecurity, and Data Science.",
               "One of a few private universities in Ghana offering a doctoral programme in Computer Science."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Human Resource Management",
+        "career": [
+          "HR Director",
+          "Chief Human Resource Officer",
+          "Talent Management Director",
+          "Organizational Development Consultant",
+          "Compensation and Benefits Director",
+          "HR Strategy Consultant",
+          "Employee Engagement Manager",
+          "Change Management Specialist",
+          "Labour Relations Director",
+          "Learning and Development Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 8,300 - 8,962 per semester (Year One)"
+            ],
+            "duration": "2 years (Full-time) or 3 years (Part-time/Sandwich)",
+            "electives": [
+              "Strategic Human Resource Management",
+              "Organizational Behaviour and Development",
+              "Labour Law and Employee Relations",
+              "Compensation and Benefits Strategy",
+              "Talent Management and Succession Planning",
+              "Research Methods in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 140,000 annually",
+              "USA: $90,000 - $170,000",
+              "Europe: €70,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or its equivalent from a recognized university with at least Second Class Lower division",
+              "Minimum two years post-graduation work experience required",
+              "Third Class holders with at least 3 years post-qualification work experience may apply"
+            ],
+            "level_note": [
+              "MBA programme requires 66 total credits: 45 core + 15 concentration + 6 seminar/dissertation.",
+              "Accredited by GTEC and the Adventist Accrediting Association (AAA)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Strategic Management",
+        "career": [
+          "Strategy Director",
+          "Business Development Director",
+          "Management Consultant",
+          "Chief Operating Officer",
+          "Corporate Planning Manager",
+          "Strategy Analyst",
+          "General Manager",
+          "Operations Director",
+          "Programme Director",
+          "Entrepreneur/Startup Founder"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 8,300 - 8,962 per semester (Year One)"
+            ],
+            "duration": "2 years (Full-time) or 3 years (Part-time/Sandwich)",
+            "electives": [
+              "Strategic Management Theory",
+              "Corporate Governance",
+              "Competitive Strategy",
+              "Strategic Leadership",
+              "Business Policy and Ethics",
+              "Research Methods in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 160,000 annually",
+              "USA: $100,000 - $190,000",
+              "Europe: €75,000 - €145,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or its equivalent from a recognized university with at least Second Class Lower division",
+              "Minimum two years post-graduation work experience required",
+              "Third Class holders with at least 3 years post-qualification work experience may apply"
+            ],
+            "level_note": [
+              "Develops senior-level strategic thinkers for corporate and entrepreneurial environments.",
+              "MBA programme requires 66 total credits: 45 core + 15 concentration + 6 seminar/dissertation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Banking and Finance",
+        "career": [
+          "Banking Manager",
+          "Financial Analyst",
+          "Investment Banker",
+          "Risk Manager",
+          "Treasury Manager",
+          "Credit Analyst",
+          "Fund Manager",
+          "Corporate Finance Manager",
+          "Financial Controller",
+          "Chief Financial Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 8,300 - 8,962 per semester (Year One)"
+            ],
+            "duration": "2 years (Full-time) or 3 years (Part-time/Sandwich)",
+            "electives": [
+              "Corporate Finance",
+              "Financial Markets and Institutions",
+              "Investment Analysis and Portfolio Management",
+              "Banking Operations and Regulation",
+              "Risk Management in Finance",
+              "Research Methods in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 160,000 annually",
+              "USA: $110,000 - $200,000",
+              "Europe: €80,000 - €150,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or its equivalent from a recognized university with at least Second Class Lower division",
+              "Minimum two years post-graduation work experience required",
+              "Third Class holders with at least 3 years post-qualification work experience may apply"
+            ],
+            "level_note": [
+              "Prepares finance professionals for leadership roles in Ghana's banking and financial services sector.",
+              "MBA programme requires 66 total credits: 45 core + 15 concentration + 6 seminar/dissertation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MBA Accounting",
+        "career": [
+          "Chief Financial Officer",
+          "Finance Director",
+          "Management Accountant",
+          "External Auditor (Senior)",
+          "Tax Consultant",
+          "Financial Controller",
+          "Accounting Manager",
+          "Internal Audit Director",
+          "Forensic Accountant",
+          "Financial Planning and Analysis Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 8,300 - 8,962 per semester (Year One)"
+            ],
+            "duration": "2 years (Full-time) or 3 years (Part-time/Sandwich)",
+            "electives": [
+              "Advanced Financial Accounting",
+              "Management Accounting",
+              "Auditing and Assurance",
+              "Taxation and Tax Planning",
+              "Corporate Governance and Ethics",
+              "Research Methods in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 65,000 - 150,000 annually",
+              "USA: $100,000 - $180,000",
+              "Europe: €75,000 - €140,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Sandwich sessions (August/September, December/January, April/May)",
+              "Regular and part-time options available"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree or its equivalent from a recognized university with at least Second Class Lower division",
+              "Minimum two years post-graduation work experience required",
+              "Third Class holders with at least 3 years post-qualification work experience may apply"
+            ],
+            "level_note": [
+              "Strengthens advanced accounting competencies for leadership roles in finance and audit.",
+              "MBA programme requires 66 total credits: 45 core + 15 concentration + 6 seminar/dissertation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Curriculum and Instruction",
+        "career": [
+          "University Lecturer",
+          "Curriculum Development Specialist",
+          "Education Researcher",
+          "Academic Dean",
+          "Quality Assurance Director (Education)",
+          "Instructional Design Consultant",
+          "Education Policy Researcher",
+          "Teaching and Learning Coordinator",
+          "Assessment and Evaluation Expert",
+          "PhD Candidate/Academic Scholar"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research)",
+            "fees": [
+              "Ghanaian Students: GHC 8,132 - 7,432 per semester (Year One: Sem 1 / Sem 2)"
+            ],
+            "duration": "24 months (Full-time) or 36 months (Part-time)",
+            "electives": [
+              "Curriculum Theory and Design",
+              "Instructional Strategies and Methods",
+              "Educational Research Methodology",
+              "Assessment and Evaluation in Education",
+              "Educational Technology and Innovation",
+              "Thesis Research Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 130,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €48,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular semester-based lectures with research supervision",
+              "Thesis required with original contribution to educational knowledge"
+            ],
+            "entry_requirements": [
+              "Bachelor of Education, Bachelor of Arts degree with Education, or Bachelor's degree with a Postgraduate Diploma in Education",
+              "Master of Education (M.Ed.) holders may also apply",
+              "Applicants must have graduated with at least Second Class Lower division with three years teaching experience"
+            ],
+            "level_note": [
+              "Research-intensive programme (60-72 total credits) producing scholars in curriculum and instruction.",
+              "Serves as the direct pathway to PhD studies in Education at VVU and other universities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MPhil Educational Administration and Leadership",
+        "career": [
+          "University Administrator",
+          "Education Researcher",
+          "District/Regional Director of Education",
+          "Education Policy Researcher",
+          "Academic Dean",
+          "Quality Assurance Director",
+          "Education Programme Evaluator",
+          "PhD Candidate/Academic Scholar",
+          "Higher Education Consultant",
+          "Ministry of Education Senior Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research)",
+            "fees": [
+              "Ghanaian Students: GHC 8,132 - 7,432 per semester (Year One: Sem 1 / Sem 2)"
+            ],
+            "duration": "24 months (Full-time) or 36 months (Part-time)",
+            "electives": [
+              "Advanced Educational Leadership Theory",
+              "Educational Policy Analysis and Planning",
+              "School Finance and Resource Management",
+              "Research Methods and Statistics in Education",
+              "Organizational Theory in Education",
+              "Thesis Research Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 140,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €50,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular semester-based lectures with research supervision",
+              "Thesis required with original contribution to knowledge in educational leadership"
+            ],
+            "entry_requirements": [
+              "Bachelor of Education, Bachelor of Arts degree with Education, or Bachelor's degree with a Postgraduate Diploma in Education",
+              "Master of Education (M.Ed.) holders may also apply",
+              "Applicants must have graduated with at least Second Class Lower division with three years teaching experience"
+            ],
+            "level_note": [
+              "Research-intensive programme (60-72 total credits) producing scholars in educational administration.",
+              "Direct pathway to PhD in Education at VVU and other Adventist universities worldwide."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Business Administration - Finance Option",
+        "career": [
+          "University Professor (Finance)",
+          "Senior Research Fellow",
+          "Chief Financial Officer",
+          "Finance Policy Advisor",
+          "Central Bank Research Analyst",
+          "Investment Research Director",
+          "Financial Economics Researcher",
+          "Dean of Business School",
+          "Corporate Strategy Advisor",
+          "Consulting Firm Partner"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctoral",
+            "fees": ["Ghanaian Students: GHC 18,412 - 19,550 per semester"],
+            "duration": "3 years (Full-time) or 4 years (Part-time)",
+            "electives": [
+              "Advanced Corporate Finance Theory",
+              "Financial Econometrics",
+              "Capital Markets and Investment Theory",
+              "Quantitative Research Methods",
+              "Behavioural Finance",
+              "Doctoral Research Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 120,000 - 300,000 annually",
+              "USA: $130,000 - $280,000",
+              "Europe: €100,000 - €200,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive with advanced coursework",
+              "Doctoral dissertation with original contribution to finance knowledge"
+            ],
+            "entry_requirements": [
+              "Research master's degree (MPhil or equivalent) in a relevant field with GPA of at least 2.7",
+              "Non-research master's (MBA/MSc) holders with GPA of 2.7 or better may apply after satisfying additional school/faculty requirements",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "Produces high-level finance academics and researchers for universities and policy institutions.",
+              "Coordinated by the School of Graduate Studies in partnership with affiliated Adventist universities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Business Administration - Management Option",
+        "career": [
+          "University Professor (Management)",
+          "Senior Research Fellow",
+          "Chief Executive Officer",
+          "Management Policy Advisor",
+          "Dean of Business School",
+          "Organizational Behaviour Researcher",
+          "Strategic Management Consultant",
+          "Public Sector Senior Administrator",
+          "Think Tank Research Director",
+          "Consulting Firm Partner"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctoral",
+            "fees": ["Ghanaian Students: GHC 18,412 - 19,550 per semester"],
+            "duration": "3 years (Full-time) or 4 years (Part-time)",
+            "electives": [
+              "Advanced Strategic Management Theory",
+              "Organizational Theory and Behaviour",
+              "Advanced Research Methods in Management",
+              "Leadership and Governance",
+              "Innovation and Entrepreneurship Theory",
+              "Doctoral Research Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 120,000 - 300,000 annually",
+              "USA: $130,000 - $280,000",
+              "Europe: €100,000 - €200,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive with advanced coursework",
+              "Doctoral dissertation with original contribution to management knowledge"
+            ],
+            "entry_requirements": [
+              "Research master's degree (MPhil or equivalent) in a relevant field with GPA of at least 2.7",
+              "Non-research master's (MBA/MSc) holders with GPA of 2.7 or better may apply after satisfying additional school/faculty requirements",
+              "Must pass admission interview"
+            ],
+            "level_note": [
+              "Produces high-level management scholars and thought leaders for academia and industry.",
+              "Coordinated by the School of Graduate Studies in partnership with affiliated Adventist universities."
             ]
           }
         ]
