@@ -1,0 +1,1585 @@
+[
+  {
+    "name": "Dr. Hilla Limann Technical University"
+  },
+  {
+    "faculty_name": "Faculty of Applied Art, Design and General Studies",
+    "note": [
+      "The Faculty of Applied Art, Design and General Studies (FAADGS) offers creative arts programmes in fashion, ceramics, metal design, textiles, and woodwork.",
+      "Students receive hands-on training in well-equipped studios and workshops, developing practical skills for Ghana's creative industries and artisanal sectors."
+    ],
+    "courses": [
+      {
+        "course_name": "HND Fashion Design and Textiles",
+        "career": [
+          "Fashion Designer",
+          "Pattern Cutter and Grader",
+          "Fashion Consultant",
+          "Fashion Illustrator",
+          "Quality Assurance Supervisor (Garment Factory)",
+          "Textile Designer",
+          "Fashion Model",
+          "Teaching and Research",
+          "Facilitator for Training Centres (NGOs)",
+          "Private Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,614 per semester (Level 100 fresh); GHC 2,286 (Level 200); GHC 2,142 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Fashion Design and Illustration",
+              "Pattern Drafting and Garment Construction",
+              "Textile Science and Technology",
+              "Fabric Decoration Techniques",
+              "Fashion Merchandising",
+              "Computer-Aided Fashion Design"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 55,000 annually",
+              "USA: $35,000 - $70,000",
+              "Europe: €28,000 - €55,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: Not exceeding 24-39 (varies by grading system)"
+            ],
+            "mode": [
+              "Full-time on-campus with practical studio workshops",
+              "Industrial attachment during programme"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in three core subjects (English Language, Mathematics, Integrated Science) plus two or three relevant elective subjects",
+              "SSSCE: Passes (A-D) in three core subjects plus two or three relevant elective subjects",
+              "Mature applicants: 25 years and above, must pass written examination/interview"
+            ],
+            "level_note": [
+              "Practical hands-on training in fashion design, pattern cutting, and textile production.",
+              "Graduates work in fashion houses, garment factories, and as self-employed fashion entrepreneurs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Industrial Arts (Ceramics, Metal Design & Fabrication, Textiles, Woodwork & Basketry)",
+        "career": [
+          "Ceramist/Pottery Designer",
+          "Metal Designer and Fabricator",
+          "Textile Weaver and Embroiderer",
+          "Woodwork Artisan",
+          "Basketry Designer",
+          "Interior Designer",
+          "Product Designer",
+          "CAD Designer/Illustrator",
+          "Art Gallery Curator",
+          "Private Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,545 per semester (Level 100 fresh); GHC 2,226 (Level 200); GHC 2,095 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Ceramics and Pottery",
+              "Metal Design and Fabrication",
+              "Textile Design and Weaving",
+              "Woodwork and Basketry",
+              "Art History and Appreciation",
+              "Computer-Aided Design (CAD)"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $65,000",
+              "Europe: €25,000 - €50,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus with practical workshop sessions",
+              "Industrial attachment component"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in three core subjects (English Language, Mathematics, Integrated Science) plus two or three relevant elective subjects",
+              "SSSCE: Passes (A-D) in three core subjects plus two or three relevant elective subjects including relevant Art/Technical subjects",
+              "Mature applicants: 25 years and above, must pass written examination/interview"
+            ],
+            "level_note": [
+              "Specialisation tracks: Ceramics, Metal Design & Fabrication, Textiles, and Woodwork & Basketry.",
+              "Graduates serve in design studios, non-traditional export sector, and as self-employed artisans."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Industrial Art",
+        "career": [
+          "CAD Designer/Illustrator",
+          "Interior Designer",
+          "Product Designer",
+          "Commercial Artist",
+          "Packaging Designer",
+          "Estate Art Appraiser",
+          "Graphic Designer/Communication Designer",
+          "Jewellery Designer",
+          "Leather Designer/Shoe Producer",
+          "Tile Producer/Jacuzzi Maker"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: GHC 2,982 (L100); GHC 2,667 (L200); GHC 2,982 (L300); GHC 3,103 (L400) + SRC Dues GHC 257"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Ceramics",
+              "Graphic Design",
+              "Jewellery and Metal Design",
+              "Leather Design",
+              "Textile Design",
+              "3D Design and CAD"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $40,000 - $80,000",
+              "Europe: €32,000 - €65,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus with practical studio and workshop sessions",
+              "Industrial attachment in final year"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science/Social Studies) plus three relevant elective subjects",
+              "SSSCE: Passes (A-D) in three core plus three elective subjects",
+              "Technical school NABPTEX/CTVET: Passes in three core and three electives"
+            ],
+            "level_note": [
+              "Specialisation options: Ceramics, Graphic Design, Jewellery & Metal Design, Leather Design, and Textile Design.",
+              "Produces skilled industrial artists for Ghana's creative economy and non-traditional export sector."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 3,487 (L300); GHC 3,242 (L400) + SRC Dues GHC 257 (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Studio Practice",
+              "Design Management",
+              "Research Methods in Art",
+              "Contemporary Art and Design",
+              "Exhibition and Portfolio Development",
+              "Entrepreneurship in Creative Arts"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $40,000 - $80,000",
+              "Europe: €32,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend programme (Top-up) for HND holders",
+              "Lectures on Fridays and Saturdays"
+            ],
+            "entry_requirements": [
+              "HND in Industrial Art or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed for consideration"
+            ],
+            "level_note": [
+              "Top-up programme for HND Industrial Art holders to upgrade to a B.Tech degree.",
+              "Entry at Level 300; covers advanced studio practice, research, and design management."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Applied Science and Technology",
+    "note": [
+      "The Faculty of Applied Science and Technology (FAST) offers programmes in building, estate management, IT, hospitality, pharmaceutical sciences, and science laboratory technology.",
+      "DHLTU introduced the B.Tech Pharmaceutical Sciences programme in October 2025 for the 2025/2026 academic year, expanding into health sciences."
+    ],
+    "courses": [
+      {
+        "course_name": "HND Building Technology",
+        "career": [
+          "Building Technologist",
+          "Site Supervisor",
+          "Quantity Surveyor Assistant",
+          "Building Inspector (MMDAs)",
+          "Construction Project Supervisor",
+          "Estate Maintenance Officer",
+          "Architectural Technician",
+          "Materials Estimator",
+          "Building Contractor",
+          "Private Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,545 per semester (Level 100); GHC 2,226 (Level 200); GHC 2,095 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Building Construction Technology",
+              "Structural Design",
+              "Building Materials and Testing",
+              "Surveying and Levelling",
+              "Building Services",
+              "Quantity Surveying"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 60,000 annually",
+              "USA: $40,000 - $75,000",
+              "Europe: €32,000 - €60,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus with practical field sessions",
+              "Industrial attachment at construction firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects: three core (English Language, Mathematics, Integrated Science) plus three relevant electives (Physics, Chemistry, Building Construction, Technical Drawing, Woodwork, Engineering Science)",
+              "SSSCE: Passes (A-D) in six subjects with same subject requirements",
+              "Technical school NABPTEX/CTVET: Passes in three core and three relevant elective subjects"
+            ],
+            "level_note": [
+              "Practical training in construction technology, structural design, and building services.",
+              "Graduates work with construction companies, MMDAs, and estate management firms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Science Laboratory Technology",
+        "career": [
+          "Laboratory Technologist",
+          "Research Assistant",
+          "Quality Control Analyst",
+          "Food and Drugs Authority Officer",
+          "Environmental Analyst",
+          "Clinical Laboratory Technician",
+          "Mining/Oil Company Lab Technician",
+          "Science Entrepreneur",
+          "Industrial Chemistry Technician",
+          "Teaching and Research Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,614 per semester (Level 100); GHC 2,286 (Level 200); GHC 2,142 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Analytical Chemistry",
+              "Microbiology",
+              "Biochemistry",
+              "Instrumental Analysis",
+              "Environmental Science",
+              "Quality Assurance and Control"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 60,000 annually",
+              "USA: $40,000 - $75,000",
+              "Europe: €32,000 - €60,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus with extensive laboratory practicals",
+              "Industrial attachment at research institutions and laboratories"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in three core subjects (English Language, Mathematics, Integrated Science) plus relevant science electives (Chemistry, Biology, Physics, Elective Mathematics)",
+              "SSSCE: Passes (A-D) in three core plus relevant science elective subjects",
+              "GCE: Five O-Level credits plus two A-Level passes in pure sciences"
+            ],
+            "level_note": [
+              "Trains laboratory technologists for research institutions, regulatory agencies (FDA, Ghana Standards Authority), and industry.",
+              "Graduates work at CSIR, Noguchi Memorial Institute, mining companies, and clinical laboratories."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Information and Communication Technology",
+        "career": [
+          "Software Developer",
+          "Web Master",
+          "Computer Hardware Technician",
+          "Database Administrator",
+          "Network Administrator",
+          "ICT Technical Support Officer",
+          "Information Systems Manager",
+          "Systems Security Analyst",
+          "IT/ICT Instructor",
+          "Help Desk Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,047 per semester (Level 100); GHC 1,799 (Level 200); GHC 1,725 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Database Management",
+              "Computer Networking",
+              "Web Development",
+              "Operating Systems",
+              "ICT Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 65,000 annually",
+              "USA: $40,000 - $80,000",
+              "Europe: €30,000 - €60,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Industrial attachment at IT firms and institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects (English Language, Mathematics, Integrated Science/Social Studies) plus three elective subjects",
+              "SSSCE: Passes (A-D) in three core subjects plus three relevant elective subjects",
+              "DBS/NABPTEX/GBCE holders with relevant passes may apply"
+            ],
+            "level_note": [
+              "Foundation ICT programme covering software development, networking, and systems administration.",
+              "Pathway to B.Tech Information Technology at DHLTU."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Estate Management",
+        "career": [
+          "Property Valuer/Valuation Officer",
+          "Property Manager",
+          "MMDA Building Inspector",
+          "Project Supervisor",
+          "Estate Manager",
+          "Quantity Surveyor",
+          "Estimator and Cost Consultant",
+          "Facilities Manager",
+          "Real Estate Agent",
+          "Private Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,488 per semester (Level 100); GHC 2,267 (Level 200); GHC 2,052 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Property Valuation",
+              "Property Law",
+              "Estate Management Practice",
+              "Building Construction",
+              "Land Economics",
+              "Urban and Regional Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 60,000 annually",
+              "USA: $40,000 - $80,000",
+              "Europe: €32,000 - €65,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus with field visits and practical property assessments",
+              "Industrial attachment at estate firms and MMDAs"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects: three core (English, Mathematics, Integrated Science) plus three electives including Economics or Geography",
+              "SSSCE: Passes (A-D) in six subjects with same requirements",
+              "Mature applicants: 25 years and above, must pass entrance examination"
+            ],
+            "level_note": [
+              "Trains estate management professionals for property valuation, management, and real estate services.",
+              "Graduates work with government agencies (MMDAs), real estate companies, and construction firms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Building Technology",
+        "career": [
+          "Building Technologist",
+          "Construction Manager",
+          "Quantity Surveyor",
+          "Site Engineer",
+          "Building Inspector",
+          "Project Manager (Construction)",
+          "Estate Maintenance Manager",
+          "Architectural Consultant",
+          "Construction Contractor",
+          "Research and Teaching"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: GHC 2,977 (L100); GHC 2,582 (L200); GHC 2,987 (L300); GHC 3,103 (L400) + SRC Dues GHC 257"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Structural Design",
+              "Construction Project Management",
+              "Building Services Engineering",
+              "Quantity Surveying and Estimation",
+              "Environmental Building Technology",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus with practical field sessions",
+              "Industrial attachment and capstone project"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects (English, Mathematics, Integrated Science) plus three relevant electives (Physics, Chemistry, Building Construction, Technical Drawing, Woodwork, Engineering Science)",
+              "SSSCE: Passes (A-D) in three core plus three elective subjects",
+              "Technical school NABPTEX/CTVET: Passes in three core and three electives"
+            ],
+            "level_note": [
+              "Comprehensive 4-year building technology degree programme.",
+              "Graduates work with construction companies, government agencies (Roads & Highways, MMDAs), and consultancy firms."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 3,487 (L300); GHC 3,242 (L400) + SRC Dues GHC 257 (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Construction Technology",
+              "Research Methods",
+              "Project Management",
+              "Sustainable Building Design",
+              "Building Regulations and Standards",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend programme (Top-up) for HND holders",
+              "Lectures on Fridays and Saturdays"
+            ],
+            "entry_requirements": [
+              "HND in Building Technology or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed"
+            ],
+            "level_note": [
+              "Top-up programme enabling HND Building Technology holders to upgrade to B.Tech.",
+              "Entry at Level 300; students complete advanced coursework and research project."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Estate Management",
+        "career": [
+          "Estate Manager",
+          "Property Valuer",
+          "Quantity Surveyor",
+          "Project Manager (Real Estate)",
+          "Facilities Manager",
+          "Real Estate Consultant",
+          "Property Developer",
+          "MMDA Building Inspector",
+          "Land Administration Officer",
+          "Urban and Regional Planner"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 (L100); GHC 2,792 (L200); GHC 2,982 (L300); GHC 3,103 (L400) + SRC Dues GHC 257"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Property Valuation",
+              "Real Estate Finance",
+              "Urban Planning and Development",
+              "Facilities Management",
+              "Property Law and Landlord-Tenant Relations",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €75,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 elective subjects including Economics or Geography"
+            ],
+            "mode": [
+              "Full-time on-campus with field visits and property assessment practicals",
+              "Industrial attachment at estate firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects: three core (English, Mathematics, Integrated Science) plus three electives including Economics or Geography",
+              "SSSCE: Passes (A-D) in six subjects with same requirements",
+              "TVET: Credit passes in six subjects including three core and three relevant electives"
+            ],
+            "level_note": [
+              "Comprehensive estate management degree for property professionals.",
+              "Graduates serve as valuers, property managers, and real estate consultants."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 3,487 (L300); GHC 3,242 (L400) + SRC Dues GHC 257 (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Property Valuation",
+              "Research Methods",
+              "Real Estate Investment Analysis",
+              "Facilities Management",
+              "Property Development",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €75,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend programme (Top-up) for HND holders"],
+            "entry_requirements": [
+              "HND in Estate Management or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed"
+            ],
+            "level_note": [
+              "Top-up programme for HND Estate Management holders.",
+              "Entry at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Hospitality and Catering Management",
+        "career": [
+          "Hotel Manager",
+          "Restaurant Manager",
+          "Event Planner/Manager",
+          "Food Service Supervisor",
+          "Pastry and Confectionery Entrepreneur",
+          "Hospitality Lecturer",
+          "Lodges/Resorts Manager",
+          "Catering Manager (Military, Prisons, Schools, Hospitals)",
+          "Food Processing Company Supervisor",
+          "Tourism and Hospitality Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: GHC 2,982 (L100); GHC 2,552 (L200); GHC 2,882 (L300); GHC 3,103 (L400) + SRC Dues GHC 257"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Food Production and Service Management",
+              "Hotel and Front Office Management",
+              "Hospitality Marketing",
+              "Event Management",
+              "Food Safety and Hygiene",
+              "Tourism Management"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €30,000 - €65,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus with practical kitchen and hospitality lab sessions",
+              "Industrial attachment at hotels and catering establishments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects (English, Mathematics, Integrated Science/Social Studies) plus three relevant elective subjects",
+              "SSSCE: Passes (A-D) in three core plus three elective subjects",
+              "Technical school NABPTEX/CTVET: Passes in three core and three electives"
+            ],
+            "level_note": [
+              "Produces hospitality and catering managers for Ghana's growing tourism and hospitality sector.",
+              "Graduates work in hotels, restaurants, event management companies, and institutional catering."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 3,487 - 3,917 (L300); GHC 3,262 (L400) + SRC Dues GHC 257 (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Hospitality Management",
+              "Research Methods",
+              "Tourism Policy and Planning",
+              "Food and Beverage Cost Control",
+              "Quality Management in Hospitality",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €30,000 - €65,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend programme (Top-up) for HND holders"],
+            "entry_requirements": [
+              "HND in Hospitality/Catering Management or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed"
+            ],
+            "level_note": [
+              "Top-up programme for HND Hospitality holders.",
+              "Entry at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Information Technology",
+        "career": [
+          "Software Developer",
+          "Web Master",
+          "Database and Network Administrator",
+          "ICT Technical Support Officer",
+          "Information Systems Manager",
+          "Systems Security Analyst",
+          "IT/ICT Instructor",
+          "Computer Hardware Technician",
+          "IT Project Manager",
+          "Cyber Security Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: GHC 2,912 (L100); GHC 2,982 (L200); GHC 2,812 (L300); GHC 3,103 (L400) + SRC Dues GHC 257"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Software Engineering",
+              "Database Systems",
+              "Computer Networks and Security",
+              "Web Application Development",
+              "Operating Systems",
+              "IT Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Industrial attachment at IT firms and institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects (English Language, Mathematics, Integrated Science/Social Studies) plus three relevant elective subjects",
+              "SSSCE: Passes (A-D) in three core subjects plus three relevant elective subjects",
+              "NABPTEX/GBCE: Six passes including English Language, Mathematics, and relevant subjects"
+            ],
+            "level_note": [
+              "Comprehensive IT degree programme covering software development, networking, and systems management.",
+              "Graduates work in software firms, banks, telecommunications, and government IT departments."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 3,497 - 3,587 (L300); GHC 3,242 (L400) + SRC Dues GHC 257 (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Software Engineering",
+              "Research Methods in IT",
+              "Cloud Computing",
+              "Cyber Security",
+              "Data Analytics",
+              "Entrepreneurship in IT"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend programme (Top-up) for HND holders"],
+            "entry_requirements": [
+              "HND in IT/ICT or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed"
+            ],
+            "level_note": [
+              "Top-up programme for HND ICT holders.",
+              "Entry at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Pharmaceutical Sciences",
+        "career": [
+          "Drug Dispenser (Hospital/Community Pharmacy)",
+          "Medical Representative (Pharmaceutical Companies)",
+          "Pharmaceutical Manufacturing Technologist",
+          "Pharmaceutical Research Assistant",
+          "Health Insurance Officer",
+          "Sales Agent (Pharmaceutical Companies)",
+          "Licensed Chemical Shop Operator",
+          "Quality Assurance Officer (Pharma)",
+          "Educational/Research Institution Officer",
+          "Regulatory Affairs Assistant (FDA)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 2,900 - 3,200 per semester (new programme, fees to be confirmed)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Pharmacology",
+              "Pharmaceutical Chemistry",
+              "Dispensing Technology",
+              "Clinical Pharmacy",
+              "Pharmacognosy",
+              "Pharmaceutical Microbiology"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €75,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 science electives (Chemistry, Biology, Physics/Elective Maths)"
+            ],
+            "mode": [
+              "Full-time on-campus with laboratory practicals",
+              "Clinical attachments at hospitals and community pharmacies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in six subjects: English Language, Integrated Science, Mathematics, plus Chemistry, Biology, and Physics or Elective Mathematics",
+              "SSSCE: Passes (A-D) in six subjects with same subject combination",
+              "Mature applicants: 25 years and above with relevant hospital, laboratory, industrial or community pharmacy experience"
+            ],
+            "level_note": [
+              "Newly introduced for the 2025/2026 academic year; first batch enrolled January 2026.",
+              "The HND Dispensing Technology qualification is accepted by the Pharmacy Council of Ghana for Pharmacy Technologists."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 3,400 - 3,600 per semester (new programme, fees to be confirmed)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Pharmacology",
+              "Pharmaceutical Quality Assurance",
+              "Drug Regulatory Affairs",
+              "Clinical Pharmacy Practice",
+              "Research Methods",
+              "Entrepreneurship in Pharmacy"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €75,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend programme (Top-up) for HND holders"],
+            "entry_requirements": [
+              "HND in Dispensing Technology with at least Second Class Lower Division",
+              "DT Final Part III Certificate holders enter at Year 2",
+              "Two years post-HND relevant working experience required"
+            ],
+            "level_note": [
+              "Top-up programme for HND Dispensing Technology holders.",
+              "HND holders enter at Level 300; DT Part III holders enter at Level 200."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Business School",
+    "note": [
+      "The DHLTU Business School offers programmes in accountancy, purchasing and supply chain management, secretaryship, and office administration.",
+      "The BSc Office Administration and Management is a GTEC-listed programme active from 2025 to 2028."
+    ],
+    "courses": [
+      {
+        "course_name": "HND Accountancy",
+        "career": [
+          "Accountant",
+          "Auditor",
+          "Cashier",
+          "Bursar",
+          "Storekeeper",
+          "Budget Officer",
+          "Finance Officer",
+          "Teacher",
+          "Tax Officer",
+          "Self-Employed Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,141 per semester (Level 100); GHC 1,821 (Level 200); GHC 1,641 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost Accounting",
+              "Auditing",
+              "Taxation",
+              "Management Accounting",
+              "Business Law"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 55,000 annually",
+              "USA: $35,000 - $65,000",
+              "Europe: €28,000 - €52,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Industrial attachment at accounting firms and institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in three core subjects (English Language, Mathematics, Integrated Science/Social Studies) plus three relevant elective subjects",
+              "SSSCE: Passes (A-D) in three core subjects plus three relevant elective subjects",
+              "GBCE/DBS holders with relevant passes may apply; mature applicants 25 years and above"
+            ],
+            "level_note": [
+              "Foundation accounting programme providing practical skills in financial accounting, auditing, and taxation.",
+              "Graduates work in banks, audit firms, government agencies, and as self-employed accountants."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Purchasing and Supply Chain Management",
+        "career": [
+          "Procurement Officer",
+          "Supply Chain Coordinator",
+          "Purchasing Manager",
+          "Logistics Officer",
+          "Stores Manager",
+          "Import/Export Officer",
+          "Inventory Controller",
+          "Warehouse Manager",
+          "NGO Procurement Officer",
+          "Banking and Investment Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,141 per semester (Level 100); GHC 1,821 (Level 200); GHC 1,641 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Purchasing Management",
+              "Supply Chain Management",
+              "Logistics and Transportation",
+              "Warehousing and Inventory Management",
+              "Procurement Law and Ethics",
+              "Contract Management"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 55,000 annually",
+              "USA: $40,000 - $75,000",
+              "Europe: €30,000 - €60,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Industrial attachment at procurement and logistics firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Five passes including English Language and Mathematics with three relevant elective passes",
+              "SSSCE: Passes in three core plus relevant elective subjects",
+              "GBCE: Five credit passes including English and Mathematics; ABCE: Three passes"
+            ],
+            "level_note": [
+              "Trains procurement and supply chain professionals for public and private sector roles.",
+              "Graduates work in import/export, aviation, mining, oil and gas, and NGO procurement."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Secretaryship and Management Studies",
+        "career": [
+          "Administrative Assistant",
+          "Executive Secretary",
+          "Project Officer",
+          "Company Secretary",
+          "Small Business Manager",
+          "Private Secretary",
+          "Human Resource Manager",
+          "Confidential Secretary",
+          "Office Manager",
+          "Records Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,820 per semester (Level 100); GHC 1,850 (Level 200); GHC 1,640 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Office Management and Administration",
+              "Business Communication",
+              "Shorthand and Transcription",
+              "Office Technology and Computing",
+              "Records Management",
+              "Human Resource Management Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $60,000",
+              "Europe: €25,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus lectures with practical office technology sessions",
+              "Industrial attachment at corporate offices"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in three core subjects (English Language, Mathematics, Integrated Science/Social Studies) plus relevant elective passes",
+              "RSA Stage II/GBCE holders with four passes including English and Mathematics",
+              "DBS holders with at least four passes in Secretaryship option; Stenographer holders with three passes including English"
+            ],
+            "level_note": [
+              "Trains office management professionals with secretarial, administrative, and communication skills.",
+              "Graduates serve as administrative assistants, executive secretaries, and office managers."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Procurement, Logistics and Supply Chain Management",
+        "career": [
+          "Procurement Manager",
+          "Supply Chain Director",
+          "Logistics Manager",
+          "Import/Export Manager",
+          "Warehouse Operations Manager",
+          "Contract Manager",
+          "Public Procurement Officer",
+          "Consultancy Establishment Manager",
+          "Mining/Oil & Gas Supply Chain Officer",
+          "NGO Procurement and Logistics Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: GHC 2,780 - 3,127 (L100); GHC 2,747 (L200); GHC 2,977 (L300); GHC 2,713 (L400) + SRC Dues GHC 257"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Strategic Procurement Management",
+              "Global Supply Chain Management",
+              "Logistics and Distribution Management",
+              "Contract and Vendor Management",
+              "Procurement Law and Policy",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and tutorials",
+              "Industrial attachment at procurement and logistics firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects (English, Mathematics, Integrated Science/Social Studies) plus three relevant elective subjects",
+              "SSSCE: Passes (A-D) in three core plus three elective subjects",
+              "GBCE/ABCE holders with relevant passes may apply"
+            ],
+            "level_note": [
+              "Comprehensive procurement and supply chain degree programme.",
+              "Graduates work in mining, oil and gas, aviation, banking, public institutions, and NGOs."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 2,997 (L300); GHC 2,752 (L400) + SRC Dues GHC 257 (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Procurement Strategy",
+              "Research Methods",
+              "Supply Chain Analytics",
+              "E-Procurement",
+              "Public Procurement Policy",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend programme (Top-up) for HND holders"],
+            "entry_requirements": [
+              "HND in Purchasing and Supply or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed"
+            ],
+            "level_note": [
+              "Top-up programme for HND Purchasing and Supply holders.",
+              "Entry at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Office Administration and Management",
+        "career": [
+          "Office Administrator",
+          "Administrative Manager",
+          "Executive Assistant",
+          "Office Manager",
+          "Records Management Officer",
+          "Human Resource Administrator",
+          "Project Coordinator",
+          "Corporate Secretary",
+          "Business Support Manager",
+          "Small Business Owner/Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 2,800 - 3,100 per semester (GTEC-listed 2025-2028)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Office Administration and Management",
+              "Business Communication",
+              "Records and Information Management",
+              "Human Resource Management",
+              "Office Technology and Automation",
+              "Organisational Behaviour"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 60,000 annually",
+              "USA: $35,000 - $70,000",
+              "Europe: €28,000 - €55,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and practical sessions",
+              "Industrial attachment component"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects (English, Mathematics, Integrated Science/Social Studies) plus three relevant elective subjects",
+              "SSSCE: Passes (A-D) in three core plus three elective subjects",
+              "Technical school NABPTEX/CTVET: Passes in three core and three electives"
+            ],
+            "level_note": [
+              "GTEC-listed programme active 2025–2028.",
+              "Replaces and upgrades the HND Secretaryship and Management Studies pathway."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 3,200 - 3,500 per semester (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Office Management",
+              "Research Methods",
+              "Corporate Governance",
+              "Project Management",
+              "Digital Office Technology",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 60,000 annually",
+              "USA: $35,000 - $70,000",
+              "Europe: €28,000 - €55,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend programme (Top-up) for HND holders"],
+            "entry_requirements": [
+              "HND in Secretaryship and Management Studies or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed"
+            ],
+            "level_note": [
+              "Top-up pathway for HND Secretaryship holders to upgrade to a BSc degree.",
+              "Entry at Level 300."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Engineering",
+    "note": [
+      "The Faculty of Engineering (FOE) offers HND and B.Tech programmes in agricultural, civil, and mechanical engineering.",
+      "Engineering programmes emphasise hands-on technical training with industrial attachments, producing skilled technologists for Ghana's infrastructure and industrial development."
+    ],
+    "courses": [
+      {
+        "course_name": "HND Agricultural Engineering",
+        "career": [
+          "Agricultural Engineer",
+          "Food Production/Processing Officer",
+          "Irrigation Project Officer",
+          "Renewable Energy Technician",
+          "Extension Officer",
+          "Farm Mechanisation Officer",
+          "Plant Assembling and Maintenance",
+          "Mining Company Technician",
+          "NGO Agricultural Officer",
+          "Self-Employed Agri-Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,545 per semester (Level 100); GHC 2,326 (Level 200); GHC 2,095 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Post-Harvest Technology",
+              "Soil and Water Engineering",
+              "Agricultural Mechanisation",
+              "Irrigation Engineering",
+              "Renewable Energy Systems",
+              "Farm Structures"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 60,000 annually",
+              "USA: $40,000 - $80,000",
+              "Europe: €32,000 - €65,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus with practical field and workshop sessions",
+              "Industrial attachment at agricultural firms and research stations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in six subjects: three core (English, Mathematics, Integrated Science) plus three relevant electives (Physics, Chemistry, Elective Mathematics, Technical Drawing, Agricultural Science, Engineering Science)",
+              "SSSCE: Passes (A-D) in six subjects with same requirements",
+              "Technical school: Passes including Mechanical Engineering Craft Practice, Agricultural Engineering, Technical Drawing"
+            ],
+            "level_note": [
+              "Specialisation tracks: Post-Harvest Technology, Soil and Water, and Agricultural Mechanisation.",
+              "Graduates serve in irrigation projects, food processing, renewable energy, and farming sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Civil Engineering",
+        "career": [
+          "Civil Engineering Technologist",
+          "Site Supervisor",
+          "Road Construction Officer",
+          "Structural Technician",
+          "Geotechnical Technician",
+          "Urban Planning Assistant",
+          "Waste Management Officer",
+          "Building Inspector (MMDAs)",
+          "Environmental Conservation Officer",
+          "Self-Employed Contractor"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,488 per semester (Level 100); GHC 2,267 (Level 200); GHC 2,052 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Structural Design",
+              "Highway Engineering",
+              "Geotechnical Engineering",
+              "Surveying and Levelling",
+              "Hydraulics and Water Supply",
+              "Environmental Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 65,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €35,000 - €68,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus with practical field sessions",
+              "Industrial attachment at construction and engineering firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in five subjects: three core (English Language, Mathematics, Integrated Science) plus two electives (Elective Mathematics, Physics, Chemistry, Building Construction, Technical Drawing, Woodwork, Engineering Science)",
+              "SSSCE: Passes (A-D) in five subjects with same requirements; CTC I/II holders with required passes",
+              "Mature applicants: 25 years and above with 2 years experience; must pass written examination/interview"
+            ],
+            "level_note": [
+              "Practical civil engineering training for Ghana's infrastructure development needs.",
+              "Graduates work with Ghana Highways Authority, Department of Urban/Feeder Roads, MMDAs, and construction firms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Mechanical Engineering",
+        "career": [
+          "Mechanical Engineering Technologist",
+          "Automotive Technician/Engineer",
+          "Plant Maintenance Engineer",
+          "Production Engineer",
+          "Oil and Gas Technician",
+          "Mining Equipment Technician",
+          "Power Generation Technician",
+          "Manufacturing Industry Officer",
+          "Design and Fabrication Specialist",
+          "Self-Employed Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,545 per semester (Level 100); GHC 2,226 (Level 200); GHC 2,095 (Level 300) + SRC Dues GHC 263"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Automotive Engineering",
+              "Plant Engineering",
+              "Production Engineering",
+              "Thermodynamics and Heat Transfer",
+              "Machine Design",
+              "Workshop Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 70,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: Not exceeding 24-39"],
+            "mode": [
+              "Full-time on-campus with practical workshop and laboratory sessions",
+              "Industrial attachment at manufacturing and engineering firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in six subjects: three core (English, Mathematics, Integrated Science) plus three relevant electives (Elective Mathematics, Physics, Technical Drawing, Chemistry)",
+              "SSSCE: Passes (A-D) in six subjects with same requirements",
+              "Technical school: Passes in Mechanical Engineering Craft Practice, Industrial Mechanics, Welding, Auto Mechanics, Technical Drawing"
+            ],
+            "level_note": [
+              "Specialisation tracks: Automotive, Plant, and Production engineering.",
+              "Graduates work in oil and gas, mining, manufacturing, construction, and power generation industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Agricultural Engineering",
+        "career": [
+          "Agricultural Engineer",
+          "Irrigation Engineer",
+          "Food Processing Engineer",
+          "Renewable Energy Engineer",
+          "Farm Mechanisation Specialist",
+          "Research Officer (CSIR)",
+          "Agricultural Consultant",
+          "Extension Services Director",
+          "Mining Company Engineer",
+          "Teaching and Research"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: GHC 2,922 (L100); GHC 2,792 (L200); GHC 2,822 (L300); GHC 3,103 (L400) + SRC Dues GHC 257"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Irrigation Engineering",
+              "Post-Harvest Engineering",
+              "Agricultural Mechanisation Systems",
+              "Renewable Energy in Agriculture",
+              "Soil and Water Conservation Engineering",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 science/technical elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus with practical field and workshop sessions",
+              "Industrial attachment at agricultural and engineering firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects (English, Mathematics, Integrated Science) plus three relevant electives (Physics, Chemistry, Elective Mathematics, Technical Drawing, Agricultural Science)",
+              "SSSCE: Passes (A-D) in three core plus three elective subjects",
+              "Technical school NABPTEX/CTVET: Passes in three core and three electives"
+            ],
+            "level_note": [
+              "Comprehensive 4-year agricultural engineering degree programme.",
+              "Graduates work in irrigation, food processing, renewable energy, and agricultural research."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 3,497 (L300); GHC 3,152 (L400) + SRC Dues GHC 257 (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Agricultural Systems Design",
+              "Research Methods",
+              "Precision Agriculture Technology",
+              "Agricultural Project Management",
+              "Environmental Impact Assessment",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend programme (Top-up) for HND holders"],
+            "entry_requirements": [
+              "HND in Agricultural Engineering or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed"
+            ],
+            "level_note": [
+              "Top-up programme for HND Agricultural Engineering holders.",
+              "Entry at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Civil Engineering",
+        "career": [
+          "Civil Engineer",
+          "Structural Engineer",
+          "Geotechnical Engineer",
+          "Highway Engineer",
+          "Water Resources Engineer",
+          "Project Manager (Construction)",
+          "Urban Planner",
+          "Environmental Engineer",
+          "Government Engineer (MMDAs/Highways Authority)",
+          "Self-Employed Contractor/Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: GHC 2,932 (L100); GHC 2,652 (L200); GHC 2,982 (L300); GHC 3,103 (L400) + SRC Dues GHC 257"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Structural Analysis",
+              "Highway and Transportation Engineering",
+              "Geotechnical Engineering",
+              "Water Resources Engineering",
+              "Construction Management",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 90,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 science/technical elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus with practical field and laboratory sessions",
+              "Industrial attachment at engineering and construction firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects (English, Mathematics, Integrated Science) plus three relevant electives (Physics, Chemistry, Elective Mathematics, Building Construction, Technical Drawing, Engineering Science)",
+              "SSSCE: Passes (A-D) in three core plus three elective subjects",
+              "Technical school NABPTEX/CTVET: Passes in three core and three electives"
+            ],
+            "level_note": [
+              "Comprehensive civil engineering degree programme.",
+              "Graduates work with Ghana Highways Authority, Department of Urban/Feeder Roads, MMDAs, and consulting firms."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 3,587 (L300); GHC 3,242 (L400) + SRC Dues GHC 257 (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Structural Design",
+              "Research Methods",
+              "Pavement and Highway Design",
+              "Project Management",
+              "Environmental Engineering",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 90,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend programme (Top-up) for HND holders"],
+            "entry_requirements": [
+              "HND in Civil Engineering or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed"
+            ],
+            "level_note": [
+              "Top-up programme for HND Civil Engineering holders.",
+              "Entry at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "career": [
+          "Mechanical Engineer",
+          "Oil and Gas Engineer",
+          "Automotive Engineer",
+          "Plant Engineer",
+          "Production/Manufacturing Engineer",
+          "Mining Engineer",
+          "Power Generation Engineer",
+          "Design and Fabrication Engineer",
+          "Rail Industry Engineer",
+          "Teaching and Research"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year Regular)",
+            "fees": [
+              "Ghanaian Students: GHC 2,882 (L100); GHC 2,667 (L200); GHC 2,797 (L300); GHC 3,103 (L400) + SRC Dues GHC 257"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Advanced Thermodynamics",
+              "Machine Design",
+              "Manufacturing Technology",
+              "Fluid Mechanics",
+              "Control Systems Engineering",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 90,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE: Credit passes (A1-C6) in 3 core + 3 science/technical elective subjects"
+            ],
+            "mode": [
+              "Full-time on-campus with practical workshop and laboratory sessions",
+              "Industrial attachment at manufacturing and engineering firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in three core subjects (English, Mathematics, Integrated Science) plus three relevant electives (Physics, Chemistry, Elective Mathematics, Technical Drawing)",
+              "SSSCE: Passes (A-D) in three core plus three elective subjects",
+              "Technical school NABPTEX/CTVET: Passes in three core and three electives"
+            ],
+            "level_note": [
+              "Comprehensive mechanical engineering degree programme.",
+              "Graduates work in oil and gas, mining, manufacturing, automotive, power generation, and rail industries."
+            ]
+          },
+          {
+            "level_name": "Undergraduate (2-year Top-Up)",
+            "fees": [
+              "Ghanaian Students: GHC 3,497 (L300); GHC 3,152 (L400) + SRC Dues GHC 257 (Weekend/Top-up rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Machine Design",
+              "Research Methods",
+              "Industrial Maintenance Engineering",
+              "Energy Systems",
+              "Automation and Control",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 90,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend programme (Top-up) for HND holders"],
+            "entry_requirements": [
+              "HND in Mechanical Engineering or related field with at least Second Class Lower Division",
+              "Two years post-HND relevant working experience required",
+              "Those with a Pass grade may be interviewed"
+            ],
+            "level_note": [
+              "Top-up programme for HND Mechanical Engineering holders.",
+              "Entry at Level 300."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
