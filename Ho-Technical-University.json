@@ -1,0 +1,751 @@
+[
+  {
+    "name": "Ho Technical University"
+  },
+  {
+    "faculty_name": "Faculty of Applied Sciences and Technology",
+    "note": [
+      "The Faculty of Applied Sciences and Technology at Ho Technical University offers science, technology, hospitality, agriculture, and ICT programmes from certificate to bachelor level.",
+      "Programmes emphasise hands-on laboratory, kitchen, farm, and computer practicals to prepare graduates for Ghana's evolving applied science and service industries."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Technology, Hospitality Management",
+        "career": [
+          "Hotel Manager",
+          "Restaurant Manager",
+          "Food and Beverage Manager",
+          "Resort Operations Manager",
+          "Event and Conference Manager",
+          "Catering Manager",
+          "Hospitality Consultant",
+          "Front Office Manager",
+          "Institutional Catering Supervisor",
+          "Hospitality Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,400 per semester (estimated 2025/2026; see official fee schedule)",
+              "International Students: See HTU 2025/2026 Fee Schedule"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Food Production and Patisserie",
+              "Food and Beverage Service",
+              "Front Office Operations",
+              "Hospitality Marketing",
+              "Facilities and Housekeeping Management",
+              "Hospitality Law and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 75,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (varies by year)"],
+            "mode": [
+              "Regular, on-campus lectures and practical sessions",
+              "Industrial attachment in hotels, restaurants, and resorts"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Mathematics, and Integrated Science/Social Studies plus three (3) relevant elective subjects (Home Economics, General Arts, Business, or Science)",
+              "TVET Certificate II: Credit passes in English Language, Mathematics, Integrated Science plus three (3) relevant trade courses",
+              "HND Hotel, Catering and Institutional Management or related field holders may enter at Level 300 (Top-Up)"
+            ],
+            "level_note": [
+              "Trains students for supervisory and managerial roles across the hospitality industry.",
+              "Graduates work in hotels, restaurants, resorts, institutions, and can start their own hospitality ventures."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology, Food Technology",
+        "career": [
+          "Food Technologist",
+          "Quality Assurance Officer",
+          "Product Development Scientist",
+          "Food Safety Inspector",
+          "Production Supervisor (Food Industry)",
+          "Regulatory Affairs Assistant (FDA/GSA)",
+          "Food Processing Entrepreneur",
+          "Research Assistant (Food Science)",
+          "Sensory Analyst",
+          "Food Packaging Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,400 per semester (estimated 2025/2026)",
+              "International Students: See HTU 2025/2026 Fee Schedule"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Food Microbiology",
+              "Food Chemistry",
+              "Food Process Engineering",
+              "Post-Harvest Technology",
+              "Food Quality Management",
+              "Food Product Development"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $45,000 - $95,000",
+              "Europe: €35,000 - €80,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (science background required)"
+            ],
+            "mode": [
+              "Regular, on-campus lectures and laboratory practicals",
+              "Industrial attachment at food processing and regulatory organisations"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Mathematics and Integrated Science plus three (3) relevant elective subjects (Chemistry, Biology, Physics, General Agriculture, Elective Mathematics)",
+              "TVET Certificate II: Credit passes in English Language, Mathematics, Integrated Science plus three (3) relevant trade courses in science/food related areas",
+              "HND Food Technology holders may enter at Level 300 as Top-Up students"
+            ],
+            "level_note": [
+              "Provides scientific and technological training for Ghana's food industry.",
+              "Graduates support food safety, quality assurance, and product innovation in food companies and regulatory agencies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology, Tourism, Leisure and Events Management",
+        "career": [
+          "Tourism Manager",
+          "Events Manager",
+          "Leisure and Recreation Manager",
+          "Destination Marketing Executive",
+          "Tour Operations Manager",
+          "Heritage Site Manager",
+          "Conference and Exhibition Organiser",
+          "Hospitality and Tourism Consultant",
+          "Tourism Policy Officer",
+          "Community-Based Tourism Developer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,700 - 3,300 per semester (estimated 2025/2026)",
+              "International Students: See HTU 2025/2026 Fee Schedule"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Tourism Principles and Practices",
+              "Leisure and Recreation Management",
+              "Events Planning and Management",
+              "Destination Marketing",
+              "Tourism Policy and Legislation",
+              "Sustainable and Community-Based Tourism"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 70,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
+            "mode": [
+              "Regular, on-campus with field trips to tourism sites",
+              "Industrial attachment in tourism and events organisations"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Mathematics and Integrated Science/Social Studies plus three (3) relevant elective subjects (General Arts, Business, Vocational or Science)",
+              "TVET Certificate II: Credit passes in English, Mathematics, Integrated Science plus three (3) relevant trade courses",
+              "HND Hospitality, Tourism or related holders may enter at Level 300 (Top-Up)"
+            ],
+            "level_note": [
+              "Prepares graduates to manage tourism destinations, leisure facilities, and events.",
+              "Emphasises sustainable tourism, event management, and leisure services."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology, Information and Communication Technology",
+        "career": [
+          "ICT Manager",
+          "Network Administrator",
+          "Systems Administrator",
+          "IT Support Specialist",
+          "Database Administrator",
+          "Web Master",
+          "IT Project Officer",
+          "Systems Analyst",
+          "ICT Trainer/Instructor",
+          "Cybersecurity Analyst (entry-level)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,400 per semester (estimated 2025/2026)",
+              "International Students: See HTU 2025/2026 Fee Schedule"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Computer Networks",
+              "Database Systems",
+              "Web Technologies",
+              "Operating Systems",
+              "Information Systems Management",
+              "IT Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (Mathematics and ICT-related electives required)"
+            ],
+            "mode": [
+              "Regular, on-campus lectures and computer lab practicals",
+              "Industrial attachment at ICT firms and institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Mathematics and Integrated Science plus three (3) relevant elective subjects (Elective Mathematics, ICT, Physics, Economics, Business)",
+              "TVET Certificate II: Credit passes in English, Mathematics, Integrated Science plus three (3) relevant trade/ICT subjects",
+              "HND ICT or Computer Science holders may enter at Level 300 (Top-Up)"
+            ],
+            "level_note": [
+              "Focuses on the design, implementation and management of information systems and networks.",
+              "Graduates work in corporate IT departments, telecoms, banks, and public sector ICT units."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology, Agro Enterprise Development",
+        "career": [
+          "Agribusiness Manager",
+          "Agro-Enterprise Developer",
+          "Agricultural Extension Officer",
+          "Value Chain Development Specialist",
+          "Agricultural Marketing Officer",
+          "Rural Development Officer",
+          "Agricultural Project Officer",
+          "Input/Output Trading Entrepreneur",
+          "NGO Programme Officer (Agriculture)",
+          "Agricultural Finance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,700 - 3,300 per semester (estimated 2025/2026)",
+              "International Students: See HTU 2025/2026 Fee Schedule"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Agribusiness Management",
+              "Agricultural Marketing",
+              "Farm Management and Accounting",
+              "Value Chain Analysis",
+              "Agricultural Finance",
+              "Entrepreneurship in Agriculture"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 75,000 annually",
+              "USA: $45,000 - $95,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 - 36 (agric/business background preferred)"
+            ],
+            "mode": [
+              "Regular, on-campus with farm and field practicals",
+              "Industrial attachment in agribusiness firms and NGOs"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Mathematics and Integrated Science plus three (3) relevant elective subjects (General Agriculture, Economics, Business, Biology, Elective Mathematics)",
+              "TVET Certificate II: Credit passes in English, Mathematics, Integrated Science plus three (3) relevant agricultural trade courses",
+              "HND Agro Enterprise Development or General Agriculture holders may enter at Level 300"
+            ],
+            "level_note": [
+              "Blends agriculture, business, and development to train agribusiness entrepreneurs and managers.",
+              "Graduates help commercialise agriculture and develop rural agro-based enterprises."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology, Statistics and Finance",
+        "career": [
+          "Data Analyst",
+          "Financial Analyst",
+          "Risk Analyst",
+          "Investment Analyst",
+          "Actuarial Assistant",
+          "Banking Operations Officer",
+          "Research and Policy Analyst",
+          "Business Intelligence Analyst",
+          "Market Research Analyst",
+          "Statistics and Finance Lecturer (with further study)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,400 per semester (estimated 2025/2026)",
+              "International Students: See HTU 2025/2026 Fee Schedule"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Probability and Statistics",
+              "Statistical Computing",
+              "Financial Mathematics",
+              "Corporate Finance",
+              "Time Series Analysis",
+              "Risk Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 or better (Elective Mathematics required)"
+            ],
+            "mode": [
+              "Regular, on-campus lectures and computer lab sessions",
+              "Industrial attachment in banks, insurance and research institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Mathematics and Integrated Science plus three (3) relevant elective subjects (Elective Mathematics compulsory; Physics, Economics, Accounting, Business Management, Geography, or Further Maths)",
+              "TVET/GBCE: Equivalent passes including strong mathematics background",
+              "HND Statistics or related diploma holders may enter at Level 300"
+            ],
+            "level_note": [
+              "Interdisciplinary programme combining applied statistics with finance.",
+              "Graduates are employed in banking, insurance, pensions, telecoms, and research agencies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology, Computer Science",
+        "career": [
+          "Software Engineer",
+          "Full-Stack Developer",
+          "Mobile Application Developer",
+          "Systems Analyst",
+          "Database Administrator",
+          "Network and Systems Engineer",
+          "Cybersecurity Analyst",
+          "DevOps Engineer",
+          "AI/ML Engineer (entry-level)",
+          "IT Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,500 per semester (estimated 2025/2026)",
+              "International Students: See HTU 2025/2026 Fee Schedule"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Data Structures and Algorithms",
+              "Object-Oriented Programming",
+              "Database Systems",
+              "Computer Networks and Security",
+              "Artificial Intelligence",
+              "Web and Mobile Application Development"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 100,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "Typical WASSCE aggregate: 24 or better (strong maths and science background required)"
+            ],
+            "mode": [
+              "Regular, on-campus lectures and intensive computer lab work",
+              "Industrial attachment with software and technology firms"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English Language, Mathematics and Integrated Science plus three (3) relevant elective subjects (Elective Mathematics, Physics, ICT, Further Math)",
+              "TVET Certificate II/Technician Part II: Relevant computing/electrical options with required passes",
+              "HND Computer Science or ICT holders with at least Second Class Lower may enter at Level 300"
+            ],
+            "level_note": [
+              "Flagship computing degree providing a solid foundation in software and systems development.",
+              "Graduates work across banking, telecoms, fintech, government, and global software companies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Food Technology",
+        "career": [
+          "Food Processing Technician",
+          "Quality Control Technician",
+          "Laboratory Assistant (Food Industry)",
+          "Production Line Supervisor",
+          "Food Safety Assistant",
+          "Packaging and Labelling Officer",
+          "Small-Scale Food Processor",
+          "Catering Supervisor",
+          "Market Inspector (Food Safety)",
+          "Food Product Support Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (HND Regular; see HTU fee schedule)",
+              "International Students: See HTU Fee Schedule"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Introductory Food Chemistry",
+              "Food Microbiology",
+              "Food Preservation Techniques",
+              "Food Plant Operations",
+              "Nutrition and Dietetics",
+              "Quality Assurance Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 45,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €24,000 - €45,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 36 or better (science background preferred)"
+            ],
+            "mode": ["Regular weekday lectures and lab practicals"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes (A1-D7/A-D) in English Language, Mathematics and Integrated Science plus three (3) relevant electives (Biology, Chemistry, Physics, General Agriculture, Food and Nutrition)",
+              "GBCE/TVET: Equivalent science-related passes",
+              "Mature applicants (25+): relevant work experience and successful entrance examination"
+            ],
+            "level_note": [
+              "Provides foundational skills for food science and processing roles.",
+              "Graduates may progress to BTech Food Technology as top-up students."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Hotel, Catering and Institutional Management",
+        "career": [
+          "Catering Supervisor",
+          "Restaurant Supervisor",
+          "Front Office Supervisor",
+          "Housekeeping Supervisor",
+          "Institutional Catering Officer",
+          "Banqueting Supervisor",
+          "Kitchen Supervisor",
+          "Food Service Supervisor",
+          "Hospitality Trainer (TVET)",
+          "Small-Scale Catering Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (HND Regular)",
+              "International Students: See HTU Fee Schedule"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Food Production",
+              "Food and Beverage Service",
+              "Front Office Operations",
+              "Housekeeping Operations",
+              "Hospitality Accounting",
+              "Nutrition and Menu Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 45,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €22,000 - €40,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": ["Regular weekday lectures and practical sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Mathematics, Integrated Science/Social Studies plus three (3) relevant electives (Home Economics, Business, General Arts, Science)",
+              "TVET/GBCE: Equivalent hospitality-related passes",
+              "Mature applicants: 25+ years with experience in hospitality/catering and successful entrance exam"
+            ],
+            "level_note": [
+              "Trains supervisors and middle-level staff for hotels, restaurants, and institutions.",
+              "Graduates eligible for BTech Hospitality Management/Tourism top-up."
+            ]
+          },
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,600 - 3,000 per semester (HND Weekend)",
+              "International Students: See HTU Fee Schedule"
+            ],
+            "duration": "3 years (weekend mode)",
+            "electives": [
+              "Food Production",
+              "Food and Beverage Service",
+              "Front Office Operations",
+              "Housekeeping Operations",
+              "Hospitality Accounting",
+              "Nutrition and Menu Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 45,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €22,000 - €40,000"
+            ],
+            "cutt_off": ["Same academic cut-off as Regular HND"],
+            "mode": ["Weekend lectures and practicals for working students"],
+            "entry_requirements": [
+              "Same as Regular HND HCIM, targeted at workers needing weekend study mode"
+            ],
+            "level_note": [
+              "Weekend option tailored for working professionals in hospitality and catering.",
+              "Delivery is concentrated on Fridays, weekends, and vacation periods."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Statistics",
+        "career": [
+          "Statistics Assistant",
+          "Data Entry and Analysis Clerk",
+          "Survey and Field Officer",
+          "Market Research Assistant",
+          "Banking Operations Assistant",
+          "Insurance Claims/Data Assistant",
+          "Quality Control Data Clerk",
+          "Health Records/Data Officer",
+          "Teaching Assistant (Statistics)",
+          "NGO Monitoring and Evaluation Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (HND Regular)",
+              "International Students: See HTU Fee Schedule"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Descriptive Statistics",
+              "Probability Theory",
+              "Statistical Computing",
+              "Sampling Techniques",
+              "Regression Analysis",
+              "Official Statistics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €48,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 36 or better (Elective Mathematics preferred)"
+            ],
+            "mode": ["Regular lectures and computer lab sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Mathematics and Integrated Science/Social Studies plus three (3) relevant elective subjects (Elective Mathematics, Accounting, Economics, Business Management, Physics)",
+              "GBCE/TVET: Equivalent business/maths-related passes",
+              "Mature applicants: 25+ with relevant experience and entrance exam"
+            ],
+            "level_note": [
+              "Provides foundational quantitative skills for data-related roles.",
+              "Graduates can progress to BTech Statistics and Finance or BSc Applied Mathematics."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Agro Enterprise Development",
+        "career": [
+          "Assistant Agribusiness Manager",
+          "Agricultural Extension Assistant",
+          "Input/Output Marketing Assistant",
+          "Farm Supervisor",
+          "Rural Enterprise Development Assistant",
+          "NGO Field Officer (Agriculture)",
+          "Microfinance Field Officer",
+          "Small-Scale Agro-Processor",
+          "Commodity Trader",
+          "Agro-Input Shop Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (HND Regular)",
+              "International Students: See HTU Fee Schedule"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Principles of Agribusiness",
+              "Agricultural Marketing",
+              "Farm Management",
+              "Agricultural Extension",
+              "Post-Harvest Handling",
+              "Entrepreneurship in Agro Enterprises"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 45,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €24,000 - €45,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 36 or better (Agric background preferred)"
+            ],
+            "mode": ["Regular lectures, farm and field practicals"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Mathematics and Integrated Science/Social Studies plus three (3) relevant electives (General Agriculture, Economics, Biology, Animal Husbandry, Crop Husbandry)",
+              "TVET: Certificate II agricultural trades plus required cores",
+              "Mature applicants: 25+ with experience in agriculture and successful entrance exam"
+            ],
+            "level_note": [
+              "Builds foundational skills in agribusiness and rural enterprise development.",
+              "Graduates can top up to BTech Agro Enterprise Development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Computer Science",
+        "career": [
+          "Junior Software Developer",
+          "Web Developer (Junior)",
+          "IT Support Technician",
+          "Computer Lab Technician",
+          "Network Support Technician",
+          "Database Assistant",
+          "IT Sales and Support Representative",
+          "Help Desk Officer",
+          "ICT Teacher/Trainer (TVET level)",
+          "Freelance Technologist"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (HND Regular)",
+              "International Students: See HTU Fee Schedule"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Object-Oriented Programming",
+              "Database Fundamentals",
+              "Computer Networks",
+              "Web Development Basics",
+              "Operating Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 55,000 annually",
+              "USA: $30,000 - $60,000",
+              "Europe: €25,000 - €50,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 36 or better (maths/computing electives recommended)"
+            ],
+            "mode": ["Regular on-campus lectures and lab sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Mathematics and Integrated Science/Social Studies plus three (3) relevant electives (Elective Mathematics, ICT, Physics, Economics)",
+              "TVET: Certificate II in ICT/computing trades plus required cores",
+              "Mature applicants: 25+ with ICT experience and entrance exam"
+            ],
+            "level_note": [
+              "Provides core computing skills for junior IT roles.",
+              "Graduates can progress to BTech Computer Science or ICT top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Information and Communication Technology",
+        "career": [
+          "ICT Support Technician",
+          "Network Support Assistant",
+          "Systems Support Assistant",
+          "Help Desk Technician",
+          "Web Content Assistant",
+          "Database Support Assistant",
+          "IT Trainer/Instructor",
+          "ICT Sales and Customer Support Officer",
+          "Telecoms Field Technician",
+          "ICT Officer (Schools, SMEs)"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (HND Regular)",
+              "International Students: See HTU Fee Schedule"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Computer Hardware and Maintenance",
+              "Data Communications",
+              "Network Administration Basics",
+              "Web Technologies",
+              "Database Systems Basics",
+              "ICT in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": ["Regular weekday lectures and lab practicals"],
+            "entry_requirements": [
+              "Similar to HND Computer Science: WASSCE/SSSCE passes in core subjects and three relevant electives including ICT/Maths",
+              "TVET Certificate II in ICT-related trade plus required cores",
+              "Mature applicants: 25+ with ICT experience and entrance exam"
+            ],
+            "level_note": [
+              "Focuses on applied ICT support skills for organisations.",
+              "Graduates often serve as ICT officers and support technicians in schools and offices."
+            ]
+          },
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,600 - 3,000 per semester (HND Weekend)",
+              "International Students: See HTU Fee Schedule"
+            ],
+            "duration": "3 years (weekend mode)",
+            "electives": [
+              "Computer Hardware and Maintenance",
+              "Data Communications",
+              "Network Administration Basics",
+              "Web Technologies",
+              "Database Systems Basics",
+              "ICT in Business"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €48,000"
+            ],
+            "cutt_off": ["Same academic cut-off as Regular HND ICT"],
+            "mode": ["Weekend and evening lectures for working students"],
+            "entry_requirements": [
+              "Same as Regular HND ICT; targeted at working professionals",
+              "Applicants often come from IT support and telecoms roles"
+            ],
+            "level_note": [
+              "Weekend format allows workers to upskill without leaving employment.",
+              "Delivery is block-based with intensive weekend sessions."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
