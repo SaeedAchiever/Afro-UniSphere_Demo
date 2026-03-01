@@ -1,0 +1,1094 @@
+[
+  {
+    "name": "Sunyani Technical University"
+  },
+  {
+    "faculty_name": "Department of Hospitality and Tourism",
+    "note": [
+      "The Department of Hospitality and Tourism falls under the Faculty of Applied Sciences and Technology at Sunyani Technical University.",
+      "Programmes focus on practical training for Ghana's growing tourism and hospitality sector, with HND Hotel Catering & Institutional Management available in Regular, Weekend, and Evening modes."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Technology in Tourism Management",
+        "career": [
+          "Tourism Manager",
+          "Tour Operations Manager",
+          "Destination Marketing Manager",
+          "Tourism Policy Analyst",
+          "Eco-Tourism Developer",
+          "Travel Agency Manager",
+          "Tourism Consultant",
+          "Cultural Heritage Officer",
+          "Event and Festival Manager",
+          "Tourism Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026 based on Faculty of Applied Sciences rates)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Tourism Planning and Development",
+              "Destination Marketing",
+              "Eco-Tourism Management",
+              "Tourism Policy and Legislation",
+              "Heritage and Cultural Tourism",
+              "Research Methods in Tourism"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $40,000 - $80,000",
+              "Europe: €32,000 - €65,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus lectures and field trips",
+              "Industrial attachment at tourism sites and agencies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects",
+              "SSSCE: Credit passes (A-D) in English Language, Mathematics, and Integrated Science plus three relevant elective subjects",
+              "Technical School/NABPTEX/CTVET Certificate II: Passes in six subjects (3 core + 3 relevant electives)"
+            ],
+            "level_note": [
+              "One of two specialised tourism degree programmes at STU.",
+              "Graduates work in tourism boards, travel agencies, hotels, eco-tourism ventures, and government tourism departments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Hospitality and Tourism Management",
+        "career": [
+          "Hotel Manager",
+          "Resort Manager",
+          "Food and Beverage Director",
+          "Hospitality Consultant",
+          "Catering Manager",
+          "Convention Centre Manager",
+          "Cruise Line Manager",
+          "Institutional Catering Supervisor",
+          "Hospitality Lecturer",
+          "Hospitality Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Hotel Operations Management",
+              "Food Production and Service Management",
+              "Hospitality Marketing",
+              "Tourism and Hospitality Law",
+              "Event Management",
+              "Quality Management in Hospitality"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 75,000 annually",
+              "USA: $42,000 - $90,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus lectures with practical kitchen and hospitality lab sessions",
+              "Industrial attachment at hotels and catering establishments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects",
+              "SSSCE: Credit passes (A-D) in English Language, Mathematics, and Integrated Science plus three relevant elective subjects",
+              "HND holders in HCIM or related programmes enter at Level 300"
+            ],
+            "level_note": [
+              "Combines hospitality management with tourism studies for versatile industry professionals.",
+              "Practical training includes hotel operations, food production, and service management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Hotel Catering and Institutional Management",
+        "career": [
+          "Hotel Supervisor",
+          "Restaurant Manager",
+          "Catering Officer",
+          "Front Office Supervisor",
+          "Housekeeper/Housekeeping Manager",
+          "Pastry Chef",
+          "Institutional Catering Officer (Schools, Hospitals, Military)",
+          "Kitchen Supervisor",
+          "Food Safety Officer",
+          "Hospitality Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 2,440 - 2,840 per semester (fresh); GHC 2,100 - 2,500 (continuing)",
+              "Ghanaian Students (Weekend): GHC 3,047 (fresh); GHC 2,654 (continuing)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Food Production and Patisserie",
+              "Food and Beverage Service",
+              "Front Office Operations",
+              "Housekeeping Management",
+              "Hospitality Accounting",
+              "Nutrition and Menu Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $60,000",
+              "Europe: €24,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Regular: Weekday lectures with practical kitchen and hospitality sessions",
+              "Weekend and Evening modes also available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in English Language, Mathematics, and Integrated Science/Social Studies plus credit passes (A1-C6) in three relevant elective subjects",
+              "SSSCE: Credit passes (A-D) in English Language, Mathematics, and Integrated Science/Social Studies plus three relevant elective subjects",
+              "Mature applicants: 25 years and above with 2 years relevant experience; must pass written examination"
+            ],
+            "level_note": [
+              "Foundation programme in hospitality and catering management offered in Regular, Weekend, and Evening modes.",
+              "Pathway to B.Tech Hospitality and Tourism Management at STU; HND holders enter at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Catering Intermediate (COTVET)",
+        "career": [
+          "Cook/Chef (Junior)",
+          "Kitchen Assistant",
+          "Catering Assistant",
+          "Pastry Assistant",
+          "Food Preparation Specialist",
+          "Institutional Kitchen Worker",
+          "Bakery Assistant",
+          "Fast Food Operator",
+          "Catering Entrepreneur",
+          "Food Vendor"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students: GHC 1,200 - 1,500 per semester (estimated, non-tertiary rates)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Food Preparation and Cooking",
+              "Baking and Pastry Basics",
+              "Kitchen Hygiene and Safety",
+              "Menu Planning Basics",
+              "Food Presentation",
+              "Catering Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 30,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": ["JHS/BECE certificate or equivalent"],
+            "mode": [
+              "Full-time on-campus with practical kitchen training",
+              "Supervised practical attachment"
+            ],
+            "entry_requirements": [
+              "JHS/BECE certificate or equivalent",
+              "SSSCE/WASSCE passes are an advantage but not mandatory for COTVET programmes",
+              "Must demonstrate interest in catering and hospitality"
+            ],
+            "level_note": [
+              "COTVET-level practical catering programme for hands-on culinary training.",
+              "Pathway to HND Hotel Catering and Institutional Management at STU."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Department of General Agriculture",
+    "note": [
+      "The Department of General Agriculture falls under the Faculty of Applied Sciences and Technology, offering HND, B.Tech, and COTVET-level programmes.",
+      "The HND General Agriculture programme includes courses in Post-Harvest Technology, Crop Science, Animal Science, Agro-Forestry, and Horticulture."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Technology in Agricultural Economics",
+        "career": [
+          "Agricultural Economist",
+          "Farm Management Consultant",
+          "Agricultural Policy Analyst",
+          "Agribusiness Manager",
+          "Rural Development Officer",
+          "Agricultural Finance Officer",
+          "Export/Import Officer (Agricultural Commodities)",
+          "Research Officer (CSIR, MOFA)",
+          "NGO Agricultural Programme Manager",
+          "Agricultural Insurance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Agricultural Economics and Policy",
+              "Farm Management and Accounting",
+              "Agricultural Marketing",
+              "Agricultural Finance",
+              "Rural Development Economics",
+              "Research Methods in Agriculture"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 75,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with field and farm practicals",
+              "Industrial attachment at agricultural firms and MOFA offices"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects (General Agriculture, Chemistry, Biology, Economics, Geography, Elective Mathematics)",
+              "SSSCE: Credit passes (A-D) in English Language, Mathematics, and Integrated Science plus three relevant elective subjects",
+              "Technical School/NABPTEX/CTVET Certificate II: Passes in six subjects (3 core + 3 relevant electives)"
+            ],
+            "level_note": [
+              "Combines agricultural sciences with economic principles for agribusiness and policy roles.",
+              "Graduates serve in MOFA, agricultural banks, NGOs, and agricultural research institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Agriculture – Animal Science",
+        "career": [
+          "Animal Scientist",
+          "Livestock Extension Officer",
+          "Animal Nutritionist",
+          "Poultry Farm Manager",
+          "Livestock Production Manager",
+          "Veterinary Drug Sales Representative",
+          "Feed Mill Manager",
+          "Hatchery Manager",
+          "Research Officer (Animal Science)",
+          "Animal Husbandry Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Animal Nutrition and Feed Technology",
+              "Animal Breeding and Genetics",
+              "Livestock Production and Management",
+              "Poultry Science",
+              "Ruminant Production",
+              "Animal Health and Disease Management"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $42,000 - $85,000",
+              "Europe: €32,000 - €65,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with farm and laboratory practicals",
+              "Industrial attachment at livestock farms and research stations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects (General Agriculture, Chemistry, Biology, Animal Husbandry)",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "HND General Agriculture holders enter at Level 300"
+            ],
+            "level_note": [
+              "Specialisation in animal science within the B.Tech Agriculture programme.",
+              "Graduates work in livestock production, feed manufacturing, poultry enterprises, and veterinary services."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Agriculture – Crop Science",
+        "career": [
+          "Crop Scientist",
+          "Agricultural Extension Officer",
+          "Plant Breeder",
+          "Seed Production Manager",
+          "Horticulturist",
+          "Agrochemical Sales Representative",
+          "Post-Harvest Technology Specialist",
+          "Farm Manager",
+          "Research Officer (Crop Science)",
+          "Agro-Processing Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Crop Production and Management",
+              "Plant Breeding and Genetics",
+              "Post-Harvest Technology",
+              "Soil Science and Fertility Management",
+              "Horticulture",
+              "Integrated Pest Management"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $42,000 - $85,000",
+              "Europe: €32,000 - €65,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with farm and laboratory practicals",
+              "Industrial attachment at crop research stations and agricultural firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects (General Agriculture, Chemistry, Biology, Crop Husbandry)",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "HND General Agriculture holders enter at Level 300"
+            ],
+            "level_note": [
+              "Specialisation in crop science within the B.Tech Agriculture programme.",
+              "Graduates work with MOFA, CSIR-CRI, seed companies, and agro-processing firms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND General Agriculture",
+        "career": [
+          "Agricultural Extension Agent",
+          "Farm Manager",
+          "Post-Harvest Technology Officer",
+          "Agronomist",
+          "Horticulturist",
+          "Agricultural Input Dealer",
+          "Livestock Officer",
+          "Agricultural NGO Field Officer",
+          "Teaching Assistant (Agricultural Colleges)",
+          "Agricultural Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 2,440 - 2,840 per semester (fresh); GHC 2,100 - 2,500 (continuing)",
+              "Ghanaian Students (Weekend): GHC 3,047 (fresh); GHC 2,654 (continuing)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Post-Harvest Technology",
+              "Crop Science",
+              "Animal Science",
+              "Agro-Forestry",
+              "Horticulture",
+              "Soil Science"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $60,000",
+              "Europe: €24,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with extensive farm practicals",
+              "Industrial attachment at agricultural research stations and farms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in English Language, Mathematics, and Integrated Science/Social Studies plus credit passes (A1-C6) in three relevant elective subjects (General Agriculture, Chemistry, Biology, Animal Husbandry, Crop Husbandry)",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "Mature applicants: 25 years and above with 2 years relevant experience; must pass written examination"
+            ],
+            "level_note": [
+              "Comprehensive agriculture programme covering Post-Harvest Technology, Crop Science, Animal Science, Agro-Forestry, and Horticulture.",
+              "Pathway to B.Tech Agriculture (Animal Science or Crop Science) at STU; HND holders enter at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "COTVET Agricultural Mechanics Works",
+        "career": [
+          "Agricultural Mechanic",
+          "Farm Equipment Technician",
+          "Irrigation Equipment Repair Technician",
+          "Tractor Operator/Mechanic",
+          "Agricultural Workshop Attendant",
+          "Farm Machinery Maintenance Worker",
+          "Small Engine Repair Technician",
+          "Agricultural Equipment Dealer",
+          "Mechanisation Services Provider",
+          "Self-Employed Agricultural Mechanic"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Ghanaian Students: GHC 1,200 - 1,500 per semester (estimated, non-tertiary rates)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Farm Machinery Operation and Maintenance",
+              "Small Engine Repair",
+              "Welding and Fabrication for Agriculture",
+              "Irrigation Equipment Maintenance",
+              "Tractor Operation and Servicing",
+              "Workshop Safety and Tools"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 30,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €20,000 - €38,000"
+            ],
+            "cutt_off": ["JHS/BECE certificate or equivalent"],
+            "mode": [
+              "Full-time on-campus with practical workshop sessions",
+              "Supervised field attachment"
+            ],
+            "entry_requirements": [
+              "JHS/BECE certificate or equivalent",
+              "SSSCE/WASSCE passes are an advantage but not mandatory for COTVET programmes",
+              "Must demonstrate interest and aptitude in agricultural mechanics"
+            ],
+            "level_note": [
+              "COTVET-level practical programme training agricultural mechanics and equipment technicians.",
+              "Pathway to HND General Agriculture or technical apprenticeship in farm mechanisation."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Department of Computer Science",
+    "note": [
+      "The Department of Computer Science falls under the Faculty of Applied Sciences and Technology at STU.",
+      "Programmes range from HND Computer Science to B.Tech and BSc degrees in Computer Science, ICT, and Applied Mathematics."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Science in Applied Mathematics",
+        "career": [
+          "Data Analyst",
+          "Statistician",
+          "Actuary",
+          "Operations Research Analyst",
+          "Financial Analyst",
+          "Quantitative Researcher",
+          "Systems Analyst",
+          "Mathematics Teacher/Lecturer",
+          "Biostatistician",
+          "Risk Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Numerical Methods",
+              "Operations Research",
+              "Statistical Computing",
+              "Financial Mathematics",
+              "Mathematical Modelling",
+              "Differential Equations"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus lectures and computer lab practicals",
+              "Research project in final year"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects (Elective Mathematics, Physics, Chemistry, Statistics)",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "Technical School/NABPTEX/CTVET Certificate II: Passes in six subjects (3 core + 3 relevant electives)"
+            ],
+            "level_note": [
+              "Trains mathematicians for data-driven industries including finance, insurance, and technology.",
+              "Graduates are highly sought after in banking, insurance, telecommunications, and research institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Computer Science",
+        "career": [
+          "Software Developer",
+          "Systems Analyst",
+          "Database Administrator",
+          "Network Engineer",
+          "Cybersecurity Analyst",
+          "Web Developer",
+          "Mobile App Developer",
+          "IT Project Manager",
+          "Computer Science Lecturer",
+          "IT Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Software Engineering",
+              "Database Management Systems",
+              "Computer Networks and Security",
+              "Artificial Intelligence",
+              "Operating Systems",
+              "Web Application Development"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €45,000 - €95,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Industrial attachment at IT firms and technology companies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "HND Computer Science holders enter at Level 300"
+            ],
+            "level_note": [
+              "Comprehensive computer science degree programme covering software, networks, and AI.",
+              "Graduates work in software firms, banks, telecommunications, government IT departments, and start-ups."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Information Communication Technology",
+        "career": [
+          "ICT Manager",
+          "Network Administrator",
+          "Systems Administrator",
+          "IT Support Specialist",
+          "Database Manager",
+          "Web Master",
+          "Information Systems Officer",
+          "ICT Trainer/Instructor",
+          "Telecommunications Engineer",
+          "IT Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Information Systems Management",
+              "Computer Networking",
+              "Multimedia and Web Development",
+              "E-Commerce",
+              "IT Project Management",
+              "Cloud Computing"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €40,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Industrial attachment at ICT firms and government institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "HND ICT holders enter at Level 300"
+            ],
+            "level_note": [
+              "Focuses on information systems, networking, and IT management.",
+              "Graduates work in telecommunications, banking, government IT, and corporate IT departments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Computer Science",
+        "career": [
+          "Junior Software Developer",
+          "Computer Hardware Technician",
+          "Help Desk Support Officer",
+          "Web Developer (Junior)",
+          "Database Assistant",
+          "Network Technician",
+          "ICT Technical Support",
+          "Computer Lab Technician",
+          "IT Sales Representative",
+          "IT Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 2,440 - 2,840 per semester (fresh); GHC 2,100 - 2,500 (continuing)",
+              "Ghanaian Students (Weekend): GHC 3,047 (fresh); GHC 2,654 (continuing)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Database Management",
+              "Computer Networking",
+              "Web Development",
+              "Operating Systems",
+              "ICT Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 55,000 annually",
+              "USA: $30,000 - $60,000",
+              "Europe: €25,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Industrial attachment at IT firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in English Language, Mathematics, and Integrated Science/Social Studies plus credit passes (A1-C6) in three relevant elective subjects",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "Mature applicants: 25 years and above with 2 years relevant experience; must pass written examination"
+            ],
+            "level_note": [
+              "Foundation computer science programme.",
+              "Pathway to B.Tech Computer Science at STU; HND holders enter at Level 300."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Department of Pharmaceutical Sciences",
+    "note": [
+      "The Department of Pharmaceutical Sciences falls under the Faculty of Applied Science and Technology at STU.",
+      "STU introduced the B.Tech Diagnostic Medical Imaging programme in December 2024 for the 2024/2025 academic year, expanding into medical imaging alongside its established pharmacy programmes."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor of Technology in Diagnostic Medical Imaging",
+        "career": [
+          "Diagnostic Radiographer",
+          "Medical Imaging Technologist",
+          "Ultrasound Technologist",
+          "CT Scan Technologist",
+          "MRI Technologist",
+          "Radiology Department Manager",
+          "Medical Equipment Sales Representative",
+          "Radiation Safety Officer",
+          "Research Assistant (Medical Imaging)",
+          "Medical Imaging Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,463 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Radiographic Anatomy and Positioning",
+              "Radiographic Physics",
+              "Ultrasound Imaging",
+              "CT and MRI Imaging",
+              "Radiation Protection and Safety",
+              "Clinical Radiography Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 90,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 36 or better (science subjects required)"
+            ],
+            "mode": [
+              "Full-time on-campus with clinical hospital attachments",
+              "Practical training at diagnostic imaging centres and hospitals"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant science elective subjects (Physics, Chemistry, Biology, Elective Mathematics)",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "Technical School/NABPTEX/CTVET: Passes in relevant science subjects"
+            ],
+            "level_note": [
+              "Newly introduced programme (December 2024) training diagnostic radiographers and medical imaging technologists.",
+              "Addresses Ghana's critical shortage of trained medical imaging professionals in hospitals and diagnostic centres."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Pharmacy Technician",
+        "career": [
+          "Pharmacy Technician",
+          "Drug Dispenser (Hospital/Community Pharmacy)",
+          "Pharmaceutical Sales Representative",
+          "Pharmaceutical Manufacturing Technologist",
+          "Quality Assurance Officer (Pharma)",
+          "Licensed Chemical Shop Operator",
+          "Health Insurance Drug Officer",
+          "Pharmaceutical Research Assistant",
+          "Drug Regulatory Affairs Assistant (FDA)",
+          "Pharmacy Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,463 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Pharmacology and Toxicology",
+              "Pharmaceutical Chemistry",
+              "Pharmaceutical Technology",
+              "Pharmacy Practice and Management",
+              "Pharmaceutical Microbiology",
+              "Pharmaceutical Law and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually",
+              "USA: $35,000 - $75,000",
+              "Europe: €30,000 - €60,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 36 or better (science subjects required)"
+            ],
+            "mode": [
+              "Full-time on-campus with laboratory and clinical practicals",
+              "Clinical attachments at hospital and community pharmacies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant science elective subjects (Chemistry, Biology, Physics, Elective Mathematics)",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "HND Dispensing Technology holders enter at Level 300"
+            ],
+            "level_note": [
+              "Comprehensive pharmacy technician degree programme accredited by the Pharmacy Council of Ghana.",
+              "Graduates work in hospitals, community pharmacies, pharmaceutical companies, and FDA."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Dispensing Technology",
+        "career": [
+          "Pharmacy Technician (Hospital/Community)",
+          "Drug Dispenser",
+          "Chemical Shop Operator",
+          "Pharmaceutical Sales Assistant",
+          "Drug Store Manager",
+          "Pharmacy Stock Controller",
+          "Drug Distribution Officer",
+          "Health Facility Pharmacy Assistant",
+          "Pharmaceutical Manufacturing Assistant",
+          "Pharmacy Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 2,640 - 3,100 per semester (fresh)",
+              "Ghanaian Students (Weekend): GHC 3,745 (fresh); GHC 3,338 (continuing)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Dispensing Practice",
+              "Pharmacology Basics",
+              "Pharmaceutical Chemistry",
+              "Pharmacy Law and Ethics",
+              "Drug Store Management",
+              "Pharmaceutical Calculations"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 55,000 annually",
+              "USA: $28,000 - $55,000",
+              "Europe: €24,000 - €45,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 36 or better (science subjects required)"
+            ],
+            "mode": [
+              "Full-time on-campus with laboratory practicals and clinical attachments",
+              "Weekend mode also available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-D7) in English Language, Mathematics, and Integrated Science plus credit passes (A1-C6) in three relevant science elective subjects (Chemistry, Biology, Physics)",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "Mature applicants: 25 years and above with 2 years relevant experience; must pass written examination"
+            ],
+            "level_note": [
+              "Foundation pharmacy technician programme; HND Dispensing Technology is accepted by the Pharmacy Council of Ghana.",
+              "Pathway to B.Tech Pharmacy Technician at STU; HND holders enter at Level 300. Weekend fees are higher than regular (GHC 3,745 vs regular rates)."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Department of Building Technology",
+    "note": [
+      "The Department of Building Technology falls under the Faculty of Built Environment and Applied Arts at STU.",
+      "The department offers the university's only postgraduate programme (MTech Construction Technology and Management) alongside B.Tech programmes in construction, facilities management, and interior design."
+    ],
+    "courses": [
+      {
+        "course_name": "Master of Technology in Construction Technology and Management",
+        "career": [
+          "Construction Project Director",
+          "Quantity Surveying Consultant",
+          "Construction Company CEO",
+          "Building Inspector (Senior)",
+          "Real Estate Development Manager",
+          "Infrastructure Planning Consultant",
+          "Construction Technology Researcher",
+          "University Lecturer (Building Technology)",
+          "Government Works Director",
+          "Construction Policy Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (MTech)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 12,000 per semester (postgraduate rates)",
+              "Application fee: GHC 250"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Construction Technology",
+              "Construction Project Management",
+              "Quantity Surveying and Cost Engineering",
+              "Sustainable Construction Practices",
+              "Construction Law and Contract Management",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 150,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode lectures (Fridays and Saturdays)",
+              "Research thesis required for completion"
+            ],
+            "entry_requirements": [
+              "A first degree (B.Tech/BSc) not below Second Class Lower Division from an accredited university in Building Technology, Construction Management, Civil Engineering, or allied programmes",
+              "Applicants with Third Class or Pass require 2 years of industry working experience and must pass a selection interview",
+              "Must submit academic transcripts and certificates"
+            ],
+            "level_note": [
+              "STU's flagship postgraduate programme and only MTech offering.",
+              "Trains senior construction managers, project directors, and building technology researchers."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Construction Management",
+        "career": [
+          "Construction Manager",
+          "Site Manager",
+          "Project Manager (Construction)",
+          "Quantity Surveyor",
+          "Building Inspector",
+          "Construction Planner",
+          "Estimator and Cost Engineer",
+          "Structural Technologist",
+          "Works Supervisor (Government/MMDAs)",
+          "Construction Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Construction Technology",
+              "Construction Project Management",
+              "Structural Design",
+              "Quantity Surveying and Estimation",
+              "Building Services Engineering",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with practical field and workshop sessions",
+              "Industrial attachment at construction firms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects (Physics, Chemistry, Building Construction, Technical Drawing, Woodwork, Engineering Science)",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "HND Building Technology holders enter at Level 300"
+            ],
+            "level_note": [
+              "Comprehensive construction management degree programme.",
+              "Graduates work with construction companies, government works departments, MMDAs, and consultancy firms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Facilities Management",
+        "career": [
+          "Facilities Manager",
+          "Property Manager",
+          "Estate Manager",
+          "Building Maintenance Manager",
+          "Space Planner",
+          "Health and Safety Officer",
+          "Energy Manager",
+          "Facilities Coordinator",
+          "Operations Manager",
+          "Real Estate Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Facilities Management Principles",
+              "Building Maintenance Management",
+              "Space Planning and Management",
+              "Health and Safety Management",
+              "Energy and Environmental Management",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €40,000 - €80,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with practical field visits",
+              "Industrial attachment at facilities management firms and corporate organisations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "Technical School/NABPTEX/CTVET Certificate II: Passes in six subjects (3 core + 3 relevant electives)"
+            ],
+            "level_note": [
+              "Trains professionals to manage building operations, maintenance, and services.",
+              "Graduates work in corporate facilities, government estates, hospitals, hotels, and real estate firms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Interior Design",
+        "career": [
+          "Interior Designer",
+          "Space Planner",
+          "Furniture Designer",
+          "Exhibition Designer",
+          "Retail Store Designer",
+          "Hospitality Interior Designer",
+          "Residential Interior Designer",
+          "Set Designer (Film/TV)",
+          "Interior Design Consultant",
+          "Interior Design Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,640 - 3,100 per semester (estimated 2025/2026)",
+              "International Students: Contact admissions office"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Interior Design Studio",
+              "Furniture Design and Construction",
+              "Computer-Aided Interior Design",
+              "Colour Theory and Material Selection",
+              "Lighting Design",
+              "Design History and Theory"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 75,000 annually",
+              "USA: $45,000 - $95,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 36 or better"],
+            "mode": [
+              "Full-time on-campus with design studio and workshop sessions",
+              "Portfolio-based projects and industry showcases"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credit passes (A1-C6) in English Language, Mathematics, and Integrated Science plus credit passes in three relevant elective subjects",
+              "SSSCE: Credit passes (A-D) in the same subjects",
+              "HND Interior Design and Technology holders enter at Level 300"
+            ],
+            "level_note": [
+              "Creative design programme combining aesthetic and technical skills for interior spaces.",
+              "Graduates work in architectural firms, furniture companies, real estate, hospitality, and as freelance designers."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
