@@ -60,7 +60,7 @@
             ]
           },
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -159,7 +159,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -254,7 +254,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -447,7 +447,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -591,7 +591,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -686,7 +686,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -1382,7 +1382,7 @@
         "career": "Same careers as BTech Statistics with IT / Applied Statistics Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
             ],
@@ -1416,7 +1416,7 @@
         "career": "Same careers as BTech Hospitality and Tourism Management Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
             ],
@@ -1443,6 +1443,594 @@
             "level_note": [
               "Top-up for HND Tourism or HCIM holders.",
               "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Information and Communication Technology",
+        "career": [
+          "ICT Support Technician",
+          "Network Technician",
+          "Web Developer (Junior)",
+          "Database Assistant",
+          "Help Desk Officer",
+          "IT Sales Representative",
+          "Systems Support Officer",
+          "Computer Lab Technician",
+          "Telecoms Technician",
+          "IT Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (2022/2023 rates)",
+              "Evening: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Programming Fundamentals",
+              "Computer Networks",
+              "Database Systems",
+              "Web Development",
+              "Operating Systems",
+              "ICT Project Work"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 55,000 annually",
+              "USA: $30,000 - $58,000",
+              "Europe: €25,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Evening sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant science/tech elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation ICT programme.",
+              "Pathway to BTech Information Technology (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Statistics",
+        "career": [
+          "Statistics Assistant",
+          "Data Entry Clerk",
+          "Survey Field Officer",
+          "Market Research Assistant",
+          "Quality Control Data Clerk",
+          "Health Records Assistant",
+          "M&E Assistant",
+          "Banking Data Assistant",
+          "Insurance Data Clerk",
+          "Statistical Computing Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Descriptive Statistics",
+              "Probability Theory",
+              "Statistical Computing",
+              "Sampling Techniques",
+              "Regression Analysis",
+              "Official Statistics"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 48,000 annually",
+              "USA: $28,000 - $52,000",
+              "Europe: €24,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant science/tech elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation statistics programme.",
+              "Pathway to BTech Statistics (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Food Science and Technology",
+        "career": [
+          "Food Processing Technician",
+          "Quality Control Technician",
+          "Laboratory Assistant (Food)",
+          "Production Line Supervisor",
+          "Food Safety Assistant",
+          "Packaging Officer",
+          "Small-Scale Food Processor",
+          "Market Inspector (Food)",
+          "Catering Supervisor",
+          "Food Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,399 per semester (2022/2023 rates)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Food Chemistry",
+              "Food Microbiology",
+              "Food Preservation",
+              "Food Plant Operations",
+              "Nutrition Basics",
+              "Quality Assurance"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 45,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant science/tech elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation food science programme.",
+              "Pathway to BTech Food Science and Technology (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Hotel, Catering and Institutional Management",
+        "career": [
+          "Catering Supervisor",
+          "Restaurant Supervisor",
+          "Front Office Supervisor",
+          "Housekeeping Supervisor",
+          "Kitchen Supervisor",
+          "Banqueting Assistant",
+          "Institutional Catering Officer",
+          "Food Service Supervisor",
+          "Hospitality Trainer",
+          "Catering Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,399 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Food Production",
+              "Food and Beverage Service",
+              "Front Office Operations",
+              "Housekeeping",
+              "Hospitality Accounting",
+              "Menu Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 45,000 annually",
+              "USA: $25,000 - $48,000",
+              "Europe: €22,000 - €40,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Foundation hospitality programme.",
+              "Pathway to BTech Hospitality and Tourism Management (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Tourism",
+        "career": [
+          "Tour Guide",
+          "Travel Agent",
+          "Tourism Marketing Assistant",
+          "Destination Officer",
+          "Eco-Tourism Assistant",
+          "Heritage Site Officer",
+          "Event Assistant",
+          "Cultural Tourism Officer",
+          "Tourism Information Officer",
+          "Tourism Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,399 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Tourism Principles",
+              "Tour Operations",
+              "Destination Marketing",
+              "Eco-Tourism",
+              "Cultural Heritage Tourism",
+              "Tourism Research"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 45,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Foundation tourism programme.",
+              "Pathway to BTech Hospitality and Tourism Management (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Media and Communication Studies",
+        "career": [
+          "Junior Journalist",
+          "Radio/TV Presenter",
+          "Camera Operator",
+          "Public Relations Assistant",
+          "Social Media Assistant",
+          "Content Writer",
+          "Media Production Assistant",
+          "Broadcasting Technician",
+          "Corporate Communications Assistant",
+          "Media Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Mass Communication",
+              "Broadcast Journalism",
+              "Public Relations Basics",
+              "Media Production",
+              "Print Journalism",
+              "Digital Media"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 42,000 annually",
+              "USA: $28,000 - $48,000",
+              "Europe: €22,000 - €40,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Foundation media and communication programme.",
+              "Pathway to BTech Media and Communication Studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Information Technology",
+        "career": [
+          "Computer Operator",
+          "IT Support Assistant",
+          "Data Entry Clerk",
+          "Web Assistant",
+          "Hardware Technician",
+          "Network Cable Installer",
+          "Cyber Café Manager",
+          "ICT Teacher (JHS)",
+          "Computer Sales Assistant",
+          "IT Freelancer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Computer Fundamentals",
+              "Programming Basics",
+              "Networking Basics",
+              "Web Design",
+              "Database Basics",
+              "Office Applications"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 38,000 annually",
+              "USA: $22,000 - $42,000",
+              "Europe: €18,000 - €35,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant science/tech elective subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND ICT or Computer Science.",
+              "Foundation IT programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Geographic Information Systems",
+        "career": [
+          "GIS Technician",
+          "Mapping Assistant",
+          "Surveying Assistant",
+          "Remote Sensing Technician",
+          "Cartographic Assistant",
+          "Land Use Data Clerk",
+          "Environmental Data Collector",
+          "Urban Planning Assistant",
+          "GIS Data Entry",
+          "Drone Mapping Operator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "GIS Fundamentals",
+              "Remote Sensing Basics",
+              "Cartography",
+              "Spatial Data Management",
+              "GPS and Field Survey",
+              "Computer Applications for GIS"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 42,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €22,000 - €42,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant science/tech elective subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Foundation GIS programme — rare at diploma level in Ghana.",
+              "Pathway to BTech Natural Resource Management or IT."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Food Science and Technology",
+        "career": [
+          "Food Processing Assistant",
+          "Quality Control Clerk",
+          "Lab Assistant (Food)",
+          "Packaging Assistant",
+          "Food Safety Inspector (Junior)",
+          "Bakery Assistant",
+          "Market Hygiene Officer",
+          "Food Production Worker",
+          "Food Store Clerk",
+          "Small-Scale Processor"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Food Science Basics",
+              "Food Hygiene and Safety",
+              "Food Preservation",
+              "Food Processing",
+              "Nutrition Basics",
+              "Quality Control Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 32,000 annually",
+              "USA: $22,000 - $38,000",
+              "Europe: €18,000 - €30,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant science/tech elective subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Food Science and Technology.",
+              "Foundation food science programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Hospitality and Tourism Management (Travel and Tourism; Catering and Hospitality; Hotel Catering Innovation and Entrepreneurship; Hotel Catering and Food Business Marketing; Hotel Catering and Event Management options)",
+        "career": [
+          "Kitchen Assistant",
+          "Waiter/Waitress",
+          "Front Desk Clerk",
+          "Housekeeping Attendant",
+          "Tour Guide Assistant",
+          "Event Setup Worker",
+          "Catering Assistant",
+          "Hotel Porter",
+          "Travel Desk Assistant",
+          "Food Court Attendant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Hospitality",
+              "Food Preparation",
+              "Customer Service",
+              "Front Office Basics",
+              "Tourism Basics",
+              "Event Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 32,000 annually",
+              "USA: $22,000 - $38,000",
+              "Europe: €18,000 - €30,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Five specialisation options within the diploma hospitality programme.",
+              "Pathway to HND HCIM or HND Tourism."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Media and Communication Studies",
+        "career": [
+          "Media Assistant",
+          "Camera Assistant",
+          "Sound Technician",
+          "Social Media Clerk",
+          "Content Assistant",
+          "Radio Station Assistant",
+          "TV Production Assistant",
+          "Press Photographer",
+          "Community Media Worker",
+          "Media Sales Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Communication Basics",
+              "Media Production",
+              "Journalism Basics",
+              "Public Speaking",
+              "Photography",
+              "Social Media Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 32,000 annually",
+              "USA: $22,000 - $38,000",
+              "Europe: €18,000 - €30,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Foundation media programme.",
+              "Pathway to HND Media and Communication Studies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Nutrition",
+        "career": [
+          "Nutrition Assistant",
+          "Community Health Volunteer",
+          "School Feeding Programme Assistant",
+          "Diet Clerk",
+          "Health Promotion Assistant",
+          "Food Aid Distribution Officer",
+          "Infant Feeding Counsellor",
+          "Nutrition Data Clerk",
+          "Kitchen Supervisor (Health Facility)",
+          "Nutrition NGO Field Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Nutrition Science Basics",
+              "Community Nutrition",
+              "Food Science",
+              "Anatomy and Physiology Basics",
+              "Health Promotion",
+              "Food Service Management"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 38,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant science/tech elective subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "3-year diploma programme in nutrition.",
+              "Pathway to BSc Nutrition and Lifestyle Medicine or BSc Dietetics."
             ]
           }
         ]
@@ -1569,7 +2157,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -1664,7 +2252,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -1758,7 +2346,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -1852,7 +2440,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -2356,7 +2944,7 @@
         "career": "Same careers as BTech Applied Accounting Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated top-up/weekend rates)"
             ],
@@ -2390,7 +2978,7 @@
         "career": "Same careers as BTech Entrepreneurship and Innovation Management Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
             ],
@@ -2424,7 +3012,7 @@
         "career": "Same careers as BTech Logistics and Procurement Management Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
             ],
@@ -2460,7 +3048,7 @@
         "career": "Same careers as BTech Business Management Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
             ],
@@ -2487,6 +3075,798 @@
             "level_note": [
               "Top-up for HND Business-related programme holders.",
               "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Accountancy",
+        "career": [
+          "Accounts Clerk",
+          "Audit Assistant",
+          "Tax Assistant",
+          "Payroll Officer",
+          "Budget Assistant",
+          "Bookkeeper",
+          "Accounts Payable/Receivable Officer",
+          "Banking Officer",
+          "Insurance Claims Officer",
+          "Accounting Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (2022/2023 rates)",
+              "Evening: Higher fees apply (see TaTU fee schedule)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost Accounting",
+              "Auditing Principles",
+              "Taxation",
+              "Business Law",
+              "Accounting Information Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Evening sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Foundation accounting programme; pathway to BTech Applied Accounting (Top-Up).",
+              "Graduates work in accounting firms, banks, insurance, and public sector finance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Computerised Accounting",
+        "career": [
+          "Accounting Software Specialist",
+          "Bookkeeper (Digital)",
+          "Payroll Administrator",
+          "Accounts Clerk (IT)",
+          "Financial Data Entry Officer",
+          "Accounting Systems Support",
+          "Audit Data Analyst",
+          "Tax Computing Assistant",
+          "ERP Support Officer",
+          "Accounting IT Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (estimated, accountancy rate)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Computerised Financial Accounting",
+              "Accounting Software Applications",
+              "Spreadsheet Modelling",
+              "Database for Accounting",
+              "E-Business Accounting",
+              "IT Auditing Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 55,000 annually",
+              "USA: $32,000 - $58,000",
+              "Europe: €26,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Blends accounting with IT/software skills for modern digital accounting roles.",
+              "Graduates proficient in Sage, QuickBooks, Tally, and Excel-based accounting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Secretaryship and Management Studies",
+        "career": [
+          "Administrative Officer",
+          "Executive Secretary",
+          "Office Manager",
+          "Personal Assistant",
+          "Records Officer",
+          "Front Desk Manager",
+          "Corporate Affairs Assistant",
+          "Protocol Officer",
+          "Document Controller",
+          "Office Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (2022/2023 rates)",
+              "Evening: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Office Management",
+              "Business Communication",
+              "Shorthand and Typewriting",
+              "Records Management",
+              "Human Resource Basics",
+              "ICT for Office Administration"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 45,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Evening sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Trains executive secretaries and office administrators.",
+              "Pathway to BTech Business Management (Top-Up) or Bachelor of Secretaryship."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Marketing",
+        "career": [
+          "Marketing Officer",
+          "Sales Representative",
+          "Brand Assistant",
+          "Market Research Assistant",
+          "Advertising Executive",
+          "Customer Relationship Officer",
+          "Retail Supervisor",
+          "Product Promoter",
+          "Digital Marketing Assistant",
+          "Marketing Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (2022/2023 rates)",
+              "Evening: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Principles of Marketing",
+              "Sales Management",
+              "Advertising and Promotion",
+              "Consumer Behaviour",
+              "Marketing Research",
+              "Digital Marketing Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Evening sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Foundation marketing programme.",
+              "Pathway to BTech Business Management or Digital Marketing (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Purchasing and Supply",
+        "career": [
+          "Procurement Officer",
+          "Supply Chain Assistant",
+          "Purchasing Clerk",
+          "Stores Manager",
+          "Inventory Controller",
+          "Logistics Assistant",
+          "Contract Administrator",
+          "Warehouse Supervisor",
+          "Procurement Technician",
+          "Supply Chain Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Procurement Principles",
+              "Supply Chain Management",
+              "Warehousing and Stores Management",
+              "Contract Administration",
+              "Public Procurement Act",
+              "Transport and Logistics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Foundation procurement and supply programme.",
+              "Pathway to BTech Logistics and Procurement Management (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Bilingual Secretaryship and Management Studies",
+        "career": [
+          "Bilingual Secretary (English/French)",
+          "Diplomatic Protocol Officer",
+          "International Organisation Assistant",
+          "Translation Assistant",
+          "Bilingual Administrative Officer",
+          "Embassy Administrative Staff",
+          "NGO Liaison Officer",
+          "Cross-Border Trade Assistant",
+          "Bilingual PA",
+          "International Business Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "French for Business",
+              "English for Business",
+              "Office Management",
+              "Bilingual Shorthand",
+              "International Business Communication",
+              "Translation Techniques"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 55,000 annually",
+              "USA: $32,000 - $60,000",
+              "Europe: €28,000 - €50,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview.",
+              "Credit pass in French (WASSCE/SSSCE) is required or equivalent French proficiency."
+            ],
+            "level_note": [
+              "Unique bilingual programme leveraging TaTU's proximity to francophone West Africa.",
+              "Graduates serve in embassies, international organisations, and cross-border trade."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Entrepreneurship and Innovation Management",
+        "career": [
+          "Start-Up Assistant",
+          "Small Business Manager",
+          "Innovation Lab Assistant",
+          "Business Incubator Coordinator",
+          "Microfinance Field Officer",
+          "Youth Enterprise Officer",
+          "NGO Enterprise Development Assistant",
+          "Franchise Assistant",
+          "Product Development Assistant",
+          "Self-Employed Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,389 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Entrepreneurship Fundamentals",
+              "Innovation and Creativity",
+              "Small Business Management",
+              "Business Plan Writing",
+              "Entrepreneurial Finance",
+              "Social Enterprise"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 50,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €24,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Social Studies/Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "GBCE: Passes in relevant business subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Foundation entrepreneurship programme.",
+              "Pathway to BTech Entrepreneurship and Innovation Management (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Applied Accounting",
+        "career": [
+          "Accounts Clerk",
+          "Bookkeeper",
+          "Cashier",
+          "Payroll Assistant",
+          "Data Entry Clerk",
+          "Billing Clerk",
+          "Stores Clerk",
+          "Banking Assistant",
+          "Financial Records Clerk",
+          "Petty Cash Custodian"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated diploma rates)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introductory Accounting",
+              "Business Mathematics",
+              "Computer Applications",
+              "Commercial Law",
+              "Economics",
+              "Business Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 35,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Regular, WLS (Weekend-Long Semester), WLC (Weekend-Long/Compact), YLC (Year-Long Compact) sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Accountancy or BTech Applied Accounting.",
+              "Provides foundational accounting and business skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Business Management",
+        "career": [
+          "Office Clerk",
+          "Administrative Assistant",
+          "Sales Assistant",
+          "Customer Service Officer",
+          "Data Entry Clerk",
+          "Store Manager (Junior)",
+          "Receptionist",
+          "Dispatch Clerk",
+          "Human Resource Clerk",
+          "Small Business Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Principles of Management",
+              "Business Communication",
+              "Commercial Law",
+              "Economics",
+              "Computer Applications",
+              "Human Relations"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 35,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Marketing/Secretaryship or BTech Business Management.",
+              "Foundation business management programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Entrepreneurship and Innovation Management",
+        "career": [
+          "Micro-Enterprise Operator",
+          "Youth Enterprise Assistant",
+          "Business Support Officer",
+          "Market Vendor Manager",
+          "Innovation Lab Assistant",
+          "NGO Field Assistant",
+          "Cooperative Society Officer",
+          "Franchise Sales Assistant",
+          "Self-Employed Entrepreneur",
+          "Small Business Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Entrepreneurship Basics",
+              "Innovation and Creativity",
+              "Small Business Management",
+              "Business Planning",
+              "Financial Literacy",
+              "Communication Skills"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 35,000 annually",
+              "USA: $22,000 - $38,000",
+              "Europe: €18,000 - €30,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Entrepreneurship and Innovation Management.",
+              "Foundation entrepreneurship programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Marketing",
+        "career": [
+          "Sales Assistant",
+          "Retail Clerk",
+          "Customer Service Agent",
+          "Merchandising Assistant",
+          "Market Survey Assistant",
+          "Social Media Assistant",
+          "Brand Promoter",
+          "Telemarketer",
+          "Distribution Assistant",
+          "Marketing Trainee"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Principles of Marketing",
+              "Salesmanship",
+              "Consumer Behaviour Basics",
+              "Advertising Basics",
+              "Retail Management",
+              "Business Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 35,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Marketing.",
+              "Foundation marketing programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Logistics and Procurement Management",
+        "career": [
+          "Stores Clerk",
+          "Purchasing Assistant",
+          "Logistics Assistant",
+          "Warehouse Clerk",
+          "Dispatch Rider/Coordinator",
+          "Inventory Clerk",
+          "Shipping Assistant",
+          "Supply Clerk",
+          "Procurement Data Entry",
+          "Stores Keeper"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Procurement Basics",
+              "Stores Management",
+              "Logistics Basics",
+              "Inventory Control",
+              "Transport Management",
+              "Business Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 35,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Purchasing and Supply.",
+              "Foundation logistics and procurement programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Sports Management",
+        "career": [
+          "Sports Facility Assistant",
+          "Community Sports Organiser",
+          "Fitness Centre Attendant",
+          "Sports Event Assistant",
+          "Youth Sports Coordinator",
+          "Recreation Assistant",
+          "Sports Equipment Manager",
+          "Sports Club Administrator",
+          "PE Instructor (Basic)",
+          "Sports Volunteer Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Sports Management Basics",
+              "Event Planning",
+              "Recreation Management",
+              "Fitness and Wellness",
+              "Sports Marketing Basics",
+              "Communication Skills"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 35,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Foundation sports management programme.",
+              "Pathway to HND Tourism or BTech Sports-related programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Taxation",
+        "career": [
+          "Tax Clerk",
+          "Revenue Collection Assistant",
+          "GRA Front Desk Officer",
+          "Tax Data Entry Clerk",
+          "Customs Assistant",
+          "Invoice Processing Clerk",
+          "Tax Filing Assistant",
+          "Accounts Clerk (Tax)",
+          "VAT Compliance Assistant",
+          "Self-Assessment Filing Helper"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Taxation",
+              "Tax Administration",
+              "VAT and Indirect Taxes",
+              "Income Tax",
+              "Business Law",
+              "Accounting Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 35,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Foundation taxation programme.",
+              "Pathway to BSc Taxation or HND Accountancy."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Actuarial Science",
+        "career": [
+          "Actuarial Clerk",
+          "Insurance Data Assistant",
+          "Pension Records Clerk",
+          "Statistical Data Entry",
+          "Risk Assessment Assistant",
+          "Insurance Claims Clerk",
+          "Underwriting Assistant",
+          "Financial Data Clerk",
+          "Benefits Administration Clerk",
+          "Actuarial Trainee"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Actuarial Science",
+              "Probability Basics",
+              "Financial Mathematics Basics",
+              "Insurance Principles",
+              "Statistics Fundamentals",
+              "Computer Applications"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 38,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €20,000 - €38,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant science/tech elective subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Foundation actuarial science programme.",
+              "Pathway to BSc Actuarial Science."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Library and Information Science",
+        "career": [
+          "Library Assistant",
+          "Information Clerk",
+          "Records Clerk",
+          "Archive Assistant",
+          "Cataloguing Assistant",
+          "Library Circulation Desk Officer",
+          "Media Resource Assistant",
+          "Data Entry Clerk (Library)",
+          "Document Scanner/Digitiser",
+          "Community Library Attendant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Library Science Basics",
+              "Cataloguing and Classification",
+              "Information Retrieval",
+              "Records Management",
+              "Digital Libraries Basics",
+              "Communication Skills"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 32,000 annually",
+              "USA: $22,000 - $38,000",
+              "Europe: €18,000 - €30,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Social Studies/Integrated Science plus passes in two (2) relevant elective subjects. Lower aggregate threshold than BTech/HND.",
+              "GBCE: Passes in English Language and Business Mathematics plus relevant subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Foundation library and information science programme.",
+              "Pathway to BTech Library and Information Science."
             ]
           }
         ]
@@ -3113,7 +4493,7 @@
         "career": "Same careers as BTech Welding and Fabrication Engineering Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
             ],
@@ -3149,7 +4529,7 @@
         "career": "Same careers as BTech Agricultural Engineering Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
             ],
@@ -3185,7 +4565,7 @@
         "career": "Same careers as BTech Mechanical Engineering Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
             ],
@@ -3221,7 +4601,7 @@
         "career": "Same careers as BTech Automotive Engineering Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
             ],
@@ -3248,6 +4628,741 @@
             "level_note": [
               "Top-up for HND Automotive or Mechanical Engineering holders.",
               "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Building Technology",
+        "career": [
+          "Building Technician",
+          "Site Supervisor",
+          "Quantity Surveying Assistant",
+          "Draughtsman",
+          "Building Inspector (Junior)",
+          "Estimator",
+          "Construction Foreman",
+          "Building Maintenance Technician",
+          "Works Supervisor",
+          "Construction Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,299 per semester (2022/2023 rates)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Building Construction",
+              "Structural Mechanics",
+              "Surveying",
+              "Building Drawing",
+              "Building Services",
+              "Construction Management Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation building technology programme.",
+              "Pathway to BTech Building Technology (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Civil Engineering",
+        "career": [
+          "Civil Engineering Technician",
+          "Road Construction Supervisor",
+          "Surveying Technician",
+          "Drainage Technician",
+          "Structural Draughtsman",
+          "Laboratory Technician (Civil)",
+          "Highway Maintenance Supervisor",
+          "Water Supply Technician",
+          "Site Engineer Assistant",
+          "Civil Works Foreman"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,299 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Structural Analysis",
+              "Highway Engineering Basics",
+              "Geotechnical Engineering Basics",
+              "Surveying",
+              "Construction Materials",
+              "Civil Engineering Drawing"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation civil engineering programme.",
+              "Pathway to BTech Civil Engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Mechanical Engineering (Plant and Production options)",
+        "career": [
+          "Mechanical Technician",
+          "Plant Maintenance Technician",
+          "Production Supervisor",
+          "Workshop Foreman",
+          "Machine Operator (Skilled)",
+          "Refrigeration Technician",
+          "HVAC Technician",
+          "Quality Control Technician",
+          "Maintenance Planner",
+          "Mechanical Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,419 per semester (2022/2023 rates)",
+              "Evening: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Thermodynamics",
+              "Machine Design Basics",
+              "Workshop Practice",
+              "Fluid Mechanics",
+              "Manufacturing Processes",
+              "Plant Maintenance"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 55,000 annually",
+              "USA: $30,000 - $58,000",
+              "Europe: €25,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Evening sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Two options: Plant Engineering and Production Engineering.",
+              "Pathway to BTech Mechanical Engineering (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Automotive Engineering",
+        "career": [
+          "Auto Mechanic (Advanced)",
+          "Vehicle Diagnostics Technician",
+          "Fleet Maintenance Supervisor",
+          "Auto Electrical Technician",
+          "Automotive Parts Manager",
+          "Vehicle Inspector",
+          "Garage Supervisor",
+          "Auto Body Repair Specialist",
+          "Automotive Sales Technician",
+          "Auto Workshop Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,349 per semester (2022/2023 rates)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Automotive Systems",
+              "Engine Technology",
+              "Vehicle Diagnostics",
+              "Auto Electrical Systems",
+              "Vehicle Body Repair",
+              "Automotive Workshop Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $28,000 - $55,000",
+              "Europe: €24,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation automotive engineering programme.",
+              "Pathway to BTech Automotive Engineering (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Welding and Fabrication Engineering",
+        "career": [
+          "Welder (Certified)",
+          "Fabrication Technician",
+          "Welding Inspector Assistant",
+          "NDT Technician",
+          "Pipeline Welder",
+          "Structural Steel Fabricator",
+          "Welding Instructor",
+          "Metal Worker",
+          "Welding Workshop Supervisor",
+          "Welding Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,349 per semester (2022/2023 rates)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Welding Processes",
+              "Metal Fabrication",
+              "Welding Metallurgy",
+              "Non-Destructive Testing Basics",
+              "Welding Design",
+              "Workshop Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 55,000 annually",
+              "USA: $30,000 - $60,000",
+              "Europe: €25,000 - €50,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation welding and fabrication programme.",
+              "Pathway to BTech Welding and Fabrication Engineering (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Agricultural Engineering",
+        "career": [
+          "Agricultural Engineering Technician",
+          "Farm Mechanisation Assistant",
+          "Irrigation Technician",
+          "Post-Harvest Equipment Operator",
+          "Farm Machinery Repairer",
+          "Soil Conservation Technician",
+          "Agricultural Workshop Supervisor",
+          "Tractor Operator/Mechanic",
+          "Farm Infrastructure Technician",
+          "Agricultural Equipment Dealer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,349 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Farm Machinery and Power",
+              "Irrigation and Drainage",
+              "Soil and Water Conservation",
+              "Post-Harvest Engineering Basics",
+              "Farm Structures",
+              "Agricultural Workshop Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 48,000 annually",
+              "USA: $28,000 - $52,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation agricultural engineering programme.",
+              "Pathway to BTech Agricultural Engineering (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Electrical/Electronics Engineering",
+        "career": [
+          "Electrical Technician",
+          "Electronics Technician",
+          "Power Line Technician",
+          "Telecoms Technician",
+          "PLC Technician",
+          "Solar Installation Technician",
+          "Wiring and Installation Electrician",
+          "Maintenance Electrician",
+          "Substation Technician",
+          "Electrical Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,349 per semester (estimated)",
+              "Evening/Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Circuit Analysis",
+              "Power Systems Basics",
+              "Electronics",
+              "Electrical Machines",
+              "Wiring Regulations",
+              "Telecommunications Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 55,000 annually",
+              "USA: $30,000 - $58,000",
+              "Europe: €25,000 - €48,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular, Evening, and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation electrical and electronics programme.",
+              "Pathway to BTech Electrical/Electronics Engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Water and Sanitation Engineering",
+        "career": [
+          "Water Supply Technician",
+          "Sanitation Technician",
+          "WASH Field Officer",
+          "Wastewater Treatment Technician",
+          "Borehole Drilling Supervisor",
+          "Water Quality Testing Technician",
+          "Plumbing Supervisor",
+          "Rural Water Supply Technician",
+          "Environmental Sanitation Officer",
+          "Water Utility Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,349 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Water Supply Systems",
+              "Sanitation Technology",
+              "Wastewater Treatment Basics",
+              "Water Quality Testing",
+              "Plumbing and Pipework",
+              "WASH Programme Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 48,000 annually",
+              "USA: $28,000 - $52,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation water and sanitation engineering programme.",
+              "Pathway to BTech Water and Sanitation Engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Instrumentation and Automation Engineering",
+        "career": [
+          "Instrumentation Technician",
+          "Automation Technician",
+          "PLC Programmer",
+          "Process Control Technician",
+          "Calibration Technician",
+          "SCADA Technician",
+          "Industrial Control Technician",
+          "Oil and Gas Instrumentation Technician",
+          "Maintenance Instrumentation Officer",
+          "Instrumentation Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,349 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Instrumentation Principles",
+              "Process Control",
+              "PLC Programming",
+              "Industrial Automation",
+              "Sensors and Transducers",
+              "Calibration and Measurement"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 60,000 annually",
+              "USA: $35,000 - $65,000",
+              "Europe: €28,000 - €55,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Specialised instrumentation and automation programme — rare among Ghanaian Technical Universities.",
+              "Graduates serve in oil & gas, mining, manufacturing, and power generation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Building Technology",
+        "career": [
+          "Mason",
+          "Building Labourer (Skilled)",
+          "Draughtsman Assistant",
+          "Site Clerk",
+          "Building Material Sales",
+          "Tile Fixer",
+          "Plumber",
+          "Painting Contractor",
+          "Quantity Survey Assistant",
+          "Small-Scale Builder"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,400 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Building Construction Basics",
+              "Technical Drawing",
+              "Surveying Basics",
+              "Building Materials",
+              "Building Services Basics",
+              "Construction Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 32,000 annually",
+              "USA: $22,000 - $38,000",
+              "Europe: €18,000 - €30,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant elective subjects (Physics, Technical Drawing, Engineering Science).",
+              "TVET Certificate I or II in relevant engineering trade.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Building Technology.",
+              "Foundation building technology programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Civil Engineering",
+        "career": [
+          "Road Construction Worker (Skilled)",
+          "Survey Chain Man",
+          "Lab Technician (Civil Materials)",
+          "Drainage Worker",
+          "Site Clerk",
+          "Construction Material Tester",
+          "Road Maintenance Worker",
+          "Bridge Construction Assistant",
+          "Concrete Mixer Operator",
+          "Public Works Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,400 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Civil Engineering Basics",
+              "Surveying",
+              "Construction Materials",
+              "Technical Drawing",
+              "Highway Construction Basics",
+              "Construction Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 32,000 annually",
+              "USA: $22,000 - $38,000",
+              "Europe: €18,000 - €30,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant elective subjects (Physics, Technical Drawing, Engineering Science).",
+              "TVET Certificate I or II in relevant engineering trade.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Civil Engineering.",
+              "Foundation civil engineering programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Water and Sanitation Engineering",
+        "career": [
+          "Plumber",
+          "Borehole Pump Attendant",
+          "Water Treatment Plant Attendant",
+          "Sanitation Worker (Skilled)",
+          "Pipe Fitter",
+          "Water Meter Reader",
+          "Latrine Construction Worker",
+          "WASH Community Mobiliser",
+          "Water Tanker Operator",
+          "Water Supply Maintenance Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,400 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Water Supply Basics",
+              "Sanitation Basics",
+              "Plumbing",
+              "Pipe Fitting",
+              "Water Quality Basics",
+              "WASH Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 30,000 annually",
+              "USA: $20,000 - $35,000",
+              "Europe: €16,000 - €28,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant elective subjects (Physics, Technical Drawing, Engineering Science).",
+              "TVET Certificate I or II in relevant engineering trade.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Water and Sanitation Engineering.",
+              "Foundation water and sanitation programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Welding and Fabrication Engineering",
+        "career": [
+          "Welder",
+          "Metal Fabricator",
+          "Brazer",
+          "Oxy-Fuel Cutter",
+          "Arc Welder",
+          "Pipe Welder (Junior)",
+          "Sheet Metal Worker",
+          "Welding Workshop Attendant",
+          "Steel Erector",
+          "Welding Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,400 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Welding Basics",
+              "Metal Cutting",
+              "Fabrication Basics",
+              "Welding Safety",
+              "Technical Drawing",
+              "Workshop Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 32,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant elective subjects (Physics, Technical Drawing, Engineering Science).",
+              "TVET Certificate I or II in relevant engineering trade.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Welding and Fabrication Engineering.",
+              "Foundation welding programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Automotive Engineering",
+        "career": [
+          "Auto Mechanic",
+          "Auto Electrician (Junior)",
+          "Tyre Fitter",
+          "Vehicle Wash Bay Operator",
+          "Parts Sales Assistant",
+          "Panel Beater",
+          "Auto Spray Painter",
+          "Fuel Station Attendant",
+          "Vehicle Inspector Assistant",
+          "Auto Repair Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,400 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Automotive Basics",
+              "Engine Technology Basics",
+              "Auto Electrical Basics",
+              "Vehicle Maintenance",
+              "Workshop Practice",
+              "Automotive Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 30,000 annually",
+              "USA: $22,000 - $38,000",
+              "Europe: €18,000 - €30,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant elective subjects (Physics, Technical Drawing, Engineering Science).",
+              "TVET Certificate I or II in relevant engineering trade.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Automotive Engineering.",
+              "Foundation automotive engineering programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Electrical/Electronic Engineering",
+        "career": [
+          "Electrician",
+          "Wiring Technician",
+          "Solar Panel Installer",
+          "Electrical Appliance Repairer",
+          "Power Line Assistant",
+          "PLC Operator",
+          "Electrical Sales Assistant",
+          "Sound/Lighting Technician",
+          "Security Systems Installer",
+          "Electrical Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,400 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Electrical Installation",
+              "Electronics Basics",
+              "Wiring Regulations",
+              "Electrical Machines Basics",
+              "Solar PV Systems",
+              "Workshop Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - 32,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant elective subjects (Physics, Technical Drawing, Engineering Science).",
+              "TVET Certificate I or II in relevant engineering trade.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Electrical/Electronics Engineering.",
+              "Foundation electrical engineering programme."
             ]
           }
         ]
@@ -3374,7 +5489,7 @@
         "career": "Same careers as BTech Building Technology Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
             ],
@@ -3403,6 +5518,55 @@
             "level_note": [
               "Top-up for HND Building Technology holders.",
               "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Building Technology",
+        "career": [
+          "Building Technician",
+          "Site Supervisor",
+          "Quantity Surveying Assistant",
+          "Draughtsman",
+          "Building Inspector (Junior)",
+          "Estimator",
+          "Construction Foreman",
+          "Building Maintenance Technician",
+          "Works Supervisor",
+          "Construction Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,299 per semester (2022/2023 rates)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Building Construction",
+              "Structural Mechanics",
+              "Surveying",
+              "Building Drawing",
+              "Building Services",
+              "Construction Management Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 50,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (Physics, Elective Maths, Chemistry, Technical Drawing).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II/Technician Part II in relevant engineering trade.",
+              "Mature applicants: 25+ years with relevant engineering experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation building technology programme.",
+              "Pathway to BTech Building Technology (Top-Up)."
             ]
           }
         ]
@@ -3481,7 +5645,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters",
+            "level_name": "Masters (Non-Research – 1 year)",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -3715,6 +5879,602 @@
             ]
           }
         ]
+      },
+      {
+        "course_name": "HND Fashion Design and Textile Studies",
+        "career": [
+          "Fashion Designer (Junior)",
+          "Dressmaker",
+          "Pattern Cutter",
+          "Textile Printer",
+          "Fashion Merchandising Assistant",
+          "Costume Maker",
+          "Fashion Retail Supervisor",
+          "Embroidery Specialist",
+          "Fashion Entrepreneur",
+          "Fashion Instructor"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,219 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Fashion Design Studio",
+              "Pattern Making",
+              "Garment Construction",
+              "Textile Printing",
+              "Fashion Illustration",
+              "Fashion Marketing Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 40,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €22,000 - €38,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II in relevant creative/vocational trade.",
+              "Mature applicants: 25+ years; portfolio review may be required."
+            ],
+            "level_note": [
+              "Foundation fashion and textiles programme.",
+              "Pathway to BTech Fashion and Design Technology."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Industrial Art – Ceramics option",
+        "career": [
+          "Ceramics Artist",
+          "Ceramics Designer",
+          "Ceramics Workshop Supervisor",
+          "Art Teacher/Instructor",
+          "Gallery Assistant",
+          "Exhibition Coordinator",
+          "Art Entrepreneur",
+          "Craft Producer",
+          "Design Assistant",
+          "Visual Arts Freelancer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,219 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Ceramics Studio Practice",
+              "Advanced Ceramics Techniques",
+              "Art History and Theory",
+              "Design Drawing",
+              "Material Studies",
+              "Portfolio Development"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 40,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €22,000 - €38,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II in relevant creative/vocational trade.",
+              "Mature applicants: 25+ years; portfolio review may be required."
+            ],
+            "level_note": [
+              "HND Industrial Art with Ceramics specialisation.",
+              "Pathway to BTech Art and Design Innovation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Industrial Art – Painting option",
+        "career": [
+          "Painting Artist",
+          "Painting Designer",
+          "Painting Workshop Supervisor",
+          "Art Teacher/Instructor",
+          "Gallery Assistant",
+          "Exhibition Coordinator",
+          "Art Entrepreneur",
+          "Craft Producer",
+          "Design Assistant",
+          "Visual Arts Freelancer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,219 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Painting Studio Practice",
+              "Advanced Painting Techniques",
+              "Art History and Theory",
+              "Design Drawing",
+              "Material Studies",
+              "Portfolio Development"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 40,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €22,000 - €38,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II in relevant creative/vocational trade.",
+              "Mature applicants: 25+ years; portfolio review may be required."
+            ],
+            "level_note": [
+              "HND Industrial Art with Painting specialisation.",
+              "Pathway to BTech Art and Design Innovation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Industrial Art – Sculpture option",
+        "career": [
+          "Sculpture Artist",
+          "Sculpture Designer",
+          "Sculpture Workshop Supervisor",
+          "Art Teacher/Instructor",
+          "Gallery Assistant",
+          "Exhibition Coordinator",
+          "Art Entrepreneur",
+          "Craft Producer",
+          "Design Assistant",
+          "Visual Arts Freelancer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,219 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Sculpture Studio Practice",
+              "Advanced Sculpture Techniques",
+              "Art History and Theory",
+              "Design Drawing",
+              "Material Studies",
+              "Portfolio Development"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 40,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €22,000 - €38,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II in relevant creative/vocational trade.",
+              "Mature applicants: 25+ years; portfolio review may be required."
+            ],
+            "level_note": [
+              "HND Industrial Art with Sculpture specialisation.",
+              "Pathway to BTech Art and Design Innovation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Industrial Art – Leatherwork option",
+        "career": [
+          "Leatherwork Artist",
+          "Leatherwork Designer",
+          "Leatherwork Workshop Supervisor",
+          "Art Teacher/Instructor",
+          "Gallery Assistant",
+          "Exhibition Coordinator",
+          "Art Entrepreneur",
+          "Craft Producer",
+          "Design Assistant",
+          "Visual Arts Freelancer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,219 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Leatherwork Studio Practice",
+              "Advanced Leatherwork Techniques",
+              "Art History and Theory",
+              "Design Drawing",
+              "Material Studies",
+              "Portfolio Development"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 40,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €22,000 - €38,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II in relevant creative/vocational trade.",
+              "Mature applicants: 25+ years; portfolio review may be required."
+            ],
+            "level_note": [
+              "HND Industrial Art with Leatherwork specialisation.",
+              "Pathway to BTech Art and Design Innovation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Industrial Art – Graphic Design option",
+        "career": [
+          "Graphic Design Artist",
+          "Graphic Design Designer",
+          "Graphic Design Workshop Supervisor",
+          "Art Teacher/Instructor",
+          "Gallery Assistant",
+          "Exhibition Coordinator",
+          "Art Entrepreneur",
+          "Craft Producer",
+          "Design Assistant",
+          "Visual Arts Freelancer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,219 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Graphic Design Studio Practice",
+              "Advanced Graphic Design Techniques",
+              "Art History and Theory",
+              "Design Drawing",
+              "Material Studies",
+              "Portfolio Development"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 40,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €22,000 - €38,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II in relevant creative/vocational trade.",
+              "Mature applicants: 25+ years; portfolio review may be required."
+            ],
+            "level_note": [
+              "HND Industrial Art with Graphic Design specialisation.",
+              "Pathway to BTech Art and Design Innovation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Industrial Art – Textiles option",
+        "career": [
+          "Textiles Artist",
+          "Textiles Designer",
+          "Textiles Workshop Supervisor",
+          "Art Teacher/Instructor",
+          "Gallery Assistant",
+          "Exhibition Coordinator",
+          "Art Entrepreneur",
+          "Craft Producer",
+          "Design Assistant",
+          "Visual Arts Freelancer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,219 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Textiles Studio Practice",
+              "Advanced Textiles Techniques",
+              "Art History and Theory",
+              "Design Drawing",
+              "Material Studies",
+              "Portfolio Development"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 40,000 annually",
+              "USA: $25,000 - $45,000",
+              "Europe: €22,000 - €38,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits (A1-C6) in three (3) relevant elective subjects.",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II in relevant creative/vocational trade.",
+              "Mature applicants: 25+ years; portfolio review may be required."
+            ],
+            "level_note": [
+              "HND Industrial Art with Textiles specialisation.",
+              "Pathway to BTech Art and Design Innovation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Art and Design Innovation (Ceramics, Painting, Sculpture and Leatherwork)",
+        "career": [
+          "Art Assistant",
+          "Craft Producer",
+          "Workshop Attendant",
+          "Gallery Attendant",
+          "Art Supplies Sales",
+          "Decorative Painter",
+          "Ceramic Mould Maker",
+          "Leather Craft Worker",
+          "Sculptor Assistant",
+          "Art Trainee"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,300 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Art Studio Practice",
+              "Drawing and Design",
+              "Ceramics Basics",
+              "Painting Basics",
+              "Sculpture Basics",
+              "Leatherwork Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 30,000 annually",
+              "USA: $20,000 - $35,000",
+              "Europe: €16,000 - €28,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science/Social Studies plus passes in relevant creative elective subjects.",
+              "TVET Certificate I or II in relevant creative/vocational trade.",
+              "Portfolio may be required for art and design programmes.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Foundation art and design programme with multiple options.",
+              "Pathway to HND Industrial Art."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Fashion Design Studies",
+        "career": [
+          "Seamstress/Tailor",
+          "Dressmaking Assistant",
+          "Fashion Retail Assistant",
+          "Embroiderer",
+          "Pattern Cutting Assistant",
+          "Fabric Sales Assistant",
+          "Fashion Accessory Maker",
+          "Costume Stitcher",
+          "Fashion Entrepreneur",
+          "Fashion Trainee"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,300 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Fashion Design Basics",
+              "Pattern Making Basics",
+              "Garment Construction",
+              "Textile Basics",
+              "Fashion Illustration",
+              "Embroidery and Surface Decoration"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 28,000 annually",
+              "USA: $18,000 - $32,000",
+              "Europe: €15,000 - €26,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science/Social Studies plus passes in relevant creative elective subjects.",
+              "TVET Certificate I or II in relevant creative/vocational trade.",
+              "Portfolio may be required for art and design programmes.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Fashion Design and Textile Studies.",
+              "Foundation fashion design programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Graphic Communication Design",
+        "career": [
+          "Print Shop Assistant",
+          "Signage Maker",
+          "Screen Printer",
+          "Pre-Press Operator",
+          "Desktop Publishing Clerk",
+          "Digital Printing Operator",
+          "Advertising Production Assistant",
+          "Photo Editing Assistant",
+          "Typography Assistant",
+          "Print Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,300 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Graphic Design Basics",
+              "Typography",
+              "Print Production",
+              "Digital Design Tools",
+              "Illustration Basics",
+              "Branding Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 30,000 annually",
+              "USA: $20,000 - $35,000",
+              "Europe: €16,000 - €28,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science/Social Studies plus passes in relevant creative elective subjects.",
+              "TVET Certificate I or II in relevant creative/vocational trade.",
+              "Portfolio may be required for art and design programmes.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Industrial Art (Graphic Design) or BTech Graphic Communication Design.",
+              "Foundation graphic design programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Textiles Design and Production",
+        "career": [
+          "Weaver",
+          "Textile Printer",
+          "Dyer",
+          "Batik Maker",
+          "Tie-and-Dye Artist",
+          "Fabric Shop Attendant",
+          "Kente/Smock Weaver",
+          "Textile Quality Checker",
+          "Textile Retail Assistant",
+          "Textile Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,300 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Weaving Basics",
+              "Dyeing and Printing",
+              "Textile Design",
+              "Fibre Science Basics",
+              "Batik and Resist Techniques",
+              "Textile Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 28,000 annually",
+              "USA: $18,000 - $32,000",
+              "Europe: €15,000 - €26,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science/Social Studies plus passes in relevant creative elective subjects.",
+              "TVET Certificate I or II in relevant creative/vocational trade.",
+              "Portfolio may be required for art and design programmes.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Fashion Design and Textile Studies or HND Industrial Art (Textiles).",
+              "Foundation textiles programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Wood Technology",
+        "career": [
+          "Carpenter",
+          "Joiner",
+          "Wood Machinist",
+          "Furniture Assembly Worker",
+          "Timber Grader",
+          "Sawmill Operator",
+          "Wood Carver",
+          "Wood Workshop Attendant",
+          "Cabinet Maker (Junior)",
+          "Wood Products Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,100 - 1,300 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Wood Science Basics",
+              "Carpentry and Joinery",
+              "Wood Machining",
+              "Furniture Making Basics",
+              "Wood Finishing",
+              "Workshop Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 28,000 annually",
+              "USA: $20,000 - $35,000",
+              "Europe: €16,000 - €26,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science/Social Studies plus passes in relevant creative elective subjects.",
+              "TVET Certificate I or II in relevant creative/vocational trade.",
+              "Portfolio may be required for art and design programmes.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to BTech Architectural Wood Technology and Furniture Production.",
+              "Foundation wood technology programme."
+            ]
+          }
+        ]
       }
     ]
   },
@@ -3934,7 +6694,7 @@
         "career": "Same careers as BTech Sustainable Agriculture Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
             ],
@@ -3970,7 +6730,7 @@
         "career": "Same careers as BTech Agribusiness Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
             ],
@@ -4004,7 +6764,7 @@
         "career": "Same careers as BTech Natural Resource Management Regular",
         "levels": [
           {
-            "level_name": "Top-Up (2-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
             ],
@@ -4031,6 +6791,201 @@
             "level_note": [
               "Top-up for HND Natural Resource Management holders.",
               "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Tropical Agriculture",
+        "career": [
+          "Agricultural Extension Assistant",
+          "Farm Supervisor",
+          "Crop Production Technician",
+          "Animal Husbandry Technician",
+          "Agricultural Input Dealer",
+          "Horticulture Technician",
+          "Agricultural NGO Field Officer",
+          "Post-Harvest Handling Technician",
+          "Agricultural Teaching Assistant",
+          "Farm Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,339 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Crop Science",
+              "Animal Science",
+              "Soil Science",
+              "Agricultural Extension",
+              "Post-Harvest Technology",
+              "Horticulture"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 45,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €22,000 - €40,000"
+            ],
+            "cutt_off": ["WASSCE aggregate: 24 - 36 depending on programme"],
+            "mode": ["Regular and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-D7) in English Language, Core Mathematics, and Integrated Science plus Credits (A1-C6) in three (3) relevant elective subjects (General Agriculture, Biology, Chemistry).",
+              "SSSCE: Passes (A-D) in core subjects plus three relevant elective subjects.",
+              "TVET Certificate II in relevant agricultural trade.",
+              "Mature applicants: 25+ years with relevant agricultural experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Foundation agriculture programme covering crops, animals, and post-harvest.",
+              "Pathway to BTech Sustainable Agriculture or Agribusiness (Top-Up)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Sustainable Agriculture",
+        "career": [
+          "Farm Worker (Skilled)",
+          "Agricultural Extension Volunteer",
+          "Crop Nursery Attendant",
+          "Animal Husbandry Assistant",
+          "Farm Record Keeper",
+          "Agricultural Input Shop Attendant",
+          "Post-Harvest Handler",
+          "Soil Sampling Assistant",
+          "Greenhouse Attendant",
+          "Small-Scale Farmer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)",
+              "WLS/WLC/YLC: Higher fees apply"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Crop Production Basics",
+              "Animal Husbandry Basics",
+              "Soil Science Basics",
+              "Farm Management",
+              "Agricultural Extension Basics",
+              "Post-Harvest Handling"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 30,000 annually",
+              "USA: $20,000 - $35,000",
+              "Europe: €16,000 - €28,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular, WLS, WLC, YLC sessions"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in relevant agricultural elective subjects.",
+              "TVET Certificate I or II in relevant agricultural trade.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Tropical Agriculture.",
+              "Foundation agriculture programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Agribusiness",
+        "career": [
+          "Agro-Input Sales Clerk",
+          "Farm Record Keeper",
+          "Market Vendor (Agricultural)",
+          "Cooperative Society Clerk",
+          "Microfinance Field Assistant",
+          "Commodity Buyer Assistant",
+          "Agricultural Data Clerk",
+          "Rural Enterprise Assistant",
+          "Small-Scale Agro-Processor",
+          "Self-Employed Farmer-Trader"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Agribusiness Basics",
+              "Agricultural Marketing",
+              "Farm Accounting",
+              "Entrepreneurship",
+              "Value Chain Basics",
+              "ICT for Agriculture"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 30,000 annually",
+              "USA: $20,000 - $35,000",
+              "Europe: €16,000 - €28,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in relevant agricultural elective subjects.",
+              "TVET Certificate I or II in relevant agricultural trade.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND Tropical Agriculture or BTech Agribusiness.",
+              "Foundation agribusiness programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma of Technology in Natural Resource Management",
+        "career": [
+          "Forest Guard",
+          "Wildlife Ranger Assistant",
+          "Environmental Data Collector",
+          "Soil Conservation Worker",
+          "Tree Nursery Attendant",
+          "National Park Attendant",
+          "GIS Field Data Collector",
+          "Environmental Sanitation Assistant",
+          "Community Forest Manager",
+          "Conservation Volunteer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Natural Resource Management Basics",
+              "Wildlife Conservation Basics",
+              "Forest Management",
+              "Environmental Science",
+              "GIS Basics",
+              "Climate Change Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - 30,000 annually",
+              "USA: $20,000 - $35,000",
+              "Europe: €16,000 - €28,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in relevant agricultural elective subjects.",
+              "TVET Certificate I or II in relevant agricultural trade.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "Pathway to HND or BTech Natural Resource Management.",
+              "Foundation natural resource management programme."
             ]
           }
         ]
@@ -4300,6 +7255,54 @@
             "level_note": [
               "Professional dietetics programme with clinical hospital placements.",
               "Graduates serve in GHS hospitals, private clinics, sports nutrition, and health NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Nutrition",
+        "career": [
+          "Nutrition Assistant",
+          "Community Health Volunteer",
+          "School Feeding Programme Assistant",
+          "Diet Clerk",
+          "Health Promotion Assistant",
+          "Food Aid Distribution Officer",
+          "Infant Feeding Counsellor",
+          "Nutrition Data Clerk",
+          "Kitchen Supervisor (Health Facility)",
+          "Nutrition NGO Field Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,200 - 1,500 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Nutrition Science Basics",
+              "Community Nutrition",
+              "Food Science",
+              "Anatomy and Physiology Basics",
+              "Health Promotion",
+              "Food Service Management"
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - 38,000 annually",
+              "USA: $22,000 - $40,000",
+              "Europe: €18,000 - €32,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Regular session"],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Passes in English Language, Core Mathematics, and Integrated Science plus passes in two (2) relevant science/tech elective subjects.",
+              "TVET Certificate I or II in relevant area.",
+              "Mature applicants: 25+ years; entrance exam required."
+            ],
+            "level_note": [
+              "3-year diploma programme in nutrition.",
+              "Pathway to BSc Nutrition and Lifestyle Medicine or BSc Dietetics."
             ]
           }
         ]
