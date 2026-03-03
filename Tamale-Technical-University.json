@@ -60,7 +60,7 @@
             ]
           },
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -131,9 +131,7 @@
               "Europe: €42,000 - €95,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Sports Science, Business, Marketing, or related field",
               "Third Class holders with 4+ years relevant experience may be considered"
@@ -161,7 +159,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -181,9 +179,7 @@
               "Europe: €42,000 - €95,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework with capstone"
-            ],
+            "mode": ["Weekend mode, coursework with capstone"],
             "entry_requirements": [
               "Same as MTech Sports Management (Research) entry requirements"
             ],
@@ -230,9 +226,7 @@
               "Europe: €40,000 - €90,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Hospitality, Tourism, Events, Business, or related field",
               "Third Class holders with 4+ years experience may apply"
@@ -260,7 +254,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -280,9 +274,7 @@
               "Europe: €40,000 - €90,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework with capstone"
-            ],
+            "mode": ["Weekend mode, coursework with capstone"],
             "entry_requirements": [
               "Same as MTech Event, Recreation and Leisure Management (Research) entry requirements"
             ],
@@ -329,10 +321,7 @@
               "Europe: €60,000 - €130,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode lectures",
-              "Research or coursework track"
-            ],
+            "mode": ["Weekend mode lectures", "Research or coursework track"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Computer Science, IT, Mathematics, Statistics, or related field",
               "Third Class holders with 4+ years relevant experience may be considered",
@@ -381,10 +370,7 @@
               "Europe: €55,000 - €120,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode lectures",
-              "Research or coursework track"
-            ],
+            "mode": ["Weekend mode lectures", "Research or coursework track"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Computer Science, IT, Information Security, or related field",
               "Third Class holders with 4+ years relevant experience may be considered",
@@ -433,9 +419,7 @@
               "Europe: €55,000 - €120,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Computer Science, Statistics, IT, Mathematics, or related field",
               "Must pass selection interview"
@@ -463,7 +447,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -483,9 +467,7 @@
               "Europe: €55,000 - €120,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework-only with capstone project"
-            ],
+            "mode": ["Weekend mode, coursework-only with capstone project"],
             "entry_requirements": [
               "Same as MTech Data Science (Research) entry requirements",
               "Non-Research track completed in one year without thesis"
@@ -533,9 +515,7 @@
               "Europe: €50,000 - €110,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode lectures"
-            ],
+            "mode": ["Weekend mode lectures"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in IT, Computer Science, or related field",
               "Third Class holders with 4+ years relevant experience may be considered"
@@ -583,9 +563,7 @@
               "Europe: €48,000 - €100,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Statistics, Mathematics, or related quantitative field",
               "Must pass selection interview"
@@ -613,7 +591,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -633,9 +611,7 @@
               "Europe: €48,000 - €100,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework-only with capstone"
-            ],
+            "mode": ["Weekend mode, coursework-only with capstone"],
             "entry_requirements": [
               "Same as MTech Statistics (Research) entry requirements",
               "Non-Research completed in 1 year without thesis"
@@ -683,9 +659,7 @@
               "Europe: €48,000 - €100,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Statistics, Mathematics, or related quantitative field"
             ],
@@ -712,7 +686,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -732,9 +706,7 @@
               "Europe: €48,000 - €100,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework with capstone"
-            ],
+            "mode": ["Weekend mode, coursework with capstone"],
             "entry_requirements": [
               "Same as MSc Statistics (Research) entry requirements"
             ],
@@ -781,9 +753,7 @@
               "Europe: €50,000 - €110,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode lectures"
-            ],
+            "mode": ["Weekend mode lectures"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in IT, Computer Science, or related field"
             ],
@@ -830,9 +800,7 @@
               "Europe: €60,000 - €130,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode lectures"
-            ],
+            "mode": ["Weekend mode lectures"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Computer Science, IT, Mathematics, Statistics, or related quantitative field"
             ],
@@ -879,9 +847,7 @@
               "Europe: €45,000 - €100,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode lectures"
-            ],
+            "mode": ["Weekend mode lectures"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Marketing, Business, Communication, IT, or related field",
               "Third Class holders with 4+ years relevant experience may be considered"
@@ -961,7 +927,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (2022/2023 rates)",
               "Weekend sessions: Higher fees apply"
@@ -983,9 +949,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -1015,7 +979,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (2022/2023 rates)",
               "Weekend: Higher fees apply"
@@ -1037,9 +1001,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -1069,7 +1031,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 - 1,645 per semester (Biostatistics: GHC 1,555; Financial Statistics: GHC 1,645 – 2022/2023 rates)",
               "Weekend: Higher fees apply"
@@ -1091,9 +1053,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -1123,7 +1083,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,655 per semester (2022/2023 rates)",
               "Weekend: Higher fees apply"
@@ -1145,9 +1105,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -1177,7 +1135,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,655 per semester (2022/2023 rates)",
               "Weekend: Higher fees apply"
@@ -1199,9 +1157,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -1231,7 +1187,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)",
               "Weekend: Higher fees apply"
@@ -1253,9 +1209,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -1285,7 +1239,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (estimated, IT rate)"
             ],
@@ -1306,9 +1260,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -1338,7 +1290,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)",
               "Weekend: Higher fees apply"
@@ -1360,9 +1312,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -1392,7 +1342,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 - 1,645 per semester (estimated)"
             ],
@@ -1413,9 +1363,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -1447,13 +1395,9 @@
               "Research Methods",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Statistics Regular"
-            ],
+            "salary": ["Same salary range as BTech Statistics Regular"],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND Statistics graduates"
-            ],
+            "mode": ["Weekend mode for HND Statistics graduates"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -1489,9 +1433,7 @@
               "Same salary range as BTech Hospitality and Tourism Management Regular"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND Tourism/HCIM holders"
-            ],
+            "mode": ["Weekend mode for HND Tourism/HCIM holders"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -1550,9 +1492,7 @@
               "Europe: €50,000 - €110,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode lectures"
-            ],
+            "mode": ["Weekend mode lectures"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Accounting, Finance, or related field",
               "Professional qualifications (ACCA, ICA-Gh, CIMA) may complement eligibility",
@@ -1601,9 +1541,7 @@
               "Europe: €45,000 - €100,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Business, Management, or related field",
               "Must pass selection interview"
@@ -1631,7 +1569,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -1651,9 +1589,7 @@
               "Europe: €45,000 - €100,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework-only with capstone"
-            ],
+            "mode": ["Weekend mode, coursework-only with capstone"],
             "entry_requirements": [
               "Same as MTech Entrepreneurship (Research) entry requirements"
             ],
@@ -1700,9 +1636,7 @@
               "Europe: €50,000 - €110,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Accounting, Finance, or related field",
               "Professional qualifications (ACCA, ICA-Gh, CIMA) may complement eligibility"
@@ -1730,7 +1664,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -1750,9 +1684,7 @@
               "Europe: €50,000 - €110,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework with capstone"
-            ],
+            "mode": ["Weekend mode, coursework with capstone"],
             "entry_requirements": [
               "Same as MSc Accountancy (Research) entry requirements"
             ],
@@ -1799,9 +1731,7 @@
               "Europe: €48,000 - €100,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in HRM, Business, Management, or related field"
             ],
@@ -1828,7 +1758,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -1848,9 +1778,7 @@
               "Europe: €48,000 - €100,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework with capstone"
-            ],
+            "mode": ["Weekend mode, coursework with capstone"],
             "entry_requirements": [
               "Same as MSc HRM (Research) entry requirements"
             ],
@@ -1897,9 +1825,7 @@
               "Europe: €50,000 - €105,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Procurement, Supply Chain, Business, or related field"
             ],
@@ -1926,7 +1852,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -1946,9 +1872,7 @@
               "Europe: €50,000 - €105,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework with capstone"
-            ],
+            "mode": ["Weekend mode, coursework with capstone"],
             "entry_requirements": [
               "Same as MSc Procurement and Supply Chain (Research) entry requirements"
             ],
@@ -1975,7 +1899,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,645 per semester (2022/2023 rates; fees adjusted upward annually)",
               "Evening/Weekend sessions: Higher fees apply (see official TaTU fee schedule)"
@@ -2029,7 +1953,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,645 per semester (2022/2023 rates)",
               "Evening/Weekend sessions: Higher fees apply"
@@ -2083,7 +2007,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,645 per semester (2022/2023 rates)",
               "Evening/Weekend sessions: Higher fees apply"
@@ -2137,7 +2061,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,645 per semester (2022/2023 rates)"
             ],
@@ -2158,9 +2082,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2190,7 +2112,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,645 per semester (estimated, business rate)"
             ],
@@ -2211,9 +2133,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2243,7 +2163,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,645 per semester (estimated, business rate)"
             ],
@@ -2264,9 +2184,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2296,7 +2214,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,645 per semester (estimated, business rate)"
             ],
@@ -2317,9 +2235,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2349,7 +2265,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,645 per semester (estimated)"
             ],
@@ -2370,9 +2286,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2402,7 +2316,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)"
             ],
@@ -2423,9 +2337,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2457,13 +2369,9 @@
               "Accounting Information Systems",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Applied Accounting Regular"
-            ],
+            "salary": ["Same salary range as BTech Applied Accounting Regular"],
             "cutt_off": [],
-            "mode": [
-              "Weekend/Evening mode for HND graduates"
-            ],
+            "mode": ["Weekend/Evening mode for HND graduates"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -2495,13 +2403,9 @@
               "Social Enterprise",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Entrepreneurship Regular"
-            ],
+            "salary": ["Same salary range as BTech Entrepreneurship Regular"],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND graduates"
-            ],
+            "mode": ["Weekend mode for HND graduates"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -2537,9 +2441,7 @@
               "Same salary range as BTech Logistics and Procurement Management Regular"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND graduates"
-            ],
+            "mode": ["Weekend mode for HND graduates"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -2575,9 +2477,7 @@
               "Same salary range as BTech Business Management Regular"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend/Evening mode for HND graduates"
-            ],
+            "mode": ["Weekend/Evening mode for HND graduates"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -2636,9 +2536,7 @@
               "Europe: €55,000 - €120,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Mechanical Engineering or related engineering field",
               "Third Class holders with 4+ years relevant industry experience may be considered"
@@ -2686,9 +2584,7 @@
               "Europe: €50,000 - €115,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Automotive, Mechanical, or related Engineering field",
               "Third Class holders with 4+ years relevant experience may be considered"
@@ -2736,9 +2632,7 @@
               "Europe: €50,000 - €110,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Welding, Mechanical, or related Engineering field",
               "Third Class holders with 4+ years relevant experience may be considered"
@@ -2766,7 +2660,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,675 per semester (2022/2023 rates)",
               "Weekend: Higher fees apply"
@@ -2788,9 +2682,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2820,7 +2712,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,605 per semester (2022/2023 rates)",
               "Weekend: Higher fees apply"
@@ -2842,9 +2734,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2874,7 +2764,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,605 per semester (estimated engineering rate)",
               "Weekend: Higher fees apply"
@@ -2896,9 +2786,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2928,7 +2816,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,605 per semester (2022/2023 rates)",
               "Weekend: Higher fees apply"
@@ -2950,9 +2838,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -2982,7 +2868,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,605 per semester (estimated)"
             ],
@@ -3003,9 +2889,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3035,7 +2919,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,675 per semester (estimated)"
             ],
@@ -3056,9 +2940,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3088,7 +2970,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (2022/2023 Civil Engineering with Road Transport rate)"
             ],
@@ -3109,9 +2991,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3141,7 +3021,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (2022/2023 rates)"
             ],
@@ -3162,9 +3042,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3194,7 +3072,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,605 per semester (estimated)",
               "Weekend: Higher fees apply"
@@ -3216,9 +3094,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3254,9 +3130,7 @@
               "Same salary range as BTech Welding and Fabrication Engineering Regular"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND Welding/Fabrication holders"
-            ],
+            "mode": ["Weekend mode for HND Welding/Fabrication holders"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -3292,9 +3166,7 @@
               "Same salary range as BTech Agricultural Engineering Regular"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND Agricultural Engineering holders"
-            ],
+            "mode": ["Weekend mode for HND Agricultural Engineering holders"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -3330,9 +3202,7 @@
               "Same salary range as BTech Mechanical Engineering Regular"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND Mechanical Engineering holders"
-            ],
+            "mode": ["Weekend mode for HND Mechanical Engineering holders"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -3368,9 +3238,7 @@
               "Same salary range as BTech Automotive Engineering Regular"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND Automotive/Mechanical holders"
-            ],
+            "mode": ["Weekend mode for HND Automotive/Mechanical holders"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -3409,7 +3277,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,605 per semester (2022/2023 rates; all options same fee)",
               "Evening/Weekend sessions: Higher fees apply"
@@ -3463,7 +3331,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,605 per semester (2022/2023 rates)",
               "Evening/Weekend sessions: Higher fees apply"
@@ -3584,9 +3452,7 @@
               "Europe: €38,000 - €85,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis and studio practice"
-            ],
+            "mode": ["Weekend mode with research thesis and studio practice"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Art, Design, Fashion, Industrial Art, or related creative field",
               "Portfolio review may be required",
@@ -3615,7 +3481,7 @@
         ],
         "levels": [
           {
-            "level_name": "Masters (Non-Research – 1 year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
               "Application fee: GHC 200"
@@ -3635,9 +3501,7 @@
               "Europe: €38,000 - €85,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode, coursework with capstone studio project"
-            ],
+            "mode": ["Weekend mode, coursework with capstone studio project"],
             "entry_requirements": [
               "Same as MTech Art and Design (Research) entry requirements"
             ],
@@ -3664,7 +3528,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,475 per semester (2022/2023 rates)"
             ],
@@ -3685,9 +3549,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits in three (3) relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3717,7 +3579,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,475 per semester (estimated, art rate)"
             ],
@@ -3738,9 +3600,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits in three (3) relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3770,7 +3630,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,475 per semester (estimated)"
             ],
@@ -3791,9 +3651,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits in three (3) relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3823,7 +3681,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,475 per semester (estimated)"
             ],
@@ -3844,9 +3702,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular session"
-            ],
+            "mode": ["Regular session"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits in three (3) relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3905,9 +3761,7 @@
               "Europe: €42,000 - €90,000"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode with research thesis"
-            ],
+            "mode": ["Weekend mode with research thesis"],
             "entry_requirements": [
               "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Agriculture, Crop Science, Horticulture, or related field",
               "Third Class holders with 4+ years relevant experience may be considered"
@@ -3935,7 +3789,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,595 per semester (2022/2023 rates)",
               "Weekend: Higher fees apply"
@@ -3957,9 +3811,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (General Agriculture, Biology, Chemistry, Animal Husbandry, Crop Husbandry, Elective Mathematics). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -3989,7 +3841,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,595 per semester (estimated)",
               "Weekend: Higher fees apply"
@@ -4011,9 +3863,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (General Agriculture, Biology, Chemistry, Animal Husbandry, Crop Husbandry, Elective Mathematics). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -4043,7 +3893,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,595 per semester (estimated)",
               "Weekend: Higher fees apply"
@@ -4065,9 +3915,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (General Agriculture, Biology, Chemistry, Animal Husbandry, Crop Husbandry, Elective Mathematics). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -4103,9 +3951,7 @@
               "Same salary range as BTech Sustainable Agriculture Regular"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND Agriculture holders"
-            ],
+            "mode": ["Weekend mode for HND Agriculture holders"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -4137,13 +3983,9 @@
               "Entrepreneurship",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Agribusiness Regular"
-            ],
+            "salary": ["Same salary range as BTech Agribusiness Regular"],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND Agribusiness/Agriculture holders"
-            ],
+            "mode": ["Weekend mode for HND Agribusiness/Agriculture holders"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -4179,9 +4021,7 @@
               "Same salary range as BTech Natural Resource Management Regular"
             ],
             "cutt_off": [],
-            "mode": [
-              "Weekend mode for HND NRM holders"
-            ],
+            "mode": ["Weekend mode for HND NRM holders"],
             "entry_requirements": [
               "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
               "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
@@ -4220,7 +4060,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,675 per semester (estimated, science/health rate)",
               "Weekend: Higher fees apply"
@@ -4242,9 +4082,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -4274,7 +4112,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)",
               "Weekend: Higher fees apply"
@@ -4296,9 +4134,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -4328,7 +4164,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)",
               "Weekend: Higher fees apply"
@@ -4350,9 +4186,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -4382,7 +4216,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,675 per semester (estimated)",
               "Weekend: Higher fees apply"
@@ -4404,9 +4238,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
@@ -4436,7 +4268,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students (Regular): GHC 1,675 per semester (estimated)",
               "Weekend: Higher fees apply"
@@ -4458,9 +4290,7 @@
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
             ],
-            "mode": [
-              "Regular and Weekend sessions available"
-            ],
+            "mode": ["Regular and Weekend sessions available"],
             "entry_requirements": [
               "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
               "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
