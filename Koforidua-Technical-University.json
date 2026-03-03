@@ -1,0 +1,2046 @@
+[
+  {
+    "name": "Koforidua Technical University"
+  },
+  {
+    "faculty_name": "Faculty of Engineering",
+    "note": [
+      "Houses the Departments of Automotive Engineering, Mechanical Engineering, Electrical/Electronic Engineering, Renewable Energy Engineering, Civil Engineering, Welding and Fabrication Engineering, and Telecommunications Engineering.",
+      "Offers MTech, BTech, and HND programmes across all engineering disciplines. KTU's engineering faculty is known for its renewable energy and mechatronics programmes."
+    ],
+    "courses": [
+      {
+        "course_name": "MTech Environmental Health and Safety",
+        "career": [
+          "Environmental Health and Safety Manager",
+          "Occupational Health Officer",
+          "HSE Consultant",
+          "Environmental Impact Assessor",
+          "Safety Compliance Officer",
+          "Industrial Hygienist",
+          "Risk Management Specialist",
+          "OSHA/EPA Officer",
+          "Environmental Auditor",
+          "Safety Training Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Contact KTU Graduate School for current fees",
+              "Estimated: GHC 8,000 - 12,000 per year based on comparable Technical University rates"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Occupational Health and Safety",
+              "Environmental Impact Assessment",
+              "Risk Assessment and Management",
+              "Industrial Hygiene",
+              "Safety Legislation and Compliance",
+              "Environmental Monitoring"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend/Evening sessions for working professionals"],
+            "entry_requirements": [
+              "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
+              "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
+              "Relevant professional qualification and/or work experience may be required.",
+              "Applicants must pass a selection interview conducted by the School of Graduate Studies."
+            ],
+            "level_note": [
+              "One of the few MTech EHS programmes at a Ghanaian Technical University.",
+              "Graduates serve in mining, oil & gas, manufacturing, EPA, and consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Water Resources Engineering and Management",
+        "career": [
+          "Water Resources Engineer",
+          "Hydrologist",
+          "Water Utility Manager",
+          "WASH Programme Director",
+          "Dam Safety Engineer",
+          "Irrigation Systems Manager",
+          "Water Quality Specialist",
+          "Flood Management Engineer",
+          "Water Policy Analyst",
+          "Water Resources Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Contact KTU Graduate School for current fees",
+              "Estimated: GHC 8,000 - 12,000 per year"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Hydrology and Water Resources",
+              "Water Supply Engineering",
+              "Wastewater Engineering",
+              "Flood and Drought Management",
+              "Water Quality Management",
+              "GIS and Remote Sensing for Water Resources"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 110,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend/Evening sessions"],
+            "entry_requirements": [
+              "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
+              "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
+              "Relevant professional qualification and/or work experience may be required.",
+              "Applicants must pass a selection interview conducted by the School of Graduate Studies."
+            ],
+            "level_note": [
+              "Addresses Ghana's critical water resource management challenges.",
+              "Graduates serve in GWCL, Water Resources Commission, CWSA, and international agencies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Renewable Energy Systems Engineering",
+        "career": [
+          "Renewable Energy Engineer",
+          "Solar PV Systems Designer",
+          "Wind Energy Specialist",
+          "Energy Policy Analyst",
+          "Energy Auditor",
+          "Biomass Energy Specialist",
+          "Mini-Grid Developer",
+          "Energy Efficiency Consultant",
+          "Off-Grid Solutions Engineer",
+          "Renewable Energy Project Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Contact KTU Graduate School for current fees",
+              "Estimated: GHC 8,000 - 12,000 per year"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Solar Energy Systems",
+              "Wind Energy Technology",
+              "Biomass and Bioenergy",
+              "Energy Storage Systems",
+              "Energy Policy and Economics",
+              "Renewable Energy Project Design"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 120,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €48,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend/Evening sessions"],
+            "entry_requirements": [
+              "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
+              "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
+              "Relevant professional qualification and/or work experience may be required.",
+              "Applicants must pass a selection interview conducted by the School of Graduate Studies."
+            ],
+            "level_note": [
+              "Builds on KTU's strong undergraduate renewable energy programme.",
+              "Graduates work in Energy Commission, VRA, IPPs, and solar companies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Energy System Engineering",
+        "career": [
+          "Energy Systems Engineer",
+          "Power Systems Analyst",
+          "Energy Efficiency Engineer",
+          "Smart Grid Engineer",
+          "Energy Planner",
+          "Distributed Energy Specialist",
+          "Energy Management Consultant",
+          "Power Plant Engineer",
+          "Energy Technology Researcher",
+          "Energy Sector Policy Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Contact KTU Graduate School for current fees",
+              "Estimated: GHC 8,000 - 12,000 per year"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Power Systems Engineering",
+              "Energy Systems Modelling",
+              "Smart Grid Technology",
+              "Energy Management",
+              "Power Electronics",
+              "Distributed Energy Resources"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend/Evening sessions"],
+            "entry_requirements": [
+              "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
+              "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
+              "Relevant professional qualification and/or work experience may be required.",
+              "Applicants must pass a selection interview conducted by the School of Graduate Studies."
+            ],
+            "level_note": [
+              "Broader energy systems programme complementing the renewable energy MTech.",
+              "Covers conventional, renewable, and hybrid energy systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Mechatronics Engineering",
+        "career": [
+          "Mechatronics Engineer",
+          "Automation Engineer",
+          "Robotics Engineer",
+          "Control Systems Engineer",
+          "PLC Programmer",
+          "Embedded Systems Developer",
+          "Manufacturing Systems Engineer",
+          "Industrial Automation Specialist",
+          "Smart Systems Designer",
+          "Mechatronics Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,974 (Level 100), GHC 3,696 (Level 200), GHC 3,696 (Level 300), GHC 3,970 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Robotics and Automation",
+              "Control Systems",
+              "PLC Programming",
+              "Sensors and Actuators",
+              "Embedded Systems",
+              "Mechatronic System Design"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 100,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €48,000 - €110,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "KTU's flagship interdisciplinary engineering programme combining mechanical, electrical, and computer engineering.",
+              "HND graduates with requisite specialisation enrol at Level 200 (unique to Mechatronics)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Automotive Engineering",
+        "career": [
+          "Automotive Engineer",
+          "Vehicle Design Engineer",
+          "Fleet Manager",
+          "Automotive Diagnostics Specialist",
+          "Vehicle Testing Engineer",
+          "Auto Workshop Manager",
+          "Electric Vehicle Specialist",
+          "Motorsport Engineer",
+          "Automotive Sales Engineer",
+          "Automotive Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,974 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Automotive Systems",
+              "Engine Technology",
+              "Vehicle Dynamics",
+              "Automotive Electronics",
+              "Electric and Hybrid Vehicles",
+              "Automotive Diagnostics"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "One of KTU's earliest BTech programmes, established alongside Procurement.",
+              "Graduates work in vehicle assembly plants, dealerships, and transport companies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Telecommunication and Networking Engineering",
+        "career": [
+          "Telecommunications Engineer",
+          "Network Engineer",
+          "RF Engineer",
+          "Fibre Optic Technologist",
+          "Network Security Specialist",
+          "Telecom Project Manager",
+          "5G/LTE Specialist",
+          "VoIP Engineer",
+          "ISP Operations Manager",
+          "Telecoms Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Telecommunications Systems",
+              "Computer Networks",
+              "Wireless Communications",
+              "Signal Processing",
+              "Fibre Optics",
+              "Network Security"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 95,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Trains telecoms and network engineers for Ghana's expanding digital infrastructure.",
+              "Graduates serve in MTN, Vodafone, AirtelTigo, NCA, and ISPs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Welding and Fabrication Engineering",
+        "career": [
+          "Welding Engineer",
+          "Fabrication Engineer",
+          "Welding Inspector",
+          "NDT Specialist",
+          "Pipeline Engineer",
+          "Structural Fabricator",
+          "Quality Assurance Engineer",
+          "Welding Instructor",
+          "Oil and Gas Fabrication Specialist",
+          "Metal Fabrication Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Welding Processes and Metallurgy",
+              "Fabrication Technology",
+              "Non-Destructive Testing",
+              "Welding Design",
+              "Quality Assurance in Welding",
+              "Materials Science"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Specialised welding and fabrication engineering degree.",
+              "Graduates serve in oil & gas, construction, shipbuilding, and manufacturing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Renewable Energy Systems Engineering",
+        "career": [
+          "Renewable Energy Engineer",
+          "Solar PV Designer",
+          "Wind Energy Technologist",
+          "Energy Auditor",
+          "Biomass Energy Specialist",
+          "Mini-Grid Developer",
+          "Energy Efficiency Officer",
+          "Off-Grid Solutions Engineer",
+          "Green Building Consultant",
+          "Renewable Energy Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Solar Energy Systems",
+              "Wind Energy Technology",
+              "Biomass and Bioenergy",
+              "Energy Storage",
+              "Power Electronics",
+              "Renewable Energy Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 95,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "KTU is a leading institution for renewable energy education in Ghana.",
+              "Graduates work in Energy Commission, VRA, solar companies, and NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Civil Engineering",
+        "career": [
+          "Civil Engineer",
+          "Structural Engineer",
+          "Highway Engineer",
+          "Geotechnical Engineer",
+          "Water Resources Engineer",
+          "Construction Manager",
+          "Urban Planner",
+          "Estimator",
+          "Infrastructure Consultant",
+          "Civil Engineering Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Structural Analysis and Design",
+              "Geotechnical Engineering",
+              "Highway Engineering",
+              "Water Resources Engineering",
+              "Construction Management",
+              "Surveying"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 95,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Core civil engineering programme.",
+              "Graduates serve in DUR, DFR, construction firms, and consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Electrical and Electronics Engineering",
+        "career": [
+          "Electrical Engineer",
+          "Electronics Engineer",
+          "Power Systems Engineer",
+          "Control Engineer",
+          "Telecoms Engineer",
+          "Instrumentation Engineer",
+          "Renewable Energy Engineer",
+          "Embedded Systems Developer",
+          "Electrical Contractor",
+          "EE Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Circuit Analysis",
+              "Power Systems",
+              "Electronics",
+              "Control Systems",
+              "Telecommunications",
+              "Renewable Energy Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 95,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Covers power systems, electronics, telecoms, and renewable energy.",
+              "Graduates serve in VRA, ECG, GRIDCo, telecoms, and contracting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Mechanical Engineering (Plant)",
+        "career": [
+          "Plant Engineer",
+          "Maintenance Engineer",
+          "Manufacturing Engineer",
+          "Energy Engineer",
+          "HVAC Engineer",
+          "Plant Operations Manager",
+          "Quality Control Engineer",
+          "Piping Engineer",
+          "Facilities Engineer",
+          "Mechanical Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200) — 2025/2026 (new programme, Levels 300-400 TBD)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Thermodynamics",
+              "Plant Maintenance",
+              "Fluid Mechanics",
+              "Manufacturing Processes",
+              "Materials Science",
+              "Plant Design"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Plant option focusing on plant maintenance, operations, and energy systems.",
+              "Graduates serve in manufacturing, mining, energy, and heavy industry."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Mechanical Engineering (Production)",
+        "career": [
+          "Production Engineer",
+          "Manufacturing Engineer",
+          "Industrial Engineer",
+          "Quality Assurance Engineer",
+          "Process Engineer",
+          "CNC Programmer",
+          "Production Planning Manager",
+          "Operations Manager",
+          "Lean Manufacturing Specialist",
+          "Production Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200) — 2025/2026 (new programme, Levels 300-400 TBD)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Manufacturing Processes",
+              "Production Planning",
+              "Quality Control",
+              "CNC Technology",
+              "Industrial Management",
+              "CAD/CAM"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Production option focusing on manufacturing systems and industrial engineering.",
+              "Graduates serve in factories, SMEs, and industrial consulting."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Applied Science and Technology",
+    "note": [
+      "Houses the Departments of Computer Science, Hospitality and Tourism, Statistics, Graphic Design, Fashion Design and Textiles, and Food Technology.",
+      "Offers MSc, BTech, HND, DBS, and Certificate programmes. Known for AI & Robotics and Actuarial Science programmes."
+    ],
+    "courses": [
+      {
+        "course_name": "MSc Data Science",
+        "career": [
+          "Data Scientist",
+          "Machine Learning Engineer",
+          "Data Analytics Manager",
+          "Business Intelligence Director",
+          "AI Solutions Architect",
+          "Data Engineering Lead",
+          "Quantitative Analyst",
+          "Research Data Scientist",
+          "Chief Data Officer",
+          "Data Science Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Postgraduate (1-year)",
+            "fees": [
+              "Ghanaian Students: Contact KTU Graduate School for current fees",
+              "Estimated: GHC 10,000 - 15,000 total"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Machine Learning",
+              "Big Data Analytics",
+              "Statistical Modelling",
+              "Data Visualisation",
+              "Deep Learning",
+              "Data Science Research Project"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 150,000 annually",
+              "USA: $80,000 - $180,000",
+              "Europe: €55,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend sessions"],
+            "entry_requirements": [
+              "A good first degree (BTech/BSc/BA/BBA) with at least Second Class Lower Division from an accredited university in a relevant field.",
+              "Professional qualifications (e.g., ICA, ACCA, CIPS, CIMA) with relevant work experience may be considered.",
+              "Applicants must submit a statement of purpose and pass a selection interview.",
+              "Duration: 1 year (coursework-based with research project)."
+            ],
+            "level_note": [
+              "High-demand 1-year MSc covering AI, ML, and big data analytics.",
+              "Graduates serve in fintech, banking, telecoms, health tech, and consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Computer Science",
+        "career": [
+          "Software Engineering Manager",
+          "Systems Architect",
+          "IT Director",
+          "Cloud Computing Specialist",
+          "Cybersecurity Manager",
+          "Research Scientist (Computing)",
+          "AI/ML Engineer",
+          "DevOps Lead",
+          "CTO",
+          "Computer Science Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Postgraduate (1-year)",
+            "fees": [
+              "Ghanaian Students: Contact KTU Graduate School for current fees",
+              "Estimated: GHC 10,000 - 15,000 total"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Advanced Algorithms",
+              "Distributed Computing",
+              "Cybersecurity",
+              "Software Architecture",
+              "Cloud Computing",
+              "Computer Science Research Project"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 140,000 annually",
+              "USA: $80,000 - $170,000",
+              "Europe: €50,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend sessions"],
+            "entry_requirements": [
+              "A good first degree (BTech/BSc/BA/BBA) with at least Second Class Lower Division from an accredited university in a relevant field.",
+              "Professional qualifications (e.g., ICA, ACCA, CIPS, CIMA) with relevant work experience may be considered.",
+              "Applicants must submit a statement of purpose and pass a selection interview.",
+              "Duration: 1 year (coursework-based with research project)."
+            ],
+            "level_note": [
+              "Advanced computer science programme for IT professionals.",
+              "Graduates lead software teams and technology innovation in corporations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Hospitality and Tourism Management",
+        "career": [
+          "Hotel Manager",
+          "Tourism Director",
+          "Resort Operations Manager",
+          "Events Manager",
+          "Catering Manager",
+          "Travel Agency Manager",
+          "Hospitality Consultant",
+          "Destination Marketing Officer",
+          "Eco-Tourism Developer",
+          "Hospitality Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Hospitality Operations",
+              "Tourism Principles",
+              "Catering Technology",
+              "Food and Beverage Management",
+              "Destination Marketing",
+              "Sustainable Tourism"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 75,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Applied hospitality and tourism programme.",
+              "Graduates work in hotels, resorts, tour operations, and event management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Food Technology",
+        "career": [
+          "Food Technologist",
+          "Quality Assurance Officer",
+          "Food Safety Inspector",
+          "Product Development Scientist",
+          "Production Supervisor",
+          "Regulatory Affairs Officer (FDA/GSA)",
+          "Sensory Analyst",
+          "Food Processing Entrepreneur",
+          "Research Assistant",
+          "Food Packaging Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300), GHC 3,972 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Food Chemistry",
+              "Food Microbiology",
+              "Food Process Engineering",
+              "Food Quality and Safety",
+              "Post-Harvest Technology",
+              "Food Product Development"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $45,000 - $95,000",
+              "Europe: €35,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Applied food technology programme with strong lab components.",
+              "Graduates serve in FDA, food processing companies, and agro-processing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Computer Science",
+        "career": [
+          "Software Developer",
+          "Systems Architect",
+          "Database Administrator",
+          "Network Engineer",
+          "IT Project Manager",
+          "Cybersecurity Analyst",
+          "Cloud Solutions Architect",
+          "Full-Stack Developer",
+          "IT Consultant",
+          "Tech Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,959 (Level 100), GHC 3,581 (Level 200-300), GHC 3,855 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Software Engineering",
+              "Database Systems",
+              "Computer Networks",
+              "Algorithms and Data Structures",
+              "Operating Systems",
+              "Web and Mobile Development"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 100,000 annually",
+              "USA: $65,000 - $140,000",
+              "Europe: €45,000 - €110,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Core computer science programme.",
+              "Graduates work in banks, telecoms, fintech, government IT, and startups."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Artificial Intelligence and Robotics",
+        "career": [
+          "AI Engineer",
+          "Robotics Engineer",
+          "Machine Learning Engineer",
+          "Computer Vision Specialist",
+          "NLP Engineer",
+          "AI Research Scientist",
+          "Autonomous Systems Developer",
+          "AI Product Manager",
+          "Data Scientist",
+          "AI/Robotics Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,047 (Level 100), GHC 3,569 (Level 200-300) — 2025/2026 (new programme, Level 400 TBD)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Artificial Intelligence",
+              "Machine Learning",
+              "Robotics",
+              "Computer Vision",
+              "Natural Language Processing",
+              "Deep Learning"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 120,000 annually",
+              "USA: $80,000 - $180,000",
+              "Europe: €55,000 - €130,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Cutting-edge AI and Robotics programme — one of the first at a Ghanaian Technical University.",
+              "Graduates lead AI/ML initiatives in fintech, health tech, agriculture tech, and research."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Actuarial Science",
+        "career": [
+          "Actuary",
+          "Risk Analyst",
+          "Insurance Analyst",
+          "Pension Fund Analyst",
+          "Financial Modeller",
+          "Underwriter",
+          "Investment Analyst",
+          "Pricing Analyst",
+          "Consulting Actuary",
+          "Reserving Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,711 (Level 100), GHC 3,333 (Level 200-300), GHC 3,607 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Actuarial Mathematics",
+              "Probability and Statistics",
+              "Financial Mathematics",
+              "Life Contingencies",
+              "Risk Theory",
+              "Pension and Insurance Mathematics"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 120,000 annually",
+              "USA: $70,000 - $160,000",
+              "Europe: €50,000 - €120,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Highly specialised actuarial programme — graduates pursue IFoA/SOA professional exams.",
+              "Graduates work in insurance, pensions, banking, and consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Graphic Design",
+        "career": [
+          "Graphic Designer",
+          "Brand Identity Designer",
+          "UI/UX Designer",
+          "Advertising Art Director",
+          "Packaging Designer",
+          "Motion Graphics Designer",
+          "Publication Designer",
+          "Digital Content Designer",
+          "Print Production Manager",
+          "Graphic Design Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Typography",
+              "Illustration",
+              "Branding and Identity Design",
+              "Packaging Design",
+              "Digital Design",
+              "Print Production"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 70,000 annually",
+              "USA: $42,000 - $90,000",
+              "Europe: €32,000 - €75,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Visual communication and graphic design programme.",
+              "Graduates serve in advertising, publishing, packaging, and media."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Fashion Design and Textiles",
+        "career": [
+          "Fashion Designer",
+          "Apparel Production Manager",
+          "Fashion Brand Manager",
+          "Textile Designer",
+          "Fashion Merchandiser",
+          "Costume Designer",
+          "Pattern Maker",
+          "Fashion Buyer",
+          "Fashion Entrepreneur",
+          "Fashion Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Fashion Design Studio",
+              "Pattern Making",
+              "Textile Science",
+              "Fashion Marketing",
+              "CAD for Fashion",
+              "Garment Construction"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 65,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €30,000 - €70,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Creative fashion and textiles programme.",
+              "Graduates work in fashion houses, textiles, retail, and entrepreneurship."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Statistics",
+        "career": [
+          "Statistician",
+          "Data Analyst",
+          "Biostatistician",
+          "Market Research Analyst",
+          "Survey Analyst",
+          "M&E Specialist",
+          "Business Intelligence Analyst",
+          "Statistical Consultant",
+          "Health Data Analyst",
+          "Quality Control Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,711 (Level 100), GHC 3,333 (Level 200) — 2025/2026 (new programme, Levels 300-400 TBD)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Probability and Statistics",
+              "Statistical Computing",
+              "Regression Analysis",
+              "Time Series Analysis",
+              "Survey Methods",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $55,000 - $115,000",
+              "Europe: €40,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Applied statistics programme.",
+              "Graduates work in data analytics, research, banking, insurance, and public sector."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Built and Natural Environment",
+    "note": [
+      "Houses the Departments of Building Technology, Environmental Management, Real Estate, Quantity Surveying, Construction Technology, and Integrated Development Planning.",
+      "Offers MTech and BTech programmes in construction, built environment, and environmental management."
+    ],
+    "courses": [
+      {
+        "course_name": "MTech Construction Technology and Management",
+        "career": [
+          "Construction Manager",
+          "Project Manager",
+          "Quantity Surveyor (Senior)",
+          "Building Consultant",
+          "Facilities Manager",
+          "Real Estate Developer",
+          "Infrastructure Project Director",
+          "Construction Safety Manager",
+          "Building Technology Researcher",
+          "Construction Technology Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Contact KTU Graduate School for current fees",
+              "Estimated: GHC 8,000 - 12,000 per year"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Construction Technology",
+              "Construction Project Management",
+              "Construction Economics",
+              "Building Information Modelling (BIM)",
+              "Construction Safety Management",
+              "Research Methods in Construction"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend/Evening sessions"],
+            "entry_requirements": [
+              "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
+              "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
+              "Relevant professional qualification and/or work experience may be required.",
+              "Applicants must pass a selection interview conducted by the School of Graduate Studies."
+            ],
+            "level_note": [
+              "Advanced construction technology programme for built environment professionals.",
+              "Graduates lead major construction projects and consultancies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Environmental Management and Technology",
+        "career": [
+          "Environmental Manager",
+          "EIA Specialist",
+          "Environmental Compliance Officer",
+          "Sustainability Manager",
+          "Environmental Consultant",
+          "Waste Management Specialist",
+          "Climate Change Analyst",
+          "Pollution Control Officer",
+          "EPA Officer",
+          "Environmental Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,002 (Level 100), GHC 3,624 (Level 200-300), GHC 3,898 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Environmental Science",
+              "Environmental Impact Assessment",
+              "Waste Management",
+              "Pollution Control",
+              "GIS and Remote Sensing",
+              "Environmental Law and Policy"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Environmental management programme for sustainable development.",
+              "Graduates serve in EPA, mining companies, NGOs, and consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Building Services Technology",
+        "career": [
+          "Building Services Engineer",
+          "HVAC Engineer",
+          "Plumbing Design Engineer",
+          "Fire Protection Engineer",
+          "Electrical Services Designer",
+          "Facilities Manager",
+          "Building Energy Manager",
+          "MEP Coordinator",
+          "Lift/Elevator Engineer",
+          "Building Services Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "HVAC Systems",
+              "Electrical Building Services",
+              "Plumbing and Drainage",
+              "Fire Protection Systems",
+              "Building Energy Management",
+              "Lift and Escalator Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Specialised building services technology programme — rare in Ghana.",
+              "Graduates design and manage MEP systems in commercial and residential buildings."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Real Estates Management",
+        "career": [
+          "Real Estate Manager",
+          "Property Valuer",
+          "Estate Agent",
+          "Property Developer",
+          "Facilities Manager",
+          "Land Administrator",
+          "Real Estate Investment Analyst",
+          "Property Portfolio Manager",
+          "Housing Manager",
+          "Real Estate Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Real Estate Principles",
+              "Property Valuation",
+              "Land Administration",
+              "Real Estate Finance",
+              "Property Management",
+              "Real Estate Law"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €38,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Real estate management programme for Ghana's growing property sector.",
+              "Graduates work in real estate firms, banks, Lands Commission, and property development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Commercial Practice and Quantity Surveying",
+        "career": [
+          "Quantity Surveyor",
+          "Cost Engineer",
+          "Estimator",
+          "Contract Administrator",
+          "Commercial Manager (Construction)",
+          "Procurement Manager (Construction)",
+          "Project Cost Controller",
+          "Value Engineer",
+          "Claims Consultant",
+          "QS Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Quantity Surveying",
+              "Cost Estimation",
+              "Contract Management",
+              "Construction Economics",
+              "Procurement and Tendering",
+              "Value Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 95,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Trains quantity surveyors and commercial practitioners for the construction industry.",
+              "Graduates serve in consulting firms, construction companies, and government works departments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Construction Technology and Management",
+        "career": [
+          "Construction Manager",
+          "Site Manager",
+          "Project Manager",
+          "Building Inspector",
+          "Construction Planner",
+          "Health and Safety Manager (Construction)",
+          "Construction Consultant",
+          "Works Supervisor",
+          "Infrastructure Manager",
+          "Construction Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Construction Technology",
+              "Construction Management",
+              "Structural Engineering",
+              "Building Materials",
+              "Construction Safety",
+              "Project Planning and Scheduling"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
+              "Technical Institute graduates with credit passes in English, Maths, Integrated Science plus relevant elective courses. D7 holders may access 2-month bridging programme.",
+              "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Core construction management programme.",
+              "Graduates manage construction projects and firms across Ghana."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Integrated Development Planning",
+        "career": [
+          "Urban Planner",
+          "Regional Planner",
+          "Town Planning Officer",
+          "Development Policy Analyst",
+          "Spatial Planner",
+          "District Planning Officer",
+          "Land Use Planner",
+          "Community Development Specialist",
+          "Environmental Planner",
+          "Planning Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,072 (Level 100), GHC 3,694 (Level 200-300), GHC 3,968 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Urban and Regional Planning",
+              "Spatial Planning",
+              "Development Policy",
+              "Community Development",
+              "GIS for Planning",
+              "Environmental Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Integrated planning programme for sustainable urban and rural development.",
+              "Graduates serve in TCPD, district assemblies, NDPC, and planning consultancies."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Business and Management Studies",
+    "note": [
+      "Houses the Departments of Accountancy, Procurement and Supply Science, Marketing, Secretaryship and Management Studies, General Studies, and Professional Studies.",
+      "The largest faculty at KTU. Offers MSc, BTech, HND, DBS, and Diploma programmes in business disciplines."
+    ],
+    "courses": [
+      {
+        "course_name": "MSc Accounting and Finance",
+        "career": [
+          "Finance Director",
+          "Chief Financial Officer",
+          "Financial Controller",
+          "Investment Analyst",
+          "Management Accountant (Senior)",
+          "Audit Manager",
+          "Tax Director",
+          "Treasury Manager",
+          "Corporate Finance Advisor",
+          "Accounting Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Postgraduate (1-year)",
+            "fees": [
+              "Ghanaian Students: Contact KTU Graduate School for current fees",
+              "Estimated: GHC 10,000 - 15,000 total programme cost"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Advanced Financial Reporting",
+              "Corporate Finance",
+              "Investment Analysis",
+              "Advanced Auditing",
+              "Strategic Management Accounting",
+              "Research Methods in Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 140,000 annually",
+              "USA: $65,000 - $140,000",
+              "Europe: €48,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend sessions for working professionals"],
+            "entry_requirements": [
+              "A good first degree (BTech/BSc/BA/BBA) with at least Second Class Lower Division from an accredited university in a relevant field.",
+              "Professional qualifications (e.g., ICA, ACCA, CIPS, CIMA) with relevant work experience may be considered.",
+              "Applicants must submit a statement of purpose and pass a selection interview.",
+              "Duration: 1 year (coursework-based with research project)."
+            ],
+            "level_note": [
+              "1-year coursework-based MSc for accounting and finance professionals.",
+              "Graduates advance to senior finance roles in banks, corporate, and public sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Procurement and Supply Chain Management",
+        "career": [
+          "Procurement Director",
+          "Supply Chain Manager (Senior)",
+          "Chief Procurement Officer",
+          "Logistics Director",
+          "Strategic Sourcing Manager",
+          "Vendor Management Director",
+          "Public Procurement Head",
+          "Contract Management Director",
+          "Supply Chain Consultant",
+          "Procurement and SCM Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Postgraduate (1-year)",
+            "fees": [
+              "Ghanaian Students: Contact KTU Graduate School for current fees",
+              "Estimated: GHC 10,000 - 15,000 total"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Strategic Procurement",
+              "Supply Chain Strategy",
+              "Contract Management",
+              "E-Procurement",
+              "Sustainable Supply Chains",
+              "Procurement Research Project"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": ["Weekend sessions"],
+            "entry_requirements": [
+              "A good first degree (BTech/BSc/BA/BBA) with at least Second Class Lower Division from an accredited university in a relevant field.",
+              "Professional qualifications (e.g., ICA, ACCA, CIPS, CIMA) with relevant work experience may be considered.",
+              "Applicants must submit a statement of purpose and pass a selection interview.",
+              "Duration: 1 year (coursework-based with research project)."
+            ],
+            "level_note": [
+              "1-year MSc for procurement and supply chain professionals seeking advancement.",
+              "Graduates serve as senior procurement officers in PPA, MMDAs, and multinational corporations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Accounting and Finance",
+        "career": [
+          "Chartered Accountant",
+          "Financial Analyst",
+          "Tax Consultant",
+          "Auditor",
+          "Management Accountant",
+          "Budget Analyst",
+          "Forensic Accountant",
+          "Treasury Officer",
+          "Banking Officer",
+          "Accounting Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,777 (Level 100), GHC 3,399 (Level 200-300) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Auditing",
+              "Taxation",
+              "Accounting Information Systems",
+              "Corporate Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €40,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Combined accounting and finance BTech — broader than standalone accounting programmes.",
+              "Graduates serve in accounting firms, banks, corporate finance, and public sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Procurement and Supply Chain Management",
+        "career": [
+          "Procurement Manager",
+          "Supply Chain Analyst",
+          "Logistics Manager",
+          "Contract Manager",
+          "Purchasing Director",
+          "Warehouse Manager",
+          "Import/Export Manager",
+          "Public Procurement Officer",
+          "Procurement Consultant",
+          "Supply Chain Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,777 (Level 100), GHC 3,399 (Level 200-300), GHC 3,673 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Procurement Principles",
+              "Supply Chain Management",
+              "Contract Management",
+              "Warehousing and Inventory",
+              "Public Procurement Act",
+              "Transport and Distribution"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "One of KTU's original BTech programmes.",
+              "Graduates serve in PPA, MMDAs, logistics firms, and manufacturing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Marketing",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Sales Director",
+          "Market Research Manager",
+          "Product Manager",
+          "Advertising Manager",
+          "Customer Experience Manager",
+          "Trade Marketing Manager",
+          "Marketing Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,577 (Level 100), GHC 3,199 (Level 200-300), GHC 3,473 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Marketing Management",
+              "Consumer Behaviour",
+              "Sales Management",
+              "Digital Marketing",
+              "Marketing Research",
+              "Brand Management"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 80,000 annually",
+              "USA: $45,000 - $100,000",
+              "Europe: €35,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Comprehensive marketing programme.",
+              "Graduates work in FMCG, banking, telecoms, advertising, and entrepreneurship."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Secretaryship and Management Studies",
+        "career": [
+          "Executive Secretary",
+          "Administrative Manager",
+          "Office Manager",
+          "Personal Assistant",
+          "Protocol Officer",
+          "Records Manager",
+          "Corporate Affairs Officer",
+          "Document Controller",
+          "Front Desk Manager",
+          "Office Administration Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 3,827 (Level 100), GHC 3,449 (Level 200-300), GHC 3,823 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Office Management",
+              "Business Communication",
+              "Records Management",
+              "Human Resource Management Basics",
+              "ICT for Administration",
+              "Shorthand and Transcription"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 70,000 annually",
+              "USA: $35,000 - $70,000",
+              "Europe: €28,000 - €55,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant subjects.",
+              "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
+            ],
+            "level_note": [
+              "Executive secretaryship and management studies programme.",
+              "DBS Secretaryship holders may enrol at Level 200."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Health and Allied Sciences",
+    "note": [
+      "Houses the Departments of Biomedical Engineering, Medical Laboratory Sciences, and Rehabilitation Engineering.",
+      "Offers BTech, HND, and Certificate programmes in health sciences and biomedical engineering."
+    ],
+    "courses": [
+      {
+        "course_name": "BTech Medical Laboratory Sciences",
+        "career": [
+          "Medical Laboratory Scientist",
+          "Laboratory Manager",
+          "Clinical Research Technician",
+          "Blood Bank Scientist",
+          "Microbiologist",
+          "Parasitologist",
+          "Haematologist (Lab)",
+          "QA Officer (Lab)",
+          "Public Health Lab Scientist",
+          "Lab Equipment Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,307 (Level 100), GHC 3,929 (Level 200-300), GHC 4,803 (Level 400) — 2025/2026 (highest BTech fee at KTU)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Clinical Chemistry",
+              "Haematology",
+              "Medical Microbiology",
+              "Parasitology",
+              "Histopathology",
+              "Blood Transfusion Science"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 100,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant science elective subjects (Biology, Chemistry, Physics). Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant science elective subjects.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant science subjects.",
+              "Mature applicants: 25+ years, must pass written test in English, Mathematics and General Knowledge."
+            ],
+            "level_note": [
+              "KTU's highest-fee BTech programme (GHC 4,803 at Level 400) due to intensive lab requirements.",
+              "Graduates serve in GHS hospitals, private laboratories, and research institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Biomedical Engineering",
+        "career": [
+          "Biomedical Engineer",
+          "Medical Equipment Technologist",
+          "Clinical Engineer",
+          "Hospital Equipment Manager",
+          "Biomedical Research Assistant",
+          "Medical Device Designer",
+          "Healthcare Technology Consultant",
+          "Rehabilitation Equipment Specialist",
+          "Biomedical Sales Engineer",
+          "Biomedical Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,257 (Level 100), GHC 3,908 (Level 200-300), GHC 4,140 (Level 400) — 2025/2026",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Biomedical Instrumentation",
+              "Medical Imaging",
+              "Biomechanics",
+              "Clinical Engineering",
+              "Rehabilitation Engineering",
+              "Medical Device Design"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning and Weekend sessions available"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant science elective subjects (Biology, Chemistry, Physics). Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant science elective subjects.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant science subjects.",
+              "Mature applicants: 25+ years, must pass written test in English, Mathematics and General Knowledge."
+            ],
+            "level_note": [
+              "Trains biomedical engineers for hospitals and health technology companies.",
+              "Graduates manage, maintain, and design medical equipment in healthcare facilities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Rehabilitation Engineering",
+        "career": [
+          "Rehabilitation Engineer",
+          "Prosthetics and Orthotics Specialist",
+          "Assistive Technology Designer",
+          "Occupational Health Technologist",
+          "Disability Services Manager",
+          "Wheelchair Design Specialist",
+          "Ergonomics Consultant",
+          "Clinical Rehabilitation Specialist",
+          "Mobility Aids Designer",
+          "Rehabilitation Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Morning: GHC 4,257 (Level 100), GHC 3,908 (Level 200-300), GHC 4,140 (Level 400) — 2025/2026"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Rehabilitation Engineering Principles",
+              "Prosthetics and Orthotics",
+              "Assistive Technology",
+              "Ergonomics",
+              "Biomechanics",
+              "Clinical Rehabilitation"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
+            ],
+            "mode": ["Morning session only"],
+            "entry_requirements": [
+              "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant science elective subjects (Biology, Chemistry, Physics). Aggregate 24 or better.",
+              "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant science elective subjects.",
+              "GCE 'O' and 'A' Level: Six GCE 'O' Level passes including English, Maths, General Science plus three 'A' Level passes in relevant science subjects.",
+              "Mature applicants: 25+ years, must pass written test in English, Mathematics and General Knowledge."
+            ],
+            "level_note": [
+              "Unique rehabilitation engineering programme — one of very few in West Africa.",
+              "Graduates design assistive devices and prosthetics for people with disabilities."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
