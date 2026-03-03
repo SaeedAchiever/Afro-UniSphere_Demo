@@ -1,0 +1,4479 @@
+[
+  {
+    "name": "Tamale Technical University"
+  },
+  {
+    "faculty_name": "Faculty of Applied Sciences and Technology",
+    "note": [
+      "The Faculty of Applied Sciences and Technology houses the Departments of Statistical Sciences, Hospitality and Tourism Management, Computer Science, Food Sciences and Technology, and Actuarial Sciences.",
+      "Offers PhD, MTech, MSc, BTech, and BSc programmes in statistics, IT, AI, cybersecurity, data science, food science, hospitality, tourism, media, and actuarial science."
+    ],
+    "courses": [
+      {
+        "course_name": "MTech Hospitality and Tourism Management (Travel and Tourism Management option; Catering and Hospitality Management option)",
+        "career": [
+          "Hotel General Manager",
+          "Tourism Director",
+          "Resort Operations Director",
+          "Hospitality Consultant",
+          "Tourism Policy Advisor",
+          "Catering Operations Director",
+          "Events and Convention Director",
+          "Tourism Marketing Director",
+          "Hospitality Lecturer",
+          "Tourism Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Hospitality Management",
+              "Tourism Policy and Planning",
+              "Catering Operations Management",
+              "Destination Marketing Strategy",
+              "Sustainable Tourism Development",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 130,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode: Lectures on Fridays and Saturdays",
+              "Research thesis required"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Hospitality, Tourism, or related field from an accredited university",
+              "Third Class holders with at least 4 years relevant working experience may be considered",
+              "Must pass a selection interview"
+            ],
+            "level_note": [
+              "Two specialisation options: Travel and Tourism Management; Catering and Hospitality Management.",
+              "Research track includes taught courses and a research thesis."
+            ]
+          },
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Advanced Hospitality Management",
+              "Tourism Policy and Planning",
+              "Catering Operations Management",
+              "Destination Marketing Strategy",
+              "Sustainable Tourism Development",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 130,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode: Lectures on Fridays and Saturdays",
+              "Coursework-only with capstone project (no thesis)"
+            ],
+            "entry_requirements": [
+              "Same as Research track entry requirements",
+              "Non-Research track is coursework-based and completed in one year"
+            ],
+            "level_note": [
+              "Non-Research (taught) track for professionals seeking advanced knowledge without thesis requirement.",
+              "Covers same specialisation options as the Research track."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Sports Management and Marketing (Research)",
+        "career": [
+          "Sports Manager",
+          "Sports Marketing Director",
+          "Athletics Director",
+          "Sports Events Manager",
+          "Sports Facility Manager",
+          "Sports Agent",
+          "Sports Broadcasting Manager",
+          "Sports Sponsorship Manager",
+          "Sports Policy Advisor",
+          "Sports Management Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Sports Management Principles",
+              "Sports Marketing Strategy",
+              "Sports Law and Ethics",
+              "Sports Finance and Sponsorship",
+              "Event Management in Sports",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 120,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Sports Science, Business, Marketing, or related field",
+              "Third Class holders with 4+ years relevant experience may be considered"
+            ],
+            "level_note": [
+              "Research programme in sports management and marketing.",
+              "Addresses Ghana's growing commercialisation of sports and athletics."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Sports Management and Marketing (Non-Research)",
+        "career": [
+          "Sports Manager",
+          "Sports Marketing Officer",
+          "Sports Events Coordinator",
+          "Sports Facility Coordinator",
+          "Community Sports Development Officer",
+          "Sports Media Officer",
+          "Sports Sponsorship Coordinator",
+          "Fitness Centre Manager",
+          "Sports Retail Manager",
+          "Sports Tourism Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Sports Management Principles",
+              "Sports Marketing Strategy",
+              "Sports Law and Ethics",
+              "Sports Finance and Sponsorship",
+              "Event Management in Sports",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 120,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework with capstone"
+            ],
+            "entry_requirements": [
+              "Same as MTech Sports Management (Research) entry requirements"
+            ],
+            "level_note": [
+              "Taught master's for sports industry professionals.",
+              "Capstone project replaces thesis."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Event, Recreation and Leisure Management (Research)",
+        "career": [
+          "Events Director",
+          "Recreation Centre Manager",
+          "Leisure Park Manager",
+          "Conference and Convention Manager",
+          "Festival Director",
+          "Theme Park Operations Manager",
+          "Community Recreation Director",
+          "Corporate Events Manager",
+          "Tourism and Leisure Consultant",
+          "Events Management Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Event Planning and Strategy",
+              "Recreation Management",
+              "Leisure Studies",
+              "Venue and Facility Management",
+              "Sponsorship and Fundraising",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 120,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €40,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Hospitality, Tourism, Events, Business, or related field",
+              "Third Class holders with 4+ years experience may apply"
+            ],
+            "level_note": [
+              "Research programme exploring event design, recreation, and leisure economics.",
+              "Thesis-based with taught components in the first year."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Event, Recreation and Leisure Management (Non-Research)",
+        "career": [
+          "Events Manager",
+          "Recreation Coordinator",
+          "Leisure Services Manager",
+          "Conference Organiser",
+          "Festival Coordinator",
+          "Corporate Events Planner",
+          "Tourism and Leisure Officer",
+          "Venue Manager",
+          "Community Recreation Officer",
+          "Events Marketing Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Event Planning and Strategy",
+              "Recreation Management",
+              "Leisure Studies",
+              "Venue and Facility Management",
+              "Sponsorship and Fundraising",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 120,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €40,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework with capstone"
+            ],
+            "entry_requirements": [
+              "Same as MTech Event, Recreation and Leisure Management (Research) entry requirements"
+            ],
+            "level_note": [
+              "Taught master's for events and recreation professionals.",
+              "Capstone project replaces thesis."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Artificial Intelligence",
+        "career": [
+          "AI Engineer",
+          "Machine Learning Engineer",
+          "Data Scientist",
+          "NLP Specialist",
+          "Computer Vision Engineer",
+          "AI Research Scientist",
+          "AI Product Manager",
+          "Robotics Engineer",
+          "AI Ethics and Policy Advisor",
+          "AI Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years (Research) or 1 year (Non-Research)",
+            "electives": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Computer Vision",
+              "Reinforcement Learning",
+              "AI Ethics and Governance"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 150,000 annually",
+              "USA: $90,000 - $180,000",
+              "Europe: €60,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode lectures",
+              "Research or coursework track"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Computer Science, IT, Mathematics, Statistics, or related field",
+              "Third Class holders with 4+ years relevant experience may be considered",
+              "Selection interview required"
+            ],
+            "level_note": [
+              "Cutting-edge programme addressing AI talent demand in Ghana and Africa.",
+              "Covers ML, deep learning, NLP, and computer vision with applied project components."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Cyber Security",
+        "career": [
+          "Cybersecurity Analyst",
+          "Information Security Manager",
+          "Penetration Tester",
+          "Security Operations Centre (SOC) Analyst",
+          "Cybersecurity Consultant",
+          "Digital Forensics Specialist",
+          "Security Architect",
+          "Chief Information Security Officer",
+          "Risk and Compliance Analyst",
+          "Cybersecurity Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years (Research) or 1 year (Non-Research)",
+            "electives": [
+              "Network Security",
+              "Digital Forensics",
+              "Ethical Hacking and Penetration Testing",
+              "Cryptography",
+              "Security Governance and Compliance",
+              "Cyber Threat Intelligence"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 150,000 annually",
+              "USA: $85,000 - $170,000",
+              "Europe: €55,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode lectures",
+              "Research or coursework track"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Computer Science, IT, Information Security, or related field",
+              "Third Class holders with 4+ years relevant experience may be considered",
+              "Selection interview required"
+            ],
+            "level_note": [
+              "Addresses Ghana's growing cybersecurity skills gap in banking, telecoms, and government.",
+              "Covers ethical hacking, digital forensics, and security governance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Data Science (Research)",
+        "career": [
+          "Data Scientist",
+          "Data Engineer",
+          "Business Intelligence Manager",
+          "Analytics Director",
+          "Machine Learning Engineer",
+          "Research Data Scientist",
+          "Data Strategy Consultant",
+          "Quantitative Analyst",
+          "Big Data Architect",
+          "Data Science Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Statistical Learning",
+              "Big Data Analytics",
+              "Machine Learning",
+              "Data Engineering",
+              "Data Visualisation",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 150,000 annually",
+              "USA: $90,000 - $170,000",
+              "Europe: €55,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Computer Science, Statistics, IT, Mathematics, or related field",
+              "Must pass selection interview"
+            ],
+            "level_note": [
+              "Research-intensive data science programme with thesis.",
+              "Prepares graduates for doctoral studies or advanced data roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Data Science (Non-Research)",
+        "career": [
+          "Data Scientist",
+          "Data Analyst",
+          "Business Intelligence Analyst",
+          "Machine Learning Engineer",
+          "Analytics Manager",
+          "Data Strategy Consultant",
+          "Big Data Engineer",
+          "Quantitative Analyst",
+          "Product Data Analyst",
+          "Data Science Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Statistical Learning",
+              "Big Data Analytics",
+              "Machine Learning",
+              "Data Engineering",
+              "Data Visualisation",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 150,000 annually",
+              "USA: $90,000 - $170,000",
+              "Europe: €55,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework-only with capstone project"
+            ],
+            "entry_requirements": [
+              "Same as MTech Data Science (Research) entry requirements",
+              "Non-Research track completed in one year without thesis"
+            ],
+            "level_note": [
+              "Taught master's for professionals seeking applied data science skills.",
+              "Includes capstone project instead of thesis."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Information Technology",
+        "career": [
+          "IT Director",
+          "Systems Architect",
+          "IT Project Manager",
+          "Cloud Solutions Architect",
+          "Enterprise Systems Manager",
+          "IT Governance Specialist",
+          "Digital Transformation Lead",
+          "IT Strategy Consultant",
+          "CTO/CIO",
+          "IT Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years (Research) or 1 year (Non-Research)",
+            "electives": [
+              "Advanced Information Systems",
+              "Cloud Computing and Virtualisation",
+              "Enterprise Architecture",
+              "IT Governance and Strategy",
+              "Software Project Management",
+              "Advanced Database Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 140,000 annually",
+              "USA: $80,000 - $160,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode lectures"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in IT, Computer Science, or related field",
+              "Third Class holders with 4+ years relevant experience may be considered"
+            ],
+            "level_note": [
+              "Advanced IT programme for professionals aspiring to leadership roles in technology.",
+              "Covers cloud computing, enterprise architecture, and IT governance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Statistics (Research)",
+        "career": [
+          "Senior Statistician",
+          "Research Fellow",
+          "Biostatistician",
+          "Government Statistician (GSS)",
+          "Quantitative Research Manager",
+          "Statistical Consultant",
+          "Actuarial Analyst",
+          "University Lecturer",
+          "Survey Methodologist",
+          "M&E Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Statistical Theory",
+              "Multivariate Analysis",
+              "Time Series Analysis",
+              "Bayesian Statistics",
+              "Survey Methods",
+              "Research Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 130,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Statistics, Mathematics, or related quantitative field",
+              "Must pass selection interview"
+            ],
+            "level_note": [
+              "Research-intensive statistics programme leading to thesis.",
+              "Pathway to PhD Computational Statistics at TaTU."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Statistics (Non-Research)",
+        "career": [
+          "Statistician",
+          "Data Analyst",
+          "Survey Analyst",
+          "Quality Control Analyst",
+          "Insurance Analyst",
+          "Banking Data Analyst",
+          "Government Statistical Officer",
+          "Health Data Analyst",
+          "NGO M&E Officer",
+          "Statistics Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Advanced Statistical Theory",
+              "Multivariate Analysis",
+              "Time Series Analysis",
+              "Statistical Computing",
+              "Survey Methods",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 130,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework-only with capstone"
+            ],
+            "entry_requirements": [
+              "Same as MTech Statistics (Research) entry requirements",
+              "Non-Research completed in 1 year without thesis"
+            ],
+            "level_note": [
+              "Taught master's for applied statistics professionals.",
+              "Coursework-based with capstone project."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Statistics (Research)",
+        "career": [
+          "Senior Statistician",
+          "Biostatistician",
+          "Government Statistician",
+          "Quantitative Research Director",
+          "Actuarial Analyst",
+          "Survey Methodologist",
+          "University Lecturer",
+          "Research Fellow",
+          "Statistical Consultant",
+          "Data Governance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Probability Theory",
+              "Multivariate Statistical Methods",
+              "Survival Analysis",
+              "Bayesian Inference",
+              "Design of Experiments",
+              "Research Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 130,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Statistics, Mathematics, or related quantitative field"
+            ],
+            "level_note": [
+              "Research statistics master's; pathway to PhD Computational Statistics.",
+              "Thesis on applied or theoretical statistics."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Statistics (Non-Research)",
+        "career": [
+          "Statistician",
+          "Data Analyst",
+          "Survey Analyst",
+          "Quality Control Analyst",
+          "Insurance Analyst",
+          "Banking Analyst",
+          "M&E Specialist",
+          "Health Data Analyst",
+          "Government Statistical Officer",
+          "NGO Research Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Advanced Probability Theory",
+              "Multivariate Statistical Methods",
+              "Statistical Computing",
+              "Survey Sampling",
+              "Time Series Analysis",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 130,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework with capstone"
+            ],
+            "entry_requirements": [
+              "Same as MSc Statistics (Research) entry requirements"
+            ],
+            "level_note": [
+              "Taught statistics master's for professionals.",
+              "Coursework-based with capstone project."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Information Technology",
+        "career": [
+          "IT Director",
+          "Systems Architect",
+          "Cloud Solutions Architect",
+          "IT Project Director",
+          "Enterprise Systems Manager",
+          "IT Governance Specialist",
+          "Digital Transformation Lead",
+          "CTO/CIO",
+          "IT Strategy Consultant",
+          "IT Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years (Research) or 1 year (Non-Research)",
+            "electives": [
+              "Advanced Information Systems",
+              "Cloud Computing",
+              "Enterprise Architecture",
+              "IT Governance and Strategy",
+              "Software Project Management",
+              "Advanced Database Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 140,000 annually",
+              "USA: $80,000 - $160,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode lectures"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in IT, Computer Science, or related field"
+            ],
+            "level_note": [
+              "Advanced IT programme for technology professionals.",
+              "Covers enterprise architecture, cloud computing, and IT governance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Artificial Intelligence",
+        "career": [
+          "AI Engineer",
+          "Machine Learning Scientist",
+          "Data Science Lead",
+          "NLP Specialist",
+          "Computer Vision Researcher",
+          "AI Product Manager",
+          "AI Ethics Advisor",
+          "Robotics Software Engineer",
+          "AI Consultant",
+          "AI/ML Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years (Research) or 1 year (Non-Research)",
+            "electives": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Computer Vision",
+              "Reinforcement Learning",
+              "AI Ethics and Governance"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 150,000 annually",
+              "USA: $90,000 - $180,000",
+              "Europe: €60,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode lectures"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Computer Science, IT, Mathematics, Statistics, or related quantitative field"
+            ],
+            "level_note": [
+              "MSc-track AI programme complementing the MTech AI offering.",
+              "Covers machine learning, deep learning, NLP, and computer vision."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Digital Marketing",
+        "career": [
+          "Digital Marketing Director",
+          "Social Media Manager",
+          "SEO/SEM Specialist",
+          "Content Marketing Strategist",
+          "E-Commerce Manager",
+          "Marketing Analytics Manager",
+          "Brand Manager (Digital)",
+          "Growth Hacker",
+          "Digital Advertising Manager",
+          "Digital Marketing Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years (Research) or 1 year (Non-Research)",
+            "electives": [
+              "Digital Marketing Strategy",
+              "Social Media Marketing",
+              "Search Engine Marketing and SEO",
+              "Content Marketing and Copywriting",
+              "Marketing Analytics",
+              "E-Commerce and Online Business"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 130,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode lectures"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Marketing, Business, Communication, IT, or related field",
+              "Third Class holders with 4+ years relevant experience may be considered"
+            ],
+            "level_note": [
+              "Addresses the growing demand for digital marketing expertise in Ghana.",
+              "Covers SEO, social media, content marketing, e-commerce, and analytics."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Computational Statistics",
+        "career": [
+          "University Professor/Lecturer",
+          "Senior Research Fellow",
+          "Chief Statistician (National)",
+          "Data Science Director",
+          "Computational Statistics Consultant",
+          "AI/ML Research Scientist",
+          "Government Chief Analyst (GSS)",
+          "International Organisation Statistician (UN, World Bank)",
+          "Think Tank Director",
+          "Biostatistics Research Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctoral",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 12,000 - 18,000 per year (based on comparable Technical University PhD rates)",
+              "Application fee: GHC 200"
+            ],
+            "duration": "3 - 5 years",
+            "electives": [
+              "Advanced Computational Methods",
+              "Bayesian Statistics",
+              "Machine Learning and Statistical Learning",
+              "Multivariate Analysis",
+              "Stochastic Processes",
+              "Doctoral Research Seminar"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 280,000 annually",
+              "USA: $90,000 - $200,000",
+              "Europe: €70,000 - €160,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend and blended mode (research-intensive)",
+              "Thesis and original research required"
+            ],
+            "entry_requirements": [
+              "Master's degree (MTech/MSc/MPhil) in Statistics, Applied Mathematics, Data Science, or related quantitative field with minimum CGPA of 2.5 or equivalent from an accredited university",
+              "Must submit a 3,000-word research proposal and pass a selection interview",
+              "At least 2 years of relevant postgraduate experience preferred"
+            ],
+            "level_note": [
+              "TaTU's flagship doctoral programme and one of the few PhD offerings at a Ghanaian Technical University.",
+              "Focuses on computational and applied statistics research at the intersection of statistics, computing, and data science."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Information Technology",
+        "career": [
+          "Software Developer",
+          "Systems Administrator",
+          "Database Administrator",
+          "Network Engineer",
+          "IT Project Manager",
+          "Cybersecurity Analyst",
+          "Cloud Solutions Architect",
+          "Web Developer",
+          "IT Consultant",
+          "IT Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (2022/2023 rates)",
+              "Weekend sessions: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Software Engineering",
+              "Database Systems",
+              "Computer Networks",
+              "Web Technologies",
+              "Operating Systems",
+              "IT Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 95,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes plus required core subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Core IT programme covering software, networks, and systems.",
+              "Graduates work in banks, telecoms, fintech, and government IT."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Statistics with Information Technology",
+        "career": [
+          "Data Analyst",
+          "Statistician",
+          "Business Intelligence Analyst",
+          "IT Systems Analyst",
+          "Survey Analyst",
+          "Database Analyst",
+          "Market Research Analyst",
+          "Health Data Analyst",
+          "M&E Specialist",
+          "Statistical Computing Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Probability and Statistics",
+              "Statistical Computing",
+              "Database Systems",
+              "Programming for Statistics",
+              "Time Series Analysis",
+              "Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $55,000 - $115,000",
+              "Europe: €40,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes plus required core subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Interdisciplinary programme blending statistics with IT skills.",
+              "Graduates work in data analytics, research, banking, insurance, and telecoms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Applied Statistics (Biostatistics and Financial Statistics options)",
+        "career": [
+          "Biostatistician",
+          "Financial Statistician",
+          "Actuary (entry-level)",
+          "Clinical Research Analyst",
+          "Insurance Analyst",
+          "Epidemiological Data Analyst",
+          "Health Systems Analyst",
+          "Banking Risk Analyst",
+          "M&E Specialist",
+          "Statistical Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 - 1,645 per semester (Biostatistics: GHC 1,555; Financial Statistics: GHC 1,645 – 2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Biostatistics",
+              "Financial Statistics",
+              "Survival Analysis",
+              "Epidemiological Methods",
+              "Financial Mathematics",
+              "Design of Experiments"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €42,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes plus required core subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Two specialisation options: Biostatistics and Financial Statistics.",
+              "Graduates serve in pharmaceutical trials, insurance, banking, public health, and research."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Food Science and Technology",
+        "career": [
+          "Food Technologist",
+          "Quality Assurance Officer",
+          "Food Safety Inspector",
+          "Product Development Scientist",
+          "Production Supervisor",
+          "Regulatory Affairs Officer (FDA/GSA)",
+          "Sensory Analyst",
+          "Food Processing Entrepreneur",
+          "Research Assistant (Food Science)",
+          "Food Packaging Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,655 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Food Chemistry",
+              "Food Microbiology",
+              "Food Process Engineering",
+              "Food Quality and Safety",
+              "Post-Harvest Technology",
+              "Food Product Development"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $45,000 - $95,000",
+              "Europe: €35,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes plus required core subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Applied food science programme with strong laboratory and processing plant components.",
+              "Graduates serve in FDA, food processing companies, and agro-processing enterprises."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Hospitality and Tourism Management (Travel and Tourism Management option; Hospitality Management and Catering Technology option)",
+        "career": [
+          "Hotel Manager",
+          "Tourism Director",
+          "Resort Operations Manager",
+          "Events Manager",
+          "Catering Manager",
+          "Travel Agency Manager",
+          "Hospitality Consultant",
+          "Destination Marketing Officer",
+          "Eco-Tourism Developer",
+          "Hospitality Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,655 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Hospitality Operations Management",
+              "Tourism Principles and Practices",
+              "Catering Technology",
+              "Food and Beverage Management",
+              "Destination Marketing",
+              "Sustainable Tourism"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 75,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Two options: Travel and Tourism Management; Hospitality Management and Catering Technology.",
+              "Graduates work in hotels, resorts, tour operations, event companies, and tourism boards."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Information Technology in Multimedia Computing",
+        "career": [
+          "Multimedia Designer",
+          "UI/UX Designer",
+          "Animation Developer",
+          "Game Developer",
+          "Digital Content Creator",
+          "Multimedia Producer",
+          "Interactive Media Developer",
+          "Video Editor",
+          "Web/Mobile App Designer",
+          "Multimedia Instructor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Multimedia Systems",
+              "Computer Graphics and Animation",
+              "Digital Video Production",
+              "Interactive Media Design",
+              "Web Development",
+              "Game Design and Development"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €38,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes plus required core subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Combines IT with creative multimedia and computing skills.",
+              "Graduates work in media houses, advertising, animation studios, and tech startups."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Cyber Security",
+        "career": [
+          "Cybersecurity Analyst",
+          "Penetration Tester",
+          "SOC Analyst",
+          "Security Consultant",
+          "Digital Forensics Analyst",
+          "Security Architect",
+          "Risk and Compliance Analyst",
+          "Information Security Manager",
+          "Incident Response Analyst",
+          "Cybersecurity Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (estimated, IT rate)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Network Security",
+              "Ethical Hacking",
+              "Digital Forensics",
+              "Cryptography",
+              "Security Governance",
+              "Cyber Threat Intelligence"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 95,000 annually",
+              "USA: $65,000 - $140,000",
+              "Europe: €45,000 - €110,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes plus required core subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Undergraduate cybersecurity programme addressing Ghana's growing digital security needs.",
+              "Graduates work in banks, telecoms, Cyber Security Authority (CSA), and consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Media and Communication Studies",
+        "career": [
+          "Journalist",
+          "Public Relations Officer",
+          "Media Producer",
+          "Content Creator",
+          "Communication Specialist",
+          "Broadcasting Officer",
+          "Social Media Manager",
+          "Corporate Communications Manager",
+          "Media Researcher",
+          "Media Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Mass Communication Theory",
+              "Broadcast Journalism",
+              "Public Relations",
+              "Media Production",
+              "Digital Media",
+              "Communication Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 70,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Trains media and communication professionals for Ghana's expanding media landscape.",
+              "Graduates work in TV/radio stations, newspapers, PR agencies, and corporate communications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Actuarial Science",
+        "career": [
+          "Actuary",
+          "Risk Analyst",
+          "Insurance Analyst",
+          "Pension Fund Analyst",
+          "Financial Modeller",
+          "Underwriter",
+          "Investment Analyst",
+          "Pricing Analyst",
+          "Consulting Actuary",
+          "Reserving Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 - 1,645 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Actuarial Mathematics",
+              "Probability and Statistics",
+              "Financial Mathematics",
+              "Life Contingencies",
+              "Risk Theory",
+              "Pension and Insurance Mathematics"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 110,000 annually",
+              "USA: $70,000 - $160,000",
+              "Europe: €50,000 - €120,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science/tech elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant technical passes plus required core subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Highly specialised programme training actuaries for insurance, pensions, and finance.",
+              "Graduates pursue professional exams (IFoA/SOA) and work in insurance, banking, and consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Statistics (Top-Up)",
+        "career": "Same careers as BTech Statistics with IT / Applied Statistics Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Statistics",
+              "Statistical Computing",
+              "Time Series",
+              "Survey Methods",
+              "Research Methods",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Statistics Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND Statistics graduates"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Statistics holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Hospitality and Tourism Management (Top-Up)",
+        "career": "Same careers as BTech Hospitality and Tourism Management Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Hospitality Management",
+              "Tourism Development",
+              "Event Management",
+              "Research Methods",
+              "Sustainable Tourism",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Hospitality and Tourism Management Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND Tourism/HCIM holders"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Tourism or HCIM holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Business",
+    "note": [
+      "The Faculty of Business houses the Departments of Accountancy, Marketing, Secretaryship and Management Studies, Entrepreneurship and Enterprise Development, and Procurement and Supply Chain Management.",
+      "Offers MTech, MSc, BTech, and BSc programmes in accounting, business management, logistics, procurement, HRM, taxation, digital marketing, and petroleum marketing."
+    ],
+    "courses": [
+      {
+        "course_name": "MTech Accountancy",
+        "career": [
+          "Chief Financial Officer",
+          "Finance Director",
+          "Senior Auditor",
+          "Tax Consultant",
+          "Management Accountant",
+          "Financial Controller",
+          "Forensic Accountant",
+          "Accounting Lecturer",
+          "Treasury Manager",
+          "Accounting Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years (Research) or 1 year (Non-Research)",
+            "electives": [
+              "Advanced Financial Reporting",
+              "Advanced Auditing",
+              "Corporate Governance",
+              "Forensic Accounting",
+              "International Financial Management",
+              "Research Methods in Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 150,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode lectures"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Accounting, Finance, or related field",
+              "Professional qualifications (ACCA, ICA-Gh, CIMA) may complement eligibility",
+              "Third Class holders with 4+ years relevant experience may be considered"
+            ],
+            "level_note": [
+              "Advanced accounting programme for senior finance and audit professionals.",
+              "Covers forensic accounting, corporate governance, and international financial management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Entrepreneurship and Innovation (Research)",
+        "career": [
+          "Innovation Manager",
+          "Start-Up Incubator Director",
+          "Venture Development Manager",
+          "Social Enterprise Director",
+          "Technology Entrepreneur",
+          "Innovation Consultant",
+          "Business Accelerator Manager",
+          "Entrepreneurship Lecturer",
+          "Product Development Manager",
+          "Corporate Innovation Lead"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Entrepreneurial Strategy",
+              "Innovation Management",
+              "Venture Capital and Finance",
+              "Social Entrepreneurship",
+              "Technology Transfer",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 130,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Business, Management, or related field",
+              "Must pass selection interview"
+            ],
+            "level_note": [
+              "Research-intensive programme in entrepreneurship and innovation.",
+              "Thesis focused on entrepreneurial ecosystems, innovation, or venture development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Entrepreneurship and Innovation (Non-Research)",
+        "career": [
+          "Innovation Manager",
+          "Start-Up Founder",
+          "Venture Development Officer",
+          "Social Enterprise Manager",
+          "Innovation Consultant",
+          "Business Development Manager",
+          "Entrepreneurship Trainer",
+          "Product Manager",
+          "Corporate Innovation Officer",
+          "SME Growth Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Entrepreneurial Strategy",
+              "Innovation Management",
+              "Venture Capital and Finance",
+              "Social Entrepreneurship",
+              "Technology Transfer",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 130,000 annually",
+              "USA: $60,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework-only with capstone"
+            ],
+            "entry_requirements": [
+              "Same as MTech Entrepreneurship (Research) entry requirements"
+            ],
+            "level_note": [
+              "Taught master's for aspiring and practising entrepreneurs.",
+              "Coursework-based with applied capstone project."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Accountancy (Research)",
+        "career": [
+          "Chief Financial Officer",
+          "Finance Director",
+          "Senior Auditor",
+          "Tax Consultant",
+          "Forensic Accountant",
+          "Financial Controller",
+          "Management Accountant",
+          "Accounting Lecturer",
+          "Treasury Manager",
+          "Regulatory Compliance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Financial Accounting",
+              "Advanced Auditing and Assurance",
+              "Corporate Governance",
+              "International Financial Reporting",
+              "Forensic Accounting",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 150,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Accounting, Finance, or related field",
+              "Professional qualifications (ACCA, ICA-Gh, CIMA) may complement eligibility"
+            ],
+            "level_note": [
+              "Research-intensive accounting master's with thesis.",
+              "Prepares graduates for senior finance roles and academic careers."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Accountancy (Non-Research)",
+        "career": [
+          "Financial Manager",
+          "Senior Accountant",
+          "Audit Manager",
+          "Tax Manager",
+          "Management Accountant",
+          "Budget Officer",
+          "Treasury Officer",
+          "Financial Analyst",
+          "Accounting Consultant",
+          "Regulatory Affairs Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Advanced Financial Accounting",
+              "Advanced Auditing and Assurance",
+              "Corporate Governance",
+              "International Financial Reporting",
+              "Forensic Accounting",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 150,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework with capstone"
+            ],
+            "entry_requirements": [
+              "Same as MSc Accountancy (Research) entry requirements"
+            ],
+            "level_note": [
+              "Taught master's for accounting professionals.",
+              "Coursework-based with capstone project."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Human Resource Management (Research)",
+        "career": [
+          "HR Director",
+          "Chief People Officer",
+          "Organisational Development Director",
+          "Talent Acquisition Director",
+          "Labour Relations Manager",
+          "HR Strategy Consultant",
+          "Employee Relations Director",
+          "Training and Development Director",
+          "HR Policy Researcher",
+          "HR Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Strategic HRM",
+              "Organisational Behaviour",
+              "Labour Law and Industrial Relations",
+              "Talent Management",
+              "Training and Development",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 140,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in HRM, Business, Management, or related field"
+            ],
+            "level_note": [
+              "Research-intensive HRM programme with thesis.",
+              "Prepares graduates for senior HR leadership and academic roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Human Resource Management (Non-Research)",
+        "career": [
+          "HR Manager",
+          "Talent Acquisition Manager",
+          "Employee Relations Manager",
+          "Learning and Development Manager",
+          "Compensation and Benefits Manager",
+          "HR Business Partner",
+          "Organisational Development Manager",
+          "HR Consultant",
+          "HR Operations Manager",
+          "HR Analytics Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Strategic HRM",
+              "Organisational Behaviour",
+              "Labour Law and Industrial Relations",
+              "Talent Management",
+              "Training and Development",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 140,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €48,000 - €100,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework with capstone"
+            ],
+            "entry_requirements": [
+              "Same as MSc HRM (Research) entry requirements"
+            ],
+            "level_note": [
+              "Taught HRM master's for practising HR professionals.",
+              "Coursework-based with capstone project."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Procurement and Supply Chain Management (Research)",
+        "career": [
+          "Procurement Director",
+          "Supply Chain Director",
+          "Logistics Director",
+          "Chief Procurement Officer",
+          "Contract Management Director",
+          "Vendor Management Director",
+          "Public Procurement Advisor",
+          "Supply Chain Consultant",
+          "Procurement Policy Researcher",
+          "Procurement Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Strategic Procurement Management",
+              "Global Supply Chain Management",
+              "Logistics and Distribution",
+              "Contract and Vendor Management",
+              "Public Procurement Policy",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 145,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €50,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Procurement, Supply Chain, Business, or related field"
+            ],
+            "level_note": [
+              "Research procurement and supply chain programme with thesis.",
+              "Prepares graduates for senior procurement roles and academic careers."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc Procurement and Supply Chain Management (Non-Research)",
+        "career": [
+          "Procurement Manager",
+          "Supply Chain Manager",
+          "Logistics Manager",
+          "Contract Manager",
+          "Warehouse Operations Director",
+          "Import/Export Manager",
+          "Public Procurement Officer",
+          "Supply Chain Analyst",
+          "Procurement Consultant",
+          "Vendor Relations Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Strategic Procurement Management",
+              "Global Supply Chain Management",
+              "Logistics and Distribution",
+              "Contract and Vendor Management",
+              "Public Procurement Policy",
+              "Capstone Project"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 145,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €50,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework with capstone"
+            ],
+            "entry_requirements": [
+              "Same as MSc Procurement and Supply Chain (Research) entry requirements"
+            ],
+            "level_note": [
+              "Taught master's for procurement and supply chain professionals.",
+              "Coursework-based with capstone project."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Applied Accounting",
+        "career": [
+          "Chartered Accountant",
+          "Financial Analyst",
+          "Tax Consultant",
+          "Auditor",
+          "Management Accountant",
+          "Budget Analyst",
+          "Forensic Accountant",
+          "Payroll Manager",
+          "Treasury Officer",
+          "Accounting Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,645 per semester (2022/2023 rates; fees adjusted upward annually)",
+              "Evening/Weekend sessions: Higher fees apply (see official TaTU fee schedule)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Auditing",
+              "Taxation",
+              "Accounting Information Systems",
+              "Public Sector Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €40,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular (Morning), Evening, and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "One of TaTU's most popular business programmes, offered in three session modes.",
+              "Graduates serve in accounting firms, banks, public sector, and NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Business Management",
+        "career": [
+          "Business Manager",
+          "Operations Manager",
+          "Human Resource Manager",
+          "Marketing Manager",
+          "Project Manager",
+          "Strategy Consultant",
+          "General Manager",
+          "Procurement Officer",
+          "Business Development Officer",
+          "Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,645 per semester (2022/2023 rates)",
+              "Evening/Weekend sessions: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Management",
+              "Business Strategy",
+              "Human Resource Management",
+              "Marketing Management",
+              "Organisational Behaviour",
+              "Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $50,000 - $110,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular (Morning), Evening, and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Comprehensive business management programme training versatile managers.",
+              "Graduates work in corporate management, SMEs, NGOs, and public administration."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Logistics and Procurement Management",
+        "career": [
+          "Procurement Manager",
+          "Logistics Manager",
+          "Supply Chain Analyst",
+          "Warehouse Manager",
+          "Contract Manager",
+          "Import/Export Manager",
+          "Inventory Manager",
+          "Fleet Manager",
+          "Procurement Consultant",
+          "Public Procurement Officer (PPA)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,645 per semester (2022/2023 rates)",
+              "Evening/Weekend sessions: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Procurement Principles",
+              "Logistics and Supply Chain Management",
+              "Contract Management",
+              "Warehousing and Inventory Management",
+              "Public Procurement Act",
+              "Transport and Distribution Management"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular (Morning), Evening, and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Addresses Ghana's growing demand for certified procurement and logistics professionals.",
+              "Graduates serve in public sector procurement (PPA), logistics firms, and manufacturing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Entrepreneurship and Innovation Management",
+        "career": [
+          "Entrepreneur/Start-Up Founder",
+          "Innovation Manager",
+          "Business Development Officer",
+          "Venture Capital Analyst",
+          "Incubator/Accelerator Manager",
+          "Product Development Manager",
+          "Social Enterprise Manager",
+          "Franchise Manager",
+          "Technology Entrepreneur",
+          "Small Business Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,645 per semester (2022/2023 rates)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Entrepreneurship Theory and Practice",
+              "Innovation Management",
+              "New Venture Creation",
+              "Business Plan Development",
+              "Entrepreneurial Finance",
+              "Social Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 80,000 annually",
+              "USA: $45,000 - $100,000",
+              "Europe: €35,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Trains graduates to create and manage innovative businesses.",
+              "Emphasis on practical venture creation, business planning, and innovation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Taxation",
+        "career": [
+          "Tax Consultant",
+          "Tax Auditor (GRA)",
+          "Revenue Officer",
+          "Transfer Pricing Analyst",
+          "Corporate Tax Planner",
+          "Tax Policy Analyst",
+          "Tax Compliance Officer",
+          "International Tax Advisor",
+          "Customs and Excise Officer",
+          "Tax Accountant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,645 per semester (estimated, business rate)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Personal and Corporate Taxation",
+              "International Taxation",
+              "Tax Administration",
+              "Transfer Pricing",
+              "Customs and Excise Duties",
+              "Tax Law and Policy"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Specialised taxation degree unique among Ghana's Technical Universities.",
+              "Graduates serve in GRA, accounting firms, corporate tax departments, and consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Human Resource Management",
+        "career": [
+          "HR Manager",
+          "Talent Acquisition Officer",
+          "Employee Relations Officer",
+          "Learning and Development Manager",
+          "Compensation and Benefits Analyst",
+          "HR Business Partner",
+          "Organisational Development Officer",
+          "HR Consultant",
+          "Industrial Relations Officer",
+          "HR Analytics Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,645 per semester (estimated, business rate)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Human Resource Management",
+              "Organisational Behaviour",
+              "Labour Law and Industrial Relations",
+              "Talent Management",
+              "Training and Development",
+              "Compensation and Benefits Management"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Dedicated HRM undergraduate programme building people management skills.",
+              "Graduates work in corporate HR, public service, and HR consulting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Digital Marketing",
+        "career": [
+          "Digital Marketing Manager",
+          "Social Media Manager",
+          "SEO/SEM Specialist",
+          "Content Marketing Strategist",
+          "E-Commerce Manager",
+          "Marketing Analytics Officer",
+          "Brand Manager (Digital)",
+          "Growth Hacker",
+          "Paid Advertising Manager",
+          "Digital Marketing Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,645 per semester (estimated, business rate)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Digital Marketing Strategy",
+              "Social Media Marketing",
+              "Search Engine Marketing and SEO",
+              "Content Marketing",
+              "E-Commerce",
+              "Marketing Analytics and Data"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 80,000 annually",
+              "USA: $45,000 - $100,000",
+              "Europe: €35,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Addresses the explosion in digital commerce and online marketing in Ghana.",
+              "Graduates work in agencies, e-commerce firms, fintech, and corporate marketing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Petroleum Marketing",
+        "career": [
+          "Petroleum Marketing Manager",
+          "Fuel Distribution Manager",
+          "Oil and Gas Sales Executive",
+          "LPG Marketing Officer",
+          "Petroleum Retail Operations Manager",
+          "Petroleum Pricing Analyst",
+          "Depot Operations Manager",
+          "Petroleum Trading Analyst",
+          "Downstream Marketing Consultant",
+          "Energy Marketing Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,645 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Petroleum Marketing and Distribution",
+              "Oil and Gas Industry Overview",
+              "Petroleum Pricing and Economics",
+              "Downstream Operations Management",
+              "Energy Policy and Regulation",
+              "Supply Chain in Petroleum"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Niche programme addressing Ghana's petroleum downstream marketing sector.",
+              "Graduates serve in OMCs (GOIL, Shell, TotalEnergies, Vivo), NPA, and petroleum trading."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Library and Information Science",
+        "career": [
+          "Librarian",
+          "Information Manager",
+          "Knowledge Management Officer",
+          "Records Manager",
+          "Digital Archivist",
+          "Research Data Manager",
+          "Media Resource Specialist",
+          "Information Literacy Trainer",
+          "Digital Repository Manager",
+          "Library Systems Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Library Management and Organisation",
+              "Cataloguing and Classification",
+              "Information Retrieval Systems",
+              "Digital Libraries",
+              "Records and Archives Management",
+              "Knowledge Management"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 65,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies plus Credits in three (3) relevant elective subjects (Accounting, Business Management, Economics, Elective Mathematics, Government). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "GBCE/ABCE: Credits in English Language, Business Mathematics plus three relevant elective subjects.",
+              "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
+            ],
+            "level_note": [
+              "Trains information professionals for libraries, archives, and digital repositories.",
+              "Graduates serve in academic libraries, public libraries, corporate information centres, and NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Applied Accounting (Top-Up)",
+        "career": "Same careers as BTech Applied Accounting Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated top-up/weekend rates)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Financial Accounting",
+              "Auditing",
+              "Taxation",
+              "Management Accounting",
+              "Accounting Information Systems",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Applied Accounting Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/Evening mode for HND graduates"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up pathway for HND Accountancy holders.",
+              "Entered at Level 300; completes in 2 years."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Entrepreneurship and Innovation (Top-Up)",
+        "career": "Same careers as BTech Entrepreneurship and Innovation Management Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Entrepreneurship",
+              "Innovation Management",
+              "Venture Finance",
+              "Business Plan Implementation",
+              "Social Enterprise",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Entrepreneurship Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND graduates"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Marketing/Business/Secretaryship holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Logistics and Procurement Management (Top-Up)",
+        "career": "Same careers as BTech Logistics and Procurement Management Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Strategic Procurement",
+              "Advanced Logistics",
+              "Contract Management",
+              "Supply Chain Optimisation",
+              "Public Procurement",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Logistics and Procurement Management Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND graduates"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Purchasing and Supply holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Business Management (Top-Up)",
+        "career": "Same careers as BTech Business Management Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Strategic Management",
+              "Advanced Marketing",
+              "Financial Management",
+              "Operations Management",
+              "Leadership and Change",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Business Management Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/Evening mode for HND graduates"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Business-related programme holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Engineering",
+    "note": [
+      "The Faculty of Engineering houses the Departments of Mechanical Engineering, Automotive Engineering, Civil Engineering, Electrical and Electronics Engineering, Welding and Fabrication, Agricultural Engineering, and Water and Sanitation.",
+      "Offers MTech and BTech programmes in mechanical, automotive, electrical, civil, chemical, welding, agricultural, water/sanitation, and road transport engineering."
+    ],
+    "courses": [
+      {
+        "course_name": "MTech Mechanical Engineering",
+        "career": [
+          "Senior Mechanical Engineer",
+          "Plant Manager",
+          "Production Director",
+          "Manufacturing Systems Engineer",
+          "Energy Systems Engineer",
+          "Maintenance Engineering Director",
+          "Design and R&D Engineer",
+          "Mechanical Engineering Consultant",
+          "University Lecturer",
+          "Oil and Gas Engineering Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 12,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Thermodynamics",
+              "Advanced Machine Design",
+              "Finite Element Analysis",
+              "Manufacturing Systems",
+              "Energy Conversion Systems",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 150,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €55,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Mechanical Engineering or related engineering field",
+              "Third Class holders with 4+ years relevant industry experience may be considered"
+            ],
+            "level_note": [
+              "Advanced mechanical engineering programme for practising engineers.",
+              "Covers energy systems, manufacturing, and design analysis."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Automotive Engineering",
+        "career": [
+          "Senior Automotive Engineer",
+          "Vehicle Design Engineer",
+          "Automotive Systems Analyst",
+          "Fleet Management Director",
+          "Automotive R&D Engineer",
+          "Vehicle Testing and Quality Manager",
+          "Motorsport Engineer",
+          "Electric Vehicle Specialist",
+          "Automotive Engineering Lecturer",
+          "Transport Systems Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 12,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Automotive Systems",
+              "Vehicle Dynamics",
+              "Automotive Electronics",
+              "Engine Design and Combustion",
+              "Electric and Hybrid Vehicles",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 140,000 annually",
+              "USA: $75,000 - $145,000",
+              "Europe: €50,000 - €115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Automotive, Mechanical, or related Engineering field",
+              "Third Class holders with 4+ years relevant experience may be considered"
+            ],
+            "level_note": [
+              "Specialised automotive engineering programme addressing Ghana's growing vehicle industry.",
+              "Covers EV technology, vehicle dynamics, and automotive electronics."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Welding and Fabrication Engineering",
+        "career": [
+          "Senior Welding Engineer",
+          "Welding Inspector",
+          "Fabrication Director",
+          "Welding Technology Consultant",
+          "Quality Assurance Manager (Welding)",
+          "Pipeline Engineer",
+          "Structural Fabrication Manager",
+          "NDT (Non-Destructive Testing) Specialist",
+          "Welding and Fabrication Lecturer",
+          "Oil and Gas Welding Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 12,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Welding Processes",
+              "Metallurgy and Materials Science",
+              "Non-Destructive Testing",
+              "Welding Design and Fabrication",
+              "Quality Assurance in Welding",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 145,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €50,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Welding, Mechanical, or related Engineering field",
+              "Third Class holders with 4+ years relevant experience may be considered"
+            ],
+            "level_note": [
+              "One of the few postgraduate welding and fabrication programmes in West Africa.",
+              "Covers advanced welding processes, NDT, and quality assurance for oil & gas and construction sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Mechanical Engineering",
+        "career": [
+          "Mechanical Engineer",
+          "Plant Engineer",
+          "Production Engineer",
+          "Energy Engineer",
+          "Design Engineer",
+          "Maintenance Engineer",
+          "Manufacturing Systems Engineer",
+          "Quality Control Engineer",
+          "HVAC Engineer",
+          "Mechanical Engineering Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,675 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Thermodynamics",
+              "Machine Design",
+              "Manufacturing Processes",
+              "Fluid Mechanics",
+              "Materials Science",
+              "CAD/CAM"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Core mechanical engineering degree with strong workshop and laboratory components.",
+              "Graduates serve in manufacturing, energy, mining, and construction industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Automotive Engineering",
+        "career": [
+          "Automotive Engineer",
+          "Vehicle Design Engineer",
+          "Fleet Manager",
+          "Automotive Systems Analyst",
+          "Vehicle Testing Engineer",
+          "Auto Repair Shop Owner",
+          "Motorsport Engineer",
+          "Electric Vehicle Specialist",
+          "Automotive Sales Engineer",
+          "Automotive Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,605 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Automotive Systems",
+              "Vehicle Dynamics",
+              "Engine Design",
+              "Automotive Electronics",
+              "Electric and Hybrid Vehicles",
+              "Automotive Diagnostics"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Specialised automotive programme addressing Ghana's vehicle and transport sector.",
+              "Graduates work in vehicle assembly plants, dealerships, fleet management, and transport companies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Electrical/Electronics Engineering",
+        "career": [
+          "Electrical Engineer",
+          "Electronics Engineer",
+          "Power Systems Engineer",
+          "Telecommunications Engineer",
+          "Control Systems Engineer",
+          "Instrumentation Engineer",
+          "Renewable Energy Engineer",
+          "Embedded Systems Developer",
+          "Electrical Contractor",
+          "Electrical Engineering Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,605 per semester (estimated engineering rate)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Circuit Analysis",
+              "Power Systems",
+              "Electronics",
+              "Control Systems",
+              "Telecommunications",
+              "Renewable Energy Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Covers power systems, electronics, telecoms, and renewable energy.",
+              "Graduates serve in VRA, ECG, GRIDCo, telecoms, and electrical contracting."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Welding and Fabrication Engineering",
+        "career": [
+          "Welding Engineer",
+          "Fabrication Engineer",
+          "Welding Inspector",
+          "NDT Specialist",
+          "Pipeline Engineer",
+          "Structural Fabricator",
+          "Quality Assurance Engineer (Welding)",
+          "Welding Instructor",
+          "Oil and Gas Fabrication Specialist",
+          "Metal Fabrication Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,605 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Welding Processes and Metallurgy",
+              "Fabrication Technology",
+              "Non-Destructive Testing",
+              "Welding Design",
+              "Quality Assurance in Welding",
+              "Materials Science"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "One of the few welding and fabrication degree programmes in West Africa.",
+              "Graduates serve in oil & gas, construction, shipbuilding, and heavy manufacturing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Water and Sanitation Engineering",
+        "career": [
+          "Water Supply Engineer",
+          "Sanitation Engineer",
+          "WASH Specialist",
+          "Wastewater Treatment Engineer",
+          "Water Resources Engineer",
+          "Environmental Health Engineer",
+          "Water and Sanitation Project Manager",
+          "Hydrology Technologist",
+          "Rural Water Supply Officer",
+          "WASH Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,605 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Water Supply Engineering",
+              "Sanitation Engineering",
+              "Wastewater Treatment",
+              "Water Resources Management",
+              "Environmental Health Engineering",
+              "WASH Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €40,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Addresses Ghana's critical need for water and sanitation engineers.",
+              "Graduates serve in GWCL, CWSA, district assemblies, NGOs, and international WASH organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Chemical Engineering",
+        "career": [
+          "Chemical Engineer",
+          "Process Engineer",
+          "Petroleum Refining Engineer",
+          "Pharmaceutical Process Engineer",
+          "Environmental Engineer",
+          "Food Process Engineer",
+          "Petrochemical Engineer",
+          "Quality Control Engineer",
+          "Research Engineer",
+          "Chemical Engineering Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,675 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Chemical Process Engineering",
+              "Thermodynamics",
+              "Mass and Heat Transfer",
+              "Reaction Engineering",
+              "Process Control",
+              "Environmental Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 95,000 annually",
+              "USA: $70,000 - $140,000",
+              "Europe: €48,000 - €110,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Trains process engineers for petroleum, pharmaceuticals, and manufacturing.",
+              "Graduates serve in TOR, petroleum companies, pharmaceutical firms, and chemical industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Civil Engineering",
+        "career": [
+          "Civil Engineer",
+          "Structural Engineer",
+          "Highway Engineer",
+          "Geotechnical Engineer",
+          "Water Resources Engineer",
+          "Construction Manager",
+          "Urban Planner",
+          "Estimator and Quantity Surveyor",
+          "Infrastructure Consultant",
+          "Civil Engineering Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (2022/2023 Civil Engineering with Road Transport rate)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Structural Analysis and Design",
+              "Geotechnical Engineering",
+              "Highway Engineering",
+              "Water Resources Engineering",
+              "Construction Management",
+              "Surveying"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $65,000 - $130,000",
+              "Europe: €45,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Core civil engineering programme covering structures, highways, and water resources.",
+              "Graduates serve in DUR, DFR, construction firms, and consulting engineering practices."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Road Transport Engineering",
+        "career": [
+          "Road Transport Engineer",
+          "Highway Design Engineer",
+          "Traffic Engineer",
+          "Pavement Engineer",
+          "Transport Planner",
+          "Road Safety Engineer",
+          "Highway Maintenance Manager",
+          "Transport Systems Analyst",
+          "Road Construction Supervisor",
+          "Transport Infrastructure Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (2022/2023 rates)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Road Design and Construction",
+              "Traffic Engineering",
+              "Pavement Engineering",
+              "Transport Planning",
+              "Road Safety Engineering",
+              "Highway Materials"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 85,000 annually",
+              "USA: $60,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Specialised programme focused on road infrastructure and transport systems.",
+              "Graduates serve in Ghana Highway Authority, DFR, DUR, and road construction firms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Agricultural Engineering",
+        "career": [
+          "Agricultural Engineer",
+          "Irrigation Engineer",
+          "Farm Mechanisation Officer",
+          "Post-Harvest Engineer",
+          "Soil and Water Engineer",
+          "Agricultural Equipment Designer",
+          "Environmental Engineer",
+          "Agricultural Processing Engineer",
+          "Farm Infrastructure Manager",
+          "Agricultural Engineering Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,605 per semester (estimated)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Farm Machinery and Power",
+              "Irrigation and Drainage",
+              "Soil and Water Conservation",
+              "Post-Harvest Engineering",
+              "Agricultural Process Engineering",
+              "Farm Structures"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €40,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Combines engineering principles with agricultural applications.",
+              "Graduates serve in MOFA, irrigation authorities, NGOs, and agricultural machinery companies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Welding and Fabrication Engineering (Top-Up)",
+        "career": "Same careers as BTech Welding and Fabrication Engineering Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Welding Processes",
+              "Fabrication Design",
+              "NDT",
+              "Quality Assurance",
+              "Materials Testing",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Welding and Fabrication Engineering Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND Welding/Fabrication holders"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Welding and Fabrication holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Agricultural Engineering (Top-Up)",
+        "career": "Same careers as BTech Agricultural Engineering Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Farm Machinery",
+              "Irrigation Design",
+              "Post-Harvest Engineering",
+              "Soil and Water Engineering",
+              "Research Methods",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Agricultural Engineering Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND Agricultural Engineering holders"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Agricultural Engineering holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Mechanical Engineering (Top-Up)",
+        "career": "Same careers as BTech Mechanical Engineering Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Thermodynamics",
+              "Machine Design",
+              "Manufacturing Systems",
+              "Energy Systems",
+              "Finite Element Analysis",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Mechanical Engineering Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND Mechanical Engineering holders"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Mechanical Engineering holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Automotive Engineering (Top-Up)",
+        "career": "Same careers as BTech Automotive Engineering Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Automotive Systems",
+              "Vehicle Dynamics",
+              "Automotive Electronics",
+              "EV Technology",
+              "Diagnostics",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Automotive Engineering Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND Automotive/Mechanical holders"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Automotive or Mechanical Engineering holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Built Environment",
+    "note": [
+      "The Faculty of Built Environment houses the Departments of Building Technology, Architectural Wood Technology, and related built environment disciplines.",
+      "Offers BTech Building Technology (with 6 specialisation options) and BTech Architectural Wood Technology and Furniture Production."
+    ],
+    "courses": [
+      {
+        "course_name": "BTech Building Technology (Construction Technology; Real Estate Development and Property Management; Quantity Surveying; Construction Management; Project Management; Building Services Engineering and Technology options)",
+        "career": [
+          "Quantity Surveyor",
+          "Construction Manager",
+          "Project Manager",
+          "Building Inspector",
+          "Real Estate Developer",
+          "Property Manager",
+          "Building Services Engineer",
+          "Estimator and Cost Engineer",
+          "Facilities Manager",
+          "Construction Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,605 per semester (2022/2023 rates; all options same fee)",
+              "Evening/Weekend sessions: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Construction Technology",
+              "Quantity Surveying",
+              "Construction Management",
+              "Real Estate Development",
+              "Building Services Engineering",
+              "Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 90,000 annually",
+              "USA: $55,000 - $120,000",
+              "Europe: €42,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular (Morning), Evening, and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Six specialisation options within Building Technology — the widest range at any Ghanaian Technical University.",
+              "Graduates serve in construction firms, real estate, government works departments, and consultancy."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Architectural Wood Technology and Furniture Production",
+        "career": [
+          "Furniture Designer",
+          "Interior Fit-Out Manager",
+          "Cabinet Maker (Advanced)",
+          "Wood Technology Specialist",
+          "Furniture Production Manager",
+          "Architectural Joinery Specialist",
+          "Exhibition Stand Designer",
+          "Furniture QA Officer",
+          "Wood Industry Entrepreneur",
+          "Furniture Design Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,605 per semester (2022/2023 rates)",
+              "Evening/Weekend sessions: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Wood Science and Technology",
+              "Furniture Design and Construction",
+              "Architectural Joinery",
+              "Wood Finishing and Preservation",
+              "CAD for Furniture",
+              "Production Management"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 75,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular (Morning), Evening, and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (Physics, Elective Mathematics, Chemistry, Technical Drawing, Engineering Science). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II/Technician Part II: Relevant engineering trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant engineering work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Unique programme combining architectural wood technology with furniture production.",
+              "Graduates serve in furniture manufacturing, architectural joinery firms, and interior design companies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Building Technology (Top-Up)",
+        "career": "Same careers as BTech Building Technology Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,500 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Construction Technology",
+              "Quantity Surveying",
+              "Project Management",
+              "Real Estate Development",
+              "Building Services",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Building Technology Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/Evening mode for HND Building Technology holders"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Building Technology holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Creative Arts and Technology",
+    "note": [
+      "The Faculty of Creative Arts and Technology houses the Departments of Art and Design Innovation, Fashion and Design, Textiles Technology, and Graphic Communication Design Technology.",
+      "Offers MTech and BTech programmes in art and design, graphic communication, fashion, and textiles."
+    ],
+    "courses": [
+      {
+        "course_name": "MTech Art and Design (Research)",
+        "career": [
+          "Senior Designer/Creative Director",
+          "Art Director",
+          "Design Consultant",
+          "Gallery Curator",
+          "Art and Design Lecturer",
+          "Fashion Design Director",
+          "Product Design Lead",
+          "Textile Design Specialist",
+          "Exhibition Designer",
+          "Visual Arts Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Research – 2 years)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Studio Practice",
+              "Design Theory and Criticism",
+              "Contemporary Art Issues",
+              "Material Culture Studies",
+              "Visual Communication Research",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 110,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis and studio practice"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Art, Design, Fashion, Industrial Art, or related creative field",
+              "Portfolio review may be required",
+              "Third Class holders with 4+ years experience may apply"
+            ],
+            "level_note": [
+              "Research programme in art and design theory and practice.",
+              "Thesis involves studio-based or theoretical research in art and design."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MTech Art and Design (Non-Research)",
+        "career": [
+          "Creative Director",
+          "Art Director",
+          "Senior Graphic Designer",
+          "Design Manager",
+          "Fashion Brand Director",
+          "Interior Design Consultant",
+          "Exhibition Designer",
+          "Textile Design Lead",
+          "Design Entrepreneur",
+          "Art and Design Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters (Non-Research – 1 year)",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 8,000 - 11,000 total",
+              "Application fee: GHC 200"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Advanced Studio Practice",
+              "Design Theory and Criticism",
+              "Contemporary Art Issues",
+              "Material Culture Studies",
+              "Visual Communication",
+              "Capstone Studio Project"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 110,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode, coursework with capstone studio project"
+            ],
+            "entry_requirements": [
+              "Same as MTech Art and Design (Research) entry requirements"
+            ],
+            "level_note": [
+              "Taught master's for practising designers and artists.",
+              "Capstone studio project replaces thesis."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Art and Design Innovation",
+        "career": [
+          "Product Designer",
+          "Industrial Designer",
+          "Design Consultant",
+          "Creative Director",
+          "Exhibition Designer",
+          "Art Director",
+          "Design Researcher",
+          "Visual Arts Entrepreneur",
+          "Art Gallery Manager",
+          "Design Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,475 per semester (2022/2023 rates)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Design Studio Practice",
+              "Product Design",
+              "Design Thinking and Innovation",
+              "Material Culture Studies",
+              "Digital Design Tools",
+              "Design Research Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 65,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €32,000 - €70,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits in three (3) relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in relevant creative/vocational trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant experience; must pass entrance exam and portfolio review."
+            ],
+            "level_note": [
+              "Creative arts programme focused on design innovation and product development.",
+              "Graduates work in design firms, advertising, manufacturing, and as creative entrepreneurs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Graphic Communication Design",
+        "career": [
+          "Graphic Designer",
+          "Brand Identity Designer",
+          "Packaging Designer",
+          "Advertising Art Director",
+          "Print Production Manager",
+          "Motion Graphics Designer",
+          "Publication Designer",
+          "Signage and Environmental Graphics Designer",
+          "Digital Content Designer",
+          "Graphic Design Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,475 per semester (estimated, art rate)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Typography",
+              "Illustration",
+              "Branding and Identity Design",
+              "Packaging Design",
+              "Print Production",
+              "Digital Graphic Design"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 70,000 annually",
+              "USA: $42,000 - $90,000",
+              "Europe: €32,000 - €75,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits in three (3) relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in relevant creative/vocational trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant experience; must pass entrance exam and portfolio review."
+            ],
+            "level_note": [
+              "Trains visual communication designers for print, digital, and brand media.",
+              "Graduates serve in advertising agencies, publishing, packaging firms, and media houses."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Fashion and Design Technology",
+        "career": [
+          "Fashion Designer",
+          "Apparel Production Manager",
+          "Fashion Brand Manager",
+          "Textile Designer",
+          "Fashion Merchandiser",
+          "Costume Designer",
+          "Fashion Buyer",
+          "Pattern Maker",
+          "Fashion Entrepreneur",
+          "Fashion Design Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,475 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Fashion Design Studio",
+              "Pattern Making and Garment Construction",
+              "Textile Science",
+              "Fashion Marketing and Merchandising",
+              "CAD for Fashion",
+              "Fashion Business Management"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 65,000 annually",
+              "USA: $40,000 - $85,000",
+              "Europe: €30,000 - €70,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits in three (3) relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in relevant creative/vocational trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant experience; must pass entrance exam and portfolio review."
+            ],
+            "level_note": [
+              "Combines creative fashion design with garment technology and business.",
+              "Graduates work in fashion houses, textiles, retail, and start their own fashion brands."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Textiles Design and Production Technology",
+        "career": [
+          "Textile Designer",
+          "Textile Production Manager",
+          "Fabric Analyst",
+          "Dyeing and Finishing Specialist",
+          "Textile Quality Controller",
+          "Weaving Technologist",
+          "Textile Researcher",
+          "Fashion Textile Specialist",
+          "Textile Trading Entrepreneur",
+          "Textiles Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,475 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Textile Design and Production",
+              "Weaving Technology",
+              "Dyeing and Printing",
+              "Textile Testing and Quality",
+              "Fibre Science",
+              "Industrial Textiles"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 65,000 annually",
+              "USA: $38,000 - $80,000",
+              "Europe: €30,000 - €65,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science/Social Studies plus Credits in three (3) relevant elective subjects. Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in relevant creative/vocational trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant experience; must pass entrance exam and portfolio review."
+            ],
+            "level_note": [
+              "Specialised textiles programme covering design, weaving, dyeing, and production technology.",
+              "Graduates work in textiles factories, fashion houses, and the kente/smock industry."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Agriculture and Natural Resources",
+    "note": [
+      "The Faculty of Agriculture and Natural Resources houses the Departments of Sustainable Agriculture, Natural Resource Management, and Agribusiness.",
+      "Offers MTech and BTech programmes in crop science, sustainable agriculture, agribusiness, and natural resource management."
+    ],
+    "courses": [
+      {
+        "course_name": "MTech Crop Science",
+        "career": [
+          "Senior Agronomist",
+          "Crop Research Scientist",
+          "Seed Production Director",
+          "Agricultural Extension Director",
+          "Plant Breeding Specialist",
+          "Horticulture Manager",
+          "Agricultural Policy Advisor",
+          "Crop Protection Specialist",
+          "Agro-Industry Consultant",
+          "Agricultural Sciences Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: Estimated GHC 7,000 - 10,000 per year",
+              "Application fee: GHC 200"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Crop Physiology",
+              "Plant Breeding and Genetics",
+              "Integrated Pest and Disease Management",
+              "Soil Fertility and Crop Nutrition",
+              "Post-Harvest Science",
+              "Research Methods and Thesis"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually",
+              "USA: $55,000 - $110,000",
+              "Europe: €42,000 - €90,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode with research thesis"
+            ],
+            "entry_requirements": [
+              "A good first degree (Second Class Lower or better, CGPA ≥ 2.5) in Agriculture, Crop Science, Horticulture, or related field",
+              "Third Class holders with 4+ years relevant experience may be considered"
+            ],
+            "level_note": [
+              "Advanced crop science programme for agricultural professionals and researchers.",
+              "Research thesis focuses on crop production, protection, or post-harvest technology in northern Ghana and beyond."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Sustainable Agriculture",
+        "career": [
+          "Sustainable Agriculture Specialist",
+          "Agricultural Extension Officer",
+          "Organic Farming Consultant",
+          "Crop Production Manager",
+          "Agroforestry Specialist",
+          "Agricultural Policy Analyst",
+          "Farm Manager",
+          "Agricultural NGO Officer",
+          "MOFA District Officer",
+          "Agricultural Entrepreneur"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,595 per semester (2022/2023 rates)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Sustainable Crop Production",
+              "Soil Science and Conservation",
+              "Agroforestry",
+              "Organic Farming",
+              "Agricultural Extension",
+              "Climate-Smart Agriculture"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $42,000 - $90,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (General Agriculture, Biology, Chemistry, Animal Husbandry, Crop Husbandry, Elective Mathematics). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in agricultural trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant agricultural work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Emphasises sustainable and climate-smart agricultural practices.",
+              "Graduates serve in MOFA, CSIR, NGOs, and private agricultural enterprises."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Agribusiness",
+        "career": [
+          "Agribusiness Manager",
+          "Agricultural Marketing Officer",
+          "Value Chain Analyst",
+          "Agricultural Finance Officer",
+          "Farm Business Manager",
+          "Agricultural Commodity Trader",
+          "Rural Enterprise Developer",
+          "Agro-Processing Entrepreneur",
+          "NGO Programme Manager",
+          "Agricultural Investment Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,595 per semester (estimated)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Agribusiness Management",
+              "Agricultural Marketing",
+              "Farm Accounting",
+              "Value Chain Development",
+              "Agricultural Finance",
+              "Entrepreneurship in Agriculture"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 75,000 annually",
+              "USA: $45,000 - $95,000",
+              "Europe: €35,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (General Agriculture, Biology, Chemistry, Animal Husbandry, Crop Husbandry, Elective Mathematics). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in agricultural trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant agricultural work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Combines agricultural sciences with business and entrepreneurship skills.",
+              "Graduates commercialise agriculture and manage agro-based enterprises."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Natural Resource Management",
+        "career": [
+          "Natural Resource Manager",
+          "Environmental Officer",
+          "Wildlife Conservation Officer",
+          "Forest Manager",
+          "Environmental Impact Assessment Specialist",
+          "Climate Change Adaptation Officer",
+          "GIS/Remote Sensing Specialist",
+          "Natural Resource Policy Analyst",
+          "Environmental Consultant",
+          "Conservation NGO Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,595 per semester (estimated)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Natural Resource Management",
+              "Wildlife Conservation",
+              "Forest Management",
+              "Environmental Impact Assessment",
+              "GIS and Remote Sensing",
+              "Climate Change and Adaptation"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $42,000 - $85,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant elective subjects (General Agriculture, Biology, Chemistry, Animal Husbandry, Crop Husbandry, Elective Mathematics). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in agricultural trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant agricultural work experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Addresses Ghana's critical need for natural resource and environmental management professionals.",
+              "Graduates serve in Forestry Commission, EPA, Wildlife Division, and conservation NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Sustainable Agriculture (Top-Up)",
+        "career": "Same careers as BTech Sustainable Agriculture Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Crop Production",
+              "Soil Science",
+              "Agroforestry",
+              "Climate-Smart Agriculture",
+              "Agricultural Extension",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Sustainable Agriculture Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND Agriculture holders"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND General Agriculture holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Agribusiness (Top-Up)",
+        "career": "Same careers as BTech Agribusiness Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Agribusiness",
+              "Agricultural Finance",
+              "Value Chain Management",
+              "Marketing",
+              "Entrepreneurship",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Agribusiness Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND Agribusiness/Agriculture holders"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Agriculture or Agribusiness holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Natural Resource Management (Top-Up)",
+        "career": "Same careers as BTech Natural Resource Management Regular",
+        "levels": [
+          {
+            "level_name": "Top-Up (2-year)",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced NRM",
+              "Conservation Biology",
+              "GIS/Remote Sensing",
+              "Environmental Policy",
+              "Climate Change",
+              "Research Project"
+            ],
+            "salary": [
+              "Same salary range as BTech Natural Resource Management Regular"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend mode for HND NRM holders"
+            ],
+            "entry_requirements": [
+              "HND certificate in relevant field from an accredited institution, plus minimum of 2 years relevant working experience.",
+              "Level II or higher of ACCA, ICA (Ghana), CIMA or equivalents (for Accounting top-ups only).",
+              "Advanced Diploma in relevant field from a recognised institution may be considered.",
+              "Applicants with non-related accredited degrees must pass a selection interview."
+            ],
+            "level_note": [
+              "Top-up for HND Natural Resource Management holders.",
+              "Entered at Level 300."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Health Sciences",
+    "note": [
+      "The Faculty of Health Sciences at TaTU offers BTech and BSc programmes in medical laboratory technology, health information management, health promotion, nutrition, and dietetics.",
+      "Programmes emphasise clinical placements, hospital attachments, and practical health training."
+    ],
+    "courses": [
+      {
+        "course_name": "BTech Medical Laboratory Technology",
+        "career": [
+          "Medical Laboratory Scientist",
+          "Laboratory Manager",
+          "Clinical Research Technician",
+          "Blood Bank Scientist",
+          "Microbiologist",
+          "Parasitologist",
+          "Haematologist (Laboratory)",
+          "Quality Assurance Officer (Lab)",
+          "Public Health Laboratory Scientist",
+          "Laboratory Equipment Sales Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,675 per semester (estimated, science/health rate)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Clinical Chemistry",
+              "Haematology",
+              "Medical Microbiology",
+              "Parasitology",
+              "Histopathology",
+              "Blood Transfusion Science"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 95,000 annually",
+              "USA: $50,000 - $100,000",
+              "Europe: €38,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in relevant health/science trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant health sector experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Trains medical laboratory scientists for hospitals, clinics, and research institutions.",
+              "Graduates serve in GHS hospitals, private laboratories, NMIMR, and Noguchi."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Health Information Management",
+        "career": [
+          "Health Information Manager",
+          "Medical Records Officer",
+          "Health Data Analyst",
+          "Health IT Specialist",
+          "Clinical Coding Specialist",
+          "Hospital Information Systems Manager",
+          "Health Informatics Officer",
+          "Health Research Data Manager",
+          "Public Health Information Officer",
+          "DHIMS Administrator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Health Information Systems",
+              "Medical Records Management",
+              "Health Data Analytics",
+              "Clinical Coding and Classification",
+              "DHIMS and e-Health",
+              "Health Statistics"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $45,000 - $90,000",
+              "Europe: €35,000 - €75,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in relevant health/science trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant health sector experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Trains health information and medical records professionals.",
+              "Graduates serve in GHS hospitals, NHIA, district health directorates, and health NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Health Promotion",
+        "career": [
+          "Health Promotion Officer",
+          "Public Health Educator",
+          "Community Health Specialist",
+          "Health Policy Analyst",
+          "Disease Prevention Programme Manager",
+          "Environmental Health Officer",
+          "Health Communication Specialist",
+          "NGO Health Programme Officer",
+          "School Health Coordinator",
+          "Wellness Programme Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,555 per semester (estimated)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Health Promotion Theory",
+              "Community Health",
+              "Epidemiology",
+              "Health Communication",
+              "Environmental Health",
+              "Health Policy and Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 25,000 - 70,000 annually",
+              "USA: $42,000 - $85,000",
+              "Europe: €35,000 - €70,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in relevant health/science trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant health sector experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Trains health promotion and public health education professionals.",
+              "Graduates serve in GHS, district health directorates, NGOs, and WHO/UNICEF."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Nutrition and Lifestyle Medicine",
+        "career": [
+          "Clinical Nutritionist",
+          "Dietitian",
+          "Community Nutrition Officer",
+          "Sports Nutritionist",
+          "Nutrition Programme Manager",
+          "Wellness Coach",
+          "Public Health Nutritionist",
+          "Food and Nutrition Researcher",
+          "Corporate Wellness Consultant",
+          "Nutrition Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,675 per semester (estimated)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Human Nutrition",
+              "Clinical Nutrition",
+              "Community Nutrition",
+              "Lifestyle Medicine",
+              "Food Science",
+              "Nutritional Biochemistry"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually",
+              "USA: $50,000 - $95,000",
+              "Europe: €38,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in relevant health/science trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant health sector experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Combines nutrition science with lifestyle medicine for holistic health outcomes.",
+              "Graduates serve in hospitals, public health, sports, corporate wellness, and nutrition NGOs."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Dietetics",
+        "career": [
+          "Dietitian",
+          "Clinical Dietitian",
+          "Therapeutic Dietitian",
+          "Community Dietitian",
+          "Paediatric Dietitian",
+          "Sports Dietitian",
+          "Renal Dietitian",
+          "Public Health Nutritionist",
+          "Diet Consultant",
+          "Dietetics Lecturer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate (4-year)",
+            "fees": [
+              "Ghanaian Students (Regular): GHC 1,675 per semester (estimated)",
+              "Weekend: Higher fees apply"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Medical Nutrition Therapy",
+              "Dietetic Practice",
+              "Clinical Nutrition",
+              "Nutritional Assessment",
+              "Food Service Management",
+              "Public Health Nutrition"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually",
+              "USA: $52,000 - $95,000",
+              "Europe: €38,000 - €82,000"
+            ],
+            "cutt_off": [
+              "WASSCE aggregate: 24 or better; SSSCE aggregate: 36 or better"
+            ],
+            "mode": [
+              "Regular and Weekend sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science plus Credits in three (3) relevant science elective subjects (Biology, Chemistry, Physics, Elective Mathematics). Aggregate 24 or better.",
+              "SSSCE: Credits (A-D) in the same subjects. Aggregate 36 or better.",
+              "TVET Certificate II in relevant health/science trades plus required core subjects.",
+              "Mature applicants: 25+ years with relevant health sector experience; must pass entrance exam."
+            ],
+            "level_note": [
+              "Professional dietetics programme with clinical hospital placements.",
+              "Graduates serve in GHS hospitals, private clinics, sports nutrition, and health NGOs."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
