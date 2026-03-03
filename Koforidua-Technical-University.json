@@ -225,7 +225,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,974 (Level 100), GHC 3,696 (Level 200), GHC 3,696 (Level 300), GHC 3,970 (Level 400) — 2025/2026"
             ],
@@ -276,7 +276,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,974 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026"
             ],
@@ -327,7 +327,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026"
             ],
@@ -378,7 +378,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -430,7 +430,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -482,7 +482,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026"
             ],
@@ -533,7 +533,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -585,7 +585,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200) — 2025/2026 (new programme, Levels 300-400 TBD)"
             ],
@@ -636,7 +636,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200) — 2025/2026 (new programme, Levels 300-400 TBD)"
             ],
@@ -796,7 +796,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -848,7 +848,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300), GHC 3,972 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -900,7 +900,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,959 (Level 100), GHC 3,581 (Level 200-300), GHC 3,855 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -952,7 +952,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,047 (Level 100), GHC 3,569 (Level 200-300) — 2025/2026 (new programme, Level 400 TBD)"
             ],
@@ -1003,7 +1003,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,711 (Level 100), GHC 3,333 (Level 200-300), GHC 3,607 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -1055,7 +1055,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -1107,7 +1107,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -1159,7 +1159,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,711 (Level 100), GHC 3,333 (Level 200) — 2025/2026 (new programme, Levels 300-400 TBD)",
               "Weekend: Higher fees apply"
@@ -1270,7 +1270,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,002 (Level 100), GHC 3,624 (Level 200-300), GHC 3,898 (Level 400) — 2025/2026"
             ],
@@ -1321,7 +1321,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
             ],
@@ -1372,7 +1372,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
             ],
@@ -1423,7 +1423,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
             ],
@@ -1474,7 +1474,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
             ],
@@ -1525,7 +1525,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,072 (Level 100), GHC 3,694 (Level 200-300), GHC 3,968 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -1686,7 +1686,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,777 (Level 100), GHC 3,399 (Level 200-300) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -1738,7 +1738,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,777 (Level 100), GHC 3,399 (Level 200-300), GHC 3,673 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -1790,7 +1790,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,577 (Level 100), GHC 3,199 (Level 200-300), GHC 3,473 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -1842,7 +1842,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 3,827 (Level 100), GHC 3,449 (Level 200-300), GHC 3,823 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -1903,7 +1903,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,307 (Level 100), GHC 3,929 (Level 200-300), GHC 4,803 (Level 400) — 2025/2026 (highest BTech fee at KTU)"
             ],
@@ -1954,7 +1954,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,257 (Level 100), GHC 3,908 (Level 200-300), GHC 4,140 (Level 400) — 2025/2026",
               "Weekend: Higher fees apply"
@@ -2006,7 +2006,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate (4-year)",
+            "level_name": "Undergraduate",
             "fees": [
               "Morning: GHC 4,257 (Level 100), GHC 3,908 (Level 200-300), GHC 4,140 (Level 400) — 2025/2026"
             ],
