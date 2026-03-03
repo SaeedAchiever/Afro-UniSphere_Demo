@@ -42,10 +42,12 @@
             "salary": [
               "Ghana: GHS 45,000 - 120,000 annually",
               "USA: $65,000 - $130,000",
-              "Europe: €48,000 - €100,000"
+              "Europe: \u20ac48,000 - \u20ac100,000"
             ],
             "cutt_off": [],
-            "mode": ["Weekend/Evening sessions for working professionals"],
+            "mode": [
+              "Weekend/Evening sessions for working professionals"
+            ],
             "entry_requirements": [
               "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
               "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
@@ -92,10 +94,12 @@
             "salary": [
               "Ghana: GHS 42,000 - 110,000 annually",
               "USA: $65,000 - $130,000",
-              "Europe: €45,000 - €100,000"
+              "Europe: \u20ac45,000 - \u20ac100,000"
             ],
             "cutt_off": [],
-            "mode": ["Weekend/Evening sessions"],
+            "mode": [
+              "Weekend/Evening sessions"
+            ],
             "entry_requirements": [
               "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
               "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
@@ -142,10 +146,12 @@
             "salary": [
               "Ghana: GHS 42,000 - 120,000 annually",
               "USA: $70,000 - $140,000",
-              "Europe: €48,000 - €110,000"
+              "Europe: \u20ac48,000 - \u20ac110,000"
             ],
             "cutt_off": [],
-            "mode": ["Weekend/Evening sessions"],
+            "mode": [
+              "Weekend/Evening sessions"
+            ],
             "entry_requirements": [
               "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
               "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
@@ -192,10 +198,12 @@
             "salary": [
               "Ghana: GHS 45,000 - 120,000 annually",
               "USA: $70,000 - $140,000",
-              "Europe: €50,000 - €110,000"
+              "Europe: \u20ac50,000 - \u20ac110,000"
             ],
             "cutt_off": [],
-            "mode": ["Weekend/Evening sessions"],
+            "mode": [
+              "Weekend/Evening sessions"
+            ],
             "entry_requirements": [
               "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
               "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
@@ -227,7 +235,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,974 (Level 100), GHC 3,696 (Level 200), GHC 3,696 (Level 300), GHC 3,970 (Level 400) — 2025/2026"
+              "Morning: GHC 3,974 (Level 100), GHC 3,696 (Level 200), GHC 3,696 (Level 300), GHC 3,970 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -241,12 +249,14 @@
             "salary": [
               "Ghana: GHS 35,000 - 100,000 annually",
               "USA: $70,000 - $140,000",
-              "Europe: €48,000 - €110,000"
+              "Europe: \u20ac48,000 - \u20ac110,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -278,7 +288,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,974 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026"
+              "Morning: GHC 3,974 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -292,12 +302,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 90,000 annually",
               "USA: $60,000 - $120,000",
-              "Europe: €42,000 - €95,000"
+              "Europe: \u20ac42,000 - \u20ac95,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -329,7 +341,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026"
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -343,12 +355,14 @@
             "salary": [
               "Ghana: GHS 32,000 - 95,000 annually",
               "USA: $65,000 - $130,000",
-              "Europe: €45,000 - €100,000"
+              "Europe: \u20ac45,000 - \u20ac100,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -380,7 +394,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026",
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -395,12 +409,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 90,000 annually",
               "USA: $55,000 - $120,000",
-              "Europe: €42,000 - €95,000"
+              "Europe: \u20ac42,000 - \u20ac95,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -432,7 +448,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026",
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -447,12 +463,14 @@
             "salary": [
               "Ghana: GHS 32,000 - 95,000 annually",
               "USA: $65,000 - $130,000",
-              "Europe: €48,000 - €100,000"
+              "Europe: \u20ac48,000 - \u20ac100,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -484,7 +502,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026"
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -498,12 +516,14 @@
             "salary": [
               "Ghana: GHS 32,000 - 95,000 annually",
               "USA: $65,000 - $130,000",
-              "Europe: €45,000 - €100,000"
+              "Europe: \u20ac45,000 - \u20ac100,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -535,7 +555,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) — 2025/2026",
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200-300), GHC 3,970 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -550,12 +570,14 @@
             "salary": [
               "Ghana: GHS 32,000 - 95,000 annually",
               "USA: $65,000 - $130,000",
-              "Europe: €45,000 - €100,000"
+              "Europe: \u20ac45,000 - \u20ac100,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -587,7 +609,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200) — 2025/2026 (new programme, Levels 300-400 TBD)"
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200) \u2014 2025/2026 (new programme, Levels 300-400 TBD)"
             ],
             "duration": "4 years",
             "electives": [
@@ -601,12 +623,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 90,000 annually",
               "USA: $65,000 - $130,000",
-              "Europe: €45,000 - €100,000"
+              "Europe: \u20ac45,000 - \u20ac100,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -638,7 +662,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200) — 2025/2026 (new programme, Levels 300-400 TBD)"
+              "Morning: GHC 4,074 (Level 100), GHC 3,696 (Level 200) \u2014 2025/2026 (new programme, Levels 300-400 TBD)"
             ],
             "duration": "4 years",
             "electives": [
@@ -652,12 +676,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 90,000 annually",
               "USA: $65,000 - $130,000",
-              "Europe: €45,000 - €100,000"
+              "Europe: \u20ac45,000 - \u20ac100,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -668,6 +694,278 @@
               "Production option focusing on manufacturing systems and industrial engineering.",
               "Graduates serve in factories, SMEs, and industrial consulting."
             ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Automotive Engineering",
+        "career": [
+          "Auto Tech",
+          "Service Advisor Tech",
+          "Workshop Sup Jr",
+          "Diagnostics Tech",
+          "Fleet Maint"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k/yr"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Engines",
+              "Auto Elect/Elect",
+              "Diagnostics",
+              "Chassis",
+              "Workshop Mgmt"
+            ],
+            "salary": [
+              "Ghana: GHS 24k-60k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning only"
+            ],
+            "entry_requirements": [
+              "WASSCE Eng/Math/Sci/Phys +1 sci/tech"
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Civil Engineering",
+        "career": [
+          "Site Tech",
+          "Const Sup Jr",
+          "Materials Tech",
+          "Draughtsman Civil",
+          "Qty Tech Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k/yr"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Struct Analysis",
+              "Highway",
+              "Soil/Found",
+              "Survey",
+              "Const Tech"
+            ],
+            "salary": [
+              "Ghana: GHS 26k-65k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning only"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Electrical/Electronics Engineering",
+        "career": [
+          "Elect Tech",
+          "Ind Maint Tech",
+          "Instrum Tech",
+          "Power Sys Tech Jr",
+          "Install Sup Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k",
+              "Weekend: GHS 4.1k-5.1k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Power Sys",
+              "Elect Machines",
+              "Electronics",
+              "Instrum/Control",
+              "Install Design"
+            ],
+            "salary": [
+              "Ghana: GHS 26k-70k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Mechanical Engineering",
+        "career": [
+          "Mech Tech",
+          "Plant Maint Tech",
+          "Prod Tech",
+          "HVAC Jr",
+          "Workshop Sup Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k",
+              "Weekend: GHS 4.1k-5.1k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Mech Design Basics",
+              "Thermofluids",
+              "Manufacturing",
+              "Maint Mgmt",
+              "CAD/CAM Intro"
+            ],
+            "salary": [
+              "Ghana: GHS 25k-65k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Renewable Energy Systems Engineering",
+        "career": [
+          "Renew Energy Tech",
+          "Solar Installer",
+          "Wind Tech Asst",
+          "Energy Auditor Jr",
+          "Off-grid Tech"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k",
+              "Weekend: GHS 4.1k-5.1k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Solar PV",
+              "Wind Tech",
+              "Biomass",
+              "Energy Storage",
+              "RE Policy"
+            ],
+            "salary": [
+              "Ghana: GHS 25k-65k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Electrical Engineering Technician Part I",
+        "career": [
+          "Elect Install Tech",
+          "Maint Asst",
+          "Wiring Tech"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1.5k-2.5k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Basic Elect",
+              "Wiring",
+              "Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 12k-30k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Motor Vehicle Technician Part I",
+        "career": [
+          "Motor Mech Asst",
+          "Service Tech Trainee"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1.5k-2.5k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Basic Engines",
+              "Brakes",
+              "Electrics"
+            ],
+            "salary": [
+              "Ghana: GHS 12k-30k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Mechanical Engineering Technician Part I",
+        "career": [
+          "Mech Fitter Asst",
+          "Turner Asst",
+          "Welder Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1.5k-2.5k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Fitting",
+              "Turning",
+              "Welding Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 12k-30k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
           }
         ]
       }
@@ -696,7 +994,7 @@
         ],
         "levels": [
           {
-            "level_name": "Postgraduate (1-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Contact KTU Graduate School for current fees",
               "Estimated: GHC 10,000 - 15,000 total"
@@ -713,10 +1011,12 @@
             "salary": [
               "Ghana: GHS 50,000 - 150,000 annually",
               "USA: $80,000 - $180,000",
-              "Europe: €55,000 - €130,000"
+              "Europe: \u20ac55,000 - \u20ac130,000"
             ],
             "cutt_off": [],
-            "mode": ["Weekend sessions"],
+            "mode": [
+              "Weekend sessions"
+            ],
             "entry_requirements": [
               "A good first degree (BTech/BSc/BA/BBA) with at least Second Class Lower Division from an accredited university in a relevant field.",
               "Professional qualifications (e.g., ICA, ACCA, CIPS, CIMA) with relevant work experience may be considered.",
@@ -746,7 +1046,7 @@
         ],
         "levels": [
           {
-            "level_name": "Postgraduate (1-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Contact KTU Graduate School for current fees",
               "Estimated: GHC 10,000 - 15,000 total"
@@ -763,10 +1063,12 @@
             "salary": [
               "Ghana: GHS 48,000 - 140,000 annually",
               "USA: $80,000 - $170,000",
-              "Europe: €50,000 - €120,000"
+              "Europe: \u20ac50,000 - \u20ac120,000"
             ],
             "cutt_off": [],
-            "mode": ["Weekend sessions"],
+            "mode": [
+              "Weekend sessions"
+            ],
             "entry_requirements": [
               "A good first degree (BTech/BSc/BA/BBA) with at least Second Class Lower Division from an accredited university in a relevant field.",
               "Professional qualifications (e.g., ICA, ACCA, CIPS, CIMA) with relevant work experience may be considered.",
@@ -798,7 +1100,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) — 2025/2026",
+              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -813,12 +1115,14 @@
             "salary": [
               "Ghana: GHS 25,000 - 75,000 annually",
               "USA: $40,000 - $85,000",
-              "Europe: €32,000 - €70,000"
+              "Europe: \u20ac32,000 - \u20ac70,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -850,7 +1154,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300), GHC 3,972 (Level 400) — 2025/2026",
+              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300), GHC 3,972 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -865,12 +1169,14 @@
             "salary": [
               "Ghana: GHS 28,000 - 80,000 annually",
               "USA: $45,000 - $95,000",
-              "Europe: €35,000 - €80,000"
+              "Europe: \u20ac35,000 - \u20ac80,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -902,7 +1208,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,959 (Level 100), GHC 3,581 (Level 200-300), GHC 3,855 (Level 400) — 2025/2026",
+              "Morning: GHC 3,959 (Level 100), GHC 3,581 (Level 200-300), GHC 3,855 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -917,12 +1223,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 100,000 annually",
               "USA: $65,000 - $140,000",
-              "Europe: €45,000 - €110,000"
+              "Europe: \u20ac45,000 - \u20ac110,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -954,7 +1262,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,047 (Level 100), GHC 3,569 (Level 200-300) — 2025/2026 (new programme, Level 400 TBD)"
+              "Morning: GHC 4,047 (Level 100), GHC 3,569 (Level 200-300) \u2014 2025/2026 (new programme, Level 400 TBD)"
             ],
             "duration": "4 years",
             "electives": [
@@ -968,12 +1276,14 @@
             "salary": [
               "Ghana: GHS 35,000 - 120,000 annually",
               "USA: $80,000 - $180,000",
-              "Europe: €55,000 - €130,000"
+              "Europe: \u20ac55,000 - \u20ac130,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -981,7 +1291,7 @@
               "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
             ],
             "level_note": [
-              "Cutting-edge AI and Robotics programme — one of the first at a Ghanaian Technical University.",
+              "Cutting-edge AI and Robotics programme \u2014 one of the first at a Ghanaian Technical University.",
               "Graduates lead AI/ML initiatives in fintech, health tech, agriculture tech, and research."
             ]
           }
@@ -1005,7 +1315,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,711 (Level 100), GHC 3,333 (Level 200-300), GHC 3,607 (Level 400) — 2025/2026",
+              "Morning: GHC 3,711 (Level 100), GHC 3,333 (Level 200-300), GHC 3,607 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1020,12 +1330,14 @@
             "salary": [
               "Ghana: GHS 40,000 - 120,000 annually",
               "USA: $70,000 - $160,000",
-              "Europe: €50,000 - €120,000"
+              "Europe: \u20ac50,000 - \u20ac120,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1033,7 +1345,7 @@
               "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
             ],
             "level_note": [
-              "Highly specialised actuarial programme — graduates pursue IFoA/SOA professional exams.",
+              "Highly specialised actuarial programme \u2014 graduates pursue IFoA/SOA professional exams.",
               "Graduates work in insurance, pensions, banking, and consulting."
             ]
           }
@@ -1057,7 +1369,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) — 2025/2026",
+              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1072,12 +1384,14 @@
             "salary": [
               "Ghana: GHS 22,000 - 70,000 annually",
               "USA: $42,000 - $90,000",
-              "Europe: €32,000 - €75,000"
+              "Europe: \u20ac32,000 - \u20ac75,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1109,7 +1423,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) — 2025/2026",
+              "Morning: GHC 3,976 (Level 100), GHC 3,598 (Level 200-300) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1124,12 +1438,14 @@
             "salary": [
               "Ghana: GHS 22,000 - 65,000 annually",
               "USA: $40,000 - $85,000",
-              "Europe: €30,000 - €70,000"
+              "Europe: \u20ac30,000 - \u20ac70,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1161,7 +1477,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,711 (Level 100), GHC 3,333 (Level 200) — 2025/2026 (new programme, Levels 300-400 TBD)",
+              "Morning: GHC 3,711 (Level 100), GHC 3,333 (Level 200) \u2014 2025/2026 (new programme, Levels 300-400 TBD)",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1176,12 +1492,14 @@
             "salary": [
               "Ghana: GHS 28,000 - 85,000 annually",
               "USA: $55,000 - $115,000",
-              "Europe: €40,000 - €90,000"
+              "Europe: \u20ac40,000 - \u20ac90,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1192,6 +1510,557 @@
               "Applied statistics programme.",
               "Graduates work in data analytics, research, banking, insurance, and public sector."
             ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Statistics",
+        "career": [
+          "Stat Officer",
+          "Data Analyst Asst",
+          "Research Asst",
+          "M&E Asst",
+          "QC Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.4k-4.4k",
+              "Weekend: GHS 3.7k-4.7k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Probability",
+              "Inference",
+              "Sampling",
+              "Stat Computing",
+              "Time Series"
+            ],
+            "salary": [
+              "Ghana: GHS 24k-60k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [
+              "WASSCE Eng/Math/Sci +2 Math/Sci elect"
+            ],
+            "level_note": [
+              "GSS/banks/NGOs"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Computer Science",
+        "career": [
+          "Jr Software Dev",
+          "IT Support",
+          "Sys Support",
+          "DB Asst",
+          "Jr Web Dev"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k",
+              "Weekend: GHS 4.1k-5.1k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "OOP",
+              "Databases",
+              "Web Tech",
+              "Networks",
+              "Mobile Dev"
+            ],
+            "salary": [
+              "Ghana: GHS 26k-70k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [
+              "WASSCE Eng/Math/Sci +2 Sci/ICT"
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Computer Network Management",
+        "career": [
+          "Network Tech",
+          "IT Support Tech",
+          "Sys Admin Asst",
+          "Helpdesk",
+          "Field Net Eng"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k",
+              "Weekend: GHS 4.1k-5.1k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Routing/Switching",
+              "NOS",
+              "Sec",
+              "Wireless",
+              "Cloud"
+            ],
+            "salary": [
+              "Ghana: GHS 26k-68k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Hospitality Management",
+        "career": [
+          "Front Office Sup Tr",
+          "Rest Sup Tr",
+          "Guest Rel",
+          "F&B Sup Asst",
+          "Events Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.2k-4.2k",
+              "Weekend: GHS 3.5k-4.5k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Front Office",
+              "F&B Service",
+              "Housekeeping",
+              "Law/Ethics",
+              "Events"
+            ],
+            "salary": [
+              "Ghana: GHS 20k-50k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Food Technology",
+        "career": [
+          "Food Proc Tech",
+          "QA Asst",
+          "Prod Sup Jr",
+          "Lab Tech Food",
+          "Prod Dev Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.4k-4.4k",
+              "Weekend: GHS 3.7k-4.7k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Microbio",
+              "Chemistry",
+              "QA",
+              "Dev",
+              "Packaging"
+            ],
+            "salary": [
+              "Ghana: GHS 22k-55k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Post Harvest Technology",
+        "career": [
+          "Postharvest Asst",
+          "QC Agri",
+          "Cold Chain Asst",
+          "Agribiz Field",
+          "Storage Sup Jr"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.4k-4.4k",
+              "Weekend: GHS 3.7k-4.7k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Physiology",
+              "Storage",
+              "Handling",
+              "Cold Chain",
+              "Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 22k-52k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Fashion Design and Textiles",
+        "career": [
+          "Fashion Designer Jr",
+          "Pattern Cutter",
+          "Garment Tech Asst",
+          "Fashion Entrep",
+          "Costume Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3k-4k",
+              "Weekend: GHS 3.3k-4.3k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Pattern/Garment",
+              "Textile Sci",
+              "Illustration",
+              "Prod Mgmt",
+              "Entrep"
+            ],
+            "salary": [
+              "Ghana: GHS 18k-45k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Graphic Design",
+        "career": [
+          "Graphic Designer Jr",
+          "Branding Asst",
+          "Digital Content",
+          "Print Prod Asst",
+          "Illustrator Jr"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.2k-4.2k",
+              "Weekend: GHS 3.5k-4.5k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Typography",
+              "Digital Illust",
+              "Brand ID",
+              "Photo",
+              "Packaging"
+            ],
+            "salary": [
+              "Ghana: GHS 20k-55k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Fashion Design and Textiles",
+        "career": [
+          "Fashion Asst",
+          "Tailor/Designer Asst",
+          "Textile Worker",
+          "Pattern Asst",
+          "Entrep Starter"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Basic Design",
+              "Pattern Making",
+              "Textiles",
+              "Sewing Tech",
+              "Business"
+            ],
+            "salary": [
+              "Ghana: GHS 15k-40k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Statistics",
+        "career": [
+          "Stat Clerk",
+          "Data Entry/Asst",
+          "Survey Asst",
+          "Basic Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Basic Stats",
+              "Data Handling",
+              "Excel/SPSS Intro",
+              "Survey Methods"
+            ],
+            "salary": [
+              "Ghana: GHS 15k-40k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Information Technology",
+        "career": [
+          "IT Asst",
+          "Computer Operator",
+          "Data Entry",
+          "Basic Web/Maint"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Computer Apps",
+              "Web Basics",
+              "Databases Intro",
+              "Networking Basics",
+              "Office Suite"
+            ],
+            "salary": [
+              "Ghana: GHS 16k-42k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Event Management",
+        "career": [
+          "Event Coord Asst",
+          "Logistics Asst",
+          "Promo Asst",
+          "Venue Mgr Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Event Planning",
+              "Budgeting",
+              "Marketing",
+              "Logistics",
+              "Risk Mgmt"
+            ],
+            "salary": [
+              "Ghana: GHS 15k-40k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate II in Fashion Design and Textiles",
+        "career": [
+          "Tailor Asst",
+          "Basic Designer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1k-2k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Basic Sewing",
+              "Patterns",
+              "Fabrics"
+            ],
+            "salary": [
+              "Ghana: GHS 10k-25k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Advanced Fashion Design and Textiles",
+        "career": [
+          "Advanced Tailor",
+          "Designer Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1.5k-2.5k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Advanced Patterns",
+              "Garment Const",
+              "Textiles Adv"
+            ],
+            "salary": [
+              "Ghana: GHS 12k-30k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Intermediate Fashion Design and Textiles",
+        "career": [
+          "Intermediate Tailor",
+          "Pattern Maker Jr"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1.2k-2.2k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Intermediate Sewing",
+              "Design Basics",
+              "Fabrics"
+            ],
+            "salary": [
+              "Ghana: GHS 11k-28k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Catering Certificate II",
+        "career": [
+          "Catering Asst",
+          "Kitchen Asst",
+          "Food Service"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1k-2k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Food Prep",
+              "Hygiene",
+              "Service Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 10k-25k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
           }
         ]
       }
@@ -1237,10 +2106,12 @@
             "salary": [
               "Ghana: GHS 45,000 - 120,000 annually",
               "USA: $65,000 - $130,000",
-              "Europe: €48,000 - €100,000"
+              "Europe: \u20ac48,000 - \u20ac100,000"
             ],
             "cutt_off": [],
-            "mode": ["Weekend/Evening sessions"],
+            "mode": [
+              "Weekend/Evening sessions"
+            ],
             "entry_requirements": [
               "A good first degree (BTech/BSc/BA) with at least Second Class Lower Division from an accredited university in a relevant field.",
               "HND plus a relevant postgraduate diploma may be considered for some MTech programmes.",
@@ -1272,7 +2143,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,002 (Level 100), GHC 3,624 (Level 200-300), GHC 3,898 (Level 400) — 2025/2026"
+              "Morning: GHC 4,002 (Level 100), GHC 3,624 (Level 200-300), GHC 3,898 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -1286,12 +2157,14 @@
             "salary": [
               "Ghana: GHS 28,000 - 80,000 annually",
               "USA: $50,000 - $100,000",
-              "Europe: €38,000 - €85,000"
+              "Europe: \u20ac38,000 - \u20ac85,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1323,7 +2196,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
+              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -1337,12 +2210,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 85,000 annually",
               "USA: $55,000 - $110,000",
-              "Europe: €42,000 - €90,000"
+              "Europe: \u20ac42,000 - \u20ac90,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -1350,7 +2225,7 @@
               "MVT II holders enrol at Level 200; MVT III holders at Level 300. HND graduates enrol at Level 300. Mature applicants: 25+ years, must pass written test."
             ],
             "level_note": [
-              "Specialised building services technology programme — rare in Ghana.",
+              "Specialised building services technology programme \u2014 rare in Ghana.",
               "Graduates design and manage MEP systems in commercial and residential buildings."
             ]
           }
@@ -1374,7 +2249,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
+              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -1388,12 +2263,14 @@
             "salary": [
               "Ghana: GHS 28,000 - 85,000 annually",
               "USA: $50,000 - $110,000",
-              "Europe: €38,000 - €90,000"
+              "Europe: \u20ac38,000 - \u20ac90,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1425,7 +2302,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
+              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -1439,12 +2316,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 95,000 annually",
               "USA: $55,000 - $120,000",
-              "Europe: €42,000 - €95,000"
+              "Europe: \u20ac42,000 - \u20ac95,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -1476,7 +2355,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) — 2025/2026"
+              "Morning: GHC 3,982 (Level 100), GHC 3,604 (Level 200-300), GHC 3,878 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -1490,12 +2369,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 90,000 annually",
               "USA: $55,000 - $120,000",
-              "Europe: €42,000 - €95,000"
+              "Europe: \u20ac42,000 - \u20ac95,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant elective subjects including Physics and Elective Mathematics. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects including Physics and Elective Mathematics.",
@@ -1527,7 +2408,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,072 (Level 100), GHC 3,694 (Level 200-300), GHC 3,968 (Level 400) — 2025/2026",
+              "Morning: GHC 4,072 (Level 100), GHC 3,694 (Level 200-300), GHC 3,968 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1542,12 +2423,14 @@
             "salary": [
               "Ghana: GHS 28,000 - 80,000 annually",
               "USA: $50,000 - $100,000",
-              "Europe: €38,000 - €85,000"
+              "Europe: \u20ac38,000 - \u20ac85,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1558,6 +2441,137 @@
               "Integrated planning programme for sustainable urban and rural development.",
               "Graduates serve in TCPD, district assemblies, NDPC, and planning consultancies."
             ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Building Technology",
+        "career": [
+          "Building Tech",
+          "Site Sup Tech",
+          "Const Tech",
+          "Qty Survey Asst",
+          "M&E Tech"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k",
+              "Weekend: GHS 4.1k-5.1k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Building Construction",
+              "Materials",
+              "Const Mgmt",
+              "Estimating",
+              "M&E Services"
+            ],
+            "salary": [
+              "Ghana: GHS 24k-60k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "HND Environmental Management and Technology",
+        "career": [
+          "Env Tech",
+          "Pollution Control Tech",
+          "Waste Mgmt Tech",
+          "EIA Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Env Sci",
+              "Pollution Control",
+              "Waste Mgmt",
+              "EIA",
+              "Sustainable Dev"
+            ],
+            "salary": [
+              "Ghana: GHS 22k-55k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning only"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Construction Technician Certificate Part I",
+        "career": [
+          "Const Labour Sup",
+          "Mason Asst",
+          "Formwork Tech"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1.5k-2.5k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Basic Const",
+              "Masonry",
+              "Concrete"
+            ],
+            "salary": [
+              "Ghana: GHS 12k-30k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Draughtsmanship",
+        "career": [
+          "Draughtsman Asst",
+          "CAD Operator Jr"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1.5k-2.5k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Manual Drafting",
+              "CAD Basics",
+              "Building Drawing"
+            ],
+            "salary": [
+              "Ghana: GHS 12k-30k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
           }
         ]
       }
@@ -1586,7 +2600,7 @@
         ],
         "levels": [
           {
-            "level_name": "Postgraduate (1-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Contact KTU Graduate School for current fees",
               "Estimated: GHC 10,000 - 15,000 total programme cost"
@@ -1603,10 +2617,12 @@
             "salary": [
               "Ghana: GHS 50,000 - 140,000 annually",
               "USA: $65,000 - $140,000",
-              "Europe: €48,000 - €110,000"
+              "Europe: \u20ac48,000 - \u20ac110,000"
             ],
             "cutt_off": [],
-            "mode": ["Weekend sessions for working professionals"],
+            "mode": [
+              "Weekend sessions for working professionals"
+            ],
             "entry_requirements": [
               "A good first degree (BTech/BSc/BA/BBA) with at least Second Class Lower Division from an accredited university in a relevant field.",
               "Professional qualifications (e.g., ICA, ACCA, CIPS, CIMA) with relevant work experience may be considered.",
@@ -1636,7 +2652,7 @@
         ],
         "levels": [
           {
-            "level_name": "Postgraduate (1-year)",
+            "level_name": "Masters",
             "fees": [
               "Ghanaian Students: Contact KTU Graduate School for current fees",
               "Estimated: GHC 10,000 - 15,000 total"
@@ -1653,10 +2669,12 @@
             "salary": [
               "Ghana: GHS 45,000 - 120,000 annually",
               "USA: $60,000 - $120,000",
-              "Europe: €45,000 - €100,000"
+              "Europe: \u20ac45,000 - \u20ac100,000"
             ],
             "cutt_off": [],
-            "mode": ["Weekend sessions"],
+            "mode": [
+              "Weekend sessions"
+            ],
             "entry_requirements": [
               "A good first degree (BTech/BSc/BA/BBA) with at least Second Class Lower Division from an accredited university in a relevant field.",
               "Professional qualifications (e.g., ICA, ACCA, CIPS, CIMA) with relevant work experience may be considered.",
@@ -1688,7 +2706,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,777 (Level 100), GHC 3,399 (Level 200-300) — 2025/2026",
+              "Morning: GHC 3,777 (Level 100), GHC 3,399 (Level 200-300) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1703,12 +2721,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 90,000 annually",
               "USA: $55,000 - $120,000",
-              "Europe: €40,000 - €90,000"
+              "Europe: \u20ac40,000 - \u20ac90,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1716,7 +2736,7 @@
               "HND graduates with requisite specialisation enrol at Level 300. OTD holders enrol at Level 200. Mature applicants: 25+ years, must pass written test."
             ],
             "level_note": [
-              "Combined accounting and finance BTech — broader than standalone accounting programmes.",
+              "Combined accounting and finance BTech \u2014 broader than standalone accounting programmes.",
               "Graduates serve in accounting firms, banks, corporate finance, and public sector."
             ]
           }
@@ -1740,7 +2760,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,777 (Level 100), GHC 3,399 (Level 200-300), GHC 3,673 (Level 400) — 2025/2026",
+              "Morning: GHC 3,777 (Level 100), GHC 3,399 (Level 200-300), GHC 3,673 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1755,12 +2775,14 @@
             "salary": [
               "Ghana: GHS 28,000 - 85,000 annually",
               "USA: $50,000 - $110,000",
-              "Europe: €38,000 - €85,000"
+              "Europe: \u20ac38,000 - \u20ac85,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1792,7 +2814,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,577 (Level 100), GHC 3,199 (Level 200-300), GHC 3,473 (Level 400) — 2025/2026",
+              "Morning: GHC 3,577 (Level 100), GHC 3,199 (Level 200-300), GHC 3,473 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1807,12 +2829,14 @@
             "salary": [
               "Ghana: GHS 25,000 - 80,000 annually",
               "USA: $45,000 - $100,000",
-              "Europe: €35,000 - €85,000"
+              "Europe: \u20ac35,000 - \u20ac85,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1844,7 +2868,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 3,827 (Level 100), GHC 3,449 (Level 200-300), GHC 3,823 (Level 400) — 2025/2026",
+              "Morning: GHC 3,827 (Level 100), GHC 3,449 (Level 200-300), GHC 3,823 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1859,12 +2883,14 @@
             "salary": [
               "Ghana: GHS 24,000 - 70,000 annually",
               "USA: $35,000 - $70,000",
-              "Europe: €28,000 - €55,000"
+              "Europe: \u20ac28,000 - \u20ac55,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in three core subjects (English Language, Mathematics, Integrated Science) plus Credits (A1-C6) in three relevant elective subjects. Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant elective subjects. Aggregate 24 or better.",
@@ -1875,6 +2901,570 @@
               "Executive secretaryship and management studies programme.",
               "DBS Secretaryship holders may enrol at Level 200."
             ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Accountancy",
+        "career": [
+          "Accounts Officer",
+          "Assistant Accountant",
+          "Payroll Officer",
+          "Tax Assistant",
+          "Audit Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.5k-4.5k/yr",
+              "Weekend: GHS 3.8k-4.8k/yr (est 2025/26)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Financial Reporting",
+              "Cost Accounting",
+              "Taxation",
+              "Auditing",
+              "Public Sector Accounting"
+            ],
+            "salary": [
+              "Ghana: GHS 24k-60k annually"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [
+              "WASSCE A1-C6: Eng, Math, Sci, 3 business incl Acct",
+              "SSSCE equiv",
+              "Mature 25+ w/exp"
+            ],
+            "level_note": [
+              "Prep for ICA/ACCA",
+              "SME/public sector"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Marketing",
+        "career": [
+          "Marketing Officer",
+          "Sales Executive",
+          "Brand Assistant",
+          "Customer Relations",
+          "Digital Mark Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.3k-4.3k",
+              "Weekend: GHS 3.6k-4.6k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Consumer Behaviour",
+              "Sales Mgmt",
+              "Digital Marketing",
+              "Retail",
+              "Marketing Research"
+            ],
+            "salary": [
+              "Ghana: GHS 22k-55k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [
+              "WASSCE Eng/Math/Sci +3 electives pref business",
+              "SSSCE equiv",
+              "Mature w/sales exp"
+            ],
+            "level_note": [
+              "Top-up to BTech Marketing"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Purchasing and Supply",
+        "career": [
+          "Procurement Asst",
+          "Store Officer",
+          "Supply Chain Asst",
+          "Inventory Officer",
+          "Logistics Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.3k-4.3k",
+              "Weekend: GHS 3.6k-4.6k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Public Procurement",
+              "Logistics",
+              "Inventory Mgmt",
+              "Intl Purchasing",
+              "Contracts"
+            ],
+            "salary": [
+              "Ghana: GHS 22k-55k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [
+              "WASSCE Eng/Math/Sci +3 elect",
+              "Related certs",
+              "Mature 25+"
+            ],
+            "level_note": [
+              "Aligns w/Public Procurement Act",
+              "CIPS pathway"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Secretaryship and Management Studies",
+        "career": [
+          "Admin Asst",
+          "Exec Secretary",
+          "Office Mgr",
+          "Records Officer",
+          "Cust Service"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3k-4k",
+              "Weekend: GHS 3.3k-4.3k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Office Practice",
+              "Business Comm",
+              "Records Mgmt",
+              "HR Admin",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 20k-50k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [
+              "WASSCE Eng/Math/Sci +3 rel elect",
+              "Sec certs",
+              "Mature w/office exp"
+            ],
+            "level_note": [
+              "Sec skills + mgmt/ICT"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Banking Technology and Accounting",
+        "career": [
+          "Banking Clerk",
+          "Accounting Asst",
+          "Fintech Support",
+          "Loan Processing Asst",
+          "Teller"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "GHS 2.5k-3.5k/yr est"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Banking Operations",
+              "FinTech Basics",
+              "Accounting for Bankers",
+              "Customer Service",
+              "Risk Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18k-45k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [
+              "WASSCE passes Eng/Math + others",
+              "SSSCE equiv"
+            ],
+            "level_note": [
+              "Intro to banking/fintech"
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Business Administration",
+        "career": [
+          "Business Asst",
+          "Admin Officer",
+          "Sales Asst",
+          "HR Asst",
+          "Ops Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "GHS 2.5k-3.5k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Business Law",
+              "HR Mgmt",
+              "Marketing Basics",
+              "Ops Mgmt",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 18k-45k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [
+              "WASSCE basic passes"
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Public Administration",
+        "career": [
+          "Public Service Asst",
+          "Admin Officer",
+          "Policy Asst",
+          "Local Govt Officer",
+          "NGO Admin"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "GHS 2.5k-3.5k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Public Policy",
+              "Govt Accounting",
+              "Public Personnel",
+              "Local Governance",
+              "Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 20k-50k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Public Relations",
+        "career": [
+          "PR Asst",
+          "Comm Officer",
+          "Media Asst",
+          "Event Coord Asst",
+          "Corp Comm Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "GHS 2.5k-3.5k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "PR Principles",
+              "Media Relations",
+              "Event Mgmt",
+              "Digital PR",
+              "Crisis Comm"
+            ],
+            "salary": [
+              "Ghana: GHS 20k-50k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Accounting",
+        "career": [
+          "Junior Accountant",
+          "Bookkeeper",
+          "Payroll Clerk",
+          "Accounts Receivable",
+          "Tax Prep Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Basic Accounting",
+              "Payroll",
+              "Tax Basics",
+              "Computerized Acct",
+              "Business Math"
+            ],
+            "salary": [
+              "Ghana: GHS 15k-40k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE basic"
+            ],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Secretaryship",
+        "career": [
+          "Secretary",
+          "Office Asst",
+          "Receptionist",
+          "Records Clerk",
+          "Typist"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Shorthand",
+              "Typing",
+              "Office Mgmt",
+              "Comm Skills",
+              "Records"
+            ],
+            "salary": [
+              "Ghana: GHS 15k-40k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Management",
+        "career": [
+          "Mgmt Asst",
+          "Supervisor Trainee",
+          "HR Asst",
+          "Ops Asst",
+          "Bus Dev Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Mgmt Principles",
+              "HR",
+              "Finance Basics",
+              "Marketing",
+              "Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 16k-42k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Marketing",
+        "career": [
+          "Marketing Asst",
+          "Sales Rep",
+          "Promo Officer",
+          "Market Research Asst",
+          "Brand Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Marketing Basics",
+              "Sales",
+              "Advertising",
+              "Consumer Behaviour",
+              "Digital Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 15k-40k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Purchasing and Supply",
+        "career": [
+          "Purchasing Asst",
+          "Store Clerk",
+          "Procurement Clerk",
+          "Inventory Clerk",
+          "Supplier Liaison"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Purchasing Basics",
+              "Stores",
+              "Contracts",
+              "Logistics Intro",
+              "Negotiation"
+            ],
+            "salary": [
+              "Ghana: GHS 15k-40k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Banking and Finance",
+        "career": [
+          "Bank Clerk",
+          "Finance Asst",
+          "Loan Clerk",
+          "Insurance Asst",
+          "Investment Clerk"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Banking Ops",
+              "Finance Basics",
+              "Insurance",
+              "Investment",
+              "Risk"
+            ],
+            "salary": [
+              "Ghana: GHS 16k-42k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "DBS \u2013 Entrepreneurship",
+        "career": [
+          "Entrepreneur",
+          "Small Bus Mgr",
+          "Startup Advisor",
+          "Bus Consultant",
+          "Self-employed"
+        ],
+        "levels": [
+          {
+            "level_name": "DBS",
+            "fees": [
+              "GHS 2k-3k/yr"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Bus Plan",
+              "Mgmt",
+              "Finance",
+              "Marketing",
+              "Legal"
+            ],
+            "salary": [
+              "Variable, GHS 20k+ potential"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning"
+            ],
+            "entry_requirements": [],
+            "level_note": []
           }
         ]
       }
@@ -1905,7 +3495,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,307 (Level 100), GHC 3,929 (Level 200-300), GHC 4,803 (Level 400) — 2025/2026 (highest BTech fee at KTU)"
+              "Morning: GHC 4,307 (Level 100), GHC 3,929 (Level 200-300), GHC 4,803 (Level 400) \u2014 2025/2026 (highest BTech fee at KTU)"
             ],
             "duration": "4 years",
             "electives": [
@@ -1919,12 +3509,14 @@
             "salary": [
               "Ghana: GHS 35,000 - 100,000 annually",
               "USA: $50,000 - $100,000",
-              "Europe: €38,000 - €85,000"
+              "Europe: \u20ac38,000 - \u20ac85,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant science elective subjects (Biology, Chemistry, Physics). Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant science elective subjects.",
@@ -1956,7 +3548,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,257 (Level 100), GHC 3,908 (Level 200-300), GHC 4,140 (Level 400) — 2025/2026",
+              "Morning: GHC 4,257 (Level 100), GHC 3,908 (Level 200-300), GHC 4,140 (Level 400) \u2014 2025/2026",
               "Weekend: Higher fees apply"
             ],
             "duration": "4 years",
@@ -1971,12 +3563,14 @@
             "salary": [
               "Ghana: GHS 30,000 - 90,000 annually",
               "USA: $60,000 - $120,000",
-              "Europe: €45,000 - €100,000"
+              "Europe: \u20ac45,000 - \u20ac100,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning and Weekend sessions available"],
+            "mode": [
+              "Morning and Weekend sessions available"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant science elective subjects (Biology, Chemistry, Physics). Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant science elective subjects.",
@@ -2008,7 +3602,7 @@
           {
             "level_name": "Undergraduate",
             "fees": [
-              "Morning: GHC 4,257 (Level 100), GHC 3,908 (Level 200-300), GHC 4,140 (Level 400) — 2025/2026"
+              "Morning: GHC 4,257 (Level 100), GHC 3,908 (Level 200-300), GHC 4,140 (Level 400) \u2014 2025/2026"
             ],
             "duration": "4 years",
             "electives": [
@@ -2022,12 +3616,14 @@
             "salary": [
               "Ghana: GHS 28,000 - 85,000 annually",
               "USA: $55,000 - $110,000",
-              "Europe: €42,000 - €90,000"
+              "Europe: \u20ac42,000 - \u20ac90,000"
             ],
             "cutt_off": [
               "WASSCE aggregate: 24 or better; SSSCE aggregate: 24 or better"
             ],
-            "mode": ["Morning session only"],
+            "mode": [
+              "Morning session only"
+            ],
             "entry_requirements": [
               "WASSCE: Passes (A1-C6) in English Language, Mathematics, Integrated Science plus Credits (A1-C6) in three relevant science elective subjects (Biology, Chemistry, Physics). Aggregate 24 or better.",
               "SSSCE: Passes (A-D) in three core subjects plus passes (A-D) in three relevant science elective subjects.",
@@ -2035,9 +3631,72 @@
               "Mature applicants: 25+ years, must pass written test in English, Mathematics and General Knowledge."
             ],
             "level_note": [
-              "Unique rehabilitation engineering programme — one of very few in West Africa.",
+              "Unique rehabilitation engineering programme \u2014 one of very few in West Africa.",
               "Graduates design assistive devices and prosthetics for people with disabilities."
             ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Biomedical Engineering Technology",
+        "career": [
+          "Biomed Tech",
+          "Equip Maint Tech",
+          "Lab Equip Tech"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Morning: GHS 3.8k-4.8k",
+              "Weekend: GHS 4.1k-5.1k"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Biomed Equip",
+              "Electronics Med",
+              "Maint/Calib",
+              "Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 25k-65k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Biomedical Equipment Technology",
+        "career": [
+          "Biomed Equip Tech Trainee",
+          "Maint Asst"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "GHS 1.5k-2.5k"
+            ],
+            "duration": "1 year",
+            "electives": [
+              "Basic Biomed Equip",
+              "Safety",
+              "Troubleshoot"
+            ],
+            "salary": [
+              "Ghana: GHS 12k-30k"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Morning, Weekend"
+            ],
+            "entry_requirements": [],
+            "level_note": []
           }
         ]
       }
