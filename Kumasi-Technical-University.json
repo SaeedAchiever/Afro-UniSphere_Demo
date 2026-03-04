@@ -1,0 +1,3654 @@
+[
+  {
+    "name": "Kumasi Technical University"
+  },
+  {
+    "faculty_name": "Engineering & Technology",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Bachelor of Engineering in Agricultural Mechanization Engineering",
+        "career": [
+          "Agricultural Engineer",
+          "Farm Machinery Engineer",
+          "Irrigation Engineer",
+          "Agricultural Equipment Consultant",
+          "Maintenance Engineer",
+          "Field Service Engineer",
+          "Agribusiness Technical Manager",
+          "Extension Engineer",
+          "Research Engineer",
+          "Agricultural Project Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,500 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Farm Power and Machinery",
+              "Soil and Water Engineering",
+              "Irrigation and Drainage Systems",
+              "Post-Harvest Technology",
+              "Agricultural Structures",
+              "Agricultural Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 84,000 annually (entry to mid-career, estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €45,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time on-campus lectures and laboratory practicals",
+              "Field-based practicals and industrial attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE with at least credits (A1-C6) in Core Mathematics, English Language, and Integrated Science",
+              "Credits in three relevant elective subjects including Physics, Mathematics and either Chemistry or Technical Drawing/Agricultural Science",
+              "Overall aggregate not exceeding 36 (estimated)",
+              "Mature and HND applicants may be considered for appropriate levels"
+            ],
+            "level_note": [
+              "Programme focuses on the design, operation and maintenance of agricultural machinery.",
+              "Students gain strong practical skills through field work and industrial attachments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Automotive Engineering",
+        "career": [
+          "Automotive Engineer",
+          "Vehicle Maintenance Engineer",
+          "Service Workshop Manager",
+          "Automotive Design Engineer",
+          "Diagnostics Engineer",
+          "Fleet Maintenance Engineer",
+          "Transportation Engineer",
+          "Technical Sales Engineer (Automotive)",
+          "Automotive Quality Control Engineer",
+          "Automotive Lecturer/Instructor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 5,500 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Automotive Engines and Systems",
+              "Vehicle Dynamics",
+              "Automotive Electronics",
+              "Automotive Diagnostics",
+              "Automotive Materials",
+              "Vehicle Maintenance Management"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually (estimated)",
+              "USA: $65,000 - $115,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 32 (estimated)"],
+            "mode": [
+              "Full-time lectures combined with workshop and lab practicals",
+              "Industrial attachment in automotive garages and assembly plants"
+            ],
+            "entry_requirements": [
+              "WASSCE with at least credits (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "Credits in three relevant electives including Physics and either Elective Mathematics, Technical Drawing, Auto Mechanics or related technical subjects",
+              "Competitive aggregate not exceeding 32 (estimated)",
+              "HND/technical diploma holders in automotive-related fields may gain advanced standing"
+            ],
+            "level_note": [
+              "Students are trained for the automotive industry with strong emphasis on diagnostics and maintenance.",
+              "The curriculum integrates theory with extensive workshop-based learning."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Chemical Engineering",
+        "career": [
+          "Chemical Engineer",
+          "Process Engineer",
+          "Production Engineer",
+          "Plant Operations Engineer",
+          "Quality Control Engineer",
+          "Environmental Engineer",
+          "Process Safety Engineer",
+          "Research and Development Engineer",
+          "Petrochemical Engineer",
+          "Food and Beverage Process Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 5,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Reaction Engineering",
+              "Thermodynamics and Heat Transfer",
+              "Separation Processes",
+              "Process Control",
+              "Chemical Plant Design",
+              "Environmental Pollution Control"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually (estimated)",
+              "USA: $70,000 - $130,000 (estimated)",
+              "Europe: €50,000 - €100,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time lectures, laboratory sessions and design projects",
+              "Industrial attachments in chemical and process industries"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "Credits in three relevant elective subjects including Chemistry, Physics and Elective Mathematics",
+              "Competitive aggregate not exceeding 30 (estimated)",
+              "HND in Chemical/Process Engineering may qualify for top-up or level 200/300 entry"
+            ],
+            "level_note": [
+              "The programme equips students for roles in process industries such as food, petrochemicals, and manufacturing.",
+              "Strong emphasis is placed on safety, environmental sustainability and plant design."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Civil Engineering",
+        "career": [
+          "Civil Engineer",
+          "Structural Engineer",
+          "Highway Engineer",
+          "Water Resources Engineer",
+          "Construction Project Engineer",
+          "Geotechnical Engineer",
+          "Site Engineer",
+          "Infrastructure Consultant",
+          "Municipal Engineer",
+          "Engineering Project Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Structural Analysis and Design",
+              "Concrete Technology",
+              "Transportation Engineering",
+              "Hydraulics and Hydrology",
+              "Geotechnical Engineering",
+              "Construction Management"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 110,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time classroom teaching with design studios and lab work",
+              "Field trips and mandatory industrial attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits (A1-C6) in English Language, Core Mathematics and Integrated Science",
+              "Credits in three relevant electives including Physics and Elective Mathematics plus one of Chemistry, Technical Drawing or Building Construction",
+              "Overall aggregate not exceeding 30 (estimated)",
+              "HND Civil or related diplomas may gain advanced placement"
+            ],
+            "level_note": [
+              "Students develop competencies in planning, designing and supervising civil engineering projects.",
+              "Programme is highly practical with strong field exposure to real construction works."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Electrical and Electronic Engineering",
+        "career": [
+          "Electrical Engineer",
+          "Electronics Engineer",
+          "Power Systems Engineer",
+          "Control and Instrumentation Engineer",
+          "Telecommunications Engineer",
+          "Maintenance Engineer",
+          "Automation Engineer",
+          "Energy Systems Engineer",
+          "Electrical Design Engineer",
+          "Technical Consultant (Electrical/Electronic)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Power Systems Engineering",
+              "Digital Electronics",
+              "Control Systems",
+              "Electrical Machines",
+              "Microprocessor Systems",
+              "Renewable Energy Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 115,000 annually (estimated)",
+              "USA: $75,000 - $130,000 (estimated)",
+              "Europe: €55,000 - €100,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time lectures, tutorials and practical laboratory sessions",
+              "Industrial attachments with power, telecom and manufacturing companies"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in three relevant electives including Physics and Elective Mathematics plus one other science/technical elective",
+              "Competitive aggregate not exceeding 30 (estimated)",
+              "HND and technical diploma holders may be admitted to higher levels after assessment"
+            ],
+            "level_note": [
+              "Programme provides a strong foundation in both power and electronics fields.",
+              "Graduates are prepared for roles in energy, manufacturing, telecoms and automation sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Mechanical Engineering (Manufacturing)",
+        "career": [
+          "Mechanical Engineer",
+          "Manufacturing Engineer",
+          "Production Engineer",
+          "Plant Engineer",
+          "Maintenance Engineer",
+          "Quality Assurance Engineer",
+          "Process Improvement Engineer",
+          "Manufacturing Consultant",
+          "Product Design Engineer",
+          "Project Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Manufacturing Processes",
+              "Machine Design",
+              "Industrial Automation",
+              "Materials Science",
+              "Production Planning and Control",
+              "Computer-Aided Manufacturing"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 20 - 32 (estimated)"],
+            "mode": [
+              "Full-time teaching with intensive workshop and lab sessions",
+              "Industry-based projects and attachments in manufacturing firms"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one other technical/science elective",
+              "Aggregate not exceeding 32 (estimated)",
+              "HND Mechanical or related diplomas may enter at advanced level"
+            ],
+            "level_note": [
+              "This option focuses on production systems and modern manufacturing technologies.",
+              "Students gain hands-on skills with machines, tools and industrial automation systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Mechanical Engineering (Metallurgy And Materials)",
+        "career": [
+          "Materials Engineer",
+          "Metallurgical Engineer",
+          "Quality Control Engineer",
+          "Failure Analysis Engineer",
+          "Foundry Engineer",
+          "Materials Research Engineer",
+          "Production Engineer",
+          "Corrosion Engineer",
+          "Materials Testing Engineer",
+          "Technical Consultant (Materials)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Physical Metallurgy",
+              "Materials Characterization",
+              "Heat Treatment of Metals",
+              "Corrosion Engineering",
+              "Polymer and Composite Materials",
+              "Failure Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually (estimated)",
+              "USA: $70,000 - $120,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 20 - 32 (estimated)"],
+            "mode": [
+              "Full-time classroom instruction and laboratory practicals",
+              "Industry visits to manufacturing, mining and metallurgical plants"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and Chemistry or a related technical elective",
+              "Aggregate not exceeding 32 (estimated)",
+              "Relevant HND applicants may be admitted to higher levels after evaluation"
+            ],
+            "level_note": [
+              "Programme emphasizes the behaviour, processing and testing of engineering materials.",
+              "Graduates are well positioned for roles in mining, manufacturing and quality control laboratories."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Mechanical Engineering (Plant)",
+        "career": [
+          "Plant Engineer",
+          "Maintenance Engineer",
+          "Mechanical Engineer",
+          "Utilities Engineer",
+          "Maintenance Planning Engineer",
+          "Reliability Engineer",
+          "Operations Engineer",
+          "Asset Management Engineer",
+          "Industrial Engineer",
+          "Technical Services Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Plant Engineering and Maintenance",
+              "Industrial Safety",
+              "Utilities and Energy Systems",
+              "Mechanical Systems Design",
+              "Condition Monitoring",
+              "Industrial Management"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 105,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 20 - 32 (estimated)"],
+            "mode": [
+              "Full-time lectures with plant visits and practical projects",
+              "Industry attachments in factories and processing plants"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one other science/technical subject",
+              "Aggregate not exceeding 32 (estimated)",
+              "HND Mechanical or related fields may qualify for admission to higher levels"
+            ],
+            "level_note": [
+              "Specialization prepares students for managing and maintaining industrial plants.",
+              "Focus is placed on reliability, safety and efficient plant operations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Mechatronics Engineering",
+        "career": [
+          "Mechatronics Engineer",
+          "Automation Engineer",
+          "Robotics Engineer",
+          "Control Systems Engineer",
+          "Industrial Automation Specialist",
+          "Maintenance Engineer",
+          "Systems Integration Engineer",
+          "Embedded Systems Engineer",
+          "Instrumentation Engineer",
+          "Manufacturing Automation Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,800 - 6,500 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Robotics and Automation",
+              "Programmable Logic Controllers",
+              "Sensors and Instrumentation",
+              "Embedded Systems",
+              "Control Systems Design",
+              "Machine Vision"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 115,000 annually (estimated)",
+              "USA: $75,000 - $130,000 (estimated)",
+              "Europe: €55,000 - €100,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time blended lectures and lab-based practical learning",
+              "Hands-on projects in automation and robotics laboratories"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and another science/technical elective",
+              "Aggregate not exceeding 30 (estimated)",
+              "Relevant HND/technical diploma holders may be considered for top-up entry"
+            ],
+            "level_note": [
+              "Programme combines mechanical, electrical/electronic and control engineering.",
+              "Students are trained to design and control automated systems in modern industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Oil and Gas Engineering",
+        "career": [
+          "Oil and Gas Engineer",
+          "Reservoir Engineer",
+          "Production Engineer",
+          "Drilling Engineer",
+          "Petroleum Engineer",
+          "Process Engineer (Oil and Gas)",
+          "Health, Safety and Environment Engineer",
+          "Energy Consultant",
+          "Field Engineer",
+          "Offshore Operations Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,800 - 6,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Petroleum Geology",
+              "Drilling Engineering",
+              "Reservoir Engineering",
+              "Production Technology",
+              "Offshore Engineering",
+              "Health, Safety and Environment in Oil and Gas"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 140,000 annually (estimated)",
+              "USA: $80,000 - $150,000 (estimated)",
+              "Europe: €60,000 - €120,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 28 (estimated)"],
+            "mode": [
+              "Full-time on-campus teaching with specialized labs",
+              "Field trips and internship opportunities with energy sector organizations"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and Chemistry or another science elective",
+              "Competitive aggregate not exceeding 28 (estimated)",
+              "HND in relevant engineering fields may qualify for advanced standing"
+            ],
+            "level_note": [
+              "The programme trains students for upstream and midstream roles in the oil and gas industry.",
+              "Strong emphasis is placed on safety, environmental management and applied engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Engineering in Refrigeration and Air Conditioning",
+        "career": [
+          "Refrigeration and Air Conditioning Engineer",
+          "HVAC Engineer",
+          "Maintenance Engineer",
+          "Facilities Engineer",
+          "Energy Management Engineer",
+          "Installation and Commissioning Engineer",
+          "Technical Sales Engineer (HVAC)",
+          "Building Services Engineer",
+          "Cold Chain Engineer",
+          "Field Service Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 5,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Refrigeration Systems Design",
+              "Air Conditioning Systems",
+              "Thermodynamics and Heat Transfer",
+              "HVAC Controls",
+              "Energy Efficiency in Buildings",
+              "Cold Storage and Industrial Refrigeration"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €45,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 22 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures and practical workshop sessions",
+              "Industry visits and attachments in HVAC and refrigeration firms"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one relevant technical/science elective",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND and technical diploma holders in Refrigeration and Air Conditioning may be considered for higher levels"
+            ],
+            "level_note": [
+              "This programme focuses on design, installation and maintenance of refrigeration and air conditioning systems.",
+              "Graduates work in building services, industrial refrigeration, facilities and energy management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Computer Technology",
+        "career": [
+          "Computer Technologist",
+          "Systems Administrator",
+          "IT Support Engineer",
+          "Network Administrator",
+          "Systems Analyst",
+          "IT Consultant",
+          "Technical Support Specialist",
+          "Field Service Technician",
+          "Infrastructure Engineer",
+          "IT Project Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Computer Hardware Technologies",
+              "Network Administration",
+              "Operating Systems",
+              "Systems Security Basics",
+              "Database Systems",
+              "IT Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 90,000 annually (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures combined with hands-on labs",
+              "Internships in IT departments and support environments"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in at least three relevant electives such as ICT/Computer Studies, Physics, Elective Mathematics or other approved technical subjects",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND/ICT-related diploma holders may receive exemptions or advanced standing"
+            ],
+            "level_note": [
+              "Programme emphasizes practical computer technology skills and systems support.",
+              "Students are prepared for roles in IT infrastructure, support and basic systems administration."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Data Science",
+        "career": [
+          "Data Analyst",
+          "Data Scientist",
+          "Business Intelligence Analyst",
+          "Data Engineer",
+          "Analytics Consultant",
+          "Reporting Analyst",
+          "Machine Learning Engineer (entry-level)",
+          "Quantitative Analyst",
+          "Research Data Specialist",
+          "Analytics Developer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 5,500 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Data Science",
+              "Statistical Modelling",
+              "Machine Learning Fundamentals",
+              "Big Data Tools and Technologies",
+              "Data Visualization",
+              "Data Management and Warehousing"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 120,000 annually (estimated)",
+              "USA: $80,000 - $140,000 (estimated)",
+              "Europe: €55,000 - €110,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time studies with computer lab-based practicals",
+              "Industry projects using real datasets and tools"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Elective Mathematics and two other science/computing-related electives",
+              "Aggregate not exceeding 30 (estimated)",
+              "HND or diploma holders in statistics, computing or related areas may enter at advanced level"
+            ],
+            "level_note": [
+              "Programme provides a strong foundation in data analysis, statistics and basic machine learning.",
+              "Graduates can work across sectors where data-driven decision making is required."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Electrical and Electronic Engineering",
+        "career": [
+          "Electrical Engineer",
+          "Electronics Technician",
+          "Maintenance Engineer",
+          "Telecom Technician",
+          "Power Systems Technician",
+          "Automation Technician",
+          "Field Service Engineer",
+          "Instrumentation Technician",
+          "Technical Support Engineer",
+          "Electrical Project Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 5,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Electrical Machines and Drives",
+              "Power Systems Fundamentals",
+              "Digital Electronics",
+              "Control Systems",
+              "Renewable Energy Basics",
+              "Industrial Electronics"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 95,000 annually (estimated)",
+              "USA: $65,000 - $115,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures with extensive laboratory practicals",
+              "Mandatory industrial attachment in electrical/electronic companies"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one other technical/science elective",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND Electrical/Electronic or related fields may be admitted to higher levels"
+            ],
+            "level_note": [
+              "This BTech focuses on applied electrical and electronic engineering skills.",
+              "Students are exposed to installation, maintenance and basic design of electrical/electronic systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Industrial Laboratory Technology",
+        "career": [
+          "Laboratory Technologist",
+          "Quality Control Technologist",
+          "Industrial Laboratory Technician",
+          "Chemical Laboratory Technologist",
+          "Food Laboratory Technologist",
+          "Environmental Laboratory Technologist",
+          "Research Laboratory Assistant",
+          "Materials Testing Technologist",
+          "Health and Safety Officer (Laboratory)",
+          "Quality Assurance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,400 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Analytical Chemistry Techniques",
+              "Microbiology Laboratory Methods",
+              "Instrumental Analysis",
+              "Quality Assurance and Quality Control",
+              "Environmental Sampling and Analysis",
+              "Laboratory Management and Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 80,000 annually (estimated)",
+              "USA: $50,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €75,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures combined with intensive laboratory practicals",
+              "Industrial attachment in accredited laboratories and QA departments"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Chemistry and two other science-related electives such as Biology, Physics or Laboratory Technology",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND and related science diplomas may be considered for top-up"
+            ],
+            "level_note": [
+              "Programme prepares students for work in industrial, environmental and research laboratories.",
+              "Strong focus on analytical techniques, quality assurance and laboratory safety."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Medical Laboratory Technology",
+        "career": [
+          "Medical Laboratory Scientist (with professional registration)",
+          "Laboratory Technologist",
+          "Clinical Laboratory Supervisor",
+          "Blood Bank Technologist",
+          "Microbiology Laboratory Technologist",
+          "Haematology Technologist",
+          "Diagnostic Laboratory Technologist",
+          "Public Health Laboratory Officer",
+          "Quality Assurance Officer (Medical Lab)",
+          "Research Laboratory Scientist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Clinical Chemistry",
+              "Haematology and Blood Transfusion",
+              "Medical Microbiology",
+              "Histopathology",
+              "Immunology and Serology",
+              "Laboratory Quality Management"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 95,000 annually (estimated)",
+              "USA: $55,000 - $95,000 (estimated)",
+              "Europe: €45,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time lectures and laboratory rotations",
+              "Clinical attachments in accredited hospitals and diagnostic centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Biology, Chemistry and one other science elective (e.g. Physics or Elective Mathematics)",
+              "Aggregate not exceeding 30 (estimated)",
+              "HND Medical Laboratory or related qualifications may be considered for advanced standing subject to regulations"
+            ],
+            "level_note": [
+              "The programme trains students to perform clinical laboratory investigations for disease diagnosis.",
+              "It combines strong theoretical foundation with extensive clinical and laboratory practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Pharmaceutical Sciences",
+        "career": [
+          "Pharmaceutical Technologist",
+          "Pharmacy Technician (with regulatory recognition)",
+          "Quality Control Analyst (Pharmaceuticals)",
+          "Production Technologist in Pharmaceutical Industry",
+          "Regulatory Affairs Assistant",
+          "Drug Distribution Officer",
+          "Research Assistant in Pharmaceutical Labs",
+          "Medical Sales Representative",
+          "Community Pharmacy Support Staff",
+          "Hospital Pharmacy Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Pharmaceutics",
+              "Pharmaceutical Chemistry",
+              "Pharmacology and Toxicology",
+              "Drug Manufacturing Technology",
+              "Quality Control of Medicines",
+              "Regulatory Affairs Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 95,000 annually (estimated)",
+              "USA: $55,000 - $100,000 (estimated)",
+              "Europe: €45,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time lectures and laboratory practicals",
+              "Industrial attachments in pharmaceutical manufacturing and distribution organisations"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Chemistry, Biology and one other science elective such as Physics or Elective Mathematics",
+              "Aggregate not exceeding 30 (estimated)",
+              "HND or related pharmaceutical/chemical science diplomas may be admitted to higher levels"
+            ],
+            "level_note": [
+              "Programme focuses on pharmaceutical technology, quality control and basic pharmacology.",
+              "Graduates support pharmacists and work in pharmaceutical production, distribution and quality assurance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Agribusiness with Entrepreneurship",
+        "career": [
+          "Agribusiness Manager",
+          "Farm Manager",
+          "Agricultural Entrepreneur",
+          "Agricultural Value Chain Manager",
+          "Agricultural Marketing Officer",
+          "Input Supply Manager",
+          "Agricultural Project Officer",
+          "Agricultural Extension Consultant",
+          "Commodity Trader",
+          "Agribusiness Development Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Agribusiness Management",
+              "Agricultural Marketing",
+              "Farm Business Planning",
+              "Entrepreneurship and Innovation",
+              "Agricultural Finance",
+              "Agricultural Value Chain Development"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 85,000 annually (estimated)",
+              "USA: $55,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures with case studies and project work",
+              "Field visits to farms and agribusiness enterprises"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in three relevant electives such as General Agriculture, Economics, Biology or Business Management",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND and related agribusiness/agriculture diplomas may gain advanced standing"
+            ],
+            "level_note": [
+              "The programme combines agribusiness management with strong entrepreneurship training.",
+              "Students are prepared to start and manage their own agribusiness ventures or work in existing agribusinesses."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BTech Automotive Engineering",
+        "career": [
+          "Automotive Engineering Technologist",
+          "Vehicle Workshop Supervisor",
+          "Fleet Maintenance Supervisor",
+          "Automotive Service Advisor",
+          "Auto Diagnostics Specialist",
+          "Technical Instructor (Automotive)",
+          "Automotive Parts Manager",
+          "Garage Manager",
+          "Motor Vehicle Inspector",
+          "Automotive Technical Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,500 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Vehicle Systems Diagnostics",
+              "Automotive Engine Technology",
+              "Automotive Electronics and Control",
+              "Automotive Workshop Management",
+              "Vehicle Suspension and Brakes",
+              "Automotive Safety and Regulations"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 90,000 annually (estimated)",
+              "USA: $60,000 - $105,000 (estimated)",
+              "Europe: €45,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures with intensive workshop practice",
+              "Industrial attachment in automotive garages and service centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics and two other technical/science electives such as Auto Mechanics, Elective Mathematics or Technical Drawing",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND/technical diploma in Automotive or Mechanical-related programmes may gain advanced entry"
+            ],
+            "level_note": [
+              "Programme focuses on applied automotive engineering and workshop management.",
+              "Graduates support design, diagnostics and maintenance of modern motor vehicles."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Business & Management",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Bachelor of Science in Accountancy with Computing",
+        "career": [
+          "Accountant",
+          "Management Accountant",
+          "Financial Analyst",
+          "Audit Associate",
+          "Tax Associate",
+          "Accounting Systems Analyst",
+          "Payroll Officer",
+          "Cost Accountant",
+          "Financial Reporting Officer",
+          "Account Receivables/Payables Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Management Accounting",
+              "Accounting Information Systems",
+              "Taxation",
+              "Auditing and Assurance",
+              "Business Analytics with Spreadsheets"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 90,000 annually (estimated)",
+              "USA: $55,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures with computer lab practicals in accounting software",
+              "Industrial attachments in corporate and public sector finance departments"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies as required",
+              "Credits in at least three business-related electives such as Accounting, Business Management, Economics or Elective Mathematics",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND or diploma in accounting/business-related fields may gain exemptions or advanced standing"
+            ],
+            "level_note": [
+              "Programme blends accounting concepts with practical computing skills.",
+              "Graduates are equipped to work with modern accounting information systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Agribusiness with Entrepreneurship",
+        "career": [
+          "Agribusiness Manager",
+          "Agricultural Entrepreneur",
+          "Agricultural Marketing Officer",
+          "Value Chain Development Officer",
+          "Agricultural Project Coordinator",
+          "Input Supply Manager",
+          "Farm Business Consultant",
+          "Agricultural Cooperative Manager",
+          "Commodity Trader",
+          "Rural Enterprise Development Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Agribusiness",
+              "Agricultural Economics",
+              "Entrepreneurship in Agribusiness",
+              "Agricultural Marketing",
+              "Agribusiness Finance",
+              "Agri-Value Chain and Logistics"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 85,000 annually (estimated)",
+              "USA: $50,000 - $90,000 (estimated)",
+              "Europe: €38,000 - €75,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures, case studies and project-based learning",
+              "Field trips to farms and agribusiness enterprises"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in three business/agriculture-related electives such as General Agriculture, Economics, Accounting or Business Management",
+              "Aggregate not exceeding 36 (estimated)",
+              "Agric/business diplomas and HND holders may be considered for advanced levels"
+            ],
+            "level_note": [
+              "Programme targets business opportunities within the agricultural sector.",
+              "It builds both agribusiness management and entrepreneurship competencies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Banking And Finance",
+        "career": [
+          "Bank Teller",
+          "Relationship Officer",
+          "Credit Analyst",
+          "Loan Officer",
+          "Investment Analyst",
+          "Treasury Officer",
+          "Branch Operations Officer",
+          "Risk Analyst",
+          "Financial Advisor",
+          "Corporate Banking Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Banking Operations",
+              "Financial Markets and Institutions",
+              "Corporate Finance",
+              "Credit Analysis and Risk Management",
+              "Investment Management",
+              "Microfinance and Rural Banking"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 95,000 annually (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures and tutorials with case studies",
+              "Industrial attachments with banks and financial institutions"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three business-related electives including Accounting, Business Management, Economics or Elective Mathematics",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND/DBS and other business qualifications may earn exemptions"
+            ],
+            "level_note": [
+              "Programme provides strong grounding in banking operations and financial management.",
+              "Graduates are prepared for roles in commercial banks, microfinance and other financial institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Entrepreneurship & Finance",
+        "career": [
+          "Entrepreneur",
+          "Small Business Owner",
+          "Business Development Officer",
+          "Investment Analyst",
+          "Project Finance Officer",
+          "Microfinance Officer",
+          "SME Credit Officer",
+          "Start-up Consultant",
+          "Venture Creation Advisor",
+          "Financial Planning Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Entrepreneurship Theory and Practice",
+              "New Venture Creation",
+              "Business Plan Development",
+              "Financial Management",
+              "Investment and Portfolio Management",
+              "Small Business Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 90,000 annually (estimated, higher potential for successful ventures)",
+              "USA: $55,000 - $105,000 (estimated)",
+              "Europe: €40,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures combining theory and practical venture projects",
+              "Incubator-style projects and business competitions where available"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives such as Business Management, Accounting, Economics or Elective Mathematics",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND and other business diplomas may be considered for top-up entry"
+            ],
+            "level_note": [
+              "Programme combines entrepreneurial skills with core finance knowledge.",
+              "Students develop and pitch real business ideas while learning how to finance them."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Marketing",
+        "career": [
+          "Marketing Officer",
+          "Brand Executive",
+          "Sales Executive",
+          "Digital Marketing Assistant",
+          "Customer Service Officer",
+          "Market Research Assistant",
+          "Public Relations Assistant",
+          "Product Development Assistant",
+          "Social Media Coordinator",
+          "Advertising Account Executive"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,600 - 4,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Marketing",
+              "Consumer Behaviour",
+              "Services Marketing",
+              "Digital and Social Media Marketing",
+              "Sales Management",
+              "Marketing Research"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually (estimated)",
+              "USA: $50,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures with project and group presentations",
+              "Practical marketing campaigns and internship placements"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three relevant electives such as Business Management, Economics, Accounting or Elective Mathematics",
+              "Aggregate not exceeding 36 (estimated)",
+              "Business-related diplomas/HND may be considered for advanced entry"
+            ],
+            "level_note": [
+              "Programme focuses on contemporary marketing strategies and customer engagement.",
+              "Students gain both theoretical and practical skills for marketing roles in various industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Procurement and Supply Chain Management",
+        "career": [
+          "Procurement Officer",
+          "Supply Chain Analyst",
+          "Purchasing Officer",
+          "Logistics Officer",
+          "Inventory Controller",
+          "Warehouse Supervisor",
+          "Materials Planner",
+          "Contract and Tender Officer",
+          "Import/Export Officer",
+          "Supply Chain Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Purchasing and Supply Management",
+              "Logistics and Transport Management",
+              "Inventory and Warehouse Management",
+              "Contract and Tender Management",
+              "Global Supply Chain Management",
+              "Supply Chain Analytics Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 90,000 annually (estimated)",
+              "USA: $55,000 - $100,000 (estimated)",
+              "Europe: €42,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures with case studies and simulations",
+              "Industrial attachments in procurement and logistics departments"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives such as Business Management, Economics, Accounting or Elective Mathematics",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND and other related diplomas in procurement/logistics may receive advanced placement"
+            ],
+            "level_note": [
+              "Programme prepares students for professional roles in procurement and supply chain operations.",
+              "It combines theoretical understanding with practical tools and case studies from industry."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Supply Chain and Data Analytics",
+        "career": [
+          "Supply Chain Analyst",
+          "Logistics Data Analyst",
+          "Inventory Analyst",
+          "Operations Analyst",
+          "Business Intelligence Analyst (Supply Chain)",
+          "Demand Planner",
+          "Transport Planner",
+          "Process Improvement Analyst",
+          "Procurement Analyst",
+          "Data Reporting Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Supply Chain Management Fundamentals",
+              "Data Analytics for Business",
+              "Quantitative Methods",
+              "Operations Research Basics",
+              "Logistics and Transport Analytics",
+              "Business Intelligence Tools"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 100,000 annually (estimated)",
+              "USA: $65,000 - $115,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 22 - 34 (estimated)"],
+            "mode": [
+              "Full-time lectures with strong emphasis on computer lab work",
+              "Industry-based analytics projects using real supply chain data where available"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives including at least one of Elective Mathematics, Economics or Business Management",
+              "Aggregate not exceeding 34 (estimated)",
+              "HND and related business/ICT diplomas may be accepted for top-up entry"
+            ],
+            "level_note": [
+              "Programme integrates supply chain management principles with modern data analytics techniques.",
+              "Graduates can support data-driven decision making in logistics and operations environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Sustainable Banking And Finance",
+        "career": [
+          "Banking Officer",
+          "Sustainability Analyst",
+          "ESG (Environmental, Social, Governance) Officer",
+          "Corporate Social Responsibility Officer",
+          "Risk Management Officer",
+          "Green Finance Analyst",
+          "Microfinance Officer",
+          "Impact Investment Analyst",
+          "Financial Inclusion Officer",
+          "Credit Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Introduction to Sustainable Finance",
+              "Banking Operations and Services",
+              "Risk Management in Financial Institutions",
+              "Environmental and Social Governance in Finance",
+              "Microfinance and Financial Inclusion",
+              "Green Investment Products"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 90,000 annually (estimated)",
+              "USA: $55,000 - $100,000 (estimated)",
+              "Europe: €42,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures and seminars with case studies on sustainable finance",
+              "Industrial attachment in banks, microfinance institutions and ESG-related roles"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three business-related electives such as Economics, Accounting, Business Management or Elective Mathematics",
+              "Aggregate not exceeding 36 (estimated)",
+              "Business/finance-related diplomas may qualify for advanced entry"
+            ],
+            "level_note": [
+              "Programme explores how banking and finance can support sustainable development.",
+              "Graduates understand both conventional banking and emerging sustainable finance practices."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Applied Sciences & Health",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Bachelor Of Science Health Information Management",
+        "career": [
+          "Health Information Officer",
+          "Medical Records Officer",
+          "Health Data Analyst",
+          "Hospital Information Systems Officer",
+          "Health Informatics Officer",
+          "Health Programme Data Manager",
+          "Public Health Information Officer",
+          "Claims and Billing Officer",
+          "Electronic Medical Records Administrator",
+          "Research Data Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,400 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Health Information Systems",
+              "Medical Records Management",
+              "E-Health and Telemedicine",
+              "Health Data Analysis",
+              "Health Policy and Management",
+              "Database Management for Health"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 85,000 annually (estimated)",
+              "USA: $55,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 34 (estimated)"],
+            "mode": [
+              "Full-time lectures, computer labs and practicum in health facilities",
+              "Internships in hospitals, health directorates and health insurance organisations"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in three relevant electives such as Biology, ICT, Elective Mathematics or Economics",
+              "Aggregate not exceeding 34 (estimated)",
+              "Health-related diplomas or HND may be considered for advanced standing"
+            ],
+            "level_note": [
+              "Programme focuses on managing health information systems and data for decision making.",
+              "Graduates support hospitals and health agencies in record keeping and information management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Applied Mathematics",
+        "career": [
+          "Data Analyst",
+          "Quantitative Analyst",
+          "Actuarial Analyst (entry-level)",
+          "Business Analyst",
+          "Operations Research Analyst",
+          "Risk Analyst",
+          "Research Assistant",
+          "Mathematics Teacher (with professional training)",
+          "Banking and Finance Analyst",
+          "Statistics Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Calculus and Linear Algebra",
+              "Differential Equations",
+              "Numerical Methods",
+              "Probability and Statistics",
+              "Operations Research",
+              "Mathematical Modelling"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 90,000 annually (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 32 (estimated)"],
+            "mode": [
+              "Full-time lectures with tutorials and computer-based exercises",
+              "Project work applying mathematics to real-life problems"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Elective Mathematics and two other relevant electives such as Physics, ICT or Economics",
+              "Aggregate not exceeding 32 (estimated)",
+              "HND/diploma in mathematics-related areas may be considered for top-up"
+            ],
+            "level_note": [
+              "Programme provides strong mathematical foundation for analytical and technical careers.",
+              "Students learn to apply mathematics in finance, industry and research."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Applied Statistics (Environmental Statistics)",
+        "career": [
+          "Environmental Data Analyst",
+          "Statistical Officer",
+          "Monitoring and Evaluation Officer",
+          "Environmental Research Assistant",
+          "Data Management Officer",
+          "GIS and Spatial Data Assistant (with extra training)",
+          "Public Sector Statistical Officer",
+          "NGO Project Data Officer",
+          "Climate and Weather Data Analyst",
+          "Quality Assurance Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Probability and Statistical Inference",
+              "Sampling Techniques and Survey Methods",
+              "Environmental Statistics",
+              "Time Series Analysis",
+              "Multivariate Analysis",
+              "Statistical Computing with Software"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 90,000 annually (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 22 - 34 (estimated)"],
+            "mode": [
+              "Full-time lectures with computer laboratory sessions using statistical software",
+              "Field data collection and environmental projects"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Elective Mathematics and two other relevant electives such as Geography, ICT or Biology",
+              "Aggregate not exceeding 34 (estimated)",
+              "Statistics/mathematics-related diploma holders may enter at advanced level"
+            ],
+            "level_note": [
+              "Programme specialises in the application of statistics to environmental data.",
+              "Graduates support environmental agencies, NGOs and research institutions with data analysis."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Applied Statistics (Financial Statistics)",
+        "career": [
+          "Financial Data Analyst",
+          "Risk Analyst",
+          "Credit Analyst (entry-level)",
+          "Investment Analyst Assistant",
+          "Portfolio Data Analyst",
+          "Actuarial Assistant",
+          "Banking Operations Analyst",
+          "Market Research Analyst",
+          "Insurance Data Analyst",
+          "Business Intelligence Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Probability and Statistics",
+              "Financial Mathematics",
+              "Time Series Analysis",
+              "Risk and Portfolio Analysis",
+              "Regression and Forecasting",
+              "Statistical Software Applications"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 100,000 annually (estimated)",
+              "USA: $65,000 - $120,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 22 - 34 (estimated)"],
+            "mode": [
+              "Full-time lectures with strong computer lab component",
+              "Projects using financial datasets from banking and capital markets"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Elective Mathematics and two other relevant electives such as Economics, Accounting or ICT",
+              "Aggregate not exceeding 34 (estimated)",
+              "Statistics/finance-related diploma holders may be considered for advanced standing"
+            ],
+            "level_note": [
+              "Programme emphasises application of statistics in finance and risk management.",
+              "Graduates can work in banks, insurance, investment firms and financial regulators."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Applied Statistics (Health Statistics)",
+        "career": [
+          "Health Data Analyst",
+          "Biostatistics Assistant",
+          "Monitoring and Evaluation Officer",
+          "Health Information Officer",
+          "Public Health Data Officer",
+          "Research Assistant (Health Projects)",
+          "Programme Data Manager",
+          "NGO Health Projects Data Officer",
+          "Epidemiology Assistant",
+          "Hospital Statistics Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Biostatistics",
+              "Epidemiology Basics",
+              "Health Survey Methods",
+              "Statistical Inference",
+              "Time Series and Forecasting in Health",
+              "Statistical Software for Health Data"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 90,000 annually (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 22 - 34 (estimated)"],
+            "mode": [
+              "Full-time lectures and computer lab sessions",
+              "Field practice collecting and analysing health data for projects"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Elective Mathematics and two other relevant electives such as Biology, ICT or Economics",
+              "Aggregate not exceeding 34 (estimated)",
+              "Health/statistics-related diploma holders may be admitted to higher levels"
+            ],
+            "level_note": [
+              "Programme focuses on statistical methods for health and epidemiological data.",
+              "Graduates contribute to planning and evaluation of health programmes at various levels."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Design & Built Environment",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Bachelor of Arts in Communication Design",
+        "career": [
+          "Graphic Designer",
+          "Brand Designer",
+          "Visual Communication Designer",
+          "Digital Media Designer",
+          "User Interface Designer",
+          "Advertising Designer",
+          "Layout Artist",
+          "Social Media Content Designer",
+          "Packaging Designer",
+          "Creative Director (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Typography and Layout",
+              "Illustration and Digital Art",
+              "Brand Identity Design",
+              "Photography and Imaging",
+              "Interactive and Web Design",
+              "Motion Graphics Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually (estimated)",
+              "USA: $50,000 - $90,000 (estimated)",
+              "Europe: €38,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Studio-based learning with design projects and critiques",
+              "Full-time lectures, workshops and digital labs"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and either Integrated Science or Social Studies as required",
+              "Credits in three electives including Visual Arts or related subjects, or other approved electives",
+              "Aggregate not exceeding 36 (estimated)",
+              "Portfolio or aptitude in art/design is an advantage; diploma holders in related fields may gain advanced standing"
+            ],
+            "level_note": [
+              "Programme develops creative skills in visual communication and design thinking.",
+              "Students build strong portfolios for careers in the creative and media industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Arts in Secretaryship And Management",
+        "career": [
+          "Administrative Assistant",
+          "Executive Secretary",
+          "Office Manager",
+          "Personal Assistant",
+          "Records Officer",
+          "Front Desk Administrator",
+          "Human Resource Assistant",
+          "Corporate Secretary Assistant",
+          "Office Operations Supervisor",
+          "Customer Relations Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,400 - 4,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Office Management",
+              "Business Communication",
+              "Records and Information Management",
+              "Computer Applications in Office",
+              "Human Resource Management Basics",
+              "Customer Relationship Management"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 70,000 annually (estimated)",
+              "USA: $40,000 - $75,000 (estimated)",
+              "Europe: €32,000 - €65,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures with practical office software training",
+              "Internships in corporate and public sector offices"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives such as Business Management, Economics, French or other approved subjects",
+              "Aggregate not exceeding 36 (estimated)",
+              "Secretarial or business-related diploma holders may receive exemptions"
+            ],
+            "level_note": [
+              "Programme trains students for modern administrative and secretarial roles.",
+              "Emphasis is placed on communication, office technology and practical office management skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Building Services Engineering",
+        "career": [
+          "Building Services Engineer",
+          "HVAC Engineer",
+          "Electrical Building Services Engineer",
+          "Plumbing and Fire Services Engineer",
+          "Facilities Engineer",
+          "Energy Management Officer",
+          "Building Maintenance Engineer",
+          "Project Engineer (Building Services)",
+          "Technical Consultant (Building Services)",
+          "Site Engineer (Services)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 5,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Heating, Ventilation and Air Conditioning Systems",
+              "Electrical Building Installations",
+              "Plumbing and Fire Protection Systems",
+              "Lighting and Acoustics",
+              "Energy Management in Buildings",
+              "Building Automation and Controls"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 95,000 annually (estimated)",
+              "USA: $65,000 - $115,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 22 - 34 (estimated)"],
+            "mode": [
+              "Full-time lectures, design studios and laboratory work",
+              "Site visits and attachments with building services and construction firms"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one other science/technical elective such as Technical Drawing or Building Construction",
+              "Aggregate not exceeding 34 (estimated)",
+              "HND and relevant diplomas in engineering or building technology may enter at advanced levels"
+            ],
+            "level_note": [
+              "Programme focuses on design and management of engineering systems within buildings.",
+              "Graduates work with architects and engineers to deliver comfortable and efficient buildings."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Estate Management",
+        "career": [
+          "Estate Officer",
+          "Property Manager",
+          "Valuation Assistant",
+          "Real Estate Consultant",
+          "Facilities Manager",
+          "Property Leasing Officer",
+          "Property Investment Analyst",
+          "Housing Officer",
+          "Property Marketing Officer",
+          "Real Estate Project Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Principles of Estate Management",
+              "Property Valuation",
+              "Property Law Basics",
+              "Real Estate Finance",
+              "Property Development",
+              "Facilities Management"
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - 85,000 annually (estimated)",
+              "USA: $50,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures, case studies and field inspections",
+              "Internships with real estate agencies and property firms"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives such as Economics, Geography, Business Management or Elective Mathematics",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND/related diplomas in estate/land management may gain advanced standing"
+            ],
+            "level_note": [
+              "Programme covers property valuation, management and development.",
+              "Graduates work in real estate agencies, corporate property units and public housing institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Facilities Management",
+        "career": [
+          "Facilities Manager",
+          "Maintenance Coordinator",
+          "Property and Facilities Officer",
+          "Health and Safety Officer",
+          "Space Planning Officer",
+          "Energy and Environment Officer",
+          "Cleaning and Support Services Manager",
+          "Corporate Services Officer",
+          "Real Estate and Facilities Analyst",
+          "Project Officer (Facilities)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Facilities Planning and Management",
+              "Maintenance Management",
+              "Health, Safety and Environment",
+              "Space Management and Utilisation",
+              "Property Services Management",
+              "Energy Management in Facilities"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 90,000 annually (estimated)",
+              "USA: $55,000 - $105,000 (estimated)",
+              "Europe: €42,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures blended with field visits and practical projects",
+              "Internships with facilities management and corporate services units"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives such as Economics, Business Management, Geography or Elective Mathematics",
+              "Aggregate not exceeding 36 (estimated)",
+              "Relevant HND/diploma holders in facilities/property management may be admitted to higher levels"
+            ],
+            "level_note": [
+              "Programme focuses on managing buildings and support services for organisations.",
+              "Students learn to ensure safe, efficient and sustainable operation of facilities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Architectural Technology",
+        "career": [
+          "Architectural Technologist",
+          "Architectural Draftsperson",
+          "Site Supervisor (Building)",
+          "Construction Technician",
+          "CAD Technician (Architecture)",
+          "Building Design Assistant",
+          "Project Documentation Officer",
+          "3D Visualisation Assistant",
+          "Building Inspector Assistant",
+          "Technical Sales Representative (Building Products)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,600 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Architectural Drawing and Presentation",
+              "Building Construction Technology",
+              "Building Materials and Finishes",
+              "Computer-Aided Design (CAD)",
+              "Building Services Integration",
+              "Site Planning and Supervision"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 85,000 annually (estimated)",
+              "USA: $55,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Studio-based design work and classroom teaching",
+              "Site visits and internship placements with architectural and construction firms"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in three electives such as Technical Drawing, Building Construction, Physics or Visual Arts",
+              "Aggregate not exceeding 36 (estimated)",
+              "Building/architecture-related diplomas may be considered for advanced entry"
+            ],
+            "level_note": [
+              "Programme emphasises building design documentation and construction technology.",
+              "Graduates support architects and engineers in the design and supervision of building projects."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Building Technology",
+        "career": [
+          "Building Technologist",
+          "Site Supervisor",
+          "Construction Technician",
+          "Quantity Surveying Assistant",
+          "Project Officer (Construction)",
+          "Building Inspector Assistant",
+          "Maintenance Officer (Buildings)",
+          "Construction Materials Controller",
+          "Technical Sales Representative (Construction)",
+          "Clerk of Works Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,600 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Building Construction and Technology",
+              "Construction Materials",
+              "Measurement and Estimating",
+              "Construction Management",
+              "Building Regulations and Codes",
+              "Site Supervision and Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 90,000 annually (estimated)",
+              "USA: $55,000 - $100,000 (estimated)",
+              "Europe: €42,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures, workshops and field practicals",
+              "Internships with construction and building firms"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in three technical electives such as Building Construction, Technical Drawing, Physics or Elective Mathematics",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND/technical diplomas in building-related areas may qualify for advanced standing"
+            ],
+            "level_note": [
+              "Programme prepares students for supervisory and technical roles in the construction industry.",
+              "It emphasizes practical building technology, measurement and site management skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Civil Engineering",
+        "career": [
+          "Civil Engineering Technologist",
+          "Site Supervisor",
+          "Construction Technician",
+          "Highway Technician",
+          "Water and Sanitation Technician",
+          "Materials Testing Technician",
+          "Drafting Technician (Civil)",
+          "Project Technician (Civil Works)",
+          "Maintenance Technician (Infrastructure)",
+          "Survey Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Surveying and Levelling",
+              "Structural Mechanics Basics",
+              "Concrete Technology",
+              "Highway Engineering Basics",
+              "Water Supply and Sanitation",
+              "Construction Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 90,000 annually (estimated)",
+              "USA: $55,000 - $100,000 (estimated)",
+              "Europe: €42,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time teaching with labs and field practicals",
+              "Industrial attachments with civil engineering and construction companies"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in three electives including Physics, Elective Mathematics and one technical/science elective",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND Civil or related diplomas may gain entry at higher levels"
+            ],
+            "level_note": [
+              "Programme emphasises applied civil engineering techniques and site supervision.",
+              "Graduates support engineers on infrastructure projects such as roads, bridges and water systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Fashion Design and Textiles Studies",
+        "career": [
+          "Fashion Designer",
+          "Pattern Cutter and Garment Technologist",
+          "Fashion Illustrator",
+          "Costume Designer",
+          "Fashion Entrepreneur",
+          "Textile Designer",
+          "Fashion Merchandiser",
+          "Boutique Owner/Manager",
+          "Production Supervisor (Apparel)",
+          "Fashion Teacher/Instructor (with training)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,600 - 4,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Pattern Drafting and Garment Construction",
+              "Fashion Illustration",
+              "Textile Design and Technology",
+              "Apparel Production Management",
+              "Fashion Marketing and Merchandising",
+              "Entrepreneurship in Fashion"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually (estimated, higher for successful entrepreneurs)",
+              "USA: $45,000 - $90,000 (estimated)",
+              "Europe: €35,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Studio-based teaching with practical sewing and design projects",
+              "Fashion shows, exhibitions and internships in fashion houses"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives such as Visual Arts, Textiles, Clothing and Textiles, Home Economics or related subjects",
+              "Aggregate not exceeding 36 (estimated)",
+              "Fashion/textiles-related diploma holders may be considered for advanced entry"
+            ],
+            "level_note": [
+              "Programme nurtures creative and technical skills for the fashion and textiles industry.",
+              "Students graduate with portfolios suitable for employment or entrepreneurship."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Food Technology",
+        "career": [
+          "Food Technologist",
+          "Quality Control Officer (Food)",
+          "Production Supervisor (Food Industry)",
+          "Food Safety Officer",
+          "Research and Development Assistant (Food)",
+          "Product Development Officer",
+          "Food Laboratory Analyst",
+          "Quality Assurance Officer",
+          "HACCP Officer",
+          "Food Processing Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,500 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Food Chemistry",
+              "Food Microbiology",
+              "Food Processing and Preservation",
+              "Food Quality Assurance",
+              "Food Plant Design",
+              "Nutrition and Public Health"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - 85,000 annually (estimated)",
+              "USA: $55,000 - $95,000 (estimated)",
+              "Europe: €40,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 22 - 34 (estimated)"],
+            "mode": [
+              "Full-time lectures and laboratory practicals",
+              "Industrial attachments with food processing and beverage companies"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Chemistry and two other science-related electives such as Biology, Physics or Food and Nutrition",
+              "Aggregate not exceeding 34 (estimated)",
+              "Food science and related diploma holders may be considered for advanced standing"
+            ],
+            "level_note": [
+              "Programme focuses on the science and technology of food processing and safety.",
+              "Graduates work in the food and beverage industries, quality assurance and product development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Hospitality Management and Catering Technology",
+        "career": [
+          "Hospitality Manager",
+          "Hotel Supervisor",
+          "Restaurant Manager",
+          "Catering Manager",
+          "Events Coordinator",
+          "Food and Beverage Supervisor",
+          "Front Office Supervisor",
+          "Guest Relations Officer",
+          "Tourism and Hospitality Entrepreneur",
+          "Housekeeping Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,600 - 4,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Hospitality Operations Management",
+              "Food Production and Catering",
+              "Front Office Operations",
+              "Housekeeping Management",
+              "Events and Conference Management",
+              "Tourism and Hospitality Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 80,000 annually (estimated)",
+              "USA: $40,000 - $85,000 (estimated)",
+              "Europe: €32,000 - €75,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures combined with practical kitchen and service sessions",
+              "Industrial attachments with hotels, restaurants and hospitality organisations"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives such as Home Economics, Food and Nutrition, Economics or Management in Living",
+              "Aggregate not exceeding 36 (estimated)",
+              "Hospitality and catering-related diploma holders may enter at advanced levels"
+            ],
+            "level_note": [
+              "Programme equips students for supervisory roles in the hospitality and catering industry.",
+              "Emphasis is on practical hospitality operations and customer service excellence."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Interior Design Technology",
+        "career": [
+          "Interior Designer",
+          "Interior Design Technologist",
+          "Space Planner",
+          "Furniture Design Assistant",
+          "Interior Decorator",
+          "Project Assistant (Interior Fit-Out)",
+          "Visual Merchandiser",
+          "Exhibition and Event Designer",
+          "CAD Technician (Interior Design)",
+          "Colour and Materials Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Interior Design Principles",
+              "Furniture and Joinery Design Basics",
+              "Materials and Finishes",
+              "Lighting Design",
+              "Computer-Aided Interior Design",
+              "Interior Project Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually (estimated)",
+              "USA: $45,000 - $90,000 (estimated)",
+              "Europe: €35,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Studio and workshop-based teaching with design projects",
+              "Internships with interior design firms and furniture companies"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives such as Visual Arts, Technical Drawing, Building Construction or related subjects",
+              "Aggregate not exceeding 36 (estimated)",
+              "Interior design/building-related diplomas may receive advanced placement"
+            ],
+            "level_note": [
+              "Programme focuses on functional and aesthetic design of interior spaces.",
+              "Students graduate with portfolios suitable for interior design employment or self-employment."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Textiles Production and Soft Furnishing",
+        "career": [
+          "Textile Designer",
+          "Fabric Production Supervisor",
+          "Soft Furnishings Designer",
+          "Quality Control Officer (Textiles)",
+          "Product Development Assistant (Textiles)",
+          "Home Décor Entrepreneur",
+          "Textiles Merchandiser",
+          "Printing and Dyeing Technician",
+          "Upholstery and Soft Furnishing Technician",
+          "Fashion and Textiles Teacher (with professional training)"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,600 - 4,800 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Textile Design and Colour",
+              "Fabric Construction and Technology",
+              "Printing and Dyeing Techniques",
+              "Soft Furnishings Design",
+              "Textile Product Development",
+              "Entrepreneurship in Textiles"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 75,000 annually (estimated)",
+              "USA: $40,000 - $80,000 (estimated)",
+              "Europe: €32,000 - €70,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Studio and workshop-based learning with practical projects",
+              "Industrial attachments in textiles, home décor and related industries"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three electives such as Textiles, Clothing and Textiles, Visual Arts or related subjects",
+              "Aggregate not exceeding 36 (estimated)",
+              "Textiles and fashion-related diplomas may qualify for advanced entry"
+            ],
+            "level_note": [
+              "Programme covers both textiles production and design of soft furnishings for interiors.",
+              "Graduates can work in manufacturing, décor businesses or establish their own enterprises."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "PhD & Doctorate",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Doctor of Philosophy (PhD) in Applied Statistics",
+        "career": [
+          "University Lecturer in Statistics",
+          "Research Scientist (Statistics)",
+          "Biostatistician",
+          "Data Science Lead",
+          "Senior Quantitative Analyst",
+          "Monitoring and Evaluation Specialist",
+          "Statistical Consultant",
+          "Policy Analyst (Data and Evidence)",
+          "Survey Methodologist",
+          "Senior Government Statistician"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate",
+            "fees": [
+              "Ghanaian Students: GHC 10,000 - 15,000 per year (estimated)"
+            ],
+            "duration": "3 - 4 years (full-time)",
+            "electives": [
+              "Advanced Statistical Inference",
+              "Multivariate Analysis and Modelling",
+              "Time Series and Forecasting",
+              "Bayesian Statistics",
+              "Survey Sampling and Design",
+              "Special Topics in Applied Statistics"
+            ],
+            "salary": [
+              "Ghana: GHS 100,000 - 200,000 annually (estimated)",
+              "USA: $120,000 - $220,000 (estimated)",
+              "Europe: €90,000 - €180,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-focused with limited taught courses",
+              "Full-time or part-time study with thesis supervision",
+              "Seminars, workshops and conference presentations"
+            ],
+            "entry_requirements": [
+              "Relevant Master’s degree in Statistics, Applied Statistics or related quantitative field from a recognised institution",
+              "Strong background in statistical methods and research",
+              "Research proposal acceptable to the Department",
+              "Evidence of academic publications or research experience is an advantage"
+            ],
+            "level_note": [
+              "Programme focuses on high-level research in applied statistical methods and their applications.",
+              "Graduates are prepared for senior research and academic roles in universities, government and industry."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Doctor of Technology in Automotive Engineering",
+        "career": [
+          "Senior Automotive Engineering Consultant",
+          "Head of Engineering and Maintenance",
+          "R&D Lead (Automotive)",
+          "Automotive Design and Innovation Specialist",
+          "Technical Director (Automotive Firm)",
+          "Academic/Researcher in Automotive Engineering",
+          "Automotive Quality and Standards Manager",
+          "Fleet Operations and Engineering Manager",
+          "Industrial Trainer in Automotive Technology",
+          "Independent Automotive Engineering Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate",
+            "fees": [
+              "Ghanaian Students: GHC 11,000 - 16,000 per year (estimated)"
+            ],
+            "duration": "3 - 4 years (full-time, research and practice-based)",
+            "electives": [
+              "Advanced Vehicle Systems and Diagnostics",
+              "Automotive Powertrain and Emissions",
+              "Vehicle Dynamics and Control",
+              "Automotive Materials and Manufacturing",
+              "Sustainable and Electric Mobility",
+              "Research Methods in Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 110,000 - 220,000 annually (estimated)",
+              "USA: $130,000 - $230,000 (estimated)",
+              "Europe: €95,000 - €190,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Practice-oriented doctoral work with strong industry collaboration",
+              "Independent research under academic and industry supervision",
+              "Seminars, design reviews and technical publications"
+            ],
+            "entry_requirements": [
+              "Relevant Master’s degree in Automotive, Mechanical or related Engineering discipline from an accredited institution",
+              "Relevant industrial experience in automotive engineering is highly desirable",
+              "Research/professional portfolio and concept note on proposed area of study",
+              "Satisfactory performance at interview"
+            ],
+            "level_note": [
+              "Programme is designed for professionals aiming at leadership in automotive engineering practice and research.",
+              "It emphasises solving complex industry problems and contributing to technological innovation."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Doctor of Technology in Chemical Engineering",
+        "career": [
+          "Senior Process Engineering Consultant",
+          "Plant Technical Director",
+          "R&D Manager (Chemical/Process Industry)",
+          "Process Safety and Risk Management Specialist",
+          "Academic/Researcher in Chemical Engineering",
+          "Environmental and Sustainability Specialist",
+          "Operations Excellence Manager",
+          "Technical Adviser (Oil, Gas and Process Industries)",
+          "Industrial Process Design Consultant",
+          "Quality and Compliance Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate",
+            "fees": [
+              "Ghanaian Students: GHC 11,000 - 16,000 per year (estimated)"
+            ],
+            "duration": "3 - 4 years (full-time, research and practice-based)",
+            "electives": [
+              "Advanced Reaction Engineering",
+              "Process Integration and Optimization",
+              "Advanced Transport Phenomena",
+              "Process Safety and Risk Analysis",
+              "Sustainable Process Design",
+              "Advanced Process Control and Modelling"
+            ],
+            "salary": [
+              "Ghana: GHS 110,000 - 220,000 annually (estimated)",
+              "USA: $130,000 - $230,000 (estimated)",
+              "Europe: €95,000 - €190,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-intensive with industry-based projects",
+              "One-on-one supervision and thesis defence",
+              "Seminars and publications in peer-reviewed outlets"
+            ],
+            "entry_requirements": [
+              "Master’s degree in Chemical Engineering or a closely related field from a recognised university",
+              "Relevant industrial/process engineering experience is an advantage",
+              "Detailed research proposal aligned with departmental focus areas",
+              "Satisfactory performance at selection interview"
+            ],
+            "level_note": [
+              "Programme develops experts who can lead innovation and optimisation in process industries.",
+              "Graduates influence policy, design and management in chemical and allied industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Doctor of Technology in Civil Engineering",
+        "career": [
+          "Senior Civil Engineering Consultant",
+          "Infrastructure Project Director",
+          "Structural Design Lead",
+          "Transport and Highway Engineering Specialist",
+          "Water Resources and Environmental Engineering Consultant",
+          "Academic/Researcher in Civil Engineering",
+          "Construction and Project Management Director",
+          "Policy Advisor on Infrastructure Development",
+          "Geotechnical Engineering Consultant",
+          "Urban Infrastructure Planner"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate",
+            "fees": [
+              "Ghanaian Students: GHC 11,000 - 16,000 per year (estimated)"
+            ],
+            "duration": "3 - 4 years (full-time, research and practice-based)",
+            "electives": [
+              "Advanced Structural Engineering",
+              "Highway and Pavement Engineering",
+              "Water Resources and Environmental Systems",
+              "Geotechnical Modelling and Design",
+              "Construction Project Planning and Control",
+              "Resilient and Sustainable Infrastructure"
+            ],
+            "salary": [
+              "Ghana: GHS 110,000 - 220,000 annually (estimated)",
+              "USA: $130,000 - $230,000 (estimated)",
+              "Europe: €95,000 - €190,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Research-oriented with strong industry and field components",
+              "Supervised thesis, seminars and technical publications",
+              "Full-time or part-time modes for professionals"
+            ],
+            "entry_requirements": [
+              "Master’s degree in Civil Engineering or a closely related discipline from an accredited institution",
+              "Relevant professional/industry experience in civil works is an advantage",
+              "Approved research proposal in a relevant area of civil engineering",
+              "Successful performance at interview and review of academic credentials"
+            ],
+            "level_note": [
+              "Programme addresses complex infrastructure and environmental challenges through advanced research.",
+              "Graduates are prepared to lead large-scale civil engineering projects and academic programmes."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Masters",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Master of Arts (MA) in Marketing Management",
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Manager",
+          "Sales and Marketing Executive",
+          "Market Research Manager",
+          "Customer Experience Manager",
+          "Product Manager",
+          "Advertising and Communications Manager",
+          "Business Development Manager",
+          "Marketing Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 25,000 total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Strategic Marketing Management",
+              "Consumer Behaviour Analysis",
+              "Digital and Social Media Marketing",
+              "Brand Strategy and Communication",
+              "Marketing Research and Analytics",
+              "Services and Relationship Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 150,000 annually (estimated)",
+              "USA: $90,000 - $160,000 (estimated)",
+              "Europe: €65,000 - €130,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekends and evening sessions for working professionals (varies by cohort)",
+              "Coursework, case studies and project-based learning",
+              "Research project or dissertation in final stage"
+            ],
+            "entry_requirements": [
+              "Good first degree in Marketing, Business Administration or related discipline from a recognised institution",
+              "Applicants with other degrees must demonstrate relevant marketing or business experience",
+              "Satisfactory performance at interview where required",
+              "Evidence of work experience is an advantage"
+            ],
+            "level_note": [
+              "Programme deepens professional knowledge in contemporary marketing practice and strategy.",
+              "It is tailored for graduates and practitioners seeking leadership roles in marketing and communications."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Engineering In Automotive Engineering",
+        "career": [
+          "Senior Automotive Engineer",
+          "R&D Engineer (Automotive)",
+          "Automotive Design Engineer",
+          "Vehicle Systems Engineer",
+          "Fleet Technical Manager",
+          "Automotive Maintenance Manager",
+          "Technical Trainer (Automotive)",
+          "Automotive Quality Engineer",
+          "Product Support Engineer",
+          "Automotive Project Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 25,000 - 30,000 total (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Vehicle Dynamics",
+              "Automotive Powertrain and Control",
+              "Automotive Electronics and Mechatronics",
+              "Advanced Diagnostics and Fault Analysis",
+              "Automotive Materials and Manufacturing",
+              "Vehicle Safety and Regulations"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Taught courses combined with research or project work",
+              "Evening/weekend or modular delivery for professionals (varies)",
+              "Laboratory and industry-based practicals"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree (at least Second Class Lower) in Automotive, Mechanical or related Engineering field",
+              "Relevant industry experience is an advantage",
+              "Applicants may be required to attend an interview",
+              "Applicants with strong HND plus substantial experience may be considered under special entry routes"
+            ],
+            "level_note": [
+              "Programme provides advanced knowledge in vehicle design, performance and diagnostics.",
+              "Graduates are prepared for senior technical and management roles in the automotive sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Engineering in Chemical Engineering",
+        "career": [
+          "Senior Process Engineer",
+          "Design Engineer (Chemical Plants)",
+          "Operations and Production Manager",
+          "Process Safety Engineer",
+          "Quality and Compliance Manager",
+          "Environmental and Sustainability Engineer",
+          "Technical Consultant (Process Industries)",
+          "R&D Engineer (Chemical/Process)",
+          "Plant Commissioning Engineer",
+          "Technical Services Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 25,000 - 30,000 total (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Chemical Reaction Engineering",
+              "Transport Phenomena and Modelling",
+              "Advanced Separation Processes",
+              "Process Design and Simulation",
+              "Process Safety and Risk Management",
+              "Energy and Environmental Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Coursework plus thesis or major project",
+              "Flexible scheduling for working professionals where available",
+              "Laboratory and industry-based research projects"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree in Chemical Engineering or closely related field with at least Second Class Lower",
+              "Relevant industrial experience is an advantage",
+              "Applicants may undergo an interview and review of academic record",
+              "Candidates from related engineering disciplines may take prerequisite courses"
+            ],
+            "level_note": [
+              "Programme builds advanced expertise for leadership in process and chemical industries.",
+              "Students engage in design, optimisation and sustainability-oriented projects."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Engineering In Civil Engineering (Highway and Transportation Engineering)",
+        "career": [
+          "Highway Engineer",
+          "Transportation Planning Engineer",
+          "Road Design Engineer",
+          "Traffic Operations Engineer",
+          "Transport Infrastructure Consultant",
+          "Road Safety Engineer",
+          "Transport Policy Analyst",
+          "Project Manager (Roads and Highways)",
+          "Urban Transport Planner",
+          "Research Engineer (Transportation)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 25,000 - 30,000 total (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Highway Design",
+              "Traffic Engineering and Management",
+              "Pavement Design and Materials",
+              "Transportation Planning and Modelling",
+              "Road Safety Engineering",
+              "Urban Transport Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Taught modules with design studio and project work",
+              "Field trips and case studies on national and urban roads",
+              "Thesis or major project in transportation engineering"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree in Civil Engineering or a related field with at least Second Class Lower",
+              "Experience in road or transport projects is an advantage",
+              "Interview and review of academic credentials may be required",
+              "Candidates from related disciplines may take bridging courses"
+            ],
+            "level_note": [
+              "Programme focuses on planning, design and management of roads and transport systems.",
+              "Graduates are equipped to handle complex highway and traffic engineering challenges."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Engineering In Civil Engineering (Structural Engineering)",
+        "career": [
+          "Structural Engineer",
+          "Bridge Design Engineer",
+          "Structural Design Consultant",
+          "Structural Assessment Engineer",
+          "Construction Engineering Manager",
+          "Structural Analysis Specialist",
+          "Engineering Project Manager",
+          "Infrastructure Consultant",
+          "Research Engineer (Structures)",
+          "Technical Advisor (Structural Safety)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 25,000 - 30,000 total (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Structural Analysis",
+              "Reinforced and Prestressed Concrete Design",
+              "Steel and Composite Structures",
+              "Structural Dynamics and Earthquake Engineering",
+              "Finite Element Methods",
+              "Bridge Design and Assessment"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 180,000 annually (estimated)",
+              "USA: $105,000 - $190,000 (estimated)",
+              "Europe: €75,000 - €145,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Coursework, design studio and computer-based modelling",
+              "Project or thesis on structural engineering topics",
+              "Evening/weekend or modular delivery for professionals (where applicable)"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree in Civil Engineering or closely related area with at least Second Class Lower",
+              "Structural engineering background is an advantage",
+              "Interview and portfolio of design/engineering work may be requested",
+              "Bridging modules may be required for non-civil backgrounds"
+            ],
+            "level_note": [
+              "Programme deepens knowledge in analysis and design of complex structures.",
+              "Graduates can lead structural design teams and consultancies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Engineering In Civil Engineering (Water and Environmental Engineering) (1 Year)",
+        "career": [
+          "Water Resources Engineer",
+          "Environmental Engineer",
+          "Sanitation and Wastewater Engineer",
+          "Hydraulic Engineer",
+          "Environmental Consultant",
+          "Water and Sanitation Project Manager",
+          "Climate and Resilience Engineer",
+          "Hydrologist (with additional training)",
+          "NGO Programme Engineer (WASH)",
+          "Policy and Planning Officer (Water and Environment)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 22,000 - 28,000 total (estimated)"
+            ],
+            "duration": "1 year (intensive)",
+            "electives": [
+              "Water Supply and Treatment Systems",
+              "Wastewater and Sewerage Engineering",
+              "Hydrology and Water Resources Management",
+              "Solid Waste and Environmental Management",
+              "Environmental Impact Assessment",
+              "Climate Change and Water Security"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Intensive coursework with project-based learning",
+              "Field visits and case studies in water and sanitation projects",
+              "Short research project or professional project report"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree in Civil, Environmental, Water Resources or related Engineering discipline",
+              "Good honours degree (normally Second Class Lower or better)",
+              "Professional experience in water or environmental sectors is an advantage",
+              "Selection may include interview and review of professional experience"
+            ],
+            "level_note": [
+              "Programme targets practising engineers requiring specialised water and environmental skills.",
+              "It is delivered in a compact format suitable for professionals."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science in Agribusiness And Food Industry Management",
+        "career": [
+          "Agribusiness Manager",
+          "Food Industry Operations Manager",
+          "Agricultural Value Chain Specialist",
+          "Agribusiness Consultant",
+          "Supply Chain Manager (Agrifood)",
+          "Policy Analyst (Agriculture and Food)",
+          "Project Manager (Agriculture and Food Security)",
+          "Food Processing Business Owner",
+          "Investment Analyst (Agribusiness)",
+          "Programme Manager (NGO/Development, Agriculture)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 25,000 total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Agribusiness Management and Strategy",
+              "Food Supply Chain and Logistics",
+              "Agricultural Marketing and Trade",
+              "Agricultural Finance and Risk Management",
+              "Food Industry Operations Management",
+              "Policy and Institutional Frameworks in Agribusiness"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 150,000 annually (estimated)",
+              "USA: $90,000 - $160,000 (estimated)",
+              "Europe: €65,000 - €130,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Coursework with case studies and industry projects",
+              "Weekend/evening modes available for professionals (varies)",
+              "Research project or thesis in final stage"
+            ],
+            "entry_requirements": [
+              "Good first degree in Agribusiness, Agriculture, Food Science, Economics, Business Administration or related field",
+              "Relevant work experience in agribusiness or food industry is an advantage",
+              "Applicants may attend an interview and present a statement of purpose",
+              "Other degree holders with significant agribusiness experience may be considered"
+            ],
+            "level_note": [
+              "Programme develops managerial and analytical competencies for the agrifood sector.",
+              "Graduates are prepared for leadership roles along agribusiness value chains."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science in Banking and Finance (1 Year)",
+        "career": [
+          "Bank Manager",
+          "Corporate Relationship Manager",
+          "Investment Manager",
+          "Risk Manager",
+          "Treasury Manager",
+          "Financial Analyst",
+          "Credit Risk Manager",
+          "Portfolio Manager",
+          "Financial Consultant",
+          "Capital Markets Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 22,000 - 26,000 total (estimated)"
+            ],
+            "duration": "1 year (intensive)",
+            "electives": [
+              "Advanced Corporate Finance",
+              "Financial Markets and Institutions",
+              "Risk Management and Derivatives",
+              "Investment and Portfolio Management",
+              "Bank Management and Regulation",
+              "International Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Intensive coursework with case study and simulation focus",
+              "Weekend/evening or block teaching for professionals",
+              "Research project or applied finance project"
+            ],
+            "entry_requirements": [
+              "Good first degree in Banking and Finance, Accounting, Economics, Business Administration or related area",
+              "Relevant work experience in banking or finance preferred",
+              "Interview and review of academic transcripts may be required",
+              "Applicants from other backgrounds may take bridging courses in finance"
+            ],
+            "level_note": [
+              "Programme equips graduates for advanced roles in the banking and financial services sector.",
+              "It is structured to serve working professionals seeking rapid progression."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science in Business Administration and Innovation (Accountancy)",
+        "career": [
+          "Finance Manager",
+          "Chief Accountant",
+          "Financial Controller",
+          "Tax and Compliance Manager",
+          "Audit Manager",
+          "Management Consultant",
+          "Business Process Improvement Manager",
+          "Financial Systems Manager",
+          "Corporate Reporting Manager",
+          "Entrepreneur (Accounting and Advisory Services)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 25,000 total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Advanced Financial Reporting",
+              "Management Accounting and Control",
+              "Corporate Governance and Ethics",
+              "Innovation and Business Transformation",
+              "Strategic Management for Accountants",
+              "Tax Planning and Policy"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Coursework with case studies and group projects",
+              "Evening/weekend delivery to suit working professionals",
+              "Research or consultancy project in accounting and innovation"
+            ],
+            "entry_requirements": [
+              "Good first degree in Accounting or related field from a recognised institution",
+              "Professional accounting qualification (e.g. ICA, ACCA, CIMA) is an advantage",
+              "Relevant accounting or finance work experience preferred",
+              "Interview and assessment of academic/professional background"
+            ],
+            "level_note": [
+              "Programme combines advanced accounting with innovation and business transformation skills.",
+              "Graduates are prepared for senior finance roles in dynamic business environments."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science in Business Administration and Innovation (Banking and Finance)",
+        "career": [
+          "Senior Banking Executive",
+          "Corporate Finance Manager",
+          "Risk and Compliance Manager",
+          "Treasury and Investments Manager",
+          "Business Development Director (Financial Services)",
+          "Financial Innovation Manager",
+          "Credit and Risk Strategy Manager",
+          "Fintech Product Manager",
+          "Consultant (Banking and Finance)",
+          "Policy Analyst (Financial Sector)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 25,000 total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Strategic Banking and Financial Services",
+              "Financial Innovation and Technology",
+              "Advanced Risk Management",
+              "Corporate Governance in Financial Institutions",
+              "Strategic Management and Leadership",
+              "New Venture Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 85,000 - 180,000 annually (estimated)",
+              "USA: $105,000 - $190,000 (estimated)",
+              "Europe: €75,000 - €145,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening and weekend sessions for professionals",
+              "Case-based teaching and simulations",
+              "Applied research or consultancy project in banking and finance"
+            ],
+            "entry_requirements": [
+              "Good first degree in Banking and Finance, Accounting, Economics or related area",
+              "Relevant professional experience in banking or finance preferred",
+              "Interview and review of academic/professional record",
+              "Applicants from other fields may require bridging modules"
+            ],
+            "level_note": [
+              "Programme focuses on innovation and strategy within the banking and finance sector.",
+              "Graduates are equipped to drive change and new product development in financial institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science in Business Administration and Innovation (Logistics and Supply Chain Management)",
+        "career": [
+          "Supply Chain Manager",
+          "Logistics Director",
+          "Operations Manager",
+          "Procurement and Sourcing Manager",
+          "Distribution and Warehouse Manager",
+          "Transport and Fleet Manager",
+          "Supply Chain Strategy Consultant",
+          "Inventory and Demand Planning Manager",
+          "E-commerce Logistics Manager",
+          "Project Manager (Supply Chain)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 25,000 total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Strategic Supply Chain Management",
+              "Logistics and Transportation Systems",
+              "Procurement Strategy and Negotiation",
+              "Supply Chain Analytics and Technology",
+              "Sustainable Supply Chains",
+              "Innovation and Process Improvement in Operations"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/evening classes for working professionals",
+              "Case studies and simulation-based learning",
+              "Research or capstone project in logistics and supply chain"
+            ],
+            "entry_requirements": [
+              "Good first degree in Logistics, Supply Chain, Procurement, Operations Management, Business Administration or related area",
+              "Relevant professional experience is an advantage",
+              "Interview and evaluation of academic/professional experience",
+              "Bridging modules may be needed for unrelated degree holders"
+            ],
+            "level_note": [
+              "Programme emphasises strategic and innovative approaches to supply chain management.",
+              "It prepares graduates for leadership roles in logistics and operations across sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science in Business Administration and Innovation (Management Organizational Development)",
+        "career": [
+          "Organisational Development Manager",
+          "HR and Change Management Manager",
+          "Business Development Manager",
+          "Strategy and Innovation Manager",
+          "Management Consultant",
+          "Training and Development Manager",
+          "Corporate Planning Manager",
+          "Project and Programme Manager",
+          "Culture and Engagement Manager",
+          "Business Transformation Lead"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 25,000 total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Organisational Development and Change",
+              "Leadership and Team Dynamics",
+              "Strategic Management and Innovation",
+              "Human Resource Strategy",
+              "Performance Management and Talent Development",
+              "Business Process Re-engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 75,000 - 160,000 annually (estimated)",
+              "USA: $95,000 - $170,000 (estimated)",
+              "Europe: €70,000 - €135,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Coursework with strong case and project components",
+              "Flexible delivery for working professionals",
+              "Research or consulting project on organisational development"
+            ],
+            "entry_requirements": [
+              "Good first degree in Management, HR, Business Administration or related social science field",
+              "Relevant managerial or HR experience is an advantage",
+              "Interview and review of academic/professional profile",
+              "Applicants from other fields may need preparatory management courses"
+            ],
+            "level_note": [
+              "Programme focuses on improving organisational effectiveness and managing change.",
+              "Graduates are equipped to support transformation and innovation initiatives in organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science in Business Administration and Innovation (Procurement and Supply Chain Management)",
+        "career": [
+          "Head of Procurement",
+          "Supply Chain Manager",
+          "Category Manager",
+          "Strategic Sourcing Manager",
+          "Contract and Vendor Management Manager",
+          "Operations Manager",
+          "Logistics and Distribution Manager",
+          "Consultant (Procurement and Supply Chain)",
+          "Project Procurement Manager",
+          "Policy Analyst (Public Procurement)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 25,000 total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Advanced Procurement Management",
+              "Contract Law and Negotiation",
+              "Strategic Sourcing and Category Management",
+              "Public Procurement and Policy",
+              "Supply Chain Risk Management",
+              "Innovation and Technology in Procurement"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Evening/weekend teaching for professionals",
+              "Case-based and simulation-based learning",
+              "Research or practice-based project in procurement and supply chain"
+            ],
+            "entry_requirements": [
+              "Good first degree in Procurement, Supply Chain, Logistics, Business Administration or related area",
+              "Relevant professional experience in procurement or supply chain preferred",
+              "Interview and evaluation of academic/professional record",
+              "Professional procurement certifications are an advantage"
+            ],
+            "level_note": [
+              "Programme blends procurement strategy with innovative supply chain practices.",
+              "Graduates are prepared for senior procurement and supply chain leadership roles."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science in Business Administration and Innovation (Strategic Marketing)",
+        "career": [
+          "Marketing Director",
+          "Brand Strategy Manager",
+          "Business Development Director",
+          "Customer Insights Manager",
+          "Product and Innovation Manager",
+          "Digital Strategy Manager",
+          "Corporate Communications Manager",
+          "Marketing Consultant",
+          "Customer Experience Director",
+          "Strategy and Planning Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 25,000 total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Strategic Marketing and Planning",
+              "Brand Strategy and Positioning",
+              "Customer Insights and Analytics",
+              "Digital Strategy and Transformation",
+              "Innovation and New Product Development",
+              "Integrated Marketing Communications"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Coursework with case-based teaching and projects",
+              "Flexible modes for working professionals",
+              "Strategic marketing project or thesis"
+            ],
+            "entry_requirements": [
+              "Good first degree in Marketing, Business Administration or related area",
+              "Marketing or commercial work experience is an advantage",
+              "Interview and review of academic/professional profile",
+              "Applicants from other fields may require bridging modules"
+            ],
+            "level_note": [
+              "Programme focuses on high-level marketing strategy and innovation.",
+              "Graduates are prepared to lead marketing strategy and brand management functions."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master of Science in Hospitality and Catering Management",
+        "career": [
+          "Hotel Manager",
+          "Restaurant Manager",
+          "Food and Beverage Manager",
+          "Events and Conference Manager",
+          "Hospitality Operations Manager",
+          "Resort Manager",
+          "Tourism and Hospitality Consultant",
+          "Quality Assurance Manager (Hospitality)",
+          "Guest Relations Manager",
+          "Catering Business Owner"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 25,000 total (estimated)"
+            ],
+            "duration": "1 - 2 years",
+            "electives": [
+              "Strategic Hospitality Management",
+              "Service Quality and Customer Experience",
+              "Food and Beverage Systems",
+              "Events and Conference Management",
+              "Tourism and Destination Management",
+              "Hospitality Entrepreneurship"
+            ],
+            "salary": [
+              "Ghana: GHS 70,000 - 150,000 annually (estimated)",
+              "USA: $80,000 - $150,000 (estimated)",
+              "Europe: €60,000 - €120,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Coursework combined with practical industry-based projects",
+              "Flexible scheduling for working professionals",
+              "Research or consultancy project in hospitality and tourism"
+            ],
+            "entry_requirements": [
+              "Good first degree in Hospitality Management, Tourism, Catering, Hotel Management or related field",
+              "Relevant hospitality industry experience is preferred",
+              "Selection interview and review of academic record",
+              "Applicants from other disciplines may require foundational hospitality courses"
+            ],
+            "level_note": [
+              "Programme develops strategic and operational management skills for the hospitality and tourism sector.",
+              "Graduates can lead hotels, catering operations and tourism businesses."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Higher National Diploma",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Higher Diploma In Health Statistics",
+        "career": [
+          "Health Statistics Officer",
+          "Monitoring and Evaluation Assistant",
+          "Data Entry and Management Officer",
+          "Health Information Assistant",
+          "Public Health Data Officer",
+          "NGO Health Project Data Assistant",
+          "District Health Information Officer (with experience)",
+          "Research Assistant (Health Projects)",
+          "Medical Records and Data Clerk",
+          "Survey and Field Data Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 3,800 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Introduction to Biostatistics",
+              "Data Collection and Survey Methods",
+              "Health Information Systems Basics",
+              "Epidemiology Fundamentals",
+              "Statistical Software Applications",
+              "Report Writing and Presentation"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually (estimated)",
+              "USA: $35,000 - $65,000 (estimated)",
+              "Europe: €28,000 - €55,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and computer lab sessions",
+              "Practicum in health facilities and projects"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes in English Language, Core Mathematics and Integrated Science",
+              "At least three passes in relevant elective subjects such as Biology, Elective Mathematics or Economics",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Mature applicants with relevant experience may be considered"
+            ],
+            "level_note": [
+              "Programme prepares middle-level personnel for data roles in the health sector.",
+              "Graduates can progress to degree programmes in statistics or health information management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Higher National Diploma (HND) in Chemical Engineering",
+        "career": [
+          "Plant Operator",
+          "Process Technician",
+          "Production Supervisor Assistant",
+          "Quality Control Technician",
+          "Laboratory Technician (Process Industry)",
+          "Field Technician (Oil, Gas and Chemicals)",
+          "Maintenance Technician (Process Plant)",
+          "Water Treatment Plant Assistant",
+          "Process Safety Assistant",
+          "Technical Sales Support (Chemicals)"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,200 - 4,000 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Unit Operations Basics",
+              "Chemical Thermodynamics Fundamentals",
+              "Process Calculations",
+              "Chemical Process Instrumentation",
+              "Plant Operations and Safety",
+              "Water and Wastewater Treatment Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 60,000 annually (estimated)",
+              "USA: $40,000 - $70,000 (estimated)",
+              "Europe: €30,000 - €60,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and laboratory practicals",
+              "Industrial attachment in chemical and process plants"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes including at least credit in English Language, Core Mathematics and Integrated Science",
+              "Credits/passes in Chemistry and other science/technical electives",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Technical/vocational certificate holders may be considered"
+            ],
+            "level_note": [
+              "Programme provides practical skills for process and chemical industries.",
+              "Graduates may progress to BTech or BEng Chemical Engineering with credit transfer."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Higher National Diploma (HND) In Dispensing Technology",
+        "career": [
+          "Dispensing Technician",
+          "Pharmacy Technician (with registration)",
+          "Hospital Pharmacy Assistant",
+          "Community Pharmacy Assistant",
+          "Pharmaceutical Sales Representative",
+          "Medical Counter Assistant",
+          "Pharmacy Store Officer",
+          "Pharmaceutical Production Technician",
+          "Drug Inventory Officer",
+          "Health Insurance Claims Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,200 - 4,000 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Pharmaceutics Basics",
+              "Pharmacology and Therapeutics Fundamentals",
+              "Dispensing Techniques and Calculations",
+              "Pharmacy Law and Ethics",
+              "Community and Hospital Pharmacy Practice",
+              "Pharmaceutical Calculations and Compounding"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually (estimated)",
+              "USA: $35,000 - $60,000 (estimated)",
+              "Europe: €28,000 - €55,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time classroom teaching and practicals in simulated pharmacies",
+              "Clinical attachments in hospital and community pharmacies"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes including credit in English Language, Core Mathematics and Integrated Science",
+              "Credits in science electives such as Chemistry and Biology",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Shortlisted applicants may be interviewed"
+            ],
+            "level_note": [
+              "Programme prepares students to support pharmacists in medicine dispensing and counselling.",
+              "Graduates can work in different pharmacy settings and progress to BTech Pharmaceutical Sciences."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Higher National Diploma in Electrical and Electronic Engineering",
+        "career": [
+          "Electrical Technician",
+          "Maintenance Technician (Electrical/Electronics)",
+          "Industrial Electrician",
+          "Telecommunications Technician",
+          "Power Systems Technician",
+          "Instrumentation Technician",
+          "Field Service Technician",
+          "Electrical Installation Technician",
+          "Renewable Energy Technician",
+          "Technical Support Technician (Electrical/Electronic)"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,200 - 4,000 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Electrical Machines and Power",
+              "Basic Electronics and Circuits",
+              "Digital Electronics Fundamentals",
+              "Electrical Installation and Wiring",
+              "Instrumentation and Control Basics",
+              "Industrial Safety and Maintenance"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 60,000 annually (estimated)",
+              "USA: $40,000 - $70,000 (estimated)",
+              "Europe: €30,000 - €60,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and laboratory/workshop practicals",
+              "Industrial attachment in electrical and manufacturing firms"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes including credit in English Language, Core Mathematics and Integrated Science",
+              "Credits/passes in Physics and other relevant technical/science electives",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Technical school graduates and related certificate holders may be considered"
+            ],
+            "level_note": [
+              "Programme equips students with hands-on skills for electrical and electronic maintenance roles.",
+              "Graduates can progress to BTech Electrical and Electronic Engineering programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Accountancy",
+        "career": [
+          "Accounts Clerk",
+          "Assistant Accountant",
+          "Bookkeeper",
+          "Payroll Clerk",
+          "Accounts Payable/Receivable Officer",
+          "Bank Teller/Clerk",
+          "Audit Assistant",
+          "Tax Assistant",
+          "Inventory and Costing Clerk",
+          "Finance Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,600 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Financial Accounting",
+              "Cost and Management Accounting",
+              "Business Mathematics and Statistics",
+              "Taxation Basics",
+              "Auditing Principles",
+              "Computerised Accounting Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 50,000 annually (estimated)",
+              "USA: $32,000 - $55,000 (estimated)",
+              "Europe: €25,000 - €50,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and tutorials with computer lab sessions",
+              "Industrial attachment in accounting and finance departments"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes including credit in English Language, Core Mathematics and either Integrated Science or Social Studies",
+              "Passes in three business-related electives such as Accounting, Business Management or Economics",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Mature applicants and business certificate holders may be considered"
+            ],
+            "level_note": [
+              "Programme produces middle-level accounting personnel for public and private sectors.",
+              "Graduates may progress to degree programmes in Accountancy or related areas."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
