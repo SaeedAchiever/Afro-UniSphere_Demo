@@ -1,0 +1,1680 @@
+[
+  {
+    "name": "Cape Coast University"
+  },
+
+  {
+    "faculty_name": "Engineering & Technology",
+    "note": [
+      "Engineering and Technology programmes focus on applied, industry-oriented training with strong laboratory and workshop components.",
+      "Cut-off points, fees and admission requirements are indicative and should be verified from official university publications."
+    ],
+    "courses": [
+      {
+        "course_name": "A Four-year Bachelor Of Technology In Renewable Energy Technology",
+        "career": [
+          "Renewable Energy Engineer",
+          "Solar PV Systems Engineer",
+          "Wind Energy Technician",
+          "Energy Auditor",
+          "Sustainable Energy Consultant",
+          "Power Plant Technician (Renewables)",
+          "Project Engineer (Energy)",
+          "Energy Systems Designer",
+          "Off-grid Energy Solutions Specialist",
+          "Research and Development Assistant (Energy)"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 6,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Solar Photovoltaic Systems Design",
+              "Wind and Small Hydro Systems",
+              "Energy Storage Technologies",
+              "Energy Efficiency and Auditing",
+              "Biomass and Bioenergy Systems",
+              "Power Electronics for Renewable Energy"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually (estimated)",
+              "USA: $70,000 - $120,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 32 (estimated)"],
+            "mode": [
+              "Full-time lectures and laboratory practicals",
+              "Field trips to renewable energy installations",
+              "Mandatory industrial attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE with credits (A1-C6/A-D) in English Language, Core Mathematics and Integrated Science",
+              "Credits in three relevant electives including Physics, Elective Mathematics and one of Chemistry or Applied Electricity/Technical Drawing",
+              "Overall aggregate not exceeding 32 (estimated)",
+              "HND and other relevant diploma holders may apply for top-up entry"
+            ],
+            "level_note": [
+              "Programme trains students in the design, installation and maintenance of renewable energy systems.",
+              "Graduates support Ghana’s energy transition and rural electrification initiatives."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "A Two-year Diploma In Renewable Energy Technology",
+        "career": [
+          "Renewable Energy Technician",
+          "Solar PV Installer",
+          "Energy Systems Assistant",
+          "Energy Audit Assistant",
+          "Maintenance Technician (Renewable Systems)",
+          "Off-grid Energy Installation Technician",
+          "Field Technician (Energy Projects)",
+          "Technical Sales Assistant (Solar Products)",
+          "Community Energy Project Assistant",
+          "Power Systems Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "DIPLOMA",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 4,200 per year (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Basics of Renewable Energy",
+              "Solar PV Installation Techniques",
+              "Electrical Wiring and Safety",
+              "Basic Energy Auditing",
+              "Battery and Energy Storage Basics",
+              "Entrepreneurship in Renewable Energy"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually (estimated)",
+              "USA: $30,000 - $55,000 (estimated)",
+              "Europe: €24,000 - €45,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time classroom and workshop sessions",
+              "Hands-on fieldwork and basic installations"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes in English Language, Core Mathematics and Integrated Science",
+              "At least three passes in relevant electives such as Physics, Elective Mathematics or Applied Electricity",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Mature applicants with relevant technical experience may be considered"
+            ],
+            "level_note": [
+              "Programme prepares technicians to support renewable energy deployment at community and SME level.",
+              "Graduates can progress to BTech Renewable Energy Technology through top-up routes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Automation Engineering",
+        "career": [
+          "Automation Engineer",
+          "Control Systems Engineer",
+          "PLC Programmer",
+          "Industrial Automation Technician",
+          "SCADA Systems Engineer",
+          "Maintenance Engineer (Automation)",
+          "Instrumentation and Control Technician",
+          "Robotics Technician (entry level)",
+          "Process Control Engineer",
+          "Manufacturing Systems Technologist"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 6,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Programmable Logic Controllers (PLCs)",
+              "Industrial Sensors and Instrumentation",
+              "SCADA and HMI Systems",
+              "Industrial Robotics Basics",
+              "Mechatronic Systems",
+              "Industrial Networks and Communication"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually (estimated)",
+              "USA: $75,000 - $130,000 (estimated)",
+              "Europe: €55,000 - €100,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time lectures and lab-based learning",
+              "Industry projects and plant visits"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one other science/technical elective",
+              "Competitive aggregate not exceeding 30 (estimated)",
+              "Relevant HND/technical diploma holders may be considered for advanced standing"
+            ],
+            "level_note": [
+              "Students learn to design and maintain automated industrial systems.",
+              "Programme supports modernisation and automation in manufacturing and process industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor Of Technology (BTECH) In Agricultural Engineering (4 Years)",
+        "career": [
+          "Agricultural Engineer",
+          "Farm Machinery Engineer",
+          "Irrigation and Drainage Engineer",
+          "Post-harvest Technology Engineer",
+          "Farm Operations Manager",
+          "Agricultural Equipment Sales Engineer",
+          "Extension Engineer",
+          "Agricultural Project Officer",
+          "Soil and Water Conservation Engineer",
+          "Agribusiness Technical Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,500 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Farm Power and Machinery",
+              "Soil and Water Engineering",
+              "Irrigation and Drainage",
+              "Post-harvest Technology",
+              "Agricultural Structures and Environment",
+              "Agricultural Project Planning"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 84,000 annually (estimated)",
+              "USA: $60,000 - $110,000 (estimated)",
+              "Europe: €45,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36 (estimated)"],
+            "mode": [
+              "Full-time lectures, field practicals and workshops",
+              "Industrial attachment with farms and agro-based industries"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one of Chemistry/Agricultural Science/Technical Drawing",
+              "Aggregate not exceeding 36 (estimated)",
+              "HND Agricultural Engineering or related fields may gain advanced standing"
+            ],
+            "level_note": [
+              "Programme focuses on mechanisation and sustainable agricultural systems.",
+              "Graduates contribute to productivity improvements in Ghana’s agricultural sector."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor Of Technology (BTECH) In Mechanical Engineering (4 Years)",
+        "career": [
+          "Mechanical Engineer",
+          "Maintenance Engineer",
+          "Plant Engineer",
+          "Production Engineer",
+          "Design Engineer",
+          "Quality Control Engineer",
+          "Utilities and Energy Engineer",
+          "Project Engineer",
+          "Manufacturing Engineer",
+          "Technical Consultant (Mechanical Systems)"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 6,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Machine Design",
+              "Thermodynamics and Heat Transfer",
+              "Manufacturing Processes",
+              "Fluid Mechanics",
+              "Maintenance and Reliability Engineering",
+              "Computer-Aided Design and Analysis"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 20 - 32 (estimated)"],
+            "mode": [
+              "Full-time lectures with intensive workshop practice",
+              "Industry-based projects and attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one other science/technical elective",
+              "Aggregate not exceeding 32 (estimated)",
+              "Relevant HND Mechanical Engineering holders may enter at higher levels"
+            ],
+            "level_note": [
+              "Programme provides a broad foundation in mechanical engineering principles and applications.",
+              "Graduates are prepared for roles in manufacturing, energy, automotive and related industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Civil Engineering",
+        "career": [
+          "Civil Engineer",
+          "Structural Engineer",
+          "Site Engineer",
+          "Highway Engineer",
+          "Water Resources Engineer",
+          "Construction Project Engineer",
+          "Municipal Engineer",
+          "Geotechnical Engineer (with further study)",
+          "Infrastructure Consultant",
+          "Project Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 6,000 per year (estimated)"
+            ],
+            "duration": "3 - 4 years (depending on entry route)",
+            "electives": [
+              "Structural Analysis and Design",
+              "Transportation Engineering",
+              "Hydraulics and Hydrology",
+              "Geotechnical Engineering",
+              "Construction Management",
+              "Engineering Surveying"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 110,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time classroom, design studio and field practicals",
+              "Site visits and industrial attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one of Chemistry/Technical Drawing/Building Construction",
+              "Aggregate not exceeding 30 (estimated)",
+              "HND Civil Engineering holders may be admitted to top-up levels"
+            ],
+            "level_note": [
+              "Students acquire skills for planning, designing and supervising civil infrastructure projects.",
+              "Programme emphasises practical field exposure and construction management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Civil Engineering (4 Years)",
+        "career": [
+          "Civil Engineer",
+          "Structural Design Engineer",
+          "Highway and Transportation Engineer",
+          "Water and Environmental Engineer",
+          "Construction Site Engineer",
+          "Infrastructure Planning Officer",
+          "Consulting Engineer",
+          "Project Manager",
+          "Municipal Works Engineer",
+          "Research Assistant (Civil Engineering)"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 6,000 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Reinforced Concrete Design",
+              "Steel Structures",
+              "Highway and Traffic Engineering",
+              "Water Supply and Wastewater Engineering",
+              "Construction Planning and Control",
+              "Environmental Impact Assessment"
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - 110,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time lecture and laboratory-based delivery",
+              "Design projects and industrial attachments"
+            ],
+            "entry_requirements": [
+              "Standard WASSCE entry with strong science/technical background",
+              "Direct entry from secondary school for 4-year track",
+              "Alternative routes for technical and vocational graduates subject to evaluation"
+            ],
+            "level_note": [
+              "This is the standard full-duration civil engineering pathway from WASSCE level.",
+              "Curriculum prepares students for professional registration and further postgraduate study."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Civil Engineering (Top-up)",
+        "career": [
+          "Civil Engineer",
+          "Construction Supervisor",
+          "Project Engineer",
+          "Site Engineer",
+          "Technical Officer (Civil Works)",
+          "Roads and Highways Supervisor",
+          "Water and Sanitation Project Officer",
+          "Building Inspector",
+          "Infrastructure Maintenance Supervisor",
+          "Consulting Engineer (with experience)"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,500 per year (estimated)"
+            ],
+            "duration": "2 - 3 years (top-up)",
+            "electives": [
+              "Advanced Structural Design",
+              "Highway Engineering Practice",
+              "Construction Contracts and Law",
+              "Water and Sewerage Systems",
+              "Project Management",
+              "Computer-Aided Design (CAD) for Civil Engineers"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 115,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/evening modes may be available for working HND holders",
+              "Mix of lectures, design studios and project work"
+            ],
+            "entry_requirements": [
+              "HND in Civil Engineering or closely related field from an accredited institution",
+              "Good HND classification (usually Second Class Lower or better)",
+              "Relevant work experience is an advantage",
+              "Successful performance at interview and transcript evaluation"
+            ],
+            "level_note": [
+              "Top-up route for HND holders seeking a bachelor-level qualification in civil engineering.",
+              "Focuses on higher-level design, project management and professional skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma In Civil Engineering",
+        "career": [
+          "Civil Engineering Technician",
+          "Site Supervisor",
+          "Survey Assistant",
+          "Quality Control Technician (Construction)",
+          "Draftsman/Draughtsman",
+          "Construction Materials Technician",
+          "Road Works Technician",
+          "Water and Sanitation Technician",
+          "Infrastructure Maintenance Assistant",
+          "Clerk of Works Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "DIPLOMA",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 4,000 per year (estimated)"
+            ],
+            "duration": "2 - 3 years",
+            "electives": [
+              "Engineering Drawing",
+              "Construction Technology Basics",
+              "Surveying Fundamentals",
+              "Strength of Materials",
+              "Concrete Technology Basics",
+              "Construction Measurement and Estimating"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually (estimated)",
+              "USA: $30,000 - $50,000 (estimated)",
+              "Europe: €24,000 - €45,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time classroom teaching and field practicals",
+              "Short industrial attachments with construction firms"
+            ],
+            "entry_requirements": [
+              "WASSCE passes in English Language, Core Mathematics and Integrated Science",
+              "Passes in three technical/science electives such as Building Construction, Physics or Technical Drawing",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Mature candidates with construction experience may be considered"
+            ],
+            "level_note": [
+              "Programme prepares middle-level civil engineering technicians.",
+              "Graduates may progress to HND or BTech Civil Engineering programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma In Mechanical Engineering",
+        "career": [
+          "Mechanical Engineering Technician",
+          "Maintenance Technician",
+          "Plant Technician",
+          "Workshop Technician",
+          "Production Technician",
+          "Utilities Technician",
+          "Fitter and Turner",
+          "Mechanical Drafting Technician",
+          "Quality Control Assistant",
+          "Field Service Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "DIPLOMA",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 4,000 per year (estimated)"
+            ],
+            "duration": "2 - 3 years",
+            "electives": [
+              "Engineering Drawing and CAD Basics",
+              "Workshop Technology",
+              "Thermodynamics Fundamentals",
+              "Strength of Materials Basics",
+              "Fluid Mechanics Basics",
+              "Maintenance Practices"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually (estimated)",
+              "USA: $30,000 - $55,000 (estimated)",
+              "Europe: €24,000 - €45,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and workshop practicals",
+              "Short industrial attachments in mechanical workshops and plants"
+            ],
+            "entry_requirements": [
+              "WASSCE passes in English Language, Core Mathematics and Integrated Science",
+              "Passes in Physics and at least two other technical/science electives",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Technical/Vocational certificate holders may be admitted after assessment"
+            ],
+            "level_note": [
+              "Diploma provides foundational mechanical engineering skills for technician roles.",
+              "Graduates can progress to HND or BTech Mechanical Engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Electrical And Electronics Engineering",
+        "career": [
+          "Electrical Engineer",
+          "Electronics Engineer",
+          "Power Systems Technician",
+          "Telecommunications Technician",
+          "Maintenance Engineer",
+          "Automation Technician",
+          "Electrical Installation Supervisor",
+          "Field Service Engineer",
+          "Instrumentation Technician",
+          "Technical Support Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,200 - 6,200 per year (estimated)"
+            ],
+            "duration": "3 - 4 years",
+            "electives": [
+              "Power Systems Analysis",
+              "Electric Machines and Drives",
+              "Digital Electronics",
+              "Control Systems",
+              "Renewable Energy Systems",
+              "Telecommunications Fundamentals"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 18 - 30 (estimated)"],
+            "mode": [
+              "Full-time lectures, tutorials and lab sessions",
+              "Industrial attachments in power, telecoms and manufacturing sectors"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science",
+              "Credits in Physics, Elective Mathematics and one other science/technical elective",
+              "Aggregate not exceeding 30 (estimated)",
+              "HND Electrical/Electronic Engineering holders may enter top-up track"
+            ],
+            "level_note": [
+              "BTech route emphasises applied electrical and electronic engineering skills.",
+              "Graduates can work in power utilities, manufacturing, telecom and automation industries."
+            ]
+          },
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,200 - 4,000 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Circuit Theory and Analysis",
+              "Electrical Machines Basics",
+              "Analogue and Digital Electronics",
+              "Installation and Wiring Practice",
+              "Basic Control Systems",
+              "Industrial Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 70,000 annually (estimated)",
+              "USA: $35,000 - $60,000 (estimated)",
+              "Europe: €28,000 - €50,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and workshop sessions",
+              "Industrial attachment with electrical contractors and firms"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes in English Language, Core Mathematics and Integrated Science",
+              "Passes/credits in Physics, Elective Mathematics and one other technical/science subject",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Mature applicants with electrical trade certificates may be considered"
+            ],
+            "level_note": [
+              "HND prepares middle-level electrical and electronics technicians.",
+              "HND graduates may progress to BTech Electrical and Electronics Engineering."
+            ]
+          },
+          {
+            "level_name": "DIPLOMA",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,800 per year (estimated)"
+            ],
+            "duration": "2 - 3 years",
+            "electives": [
+              "Basic Electrical Principles",
+              "Electronics Fundamentals",
+              "Electrical Drawing",
+              "Wiring and Installation Practice",
+              "Introductory Digital Systems",
+              "Workshop Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 45,000 annually (estimated)",
+              "USA: $28,000 - $45,000 (estimated)",
+              "Europe: €22,000 - €38,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time classroom and workshop-based learning",
+              "Short practical attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE passes in English Language, Core Mathematics and Integrated Science",
+              "Passes in Physics and other technical/science electives",
+              "Aggregate generally not exceeding 42 (estimated)"
+            ],
+            "level_note": [
+              "Diploma equips students with basic electrical and electronic skills for entry-level technician roles.",
+              "Graduates can advance to HND or BTech programmes after meeting progression requirements."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Electrical And Electronics Engineering (Top Up)",
+        "career": [
+          "Electrical Engineer",
+          "Maintenance Engineer",
+          "Power Systems Engineer",
+          "Telecoms Engineer",
+          "Automation Engineer",
+          "Instrumentation Engineer",
+          "Project Engineer",
+          "Technical Manager (Electrical)",
+          "Design Engineer (Electrical Systems)",
+          "Energy Systems Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,500 per year (estimated)"
+            ],
+            "duration": "2 - 3 years (top-up)",
+            "electives": [
+              "Advanced Power Systems",
+              "Industrial Automation",
+              "Advanced Electronics and Embedded Systems",
+              "Renewable Energy Integration",
+              "High Voltage Engineering",
+              "Engineering Management"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 115,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend/evening or flexible modes for HND holders",
+              "Coursework, labs and design projects"
+            ],
+            "entry_requirements": [
+              "HND in Electrical/Electronic Engineering or related field from accredited institution",
+              "Good HND classification, typically Second Class Lower or better",
+              "Relevant industry experience is an advantage",
+              "Successful performance at interview and transcript assessment"
+            ],
+            "level_note": [
+              "Top-up route for HND holders to earn a BTech in Electrical and Electronics Engineering.",
+              "Emphasises advanced design, analysis and management skills."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Higher National Diploma (HND) In Civil Engineering",
+        "career": [
+          "Civil Engineering Technician",
+          "Site Supervisor",
+          "Construction Technician",
+          "Survey Technician",
+          "Materials Testing Technician",
+          "Road Works Technician",
+          "Water and Sanitation Technician",
+          "Draftsman/Draughtsman",
+          "Quality Control Assistant",
+          "Clerk of Works"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,200 - 4,200 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Construction Technology",
+              "Surveying",
+              "Strength of Materials",
+              "Soil Mechanics Basics",
+              "Concrete Technology",
+              "Construction Measurement"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 65,000 annually (estimated)",
+              "USA: $30,000 - $55,000 (estimated)",
+              "Europe: €24,000 - €48,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 42 (estimated)"],
+            "mode": [
+              "Full-time with site and laboratory practicals",
+              "Mandatory industrial attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes in English Language, Core Mathematics and Integrated Science",
+              "Passes/credits in relevant electives such as Building Construction, Physics or Technical Drawing",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Mature candidates with construction experience may be considered"
+            ],
+            "level_note": [
+              "HND Civil Engineering forms a solid base for site supervisory and technician roles.",
+              "Graduates can progress to BTech Civil Engineering through top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Higher National Diploma (HND) In Mechanical Engineering",
+        "career": [
+          "Mechanical Technician",
+          "Plant Maintenance Technician",
+          "Workshop Supervisor",
+          "Production Technician",
+          "Utilities Technician",
+          "Mechanical Fitter",
+          "Maintenance Planner Assistant",
+          "Quality Control Technician",
+          "Field Service Technician",
+          "Mechanical Drafting Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,200 - 4,200 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Engineering Drawing",
+              "Workshop Technology",
+              "Thermodynamics Basics",
+              "Strength of Materials",
+              "Fluid Mechanics Basics",
+              "Maintenance Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - 65,000 annually (estimated)",
+              "USA: $30,000 - $55,000 (estimated)",
+              "Europe: €24,000 - €48,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and workshop practice",
+              "Industrial attachment with factories and plants"
+            ],
+            "entry_requirements": [
+              "WASSCE passes in English Language, Core Mathematics and Integrated Science",
+              "Passes/credits in Physics and other technical/science electives",
+              "Aggregate not exceeding 42 (estimated)",
+              "Technical Institute graduates may be considered"
+            ],
+            "level_note": [
+              "Programme prepares technicians for plant, maintenance and manufacturing roles.",
+              "HND holders may progress to BTech Mechanical Engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Master Of Technology (MTECH) In Civil Engineering",
+        "career": [
+          "Senior Civil Engineer",
+          "Structural Design Engineer",
+          "Highway and Transportation Engineer",
+          "Water and Environmental Engineer",
+          "Construction Project Manager",
+          "Infrastructure Consultant",
+          "Research Engineer",
+          "Municipal Infrastructure Planner",
+          "Geotechnical Engineer (with relevant specialisation)",
+          "Engineering Lecturer (with further academic development)"
+        ],
+        "levels": [
+          {
+            "level_name": "MTECH",
+            "fees": [
+              "Ghanaian Students: GHC 20,000 - 28,000 total (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Structural Analysis",
+              "Pavement and Highway Design",
+              "Advanced Hydraulics and Hydrology",
+              "Environmental and Sanitation Engineering",
+              "Project Planning and Management",
+              "Finite Element Methods in Civil Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 80,000 - 170,000 annually (estimated)",
+              "USA: $100,000 - $180,000 (estimated)",
+              "Europe: €70,000 - €140,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Coursework plus thesis or major project",
+              "Evening/weekend options may be available for professionals"
+            ],
+            "entry_requirements": [
+              "Bachelor’s degree or BTech in Civil Engineering or related discipline with at least Second Class Lower",
+              "Relevant industry experience is an advantage",
+              "Applicants may be required to attend an interview and submit a research proposal",
+              "Holders of strong HND plus significant experience may be considered under special admission"
+            ],
+            "level_note": [
+              "Programme deepens technical and research capacity in key civil engineering areas.",
+              "Graduates are prepared for leadership roles in infrastructure planning, design and management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Mechanical Engineering (Top-up)",
+        "career": [
+          "Mechanical Engineer",
+          "Plant Engineer",
+          "Maintenance Engineer",
+          "Production Engineer",
+          "Project Engineer",
+          "Utilities and Energy Engineer",
+          "Mechanical Design Engineer",
+          "Technical Manager",
+          "Reliability Engineer",
+          "Industrial Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,500 - 6,500 per year (estimated)"
+            ],
+            "duration": "2 - 3 years (top-up)",
+            "electives": [
+              "Advanced Machine Design",
+              "Industrial Automation and Control",
+              "Energy Systems and Management",
+              "Advanced Manufacturing Processes",
+              "Maintenance Management",
+              "Engineering Economics and Management"
+            ],
+            "salary": [
+              "Ghana: GHS 50,000 - 115,000 annually (estimated)",
+              "USA: $70,000 - $125,000 (estimated)",
+              "Europe: €50,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Flexible schedules for working HND graduates",
+              "Project-based learning and design work"
+            ],
+            "entry_requirements": [
+              "HND in Mechanical Engineering or closely related area from recognised institution",
+              "Good HND classification, normally Second Class Lower or better",
+              "Relevant work experience is an advantage",
+              "Possible interview and academic transcript review"
+            ],
+            "level_note": [
+              "Top-up prepares HND holders for professional mechanical engineering positions.",
+              "Emphasis on advanced analysis, design and management of mechanical systems."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "faculty_name": "Computing & Information Science",
+    "note": [
+      "Programmes focus on information management, computing and digital literacy for modern organisations.",
+      "Students are trained using up-to-date tools and industry-relevant case studies."
+    ],
+    "courses": [
+      {
+        "course_name": "Bachelor Of Information Science",
+        "career": [
+          "Information Officer",
+          "Records Manager",
+          "Knowledge Management Officer",
+          "Information Systems Analyst",
+          "Library and Information Assistant",
+          "Digital Content Manager",
+          "Data Steward",
+          "Information Governance Officer",
+          "Research and Documentation Officer",
+          "Information Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "BSc",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,200 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Information Organisation and Retrieval",
+              "Database Systems",
+              "Knowledge Management",
+              "Records and Archives Management",
+              "Digital Libraries",
+              "Information Policy and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 85,000 annually (estimated)",
+              "USA: $55,000 - $100,000 (estimated)",
+              "Europe: €45,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": [
+              "Competitive WASSCE aggregate: around 24 - 36 (estimated)"
+            ],
+            "mode": [
+              "Full-time lectures and practical sessions",
+              "Internships in libraries, archives, and information centres"
+            ],
+            "entry_requirements": [
+              "WASSCE with credits in English Language, Core Mathematics and Integrated Science/Social Studies",
+              "Credits in three relevant electives such as ICT, Economics, Geography or Literature in English",
+              "Aggregate not exceeding 36 (estimated)",
+              "Diploma/Professional certificate holders in information-related areas may be considered for top-up"
+            ],
+            "level_note": [
+              "Programme blends information management, technology and organisational skills.",
+              "Graduates support information services in public and private sector organisations."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "faculty_name": "Fashion, Industrial Arts & Design",
+    "note": [
+      "Programmes under this faculty develop creative and technical skills for the fashion and creative industries.",
+      "Students engage in studio work, practical projects and industry attachments."
+    ],
+    "courses": [
+      {
+        "course_name": "Fashion Design And Textile Studies (Weekend)",
+        "career": [
+          "Fashion Designer",
+          "Textile Designer",
+          "Pattern Cutter",
+          "Fashion Entrepreneur",
+          "Garment Production Supervisor",
+          "Fashion Illustrator",
+          "Boutique Owner/Manager",
+          "Costume Designer",
+          "Fashion Stylist",
+          "Fashion Trainer/Instructor"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,500 per year (estimated)"
+            ],
+            "duration": "3 - 4 years (weekend mode)",
+            "electives": [
+              "Advanced Garment Construction",
+              "Fashion Illustration and CAD",
+              "Textile Design and Printing",
+              "Fashion Entrepreneurship",
+              "Pattern Drafting and Grading",
+              "Apparel Production Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually (estimated, highly variable for entrepreneurs)",
+              "USA: $40,000 - $100,000 (estimated)",
+              "Europe: €35,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend classes tailored for working students",
+              "Studio-based practical sessions and projects"
+            ],
+            "entry_requirements": [
+              "Relevant HND or Diploma in Fashion/Textile or related area for BTech weekend track",
+              "Evidence of portfolio or practical experience is an advantage",
+              "Interview and portfolio review may be required"
+            ],
+            "level_note": [
+              "Weekend BTech is designed for diploma/HND holders and industry practitioners upgrading their qualifications.",
+              "Focuses on advanced design, production and business aspects of fashion."
+            ]
+          },
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 4,000 per year (estimated)"
+            ],
+            "duration": "3 years (weekend)",
+            "electives": [
+              "Garment Construction",
+              "Pattern Drafting",
+              "Basic Textile Design",
+              "Fashion Drawing",
+              "Sewing Techniques",
+              "Small Business Management"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 50,000 annually (estimated)",
+              "USA: $28,000 - $45,000 (estimated)",
+              "Europe: €22,000 - €40,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend programme for working learners",
+              "Practical-focused with studio and workshop sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE with passes in English Language and other core subjects",
+              "Evidence of interest/experience in fashion (e.g. apprenticeship) is preferred",
+              "Mature candidates and vocational graduates may be considered"
+            ],
+            "level_note": [
+              "Weekend HND builds foundational fashion and textile skills.",
+              "Graduates may progress to BTech or start small fashion enterprises."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Fashion Design And Textile Studies",
+        "career": [
+          "Fashion Designer",
+          "Textile Artist",
+          "Pattern Maker",
+          "Garment Technologist",
+          "Fashion Entrepreneur",
+          "Boutique Manager",
+          "Costume Designer",
+          "Textile Production Assistant",
+          "Fashion Merchandiser",
+          "Fashion Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "DIPLOMA",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,800 per year (estimated)"
+            ],
+            "duration": "2 - 3 years",
+            "electives": [
+              "Basic Garment Construction",
+              "Pattern Drafting Fundamentals",
+              "Introduction to Textiles",
+              "Fashion Drawing and Illustration",
+              "Colour and Design Theory",
+              "Entrepreneurship Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 40,000 annually (estimated)",
+              "USA: $25,000 - $40,000 (estimated)",
+              "Europe: €20,000 - €35,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and studio work",
+              "Practical sewing and garment construction exercises"
+            ],
+            "entry_requirements": [
+              "WASSCE passes in English Language and other core subjects",
+              "Interest or background in fashion, textiles or visual arts is desirable",
+              "Mature and vocational applicants may be considered"
+            ],
+            "level_note": [
+              "Diploma introduces core practical skills in fashion and textile design.",
+              "Graduates may progress to HND/BTech or start small-scale fashion businesses."
+            ]
+          },
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,500 per year (estimated)"
+            ],
+            "duration": "3 years (top-up from diploma/HND) or 4 years direct",
+            "electives": [
+              "Advanced Fashion Design",
+              "Textile Technology and Finishing",
+              "Fashion CAD and Portfolio Development",
+              "Apparel Quality Management",
+              "Fashion Marketing and Branding",
+              "Collection Development and Runway Presentation"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually (estimated)",
+              "USA: $40,000 - $100,000 (estimated)",
+              "Europe: €35,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time studio and classroom instruction",
+              "Industry attachments with fashion houses and textile firms"
+            ],
+            "entry_requirements": [
+              "Relevant HND/Diploma in Fashion/Textile or strong WASSCE background with portfolio",
+              "Interview and portfolio review may be required",
+              "Mature candidates with substantial industry experience may be considered"
+            ],
+            "level_note": [
+              "BTech builds advanced creative, technical and entrepreneurial competencies in fashion and textiles.",
+              "Graduates can lead fashion labels, manage production units or pursue further study."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Fashion Design And Textile Studies (Regular)",
+        "career": [
+          "Fashion Designer",
+          "Apparel Production Supervisor",
+          "Pattern and Sample Room Technician",
+          "Textile Print Designer",
+          "Boutique Owner",
+          "Fashion Merchandiser",
+          "Costume Designer",
+          "Tailoring Supervisor",
+          "Fashion Blogger/Influencer (with extra skills)",
+          "Fashion Educator (with further training)"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 4,000 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Pattern Cutting and Draping",
+              "Garment Construction Techniques",
+              "Textile Design and Dyeing",
+              "Fashion Illustration",
+              "Clothing Production Management",
+              "Small Business Management"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 50,000 annually (estimated)",
+              "USA: $28,000 - $45,000 (estimated)",
+              "Europe: €22,000 - €40,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 42 (estimated)"],
+            "mode": [
+              "Full-time day programme",
+              "Studio-based classes and fashion shows/exhibitions"
+            ],
+            "entry_requirements": [
+              "WASSCE credits/passes in English Language and other core subjects",
+              "Visual Arts or Home Economics background is an advantage",
+              "Mature applicants with fashion/apprenticeship background may apply"
+            ],
+            "level_note": [
+              "HND provides strong practical skills and prepares students for BTech top-up or self-employment.",
+              "Students build portfolios through projects and fashion events."
+            ]
+          },
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,500 per year (estimated)"
+            ],
+            "duration": "3 years (top-up)",
+            "electives": [
+              "Advanced Fashion Collection Development",
+              "Textile Innovation",
+              "Fashion Merchandising and Retailing",
+              "Fashion Trend Analysis",
+              "Branding and Promotion in Fashion",
+              "Project Work/Final Collection"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually (estimated)",
+              "USA: $40,000 - $100,000 (estimated)",
+              "Europe: €35,000 - €90,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or weekend top-up for HND holders",
+              "Studio and industry-based projects"
+            ],
+            "entry_requirements": [
+              "HND in Fashion Design, Textiles or related area from recognised institution",
+              "Good HND classification (normally Second Class Lower or better)",
+              "Portfolio and interview may be required"
+            ],
+            "level_note": [
+              "Top-up consolidates design, production and business knowledge for supervisory and creative leadership roles.",
+              "Graduates may run their own brands or work in established fashion houses."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Fashion Design And Textile Studies (Topup)",
+        "career": [
+          "Senior Fashion Designer",
+          "Fashion Production Manager",
+          "Creative Director (Fashion House)",
+          "Textile and Print Specialist",
+          "Fashion Brand Owner",
+          "Design Consultant",
+          "Fashion Lecturer/Instructor (with pedagogical training)",
+          "Costume Director",
+          "Fashion Buyer/Merchandiser",
+          "Product Development Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,800 per year (estimated)"
+            ],
+            "duration": "2 - 3 years (top-up)",
+            "electives": [
+              "Advanced Pattern Manipulation",
+              "Fashion CAD and Digital Portfolio",
+              "Textile Product Development",
+              "Global Fashion Business",
+              "Brand Management in Fashion",
+              "Major Project/Thesis in Fashion"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 90,000 annually (estimated)",
+              "USA: $45,000 - $110,000 (estimated)",
+              "Europe: €35,000 - €95,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Weekend or flexible modes for working HND graduates (where available)",
+              "Project-oriented with strong emphasis on portfolio and brand development"
+            ],
+            "entry_requirements": [
+              "HND in Fashion Design and Textile Studies or a closely related qualification",
+              "Good HND classification and evidence of practical competence",
+              "Submission of portfolio and possible interview"
+            ],
+            "level_note": [
+              "Top-up pathway focused on advanced design and fashion entrepreneurship.",
+              "Graduates can lead creative teams or establish competitive fashion brands."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Graphic Design And Multimedia Studies",
+        "career": [
+          "Graphic Designer",
+          "Multimedia Designer",
+          "Branding and Identity Designer",
+          "Digital Content Creator",
+          "Web Graphics Designer",
+          "Motion Graphics Assistant",
+          "Print Production Artist",
+          "UI/UX Assistant (with further skills)",
+          "Advertising Creative Assistant",
+          "Freelance Designer"
+        ],
+        "levels": [
+          {
+            "level_name": "DIPLOMA",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 4,000 per year (estimated)"
+            ],
+            "duration": "2 - 3 years",
+            "electives": [
+              "Typography and Layout",
+              "Digital Illustration",
+              "Photography Basics",
+              "Introduction to Animation",
+              "Branding and Visual Identity",
+              "Design Software Applications"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 50,000 annually (estimated)",
+              "USA: $30,000 - $60,000 (estimated)",
+              "Europe: €24,000 - €50,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Studio-based classes and computer lab sessions",
+              "Design projects and portfolio development"
+            ],
+            "entry_requirements": [
+              "WASSCE passes in English Language and other core subjects",
+              "Interest or background in visual arts and design is preferred",
+              "Submission of simple creative work or aptitude test may be required"
+            ],
+            "level_note": [
+              "Diploma introduces core graphic and multimedia design skills.",
+              "Graduates can work as junior designers or progress to BTech in Industrial Arts and Design."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Industrial Arts And Design (Graphic Design And Multimedia Studies Option)",
+        "career": [
+          "Graphic Designer",
+          "Multimedia Specialist",
+          "Art Director (with experience)",
+          "Brand and Identity Designer",
+          "Digital Media Producer",
+          "Creative Director (with further experience)",
+          "User Interface Designer",
+          "Advertising Creative",
+          "Visual Communication Consultant",
+          "Design Educator (with further training)"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,800 per year (estimated)"
+            ],
+            "duration": "3 - 4 years (depending on entry)",
+            "electives": [
+              "Advanced Graphic Design",
+              "Multimedia Production",
+              "Motion Graphics",
+              "Interactive Media Design",
+              "Brand Strategy and Campaigns",
+              "Portfolio and Professional Practice"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 85,000 annually (estimated)",
+              "USA: $40,000 - $90,000 (estimated)",
+              "Europe: €35,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": [
+              "Competitive WASSCE aggregate or good Diploma/HND in design"
+            ],
+            "mode": [
+              "Full-time studio and lab-based learning",
+              "Industry-based projects and internships"
+            ],
+            "entry_requirements": [
+              "Diploma/HND in Graphic Design, Multimedia or related area for top-up, or strong WASSCE with visual arts background",
+              "Portfolio submission and possible interview",
+              "Mature applicants with substantial design experience may be considered"
+            ],
+            "level_note": [
+              "Programme builds advanced visual communication and multimedia competencies.",
+              "Graduates can work in advertising, media, branding agencies and digital content studios."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "faculty_name": "Tourism, Hospitality & Management",
+    "note": [
+      "Tourism and hospitality programmes combine practical service skills with management and business training.",
+      "Students undertake internships in hotels, resorts, and tourism organisations."
+    ],
+    "courses": [
+      {
+        "course_name": "Diploma In Tourism And Hospitality Management",
+        "career": [
+          "Hotel Front Office Supervisor",
+          "Guest Relations Officer",
+          "Travel and Tours Assistant",
+          "Events and Conference Assistant",
+          "Restaurant Supervisor",
+          "Tour Guide (with licensing)",
+          "Resort Operations Assistant",
+          "Cruise or Airline Ground Staff",
+          "Hospitality Sales Assistant",
+          "Customer Service Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "DIPLOMA",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 4,000 per year (estimated)"
+            ],
+            "duration": "2 - 3 years",
+            "electives": [
+              "Introduction to Tourism",
+              "Hospitality Operations",
+              "Food and Beverage Service",
+              "Front Office Management",
+              "Tour Guiding Techniques",
+              "Customer Service Skills"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 40,000 annually (estimated)",
+              "USA: $25,000 - $40,000 (estimated)",
+              "Europe: €20,000 - €35,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and practical sessions",
+              "Industrial attachment with hotels and tourism firms"
+            ],
+            "entry_requirements": [
+              "WASSCE passes in English Language and other core subjects",
+              "Passes in any three electives (Home Economics, Business or General Arts advantageous)",
+              "Mature applicants with work experience in hospitality may be considered"
+            ],
+            "level_note": [
+              "Diploma prepares students for entry-level roles in hospitality and tourism operations.",
+              "Graduates may progress to HND or BTech Tourism Management."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Four-year Bachelor Of Technology In Tourism Management",
+        "career": [
+          "Tourism Manager",
+          "Hotel/Resort Manager",
+          "Travel and Tours Manager",
+          "Events and Conference Manager",
+          "Destination Marketing Officer",
+          "Tourism Product Developer",
+          "Tour Operations Manager",
+          "Tourism Policy and Planning Officer",
+          "Heritage Site Manager",
+          "Hospitality Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 3,800 - 5,500 per year (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Tourism Marketing",
+              "Hospitality Management",
+              "Events Management",
+              "Sustainable Tourism Development",
+              "Tourism Policy and Planning",
+              "E-tourism and Digital Marketing"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 80,000 annually (estimated)",
+              "USA: $40,000 - $90,000 (estimated)",
+              "Europe: €35,000 - €80,000 (estimated)"
+            ],
+            "cutt_off": [
+              "Competitive WASSCE aggregate: around 24 - 36 (estimated)"
+            ],
+            "mode": [
+              "Full-time classroom and field-based activities",
+              "Internships with hotels, resorts and tourism agencies"
+            ],
+            "entry_requirements": [
+              "WASSCE credits in English Language, Core Mathematics and Social Studies/Integrated Science",
+              "Credits in three relevant electives (Business, General Arts, Home Economics or related)",
+              "Aggregate not exceeding 36 (estimated)",
+              "Diploma/HND in Tourism/Hospitality may gain advanced placement"
+            ],
+            "level_note": [
+              "Programme focuses on management and development aspects of tourism and hospitality.",
+              "Graduates can work in both private tourism enterprises and public tourism agencies."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Higher National Diploma In Tourism Management",
+        "career": [
+          "Tour Operations Supervisor",
+          "Hotel Front Office Manager (small/medium hotels)",
+          "Travel Consultant",
+          "Events Coordinator",
+          "Tour Guide Supervisor",
+          "Resort Operations Supervisor",
+          "Customer Service Supervisor",
+          "Tourism Sales and Marketing Officer",
+          "Hospitality Trainer (basic level)",
+          "Destination Information Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 3,200 - 4,200 per year (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Tourism Principles and Practices",
+              "Hospitality Management",
+              "Transportation in Tourism",
+              "Sustainable Tourism",
+              "Events and Conference Management",
+              "Entrepreneurship in Tourism"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually (estimated)",
+              "USA: $28,000 - $50,000 (estimated)",
+              "Europe: €24,000 - €45,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and practical exercises",
+              "Industrial attachment in hospitality and tourism establishments"
+            ],
+            "entry_requirements": [
+              "WASSCE passes/credits in English Language and other core subjects",
+              "Passes in relevant electives such as Business, Home Economics or General Arts",
+              "Aggregate generally not exceeding 42 (estimated)",
+              "Mature and industry-experienced applicants may be considered"
+            ],
+            "level_note": [
+              "HND provides solid managerial and operational knowledge for tourism and hospitality.",
+              "Graduates may progress to BTech Tourism Management through top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Two Year Top-up Bachelor Of Technology In Tourism Management",
+        "career": [
+          "Tourism Manager",
+          "Hotel Manager",
+          "Events and Conference Manager",
+          "Travel and Tours Manager",
+          "Tourism Development Officer",
+          "Destination Marketing Manager",
+          "Tourism Consultant",
+          "Resort Operations Manager",
+          "Tourism Project Manager",
+          "Hospitality Trainer/Instructor"
+        ],
+        "levels": [
+          {
+            "level_name": "BTECH",
+            "fees": [
+              "Ghanaian Students: GHC 4,000 - 5,800 per year (estimated)"
+            ],
+            "duration": "2 years (top-up)",
+            "electives": [
+              "Strategic Tourism Management",
+              "Service Quality Management",
+              "E-tourism and Social Media",
+              "Tourism Policy Analysis",
+              "Events Strategy and Design",
+              "Project Work in Tourism"
+            ],
+            "salary": [
+              "Ghana: GHS 35,000 - 90,000 annually (estimated)",
+              "USA: $45,000 - $95,000 (estimated)",
+              "Europe: €35,000 - €85,000 (estimated)"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "May be offered in weekend or flexible modes",
+              "Case studies and project-based learning"
+            ],
+            "entry_requirements": [
+              "HND in Tourism Management, Hospitality or related discipline",
+              "Good HND classification (Second Class Lower or better)",
+              "Relevant work experience is an advantage",
+              "Interview may be required"
+            ],
+            "level_note": [
+              "Top-up route for HND graduates to acquire advanced tourism management skills.",
+              "Graduates can take up supervisory and managerial roles in tourism and hospitality."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "faculty_name": "Library, Information & Heritage Studies",
+    "note": [
+      "Programmes in this faculty prepare students for roles in libraries, archives and heritage institutions.",
+      "Emphasis is placed on information organisation, user services and preservation."
+    ],
+    "courses": [
+      {
+        "course_name": "Diploma In Librarianship",
+        "career": [
+          "Library Assistant",
+          "Library Technician",
+          "School Librarian",
+          "Documentation Assistant",
+          "Records Assistant",
+          "Information Services Assistant",
+          "Archive Assistant",
+          "Community Library Coordinator",
+          "Resource Centre Assistant",
+          "Library Circulation Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "DIPLOMA",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,800 per year (estimated)"
+            ],
+            "duration": "2 - 3 years",
+            "electives": [
+              "Introduction to Librarianship",
+              "Cataloguing and Classification",
+              "Reference and Information Services",
+              "Collection Development",
+              "Information Technology in Libraries",
+              "Records and Archives Management Basics"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 40,000 annually (estimated)",
+              "USA: $25,000 - $45,000 (estimated)",
+              "Europe: €20,000 - €35,000 (estimated)"
+            ],
+            "cutt_off": ["Typical WASSCE aggregate: 30 - 42 (estimated)"],
+            "mode": [
+              "Full-time lectures and practical sessions in libraries",
+              "Fieldwork and attachments in school and public libraries"
+            ],
+            "entry_requirements": [
+              "WASSCE passes in English Language and other core subjects",
+              "Passes in any three electives (General Arts, Business or Science background acceptable)",
+              "Mature applicants working in libraries may be considered with lower aggregates"
+            ],
+            "level_note": [
+              "Diploma prepares support staff for different types of libraries and information centres.",
+              "Graduates may progress to bachelor’s degrees in library/information science."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
