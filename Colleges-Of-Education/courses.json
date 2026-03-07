@@ -1,0 +1,185 @@
+[
+  {
+    "name": "Colleges of Education"
+  },
+  {
+    "faculty_name": "Early Grade Education (KG – P3)",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "B.Ed. Early Grade Education (KG – P3)",
+        "career": [
+          "Early Childhood Teacher",
+          "Kindergarten Teacher",
+          "Nursery School Teacher",
+          "Pre-school Educator",
+          "Childcare Coordinator",
+          "Early Years Specialist",
+          "Montessori Teacher",
+          "Playgroup Leader",
+          "Child Development Specialist",
+          "Daycare Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 1,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "English Language (Speaking and Listening, Reading and Writing)",
+              "Ghanaian Language (Speaking and Listening, Reading and Writing)",
+              "Literacy (Speaking and Listening, Reading and Writing)",
+              "Creative Arts and Visual Expression",
+              "Mathematics / Numeracy",
+              "Health and Wellbeing (Child Health, Safety and Security, Physical Education)",
+              "Science"
+            ],
+            "salary": [
+              "Ghana: GHS 2,800 - 4,000 monthly",
+              "USA: $45,000 - 65,000 annually",
+              "Europe: €35,000 - 55,000 annually"
+            ],
+            "cutt_off": ["2025: 30-36", "2024: 30-36", "2023: 30-36"],
+            "mode": [
+              "Face-to-face with teaching practice",
+              "Blended learning in some colleges"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in 3 core subjects including English, Core Maths, Integrated Science/Social Studies",
+              "Plus 3 elective subjects",
+              "No specific grade requirements beyond credits"
+            ],
+            "level_note": [
+              "Focuses on foundational skills for young learners.",
+              "Includes mandatory teaching practicum."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Primary Education (Upper Primary)",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "B.Ed. Primary Education (Upper Primary)",
+        "career": [
+          "Primary School Teacher",
+          "Upper Primary Educator",
+          "Classroom Teacher P4-P6",
+          "Basic Education Teacher",
+          "Curriculum Specialist",
+          "School Coordinator",
+          "Literacy Teacher",
+          "Numeracy Instructor",
+          "Educational Assessor",
+          "Primary School Head"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 1,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "English Language",
+              "Ghanaian Language",
+              "Mathematics / Numeracy",
+              "Integrated Science",
+              "Environmental and Social Studies",
+              "Music, Dance and Physical Education",
+              "ICT",
+              "Religious and Moral Education"
+            ],
+            "salary": [
+              "Ghana: GHS 2,800 - 4,200 monthly",
+              "USA: $48,000 - 68,000 annually",
+              "Europe: €38,000 - 58,000 annually"
+            ],
+            "cutt_off": ["2025: 30-36", "2024: 30-36", "2023: 30-36"],
+            "mode": [
+              "Campus-based with practicum",
+              "Peer teaching and school attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE: A1-C6 in 3 core subjects: English, Maths, Integrated Science/Social Studies",
+              "3 elective credits (A1-C6)",
+              "Relevant subjects preferred"
+            ],
+            "level_note": [
+              "Prepares teachers for P4-P6 classrooms.",
+              "Emphasizes subject integration and life skills."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Junior High School Education",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "B.Ed. Junior High School Education",
+        "career": [
+          "JHS Teacher",
+          "Junior High Educator",
+          "Subject Specialist Teacher",
+          "Secondary Preparatory Teacher",
+          "Guidance Counselor",
+          "Special Needs Teacher",
+          "TVET Instructor",
+          "School Administrator",
+          "Curriculum Developer",
+          "Educational Researcher"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": ["Ghanaian Students: GHC 1,200 per semester"],
+            "duration": "4 years",
+            "electives": [
+              "English Language",
+              "Mathematics",
+              "Integrated Science",
+              "French",
+              "Social Studies",
+              "Religious and Moral Education (RME)",
+              "ICT (Information and Communication Technology)",
+              "Physical Education",
+              "Agricultural Science",
+              "Ghanaian Language (e.g., Twi, Ewe, Ga, Dagbani, Gonja, etc.)",
+              "Music and Dance",
+              "History",
+              "Geography",
+              "Home Economics",
+              "Visual Arts",
+              "TVET — Technical Skills",
+              "TVET — Vocational Skills",
+              "Special Educational Needs (SEN)"
+            ],
+            "salary": [
+              "Ghana: GHS 3,000 - 4,500 monthly",
+              "USA: $50,000 - 70,000 annually",
+              "Europe: €40,000 - 60,000 annually"
+            ],
+            "cutt_off": ["2025: 28-36", "2024: 28-36", "2023: 28-36"],
+            "mode": [
+              "Full-time campus delivery",
+              "Includes one-year teaching practicum"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits A1-C6 in English, Core Maths, Social Studies/Integrated Science",
+              "Three elective subjects with credits",
+              "Passes in relevant electives advantageous"
+            ],
+            "level_note": [
+              "Trains specialist teachers for JHS levels.",
+              "Broad electives for subject specialization."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
