@@ -1,0 +1,1821 @@
+[
+  {
+    "name": "Bolgatanga Technical University"
+  },
+  {
+    "faculty_name": "Faculty of Applied Science and Technology – Undergraduate",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Bachelor of Science in Applied Statistics and Computing",
+        "career": [
+          "Statistician",
+          "Data Analyst",
+          "Biostatistician",
+          "Research Analyst",
+          "Survey Statistician",
+          "Statistical Programmer",
+          "Quantitative Analyst",
+          "Data Scientist",
+          "Demographer",
+          "Operations Research Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,000 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Probability & Statistics",
+              "Statistical Computing",
+              "Regression Analysis",
+              "Survey Sampling Methods",
+              "Time Series Analysis",
+              "Database Management"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $65,000 - $110,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate 24 or SSSCE Aggregate 24 or better"],
+            "mode": [
+              "Full-time on-campus lectures and computer lab practicals",
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6) in English, Mathematics, and Integrated Science plus three relevant elective subjects including Elective Mathematics",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Strong mathematical background required"
+            ],
+            "level_note": [
+              "Produces graduates skilled in statistical analysis and computing applications.",
+              "High-demand programme for data-driven industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Computerized Accounting",
+        "career": [
+          "Accountant",
+          "Auditor",
+          "Tax Consultant",
+          "Financial Analyst",
+          "Accounting Software Specialist",
+          "Cost Accountant",
+          "Finance Officer",
+          "Budget Analyst",
+          "Forensic Accountant",
+          "Accounts Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,000 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Financial Accounting",
+              "Management Accounting",
+              "Taxation",
+              "Auditing",
+              "Computerized Accounting Systems",
+              "Corporate Finance"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 72,000 annually",
+              "USA: $55,000 - $95,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate 24 or SSSCE Aggregate 24 or better"],
+            "mode": [
+              "Full-time on-campus lectures and computer lab sessions",
+              "Regular and weekend options available"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6) in three core subjects (English, Mathematics, Integrated Science/Social Studies) and three relevant elective subjects",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Mature applicants: 25 years or older with relevant work experience and must pass entrance exam"
+            ],
+            "level_note": [
+              "Combines accounting principles with modern computing technology.",
+              "Accredited by the Ghana Tertiary Education Commission (GTEC)."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Data Communication and Networking",
+        "career": [
+          "Network Engineer",
+          "Systems Administrator",
+          "Network Security Specialist",
+          "IT Infrastructure Manager",
+          "Cloud Network Engineer",
+          "Telecommunications Engineer",
+          "Data Centre Manager",
+          "Network Analyst",
+          "IT Support Manager",
+          "Communications Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,200 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Computer Networks",
+              "Network Security",
+              "Wireless Communications",
+              "Cloud Computing",
+              "Network Administration",
+              "Data Communications"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 96,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate 24 or SSSCE Aggregate 24 or better"],
+            "mode": [
+              "Full-time on-campus with networking laboratory practicals",
+              "Regular session"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6) in English, Mathematics, and Integrated Science plus three relevant elective subjects",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Science or Technical background preferred"
+            ],
+            "level_note": [
+              "Addresses the growing demand for networking professionals in Ghana.",
+              "Practical training with modern networking equipment and simulators."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Ecological Agriculture",
+        "career": [
+          "Ecological Farmer",
+          "Organic Farm Manager",
+          "Agricultural Extension Officer",
+          "Sustainable Agriculture Consultant",
+          "Crop Production Manager",
+          "Soil Conservation Specialist",
+          "Farm Planning Officer",
+          "Agroforestry Specialist",
+          "Climate-Smart Agriculture Advisor",
+          "NGO Agriculture Programme Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,200 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Organic Farming Systems",
+              "Soil & Water Conservation",
+              "Agroforestry",
+              "Crop Protection",
+              "Animal Husbandry",
+              "Agricultural Economics"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 70,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate 24 or better"],
+            "mode": [
+              "Full-time on-campus with farm-based practicals",
+              "Regular session with field attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English, Core Mathematics, and Integrated Science plus three relevant Agriculture or Science elective subjects",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Agriculture or Science background required"
+            ],
+            "level_note": [
+              "Ecological Agriculture is the niche area of Bolgatanga Technical University.",
+              "Students benefit from BTU's Sumbrungu campus agricultural research farms."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Food Processing Technology",
+        "career": [
+          "Food Technologist",
+          "Food Processing Manager",
+          "Quality Assurance Officer (Food)",
+          "Food Safety Inspector",
+          "Product Development Specialist",
+          "Food Production Supervisor",
+          "Regulatory Affairs Officer",
+          "Food Packaging Specialist",
+          "Research Scientist (Food)",
+          "Agro-Processing Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 3,500 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Food Chemistry",
+              "Food Microbiology",
+              "Food Preservation Technology",
+              "Food Quality Control",
+              "Cereal & Grain Processing",
+              "Dairy & Meat Processing"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - 78,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €45,000 - €80,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 or better (Science background required)"
+            ],
+            "mode": [
+              "Full-time on-campus with processing laboratory practicals",
+              "Industrial attachment in food processing plants"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English, Core Mathematics, and Integrated Science plus three Science or Agriculture elective subjects",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Science or Agriculture background required"
+            ],
+            "level_note": [
+              "Addresses Ghana's need for skilled food processing professionals.",
+              "Hands-on training in food processing, quality control and safety."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Medical Laboratory Technology",
+        "career": [
+          "Medical Laboratory Scientist",
+          "Laboratory Technologist",
+          "Clinical Laboratory Manager",
+          "Blood Bank Technologist",
+          "Microbiologist",
+          "Pathology Laboratory Specialist",
+          "Public Health Laboratory Officer",
+          "Quality Control Technologist",
+          "Research Laboratory Scientist",
+          "Hospital Laboratory Director"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 3,500 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Haematology",
+              "Clinical Chemistry",
+              "Microbiology",
+              "Parasitology",
+              "Immunology & Serology",
+              "Blood Transfusion Science"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 90,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 or better (Science background required)"
+            ],
+            "mode": [
+              "Full-time on-campus with intensive laboratory practicals",
+              "Clinical attachment at hospitals"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English, Core Mathematics, and Integrated Science plus three Science electives (Biology, Chemistry, Physics/Elective Maths)",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Science/Technical school background required"
+            ],
+            "level_note": [
+              "Produces highly skilled medical laboratory professionals for Ghana's health sector.",
+              "Includes clinical rotations and hands-on laboratory training."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Tourism Management",
+        "career": [
+          "Tourism Manager",
+          "Hotel Manager",
+          "Tour Operations Manager",
+          "Travel Consultant",
+          "Event Manager",
+          "Tourism Marketing Manager",
+          "Destination Manager",
+          "Ecotourism Specialist",
+          "Cultural Heritage Manager",
+          "Tourism Policy Analyst"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,500 - 3,000 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Tourism Planning & Development",
+              "Hospitality Management",
+              "Ecotourism",
+              "Tour Guiding & Operations",
+              "Tourism Marketing",
+              "Cultural Heritage Management"
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - 65,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": ["WASSCE Aggregate 24 or SSSCE Aggregate 24 or better"],
+            "mode": [
+              "Full-time on-campus with field trips to tourism sites",
+              "Regular and weekend options"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English, Mathematics, and Integrated Science/Social Studies plus three relevant elective subjects",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Mature applicants: 25 years or older with relevant experience"
+            ],
+            "level_note": [
+              "Leverages the rich cultural and tourism potential of the Upper East Region.",
+              "Includes industrial attachment and practical tourism field studies."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Applied Science and Technology – Diploma/HND",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Diploma in Applied Statistics and Computing",
+        "career": [
+          "Statistical Assistant",
+          "Data Entry Analyst",
+          "Junior Data Analyst",
+          "Survey Assistant",
+          "Research Assistant",
+          "Database Assistant",
+          "Records Officer",
+          "IT Support Officer",
+          "Census Enumerator",
+          "Statistical Clerk"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Statistics",
+              "Statistical Computing",
+              "Data Collection Methods",
+              "Spreadsheet Applications",
+              "Introduction to Programming",
+              "Database Management"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 42,000 annually",
+              "USA: $30,000 - $55,000",
+              "Europe: €25,000 - €45,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: Four passes including English and Mathematics"
+            ],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Regular and evening sessions available"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Four passes (A1-D7) including English Language and Core Mathematics plus two relevant elective subjects",
+              "GBCE/RSA II holders with passes in English and Mathematics",
+              "Mature applicants: 25 years or older, must pass entrance examination"
+            ],
+            "level_note": [
+              "Foundational programme in statistics and computing.",
+              "Pathway to HND Statistics or BSc Applied Statistics and Computing."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Computer Science",
+        "career": [
+          "IT Support Technician",
+          "Junior Software Developer",
+          "Computer Operator",
+          "Help Desk Analyst",
+          "Web Developer (Junior)",
+          "Systems Support Officer",
+          "Database Assistant",
+          "Network Support Technician",
+          "ICT Officer",
+          "Technical Support Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Computer Science",
+              "Programming Fundamentals",
+              "Web Development",
+              "Database Systems",
+              "Operating Systems",
+              "Computer Hardware & Maintenance"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 48,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €28,000 - €50,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: Four passes including English and Mathematics"
+            ],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Regular and evening sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Four passes (A1-D7) including English Language and Core Mathematics plus two relevant elective subjects",
+              "GBCE/RSA II holders with passes in English and Mathematics",
+              "Mature applicants: 25 years or older, must pass entrance examination"
+            ],
+            "level_note": [
+              "Foundation programme in computer science principles and practice.",
+              "Pathway to HND or BTech in ICT-related programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Data Analytics",
+        "career": [
+          "Junior Data Analyst",
+          "Data Entry Specialist",
+          "Business Intelligence Assistant",
+          "Reporting Analyst",
+          "Database Administrator (Junior)",
+          "Research Assistant",
+          "Data Quality Officer",
+          "Analytics Support Officer",
+          "Statistical Assistant",
+          "Market Research Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Introduction to Data Analytics",
+              "Data Visualization",
+              "Spreadsheet Analytics",
+              "Introduction to SQL",
+              "Statistical Methods",
+              "Data Cleaning & Preparation"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 50,000 annually",
+              "USA: $38,000 - $65,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: Four passes including English and Mathematics"
+            ],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Regular and evening sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Four passes (A1-D7) including English Language and Core Mathematics plus two relevant elective subjects",
+              "GBCE/RSA II holders with passes in English and Mathematics",
+              "Mature applicants: 25 years or older, must pass entrance examination"
+            ],
+            "level_note": [
+              "Emerging programme preparing students for the data economy.",
+              "Practical skills in data collection, analysis, and visualization."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Information Technology",
+        "career": [
+          "IT Support Officer",
+          "Systems Administrator (Junior)",
+          "Help Desk Technician",
+          "Network Support Officer",
+          "ICT Coordinator",
+          "IT Sales Representative",
+          "Computer Technician",
+          "Web Administrator",
+          "IT Training Assistant",
+          "Technical Support Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "IT Fundamentals",
+              "Networking Basics",
+              "Web Technologies",
+              "Database Management",
+              "IT Security Basics",
+              "Operating Systems Administration"
+            ],
+            "salary": [
+              "Ghana: GHS 20,000 - 45,000 annually",
+              "USA: $32,000 - $58,000",
+              "Europe: €28,000 - €48,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: Four passes including English and Mathematics"
+            ],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Regular and evening sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Four passes (A1-D7) including English Language and Core Mathematics plus two relevant elective subjects",
+              "GBCE/RSA II holders with passes in English and Mathematics",
+              "Mature applicants: 25 years or older, must pass entrance examination"
+            ],
+            "level_note": [
+              "Foundation programme in information technology skills.",
+              "Pathway to BTech in Data Communication and Networking."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Network Technology",
+        "career": [
+          "Network Technician",
+          "Network Support Officer",
+          "Cabling Technician",
+          "IT Infrastructure Assistant",
+          "Help Desk Support (Networking)",
+          "Junior Network Administrator",
+          "Wireless Network Technician",
+          "ISP Support Technician",
+          "Telecommunications Technician",
+          "IT Support Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Network Fundamentals",
+              "Routing & Switching Basics",
+              "Wireless Networking",
+              "Network Cabling & Infrastructure",
+              "Network Security Basics",
+              "Network Troubleshooting"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 50,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €30,000 - €52,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: Four passes including English and Mathematics"
+            ],
+            "mode": [
+              "Full-time on-campus with networking lab practicals",
+              "Regular and evening sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Four passes (A1-D7) including English Language and Core Mathematics plus two relevant elective subjects",
+              "GBCE/RSA II holders with passes in English and Mathematics",
+              "Mature applicants: 25 years or older, must pass entrance examination"
+            ],
+            "level_note": [
+              "Practical networking skills with hands-on lab equipment.",
+              "Pathway to BTech in Data Communication and Networking."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Statistics",
+        "career": [
+          "Statistical Officer",
+          "Data Analyst",
+          "Survey Officer",
+          "Research Assistant",
+          "Census Officer",
+          "Statistical Technician",
+          "Records & Data Officer",
+          "Monitoring & Evaluation Officer",
+          "Quality Control Analyst",
+          "Demography Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,000 - 2,500 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Statistical Methods",
+              "Probability Theory",
+              "Regression Analysis",
+              "Sampling Techniques",
+              "Operations Research",
+              "Statistical Computing"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually",
+              "USA: $40,000 - $70,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 (SSSCE) or 36 (WASSCE) or better"
+            ],
+            "mode": [
+              "Full-time on-campus with computer lab practicals",
+              "Regular session (3-year programme)"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six passes (A1-D7) in three core subjects (English, Mathematics, Integrated Science/Social Studies) and three relevant elective subjects with credit passes (A1-C6)",
+              "GBCE/ABCE applicants: Five GCE O Level credits plus three A Level passes",
+              "Mature applicants: 25 years or older with four WASSCE passes including English and Mathematics"
+            ],
+            "level_note": [
+              "Three-year Higher National Diploma producing statistical technicians.",
+              "Pathway to BSc Applied Statistics and Computing top-up programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Medical Laboratory Technology",
+        "career": [
+          "Medical Laboratory Technician",
+          "Laboratory Assistant",
+          "Blood Bank Technician",
+          "Microbiology Technician",
+          "Clinical Laboratory Technician",
+          "Parasitology Technician",
+          "Histology Technician",
+          "Public Health Laboratory Technician",
+          "Research Laboratory Technician",
+          "Quality Assurance Lab Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,200 - 2,800 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Haematology",
+              "Clinical Chemistry",
+              "Medical Microbiology",
+              "Parasitology",
+              "Blood Transfusion Science",
+              "Histopathology"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €30,000 - €55,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 (SSSCE) or 36 (WASSCE) or better (Science background)"
+            ],
+            "mode": [
+              "Full-time on-campus with intensive laboratory practicals",
+              "Clinical attachment at hospitals"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six passes in three core subjects (English, Mathematics, Integrated Science) and three Science electives (Biology, Chemistry, Physics) with credit passes",
+              "Science or Technical school background required",
+              "Mature applicants: 25 years or older with relevant Science passes"
+            ],
+            "level_note": [
+              "Produces medical laboratory technicians for Ghana's health sector.",
+              "Pathway to BSc Medical Laboratory Technology top-up programme."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Engineering – Postgraduate",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "MSc. Agricultural Farm Power and Machinery Engineering",
+        "career": [
+          "Agricultural Engineer",
+          "Farm Machinery Specialist",
+          "Agricultural Mechanization Officer",
+          "Farm Equipment Designer",
+          "Agricultural Project Manager",
+          "Equipment Maintenance Manager",
+          "Precision Agriculture Engineer",
+          "Agricultural Technology Consultant",
+          "Research Engineer (Agriculture)",
+          "Tractor Operations Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 9,000 - 11,000 per year (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Farm Power Systems",
+              "Agricultural Machinery Design",
+              "Tractor Engineering",
+              "Precision Agriculture Technology",
+              "Farm Mechanization & Automation",
+              "Research Methods in Agricultural Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 120,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €60,000 - €110,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time on-campus with workshop and field practicals",
+              "Research thesis component required"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Agricultural Engineering, Mechanical Engineering, or related field (minimum Second Class Lower)",
+              "Must pass a selection interview",
+              "Submit a research proposal of maximum 1,500 words"
+            ],
+            "level_note": [
+              "Equips students with advanced knowledge in farm power systems and machinery.",
+              "Strong emphasis on applied research for mechanized agriculture in Ghana."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc. Irrigation and Drainage Engineering",
+        "career": [
+          "Irrigation Engineer",
+          "Water Resources Engineer",
+          "Drainage Systems Specialist",
+          "Agricultural Water Manager",
+          "Hydrologist",
+          "Dam & Reservoir Engineer",
+          "Environmental Engineer",
+          "Irrigation Project Manager",
+          "Water Policy Analyst",
+          "Land Reclamation Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 9,000 - 11,000 per year (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Irrigation Systems Design",
+              "Drainage Engineering",
+              "Hydrology & Water Resources",
+              "Soil-Water-Plant Relationships",
+              "Pump & Pipeline Engineering",
+              "Research Methods in Irrigation Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - 130,000 annually",
+              "USA: $75,000 - $140,000",
+              "Europe: €65,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time with field-based and laboratory research",
+              "Research thesis required"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Agricultural Engineering, Civil Engineering, or related field (minimum Second Class Lower)",
+              "Must pass a selection interview",
+              "Submit a research proposal of maximum 1,500 words"
+            ],
+            "level_note": [
+              "Addresses the critical need for irrigation expertise in Ghana's Upper East Region.",
+              "Combines classroom instruction with field-based water management research."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "MSc. Postharvest Engineering",
+        "career": [
+          "Postharvest Engineer",
+          "Food Storage Specialist",
+          "Quality Assurance Manager (Agriculture)",
+          "Grain Storage Manager",
+          "Food Processing Engineer",
+          "Agricultural Value Chain Specialist",
+          "Postharvest Loss Reduction Officer",
+          "Cold Chain Manager",
+          "Agro-Processing Consultant",
+          "Research Scientist (Postharvest)"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "Ghanaian Students: GHC 9,000 - 11,000 per year (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Postharvest Handling & Storage",
+              "Drying & Dehydration Technology",
+              "Food Packaging & Preservation",
+              "Grain Storage Engineering",
+              "Cold Chain Management",
+              "Research Methods in Postharvest Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 55,000 - 115,000 annually",
+              "USA: $65,000 - $125,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time with laboratory and field-based research",
+              "Research thesis component required"
+            ],
+            "entry_requirements": [
+              "Bachelor's degree in Agricultural Engineering, Food Science, or related field (minimum Second Class Lower)",
+              "Must pass a selection interview",
+              "Submit a research proposal of maximum 1,500 words"
+            ],
+            "level_note": [
+              "Focuses on reducing postharvest losses critical to food security in Ghana.",
+              "Hands-on research using BTU's postharvest laboratory facilities."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Engineering – Undergraduate",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Bachelor of Technology in Agricultural Engineering",
+        "career": [
+          "Agricultural Engineer",
+          "Irrigation Technician",
+          "Farm Mechanization Officer",
+          "Agricultural Machinery Designer",
+          "Environmental Engineer",
+          "Food Processing Engineer",
+          "Soil & Water Engineer",
+          "Agricultural Project Manager",
+          "Equipment Maintenance Specialist",
+          "Agro-Industrial Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 2,800 - 3,500 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Farm Structures",
+              "Soil & Water Engineering",
+              "Farm Mechanization",
+              "Agricultural Processing",
+              "Irrigation & Drainage",
+              "Engineering Drawing"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 85,000 annually",
+              "USA: $60,000 - $110,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 or better (Science/Technical background required)"
+            ],
+            "mode": [
+              "Full-time on-campus with workshop and field practicals",
+              "Regular session with industrial attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes (A1-C6) in English, Core Mathematics, Integrated Science plus three relevant Science/Technical elective subjects",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Science or Technical school background required"
+            ],
+            "level_note": [
+              "Blends agricultural science with engineering principles.",
+              "Strong focus on irrigation and mechanization for northern Ghana."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Automobile Engineering",
+        "career": [
+          "Automobile Engineer",
+          "Vehicle Design Engineer",
+          "Automotive Maintenance Manager",
+          "Fleet Manager",
+          "Vehicle Testing Engineer",
+          "Service Manager (Automotive)",
+          "Workshop Manager",
+          "Automotive Parts Specialist",
+          "Vehicle Safety Engineer",
+          "Automotive Diagnostics Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 3,500 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Internal Combustion Engines",
+              "Vehicle Body Engineering",
+              "Automotive Electrical Systems",
+              "Automotive Diagnostics",
+              "Vehicle Dynamics",
+              "Workshop Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - 90,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €50,000 - €95,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 or better (Science/Technical background required)"
+            ],
+            "mode": [
+              "Full-time on-campus with automotive workshop practicals",
+              "Regular session with industrial attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English, Core Mathematics, Integrated Science plus three relevant Technical/Science elective subjects",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Technical/Vocational school background preferred"
+            ],
+            "level_note": [
+              "Practical automotive engineering training using modern diagnostic tools.",
+              "Graduates are equipped for both local and international automotive industries."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Building Technology",
+        "career": [
+          "Building Technologist",
+          "Construction Manager",
+          "Site Supervisor",
+          "Building Inspector",
+          "Quantity Surveyor",
+          "Project Manager (Building)",
+          "Estimator",
+          "Clerk of Works",
+          "Property Manager",
+          "Construction Consultant"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 3,500 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Building Construction",
+              "Building Services",
+              "Construction Management",
+              "Estimation & Costing",
+              "Building Materials Science",
+              "Structural Design"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - 85,000 annually",
+              "USA: $55,000 - $105,000",
+              "Europe: €48,000 - €90,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 or better (Science/Technical background required)"
+            ],
+            "mode": [
+              "Full-time on-campus with practical building workshops",
+              "Regular session with site attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English, Core Mathematics, Integrated Science plus three relevant Technical/Science elective subjects",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Technical or Science school background required"
+            ],
+            "level_note": [
+              "Produces skilled building professionals for Ghana's construction sector.",
+              "Practical training with hands-on building workshop experience."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Technology in Civil Engineering",
+        "career": [
+          "Civil Engineer",
+          "Structural Engineer",
+          "Site Engineer",
+          "Construction Manager",
+          "Highway Engineer",
+          "Geotechnical Engineer",
+          "Water Resources Engineer",
+          "Project Manager (Construction)",
+          "Building Inspector",
+          "Quantity Surveyor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 3,500 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Structural Analysis",
+              "Geotechnical Engineering",
+              "Highway Engineering",
+              "Hydraulics & Hydrology",
+              "Construction Materials",
+              "Surveying"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 96,000 annually",
+              "USA: $65,000 - $120,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 or better (Science/Technical background required)"
+            ],
+            "mode": [
+              "Full-time on-campus with laboratory and field practicals",
+              "Regular session with industrial attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English, Core Mathematics, Integrated Science plus three relevant Science/Technical elective subjects including Elective Mathematics and Physics",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Science or Technical school background required"
+            ],
+            "level_note": [
+              "Strong foundation in structural and geotechnical engineering.",
+              "Graduates contribute to Ghana's infrastructure development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Electrical and Electronic Engineering",
+        "career": [
+          "Electrical Engineer",
+          "Electronics Engineer",
+          "Power Systems Engineer",
+          "Telecommunications Engineer",
+          "Control Systems Engineer",
+          "Instrumentation Engineer",
+          "Electrical Maintenance Engineer",
+          "Renewable Energy Engineer",
+          "Automation Engineer",
+          "Network Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 3,500 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Circuit Analysis",
+              "Power Systems Engineering",
+              "Digital Electronics",
+              "Electrical Machines",
+              "Telecommunications",
+              "Renewable Energy Systems"
+            ],
+            "salary": [
+              "Ghana: GHS 45,000 - 100,000 annually",
+              "USA: $75,000 - $135,000",
+              "Europe: €60,000 - €110,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 or better (Science/Technical background required)"
+            ],
+            "mode": [
+              "Full-time on-campus with laboratory and workshop practicals",
+              "Regular session with industrial attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English, Core Mathematics, Integrated Science plus three relevant Science/Technical elective subjects including Elective Mathematics and Physics",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Science or Technical school background required"
+            ],
+            "level_note": [
+              "Covers both power systems and electronics engineering.",
+              "Active research in smart irrigation, IoT, and solar PV systems."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Bachelor of Science in Mechanical Engineering",
+        "career": [
+          "Mechanical Engineer",
+          "Design Engineer",
+          "Manufacturing Engineer",
+          "Maintenance Engineer",
+          "Project Engineer",
+          "Plant Engineer",
+          "Quality Engineer",
+          "Production Manager",
+          "Energy Engineer",
+          "Automotive Engineer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "Ghanaian Students: GHC 3,000 - 3,500 per semester (estimated)"
+            ],
+            "duration": "4 years",
+            "electives": [
+              "Thermodynamics",
+              "Fluid Mechanics",
+              "Machine Design",
+              "Manufacturing Processes",
+              "Strength of Materials",
+              "Engineering Drawing & CAD"
+            ],
+            "salary": [
+              "Ghana: GHS 42,000 - 96,000 annually",
+              "USA: $70,000 - $130,000",
+              "Europe: €55,000 - €100,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 or better (Science/Technical background required)"
+            ],
+            "mode": [
+              "Full-time on-campus with workshop and laboratory practicals",
+              "Regular session with industrial attachment"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Credit passes in English, Core Mathematics, Integrated Science plus three relevant Science/Technical elective subjects including Elective Mathematics and Physics",
+              "Aggregate of 24 (SSSCE) or 36 (WASSCE) or better",
+              "Science or Technical school background required"
+            ],
+            "level_note": [
+              "Practical engineering education with modern workshop facilities.",
+              "Produces industry-ready mechanical engineers for Ghana's growing industrial sector."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Faculty of Engineering – Diploma/HND",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Diploma in Agricultural Engineering",
+        "career": [
+          "Farm Technician",
+          "Agricultural Equipment Operator",
+          "Irrigation Technician",
+          "Farm Machinery Assistant",
+          "Agricultural Extension Assistant",
+          "Soil Conservation Technician",
+          "Farm Workshop Technician",
+          "Equipment Maintenance Technician",
+          "Agricultural Surveyor Assistant",
+          "Farm Infrastructure Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Farm Power & Machinery",
+              "Basic Irrigation",
+              "Agricultural Surveying",
+              "Workshop Practice",
+              "Soil & Water Conservation",
+              "Engineering Drawing"
+            ],
+            "salary": [
+              "Ghana: GHS 15,000 - 36,000 annually",
+              "USA: $28,000 - $48,000",
+              "Europe: €24,000 - €42,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: Four passes including English and Mathematics"
+            ],
+            "mode": [
+              "Full-time on-campus with workshop and field practicals",
+              "Regular and evening sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Four passes (A1-D7) including English Language and Core Mathematics plus two relevant Science/Technical elective subjects",
+              "Technical/Vocational Certificate holders may apply",
+              "Mature applicants: 25 years or older, must pass entrance examination"
+            ],
+            "level_note": [
+              "Foundation programme in agricultural engineering skills.",
+              "Pathway to HND Agricultural Engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Construction Estimation and Measurement",
+        "career": [
+          "Quantity Surveying Assistant",
+          "Construction Estimator",
+          "Site Measurement Technician",
+          "Cost Analyst (Construction)",
+          "Building Material Estimator",
+          "Project Cost Technician",
+          "Works Supervisor",
+          "Contract Assistant",
+          "Junior Quantity Surveyor",
+          "Construction Records Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Construction Measurement",
+              "Estimation & Costing",
+              "Building Materials",
+              "Construction Technology",
+              "Drawing & Specifications",
+              "Contract Documentation"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 40,000 annually",
+              "USA: $32,000 - $55,000",
+              "Europe: €28,000 - €48,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: Four passes including English and Mathematics"
+            ],
+            "mode": [
+              "Full-time on-campus with practical measurement exercises",
+              "Regular and evening sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Four passes (A1-D7) including English Language and Core Mathematics plus two relevant Technical/Science elective subjects",
+              "Technical/Vocational Certificate holders may apply",
+              "Mature applicants: 25 years or older, must pass entrance examination"
+            ],
+            "level_note": [
+              "Practical training in construction cost estimation and measurement.",
+              "Pathway to HND Building Technology or Civil Engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Electrical/Electronic Engineering",
+        "career": [
+          "Electrical Technician",
+          "Electronics Technician",
+          "Wiring Technician",
+          "Electrical Installation Technician",
+          "Power Line Technician",
+          "Solar Panel Installer",
+          "Maintenance Electrician",
+          "Industrial Electrician",
+          "Appliance Repair Technician",
+          "Electrical Inspector Assistant"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Electrical Installation",
+              "Circuit Theory",
+              "Digital Electronics",
+              "Electrical Machines Basics",
+              "Workshop Practice",
+              "Engineering Drawing"
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - 40,000 annually",
+              "USA: $30,000 - $52,000",
+              "Europe: €26,000 - €45,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: Four passes including English and Mathematics (Science background)"
+            ],
+            "mode": [
+              "Full-time on-campus with electrical/electronics lab practicals",
+              "Regular and evening sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Four passes (A1-D7) including English Language and Core Mathematics plus two relevant Science/Technical elective subjects",
+              "Technical/Vocational Certificate holders (NVTI, CTVET) may apply",
+              "Mature applicants: 25 years or older, must pass entrance examination"
+            ],
+            "level_note": [
+              "Foundation programme in electrical and electronic engineering.",
+              "Pathway to HND Electrical/Electronic Engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Mechanical Engineering",
+        "career": [
+          "Mechanical Technician",
+          "Workshop Technician",
+          "Maintenance Technician",
+          "Machine Operator",
+          "Welder/Fabricator",
+          "Fitter",
+          "Plant Maintenance Assistant",
+          "Production Technician",
+          "Quality Control Technician",
+          "Industrial Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Ghanaian Students: GHC 1,800 - 2,200 per semester (estimated)"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Workshop Technology",
+              "Engineering Drawing",
+              "Thermodynamics Basics",
+              "Machine Elements",
+              "Manufacturing Processes",
+              "Mechanical Maintenance"
+            ],
+            "salary": [
+              "Ghana: GHS 16,000 - 38,000 annually",
+              "USA: $28,000 - $50,000",
+              "Europe: €25,000 - €44,000"
+            ],
+            "cutt_off": [
+              "WASSCE/SSSCE: Four passes including English and Mathematics (Science/Technical background)"
+            ],
+            "mode": [
+              "Full-time on-campus with mechanical workshop practicals",
+              "Regular and evening sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Four passes (A1-D7) including English Language and Core Mathematics plus two relevant Science/Technical elective subjects",
+              "Technical/Vocational Certificate holders (NVTI, CTVET) may apply",
+              "Mature applicants: 25 years or older, must pass entrance examination"
+            ],
+            "level_note": [
+              "Foundation programme in mechanical engineering skills.",
+              "Pathway to HND Mechanical Engineering."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Agricultural Engineering",
+        "career": [
+          "Agricultural Engineering Technician",
+          "Farm Mechanization Officer",
+          "Irrigation Technician",
+          "Agricultural Equipment Supervisor",
+          "Soil & Water Conservation Officer",
+          "Farm Infrastructure Supervisor",
+          "Agricultural Extension Technician",
+          "Equipment Maintenance Supervisor",
+          "Agricultural Surveyor",
+          "Food Processing Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,200 - 2,800 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Farm Power & Machinery",
+              "Irrigation & Drainage",
+              "Soil Mechanics",
+              "Agricultural Processing",
+              "Farm Structures",
+              "Surveying & Levelling"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually",
+              "USA: $40,000 - $65,000",
+              "Europe: €35,000 - €58,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 (SSSCE) or 36 (WASSCE) or better (Science/Technical background)"
+            ],
+            "mode": [
+              "Full-time on-campus with workshop and field practicals",
+              "Regular session (3-year programme)"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six passes (A1-D7) in three core subjects (English, Mathematics, Integrated Science) and three relevant Science/Technical elective subjects with credit passes",
+              "Science or Technical school background required",
+              "Mature applicants: 25 years or older with relevant passes including English and Mathematics"
+            ],
+            "level_note": [
+              "Three-year Higher National Diploma in agricultural engineering.",
+              "Pathway to BTech Agricultural Engineering top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Automobile Engineering",
+        "career": [
+          "Automobile Technician",
+          "Vehicle Diagnostics Officer",
+          "Workshop Supervisor",
+          "Fleet Maintenance Officer",
+          "Automotive Service Advisor",
+          "Vehicle Inspector",
+          "Engine Rebuild Specialist",
+          "Auto Electrician",
+          "Transport Maintenance Supervisor",
+          "Automotive Parts Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,200 - 2,800 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Automotive Systems",
+              "Vehicle Diagnostics",
+              "Auto Electrical Systems",
+              "Engine Technology",
+              "Chassis & Suspension",
+              "Workshop Management"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 50,000 annually",
+              "USA: $38,000 - $62,000",
+              "Europe: €32,000 - €55,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 (SSSCE) or 36 (WASSCE) or better (Science/Technical background)"
+            ],
+            "mode": [
+              "Full-time on-campus with automotive workshop practicals",
+              "Regular session (3-year programme)"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six passes in three core subjects and three relevant Technical/Science elective subjects with credit passes",
+              "Technical/Vocational school background preferred",
+              "Mature applicants: 25 years or older with relevant passes"
+            ],
+            "level_note": [
+              "Practical automotive training with diagnostic equipment.",
+              "Pathway to BSc Automobile Engineering top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Building Technology",
+        "career": [
+          "Building Technician",
+          "Site Supervisor",
+          "Clerk of Works",
+          "Construction Foreman",
+          "Building Inspector Assistant",
+          "Quantity Surveying Technician",
+          "Construction Estimator",
+          "Project Coordinator (Building)",
+          "Works Superintendent",
+          "Building Maintenance Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,200 - 2,800 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Building Construction",
+              "Structural Mechanics",
+              "Building Services",
+              "Estimation & Costing",
+              "Construction Management",
+              "Building Drawing"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 50,000 annually",
+              "USA: $38,000 - $62,000",
+              "Europe: €32,000 - €55,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 (SSSCE) or 36 (WASSCE) or better (Science/Technical background)"
+            ],
+            "mode": [
+              "Full-time on-campus with building workshop practicals",
+              "Regular session (3-year programme)"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six passes in three core subjects and three relevant Technical/Science elective subjects with credit passes",
+              "Construction Technician Certificate holders may apply",
+              "Mature applicants: 25 years or older with relevant passes"
+            ],
+            "level_note": [
+              "Three-year Higher National Diploma in building technology.",
+              "Pathway to BTech Building Technology top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Civil Engineering",
+        "career": [
+          "Civil Engineering Technician",
+          "Site Supervisor",
+          "Road Construction Supervisor",
+          "Survey Technician",
+          "Drainage Technician",
+          "Water Supply Technician",
+          "Construction Foreman",
+          "Infrastructure Maintenance Officer",
+          "Project Coordinator (Civil)",
+          "Works Superintendent"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,200 - 2,800 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Structural Analysis",
+              "Highway Engineering",
+              "Hydraulics",
+              "Surveying",
+              "Construction Materials",
+              "Geotechnical Engineering"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually",
+              "USA: $40,000 - $68,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 (SSSCE) or 36 (WASSCE) or better (Science/Technical background)"
+            ],
+            "mode": [
+              "Full-time on-campus with laboratory and field practicals",
+              "Regular session (3-year programme)"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six passes in three core subjects and three relevant Science/Technical elective subjects with credit passes",
+              "Construction Technician Certificate holders may apply",
+              "Mature applicants: 25 years or older with relevant passes including English and Mathematics"
+            ],
+            "level_note": [
+              "Three-year Higher National Diploma in civil engineering.",
+              "Pathway to BTech Civil Engineering top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Electrical/Electronic Engineering",
+        "career": [
+          "Electrical Engineering Technician",
+          "Electronics Technician",
+          "Power Distribution Technician",
+          "Industrial Electrician",
+          "Electrical Maintenance Supervisor",
+          "Telecommunications Technician",
+          "PLC Technician",
+          "Instrumentation Technician",
+          "Solar Energy Technician",
+          "Electrical Installation Supervisor"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,200 - 2,800 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Power Systems",
+              "Circuit Theory",
+              "Digital Electronics",
+              "Electrical Machines",
+              "Control Systems",
+              "Telecommunications"
+            ],
+            "salary": [
+              "Ghana: GHS 26,000 - 58,000 annually",
+              "USA: $42,000 - $70,000",
+              "Europe: €36,000 - €62,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 (SSSCE) or 36 (WASSCE) or better (Science/Technical background)"
+            ],
+            "mode": [
+              "Full-time on-campus with electrical/electronics laboratory practicals",
+              "Regular session (3-year programme)"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six passes in three core subjects and three relevant Science/Technical elective subjects with credit passes including Physics and Elective Maths",
+              "Science or Technical school background required",
+              "Mature applicants: 25 years or older with relevant passes"
+            ],
+            "level_note": [
+              "Three-year Higher National Diploma in electrical and electronic engineering.",
+              "Pathway to BSc Electrical and Electronic Engineering top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Mechanical Engineering",
+        "career": [
+          "Mechanical Engineering Technician",
+          "Workshop Supervisor",
+          "Production Supervisor",
+          "Plant Maintenance Technician",
+          "Machine Operator Supervisor",
+          "Quality Control Technician",
+          "Manufacturing Technician",
+          "Welding Supervisor",
+          "Maintenance Planner",
+          "Industrial Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,200 - 2,800 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Thermodynamics",
+              "Fluid Mechanics",
+              "Machine Design",
+              "Manufacturing Processes",
+              "Strength of Materials",
+              "Workshop Technology"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - 55,000 annually",
+              "USA: $40,000 - $68,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 (SSSCE) or 36 (WASSCE) or better (Science/Technical background)"
+            ],
+            "mode": [
+              "Full-time on-campus with mechanical workshop practicals",
+              "Regular session (3-year programme)"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six passes in three core subjects and three relevant Science/Technical elective subjects with credit passes",
+              "Technical/Vocational school background preferred",
+              "Mature applicants: 25 years or older with relevant passes"
+            ],
+            "level_note": [
+              "Three-year Higher National Diploma in mechanical engineering.",
+              "Pathway to BSc Mechanical Engineering top-up."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "HND Welding and Fabrication Engineering",
+        "career": [
+          "Welding Technician",
+          "Fabrication Supervisor",
+          "Welding Inspector",
+          "Structural Fabricator",
+          "Pipeline Welder",
+          "Shipyard Welder",
+          "Metal Fabrication Specialist",
+          "Welding Instructor",
+          "Quality Inspector (Welding)",
+          "Maintenance Welder"
+        ],
+        "levels": [
+          {
+            "level_name": "HND",
+            "fees": [
+              "Ghanaian Students: GHC 2,200 - 2,800 per semester (estimated)"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Welding Processes",
+              "Metal Fabrication",
+              "Welding Metallurgy",
+              "Non-Destructive Testing",
+              "Workshop Practice",
+              "Engineering Drawing"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - 55,000 annually",
+              "USA: $42,000 - $75,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [
+              "WASSCE Aggregate 24 (SSSCE) or 36 (WASSCE) or better (Science/Technical background)"
+            ],
+            "mode": [
+              "Full-time on-campus with welding workshop practicals",
+              "Regular session (3-year programme)"
+            ],
+            "entry_requirements": [
+              "WASSCE/SSSCE: Six passes in three core subjects and three relevant Technical/Science elective subjects with credit passes",
+              "Technical/Vocational school background preferred",
+              "Mature applicants: 25 years or older with relevant passes"
+            ],
+            "level_note": [
+              "Specialized HND in welding and metal fabrication techniques.",
+              "Practical workshop-intensive training with modern welding equipment."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
