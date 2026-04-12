@@ -912,7 +912,7 @@
         ]
       },
       {
-        "course_name": "BTech Information Technology",
+        "course_name": "Information Technology",
         "career": [
           "Software Developer",
           "Systems Administrator",
@@ -964,7 +964,7 @@
         ]
       },
       {
-        "course_name": "BTech Statistics with Information Technology",
+        "course_name": "Statistics with Information Technology",
         "career": [
           "Data Analyst",
           "Statistician",
@@ -1016,7 +1016,7 @@
         ]
       },
       {
-        "course_name": "BTech Applied Statistics (Biostatistics and Financial Statistics options)",
+        "course_name": "Applied Statistics (Biostatistics and Financial Statistics options)",
         "career": [
           "Biostatistician",
           "Financial Statistician",
@@ -1068,7 +1068,7 @@
         ]
       },
       {
-        "course_name": "BTech Food Science and Technology",
+        "course_name": "Food Science and Technology",
         "career": [
           "Food Technologist",
           "Quality Assurance Officer",
@@ -1120,7 +1120,7 @@
         ]
       },
       {
-        "course_name": "BTech Hospitality and Tourism Management (Travel and Tourism Management option; Hospitality Management and Catering Technology option)",
+        "course_name": "Hospitality and Tourism Management (Travel and Tourism Management option; Hospitality Management and Catering Technology option)",
         "career": [
           "Hotel Manager",
           "Tourism Director",
@@ -1172,7 +1172,7 @@
         ]
       },
       {
-        "course_name": "BTech Information Technology in Multimedia Computing",
+        "course_name": "Information Technology in Multimedia Computing",
         "career": [
           "Multimedia Designer",
           "UI/UX Designer",
@@ -1224,7 +1224,7 @@
         ]
       },
       {
-        "course_name": "BTech Cyber Security",
+        "course_name": "Cyber Security",
         "career": [
           "Cybersecurity Analyst",
           "Penetration Tester",
@@ -1275,7 +1275,7 @@
         ]
       },
       {
-        "course_name": "BTech Media and Communication Studies",
+        "course_name": "Media and Communication Studies",
         "career": [
           "Journalist",
           "Public Relations Officer",
@@ -1378,8 +1378,8 @@
         ]
       },
       {
-        "course_name": "BTech Statistics (Top-Up)",
-        "career": "Same careers as BTech Statistics with IT / Applied Statistics Regular",
+        "course_name": "Statistics (Top-Up)",
+        "career": "Same careers as Statistics with IT / Applied Statistics Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -1395,7 +1395,7 @@
               "Research Methods",
               "Research Project"
             ],
-            "salary": ["Same salary range as BTech Statistics Regular"],
+            "salary": ["Same salary range as Statistics Regular"],
             "cutt_off": [],
             "mode": ["Weekend mode for HND Statistics graduates"],
             "entry_requirements": [
@@ -1412,8 +1412,8 @@
         ]
       },
       {
-        "course_name": "BTech Hospitality and Tourism Management (Top-Up)",
-        "career": "Same careers as BTech Hospitality and Tourism Management Regular",
+        "course_name": "Hospitality and Tourism Management (Top-Up)",
+        "career": "Same careers as Hospitality and Tourism Management Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -1430,7 +1430,7 @@
               "Research Project"
             ],
             "salary": [
-              "Same salary range as BTech Hospitality and Tourism Management Regular"
+              "Same salary range as Hospitality and Tourism Management Regular"
             ],
             "cutt_off": [],
             "mode": ["Weekend mode for HND Tourism/HCIM holders"],
@@ -1492,7 +1492,7 @@
             ],
             "level_note": [
               "Foundation ICT programme.",
-              "Pathway to BTech Information Technology (Top-Up)."
+              "Pathway to Information Technology (Top-Up)."
             ]
           }
         ]
@@ -1541,7 +1541,7 @@
             ],
             "level_note": [
               "Foundation statistics programme.",
-              "Pathway to BTech Statistics (Top-Up)."
+              "Pathway to Statistics (Top-Up)."
             ]
           }
         ]
@@ -1590,7 +1590,7 @@
             ],
             "level_note": [
               "Foundation food science programme.",
-              "Pathway to BTech Food Science and Technology (Top-Up)."
+              "Pathway to Food Science and Technology (Top-Up)."
             ]
           }
         ]
@@ -1640,7 +1640,7 @@
             ],
             "level_note": [
               "Foundation hospitality programme.",
-              "Pathway to BTech Hospitality and Tourism Management (Top-Up)."
+              "Pathway to Hospitality and Tourism Management (Top-Up)."
             ]
           }
         ]
@@ -1689,7 +1689,7 @@
             ],
             "level_note": [
               "Foundation tourism programme.",
-              "Pathway to BTech Hospitality and Tourism Management (Top-Up)."
+              "Pathway to Hospitality and Tourism Management (Top-Up)."
             ]
           }
         ]
@@ -1738,7 +1738,7 @@
             ],
             "level_note": [
               "Foundation media and communication programme.",
-              "Pathway to BTech Media and Communication Studies."
+              "Pathway to Media and Communication Studies."
             ]
           }
         ]
@@ -1835,7 +1835,7 @@
             ],
             "level_note": [
               "Foundation GIS programme — rare at diploma level in Ghana.",
-              "Pathway to BTech Natural Resource Management or IT."
+              "Pathway to Natural Resource Management or IT."
             ]
           }
         ]
@@ -2472,7 +2472,7 @@
         ]
       },
       {
-        "course_name": "BTech Applied Accounting",
+        "course_name": "Applied Accounting",
         "career": [
           "Chartered Accountant",
           "Financial Analyst",
@@ -2526,7 +2526,7 @@
         ]
       },
       {
-        "course_name": "BTech Business Management",
+        "course_name": "Business Management",
         "career": [
           "Business Manager",
           "Operations Manager",
@@ -2580,7 +2580,7 @@
         ]
       },
       {
-        "course_name": "BTech Logistics and Procurement Management",
+        "course_name": "Logistics and Procurement Management",
         "career": [
           "Procurement Manager",
           "Logistics Manager",
@@ -2634,7 +2634,7 @@
         ]
       },
       {
-        "course_name": "BTech Entrepreneurship and Innovation Management",
+        "course_name": "Entrepreneurship and Innovation Management",
         "career": [
           "Entrepreneur/Start-Up Founder",
           "Innovation Manager",
@@ -2787,7 +2787,7 @@
         ]
       },
       {
-        "course_name": "BTech Digital Marketing",
+        "course_name": "Digital Marketing",
         "career": [
           "Digital Marketing Manager",
           "Social Media Manager",
@@ -2838,7 +2838,7 @@
         ]
       },
       {
-        "course_name": "BTech Petroleum Marketing",
+        "course_name": "Petroleum Marketing",
         "career": [
           "Petroleum Marketing Manager",
           "Fuel Distribution Manager",
@@ -2889,7 +2889,7 @@
         ]
       },
       {
-        "course_name": "BTech Library and Information Science",
+        "course_name": "Library and Information Science",
         "career": [
           "Librarian",
           "Information Manager",
@@ -2940,8 +2940,8 @@
         ]
       },
       {
-        "course_name": "BTech Applied Accounting (Top-Up)",
-        "career": "Same careers as BTech Applied Accounting Regular",
+        "course_name": "Applied Accounting (Top-Up)",
+        "career": "Same careers as Applied Accounting Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -2957,7 +2957,7 @@
               "Accounting Information Systems",
               "Research Project"
             ],
-            "salary": ["Same salary range as BTech Applied Accounting Regular"],
+            "salary": ["Same salary range as Applied Accounting Regular"],
             "cutt_off": [],
             "mode": ["Weekend/Evening mode for HND graduates"],
             "entry_requirements": [
@@ -2974,8 +2974,8 @@
         ]
       },
       {
-        "course_name": "BTech Entrepreneurship and Innovation (Top-Up)",
-        "career": "Same careers as BTech Entrepreneurship and Innovation Management Regular",
+        "course_name": "Entrepreneurship and Innovation (Top-Up)",
+        "career": "Same careers as Entrepreneurship and Innovation Management Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -2991,7 +2991,7 @@
               "Social Enterprise",
               "Research Project"
             ],
-            "salary": ["Same salary range as BTech Entrepreneurship Regular"],
+            "salary": ["Same salary range as Entrepreneurship Regular"],
             "cutt_off": [],
             "mode": ["Weekend mode for HND graduates"],
             "entry_requirements": [
@@ -3008,8 +3008,8 @@
         ]
       },
       {
-        "course_name": "BTech Logistics and Procurement Management (Top-Up)",
-        "career": "Same careers as BTech Logistics and Procurement Management Regular",
+        "course_name": "Logistics and Procurement Management (Top-Up)",
+        "career": "Same careers as Logistics and Procurement Management Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -3026,7 +3026,7 @@
               "Research Project"
             ],
             "salary": [
-              "Same salary range as BTech Logistics and Procurement Management Regular"
+              "Same salary range as Logistics and Procurement Management Regular"
             ],
             "cutt_off": [],
             "mode": ["Weekend mode for HND graduates"],
@@ -3044,8 +3044,8 @@
         ]
       },
       {
-        "course_name": "BTech Business Management (Top-Up)",
-        "career": "Same careers as BTech Business Management Regular",
+        "course_name": "Business Management (Top-Up)",
+        "career": "Same careers as Business Management Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -3061,9 +3061,7 @@
               "Leadership and Change",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Business Management Regular"
-            ],
+            "salary": ["Same salary range as Business Management Regular"],
             "cutt_off": [],
             "mode": ["Weekend/Evening mode for HND graduates"],
             "entry_requirements": [
@@ -3123,7 +3121,7 @@
               "Mature applicants: 25+ years with relevant work experience; must pass entrance exam and interview."
             ],
             "level_note": [
-              "Foundation accounting programme; pathway to BTech Applied Accounting (Top-Up).",
+              "Foundation accounting programme; pathway to Applied Accounting (Top-Up).",
               "Graduates work in accounting firms, banks, insurance, and public sector finance."
             ]
           }
@@ -3223,7 +3221,7 @@
             ],
             "level_note": [
               "Trains executive secretaries and office administrators.",
-              "Pathway to BTech Business Management (Top-Up) or Bachelor of Secretaryship."
+              "Pathway to Business Management (Top-Up) or Bachelor of Secretaryship."
             ]
           }
         ]
@@ -3273,7 +3271,7 @@
             ],
             "level_note": [
               "Foundation marketing programme.",
-              "Pathway to BTech Business Management or Digital Marketing (Top-Up)."
+              "Pathway to Business Management or Digital Marketing (Top-Up)."
             ]
           }
         ]
@@ -3322,7 +3320,7 @@
             ],
             "level_note": [
               "Foundation procurement and supply programme.",
-              "Pathway to BTech Logistics and Procurement Management (Top-Up)."
+              "Pathway to Logistics and Procurement Management (Top-Up)."
             ]
           }
         ]
@@ -3421,7 +3419,7 @@
             ],
             "level_note": [
               "Foundation entrepreneurship programme.",
-              "Pathway to BTech Entrepreneurship and Innovation Management (Top-Up)."
+              "Pathway to Entrepreneurship and Innovation Management (Top-Up)."
             ]
           }
         ]
@@ -3472,7 +3470,7 @@
               "Mature applicants: 25+ years; entrance exam required."
             ],
             "level_note": [
-              "Pathway to HND Accountancy or BTech Applied Accounting.",
+              "Pathway to HND Accountancy or Applied Accounting.",
               "Provides foundational accounting and business skills."
             ]
           }
@@ -3522,7 +3520,7 @@
               "Mature applicants: 25+ years; entrance exam required."
             ],
             "level_note": [
-              "Pathway to HND Marketing/Secretaryship or BTech Business Management.",
+              "Pathway to HND Marketing/Secretaryship or Business Management.",
               "Foundation business management programme."
             ]
           }
@@ -3720,7 +3718,7 @@
             ],
             "level_note": [
               "Foundation sports management programme.",
-              "Pathway to HND Tourism or BTech Sports-related programmes."
+              "Pathway to HND Tourism or Sports-related programmes."
             ]
           }
         ]
@@ -3866,7 +3864,7 @@
             ],
             "level_note": [
               "Foundation library and information science programme.",
-              "Pathway to BTech Library and Information Science."
+              "Pathway to Library and Information Science."
             ]
           }
         ]
@@ -3877,7 +3875,7 @@
     "faculty_name": "Faculty of Engineering",
     "note": [
       "The Faculty of Engineering houses the Departments of Mechanical Engineering, Automotive Engineering, Civil Engineering, Electrical and Electronics Engineering, Welding and Fabrication, Agricultural Engineering, and Water and Sanitation.",
-      "Offers MTech and BTech programmes in mechanical, automotive, electrical, civil, chemical, welding, agricultural, water/sanitation, and road transport engineering."
+      "Offers MTech and programmes in mechanical, automotive, electrical, civil, chemical, welding, agricultural, water/sanitation, and road transport engineering."
     ],
     "courses": [
       {
@@ -4025,7 +4023,7 @@
         ]
       },
       {
-        "course_name": "BTech Mechanical Engineering",
+        "course_name": "Mechanical Engineering",
         "career": [
           "Mechanical Engineer",
           "Plant Engineer",
@@ -4077,7 +4075,7 @@
         ]
       },
       {
-        "course_name": "BTech Automotive Engineering",
+        "course_name": "Automotive Engineering",
         "career": [
           "Automotive Engineer",
           "Vehicle Design Engineer",
@@ -4129,7 +4127,7 @@
         ]
       },
       {
-        "course_name": "BTech Electrical/Electronics Engineering",
+        "course_name": "Electrical/Electronics Engineering",
         "career": [
           "Electrical Engineer",
           "Electronics Engineer",
@@ -4181,7 +4179,7 @@
         ]
       },
       {
-        "course_name": "BTech Welding and Fabrication Engineering",
+        "course_name": "Welding and Fabrication Engineering",
         "career": [
           "Welding Engineer",
           "Fabrication Engineer",
@@ -4233,7 +4231,7 @@
         ]
       },
       {
-        "course_name": "BTech Water and Sanitation Engineering",
+        "course_name": "Water and Sanitation Engineering",
         "career": [
           "Water Supply Engineer",
           "Sanitation Engineer",
@@ -4284,7 +4282,7 @@
         ]
       },
       {
-        "course_name": "BTech Chemical Engineering",
+        "course_name": "Chemical Engineering",
         "career": [
           "Chemical Engineer",
           "Process Engineer",
@@ -4335,7 +4333,7 @@
         ]
       },
       {
-        "course_name": "BTech Civil Engineering",
+        "course_name": "Civil Engineering",
         "career": [
           "Civil Engineer",
           "Structural Engineer",
@@ -4386,7 +4384,7 @@
         ]
       },
       {
-        "course_name": "BTech Road Transport Engineering",
+        "course_name": "Road Transport Engineering",
         "career": [
           "Road Transport Engineer",
           "Highway Design Engineer",
@@ -4437,7 +4435,7 @@
         ]
       },
       {
-        "course_name": "BTech Agricultural Engineering",
+        "course_name": "Agricultural Engineering",
         "career": [
           "Agricultural Engineer",
           "Irrigation Engineer",
@@ -4489,8 +4487,8 @@
         ]
       },
       {
-        "course_name": "BTech Welding and Fabrication Engineering (Top-Up)",
-        "career": "Same careers as BTech Welding and Fabrication Engineering Regular",
+        "course_name": "Welding and Fabrication Engineering (Top-Up)",
+        "career": "Same careers as Welding and Fabrication Engineering Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -4507,7 +4505,7 @@
               "Research Project"
             ],
             "salary": [
-              "Same salary range as BTech Welding and Fabrication Engineering Regular"
+              "Same salary range as Welding and Fabrication Engineering Regular"
             ],
             "cutt_off": [],
             "mode": ["Weekend mode for HND Welding/Fabrication holders"],
@@ -4525,8 +4523,8 @@
         ]
       },
       {
-        "course_name": "BTech Agricultural Engineering (Top-Up)",
-        "career": "Same careers as BTech Agricultural Engineering Regular",
+        "course_name": "Agricultural Engineering (Top-Up)",
+        "career": "Same careers as Agricultural Engineering Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -4542,9 +4540,7 @@
               "Research Methods",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Agricultural Engineering Regular"
-            ],
+            "salary": ["Same salary range as Agricultural Engineering Regular"],
             "cutt_off": [],
             "mode": ["Weekend mode for HND Agricultural Engineering holders"],
             "entry_requirements": [
@@ -4561,8 +4557,8 @@
         ]
       },
       {
-        "course_name": "BTech Mechanical Engineering (Top-Up)",
-        "career": "Same careers as BTech Mechanical Engineering Regular",
+        "course_name": "Mechanical Engineering (Top-Up)",
+        "career": "Same careers as Mechanical Engineering Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -4578,9 +4574,7 @@
               "Finite Element Analysis",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Mechanical Engineering Regular"
-            ],
+            "salary": ["Same salary range as Mechanical Engineering Regular"],
             "cutt_off": [],
             "mode": ["Weekend mode for HND Mechanical Engineering holders"],
             "entry_requirements": [
@@ -4597,8 +4591,8 @@
         ]
       },
       {
-        "course_name": "BTech Automotive Engineering (Top-Up)",
-        "career": "Same careers as BTech Automotive Engineering Regular",
+        "course_name": "Automotive Engineering (Top-Up)",
+        "career": "Same careers as Automotive Engineering Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -4614,9 +4608,7 @@
               "Diagnostics",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Automotive Engineering Regular"
-            ],
+            "salary": ["Same salary range as Automotive Engineering Regular"],
             "cutt_off": [],
             "mode": ["Weekend mode for HND Automotive/Mechanical holders"],
             "entry_requirements": [
@@ -4676,7 +4668,7 @@
             ],
             "level_note": [
               "Foundation building technology programme.",
-              "Pathway to BTech Building Technology (Top-Up)."
+              "Pathway to Building Technology (Top-Up)."
             ]
           }
         ]
@@ -4725,7 +4717,7 @@
             ],
             "level_note": [
               "Foundation civil engineering programme.",
-              "Pathway to BTech Civil Engineering."
+              "Pathway to Civil Engineering."
             ]
           }
         ]
@@ -4775,7 +4767,7 @@
             ],
             "level_note": [
               "Two options: Plant Engineering and Production Engineering.",
-              "Pathway to BTech Mechanical Engineering (Top-Up)."
+              "Pathway to Mechanical Engineering (Top-Up)."
             ]
           }
         ]
@@ -4824,7 +4816,7 @@
             ],
             "level_note": [
               "Foundation automotive engineering programme.",
-              "Pathway to BTech Automotive Engineering (Top-Up)."
+              "Pathway to Automotive Engineering (Top-Up)."
             ]
           }
         ]
@@ -4873,7 +4865,7 @@
             ],
             "level_note": [
               "Foundation welding and fabrication programme.",
-              "Pathway to BTech Welding and Fabrication Engineering (Top-Up)."
+              "Pathway to Welding and Fabrication Engineering (Top-Up)."
             ]
           }
         ]
@@ -4922,7 +4914,7 @@
             ],
             "level_note": [
               "Foundation agricultural engineering programme.",
-              "Pathway to BTech Agricultural Engineering (Top-Up)."
+              "Pathway to Agricultural Engineering (Top-Up)."
             ]
           }
         ]
@@ -4972,7 +4964,7 @@
             ],
             "level_note": [
               "Foundation electrical and electronics programme.",
-              "Pathway to BTech Electrical/Electronics Engineering."
+              "Pathway to Electrical/Electronics Engineering."
             ]
           }
         ]
@@ -5021,7 +5013,7 @@
             ],
             "level_note": [
               "Foundation water and sanitation engineering programme.",
-              "Pathway to BTech Water and Sanitation Engineering."
+              "Pathway to Water and Sanitation Engineering."
             ]
           }
         ]
@@ -5373,11 +5365,11 @@
     "faculty_name": "Faculty of Built Environment",
     "note": [
       "The Faculty of Built Environment houses the Departments of Building Technology, Architectural Wood Technology, and related built environment disciplines.",
-      "Offers BTech Building Technology (with 6 specialisation options) and BTech Architectural Wood Technology and Furniture Production."
+      "Offers Building Technology (with 6 specialisation options) and Architectural Wood Technology and Furniture Production."
     ],
     "courses": [
       {
-        "course_name": "BTech Building Technology (Construction Technology; Real Estate Development and Property Management; Quantity Surveying; Construction Management; Project Management; Building Services Engineering and Technology options)",
+        "course_name": "Building Technology (Construction Technology; Real Estate Development and Property Management; Quantity Surveying; Construction Management; Project Management; Building Services Engineering and Technology options)",
         "career": [
           "Quantity Surveyor",
           "Construction Manager",
@@ -5431,7 +5423,7 @@
         ]
       },
       {
-        "course_name": "BTech Architectural Wood Technology and Furniture Production",
+        "course_name": "Architectural Wood Technology and Furniture Production",
         "career": [
           "Furniture Designer",
           "Interior Fit-Out Manager",
@@ -5485,8 +5477,8 @@
         ]
       },
       {
-        "course_name": "BTech Building Technology (Top-Up)",
-        "career": "Same careers as BTech Building Technology Regular",
+        "course_name": "Building Technology (Top-Up)",
+        "career": "Same careers as Building Technology Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -5502,9 +5494,7 @@
               "Building Services",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Building Technology Regular"
-            ],
+            "salary": ["Same salary range as Building Technology Regular"],
             "cutt_off": [],
             "mode": [
               "Weekend/Evening mode for HND Building Technology holders"
@@ -5566,7 +5556,7 @@
             ],
             "level_note": [
               "Foundation building technology programme.",
-              "Pathway to BTech Building Technology (Top-Up)."
+              "Pathway to Building Technology (Top-Up)."
             ]
           }
         ]
@@ -5577,7 +5567,7 @@
     "faculty_name": "Faculty of Creative Arts and Technology",
     "note": [
       "The Faculty of Creative Arts and Technology houses the Departments of Art and Design Innovation, Fashion and Design, Textiles Technology, and Graphic Communication Design Technology.",
-      "Offers MTech and BTech programmes in art and design, graphic communication, fashion, and textiles."
+      "Offers MTech and programmes in art and design, graphic communication, fashion, and textiles."
     ],
     "courses": [
       {
@@ -5677,7 +5667,7 @@
         ]
       },
       {
-        "course_name": "BTech Art and Design Innovation",
+        "course_name": "Art and Design Innovation",
         "career": [
           "Product Designer",
           "Industrial Designer",
@@ -5728,7 +5718,7 @@
         ]
       },
       {
-        "course_name": "BTech Graphic Communication Design",
+        "course_name": "Graphic Communication Design",
         "career": [
           "Graphic Designer",
           "Brand Identity Designer",
@@ -5779,7 +5769,7 @@
         ]
       },
       {
-        "course_name": "BTech Fashion and Design Technology",
+        "course_name": "Fashion and Design Technology",
         "career": [
           "Fashion Designer",
           "Apparel Production Manager",
@@ -5830,7 +5820,7 @@
         ]
       },
       {
-        "course_name": "BTech Textiles Design and Production Technology",
+        "course_name": "Textiles Design and Production Technology",
         "career": [
           "Textile Designer",
           "Textile Production Manager",
@@ -5925,7 +5915,7 @@
             ],
             "level_note": [
               "Foundation fashion and textiles programme.",
-              "Pathway to BTech Fashion and Design Technology."
+              "Pathway to Fashion and Design Technology."
             ]
           }
         ]
@@ -5975,7 +5965,7 @@
             ],
             "level_note": [
               "HND Industrial Art with Ceramics specialisation.",
-              "Pathway to BTech Art and Design Innovation."
+              "Pathway to Art and Design Innovation."
             ]
           }
         ]
@@ -6025,7 +6015,7 @@
             ],
             "level_note": [
               "HND Industrial Art with Painting specialisation.",
-              "Pathway to BTech Art and Design Innovation."
+              "Pathway to Art and Design Innovation."
             ]
           }
         ]
@@ -6075,7 +6065,7 @@
             ],
             "level_note": [
               "HND Industrial Art with Sculpture specialisation.",
-              "Pathway to BTech Art and Design Innovation."
+              "Pathway to Art and Design Innovation."
             ]
           }
         ]
@@ -6125,7 +6115,7 @@
             ],
             "level_note": [
               "HND Industrial Art with Leatherwork specialisation.",
-              "Pathway to BTech Art and Design Innovation."
+              "Pathway to Art and Design Innovation."
             ]
           }
         ]
@@ -6175,7 +6165,7 @@
             ],
             "level_note": [
               "HND Industrial Art with Graphic Design specialisation.",
-              "Pathway to BTech Art and Design Innovation."
+              "Pathway to Art and Design Innovation."
             ]
           }
         ]
@@ -6225,7 +6215,7 @@
             ],
             "level_note": [
               "HND Industrial Art with Textiles specialisation.",
-              "Pathway to BTech Art and Design Innovation."
+              "Pathway to Art and Design Innovation."
             ]
           }
         ]
@@ -6371,7 +6361,7 @@
               "Mature applicants: 25+ years; entrance exam required."
             ],
             "level_note": [
-              "Pathway to HND Industrial Art (Graphic Design) or BTech Graphic Communication Design.",
+              "Pathway to HND Industrial Art (Graphic Design) or Graphic Communication Design.",
               "Foundation graphic design programme."
             ]
           }
@@ -6470,7 +6460,7 @@
               "Mature applicants: 25+ years; entrance exam required."
             ],
             "level_note": [
-              "Pathway to BTech Architectural Wood Technology and Furniture Production.",
+              "Pathway to Architectural Wood Technology and Furniture Production.",
               "Foundation wood technology programme."
             ]
           }
@@ -6482,7 +6472,7 @@
     "faculty_name": "Faculty of Agriculture and Natural Resources",
     "note": [
       "The Faculty of Agriculture and Natural Resources houses the Departments of Sustainable Agriculture, Natural Resource Management, and Agribusiness.",
-      "Offers MTech and BTech programmes in crop science, sustainable agriculture, agribusiness, and natural resource management."
+      "Offers MTech and programmes in crop science, sustainable agriculture, agribusiness, and natural resource management."
     ],
     "courses": [
       {
@@ -6534,7 +6524,7 @@
         ]
       },
       {
-        "course_name": "BTech Sustainable Agriculture",
+        "course_name": "Sustainable Agriculture",
         "career": [
           "Sustainable Agriculture Specialist",
           "Agricultural Extension Officer",
@@ -6586,7 +6576,7 @@
         ]
       },
       {
-        "course_name": "BTech Agribusiness",
+        "course_name": "Agribusiness",
         "career": [
           "Agribusiness Manager",
           "Agricultural Marketing Officer",
@@ -6638,7 +6628,7 @@
         ]
       },
       {
-        "course_name": "BTech Natural Resource Management",
+        "course_name": "Natural Resource Management",
         "career": [
           "Natural Resource Manager",
           "Environmental Officer",
@@ -6690,8 +6680,8 @@
         ]
       },
       {
-        "course_name": "BTech Sustainable Agriculture (Top-Up)",
-        "career": "Same careers as BTech Sustainable Agriculture Regular",
+        "course_name": "Sustainable Agriculture (Top-Up)",
+        "career": "Same careers as Sustainable Agriculture Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -6707,9 +6697,7 @@
               "Agricultural Extension",
               "Research Project"
             ],
-            "salary": [
-              "Same salary range as BTech Sustainable Agriculture Regular"
-            ],
+            "salary": ["Same salary range as Sustainable Agriculture Regular"],
             "cutt_off": [],
             "mode": ["Weekend mode for HND Agriculture holders"],
             "entry_requirements": [
@@ -6726,8 +6714,8 @@
         ]
       },
       {
-        "course_name": "BTech Agribusiness (Top-Up)",
-        "career": "Same careers as BTech Agribusiness Regular",
+        "course_name": "Agribusiness (Top-Up)",
+        "career": "Same careers as Agribusiness Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -6743,7 +6731,7 @@
               "Entrepreneurship",
               "Research Project"
             ],
-            "salary": ["Same salary range as BTech Agribusiness Regular"],
+            "salary": ["Same salary range as Agribusiness Regular"],
             "cutt_off": [],
             "mode": ["Weekend mode for HND Agribusiness/Agriculture holders"],
             "entry_requirements": [
@@ -6760,8 +6748,8 @@
         ]
       },
       {
-        "course_name": "BTech Natural Resource Management (Top-Up)",
-        "career": "Same careers as BTech Natural Resource Management Regular",
+        "course_name": "Natural Resource Management (Top-Up)",
+        "career": "Same careers as Natural Resource Management Regular",
         "levels": [
           {
             "level_name": "Undergraduate",
@@ -6778,7 +6766,7 @@
               "Research Project"
             ],
             "salary": [
-              "Same salary range as BTech Natural Resource Management Regular"
+              "Same salary range as Natural Resource Management Regular"
             ],
             "cutt_off": [],
             "mode": ["Weekend mode for HND NRM holders"],
@@ -6840,7 +6828,7 @@
             ],
             "level_note": [
               "Foundation agriculture programme covering crops, animals, and post-harvest.",
-              "Pathway to BTech Sustainable Agriculture or Agribusiness (Top-Up)."
+              "Pathway to Sustainable Agriculture or Agribusiness (Top-Up)."
             ]
           }
         ]
@@ -6936,7 +6924,7 @@
               "Mature applicants: 25+ years; entrance exam required."
             ],
             "level_note": [
-              "Pathway to HND Tropical Agriculture or BTech Agribusiness.",
+              "Pathway to HND Tropical Agriculture or Agribusiness.",
               "Foundation agribusiness programme."
             ]
           }
@@ -6984,7 +6972,7 @@
               "Mature applicants: 25+ years; entrance exam required."
             ],
             "level_note": [
-              "Pathway to HND or BTech Natural Resource Management.",
+              "Pathway to HND or Natural Resource Management.",
               "Foundation natural resource management programme."
             ]
           }
@@ -6995,12 +6983,12 @@
   {
     "faculty_name": "Faculty of Health Sciences",
     "note": [
-      "The Faculty of Health Sciences at TaTU offers BTech and BSc programmes in medical laboratory technology, health information management, health promotion, nutrition, and dietetics.",
+      "The Faculty of Health Sciences at TaTU offers and BSc programmes in medical laboratory technology, health information management, health promotion, nutrition, and dietetics.",
       "Programmes emphasise clinical placements, hospital attachments, and practical health training."
     ],
     "courses": [
       {
-        "course_name": "BTech Medical Laboratory Technology",
+        "course_name": "Medical Laboratory Technology",
         "career": [
           "Medical Laboratory Scientist",
           "Laboratory Manager",
@@ -7052,7 +7040,7 @@
         ]
       },
       {
-        "course_name": "BTech Health Information Management",
+        "course_name": "Health Information Management",
         "career": [
           "Health Information Manager",
           "Medical Records Officer",
@@ -7104,7 +7092,7 @@
         ]
       },
       {
-        "course_name": "BTech Health Promotion",
+        "course_name": "Health Promotion",
         "career": [
           "Health Promotion Officer",
           "Public Health Educator",
