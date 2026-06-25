@@ -1,0 +1,696 @@
+[
+  {
+    "name": "Nursing Colleges Ghana"
+  },
+  {
+    "faculty_name": "Basic Nursing Programmes",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Registered General Nursing (RGN)",
+        "career": [
+          "Registered General Nurse",
+          "Ward Nurse",
+          "Clinical Nurse Specialist",
+          "Nurse Manager",
+          "Community Health Nurse",
+          "Nursing Educator",
+          "Hospital Administrator",
+          "Public Health Officer",
+          "Research Nurse",
+          "International Health Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Government Colleges: GHC 1,500 - GHC 2,500 per year",
+              "Private Colleges: GHC 4,000 - GHC 6,000 per year",
+              "Additional levies (SRC, Hall, Exams): approx. GHC 660 per year"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Medical-Surgical Nursing",
+              "Obstetrics Nursing",
+              "Paediatrics Nursing",
+              "Psychiatric Nursing",
+              "Public Health Nursing",
+              "Anatomy and Physiology"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - GHS 60,000 annually",
+              "USA: $55,000 - $85,000",
+              "Europe: €35,000 - €60,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 36 or better (WASSCE)",
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2023: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time residential programme",
+              "Theory and clinical rotations",
+              "Hospital-based practical training"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three elective subjects (Science, General Arts, or Home Economics)",
+              "Overall aggregate of 36 or better",
+              "Age limit: 16-35 years; must pass selection interview and medical examination"
+            ],
+            "level_note": [
+              "Government nursing colleges charge significantly lower fees due to state subsidies.",
+              "Graduates must pass the Nursing and Midwifery Council of Ghana licensure exam to practice."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Registered Midwifery (RM)",
+        "career": [
+          "Registered Midwife",
+          "Labour and Delivery Nurse",
+          "Antenatal Care Specialist",
+          "Postnatal Care Nurse",
+          "Neonatal Nurse",
+          "Maternal Health Officer",
+          "Family Planning Counsellor",
+          "Community Midwife",
+          "Midwifery Educator",
+          "Reproductive Health Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Government Colleges: GHC 1,500 - GHC 2,500 per year",
+              "Private Colleges: GHC 4,000 - GHC 6,000 per year",
+              "Additional levies (SRC, Hall, Exams): approx. GHC 660 per year"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Obstetric Nursing",
+              "Neonatal Paediatric Nursing",
+              "Family Planning",
+              "Prenatal Nursing",
+              "Labour and Puerperium",
+              "Allied Midwifery"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - GHS 60,000 annually",
+              "USA: $55,000 - $90,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 36 or better (WASSCE); females only at most colleges",
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2023: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time residential programme",
+              "Theory and supervised clinical rotations",
+              "Hospital-based obstetric and neonatal training"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three elective subjects",
+              "Overall aggregate of 36 or better",
+              "Age limit: 16-35 years; most colleges admit females only; medical examination required"
+            ],
+            "level_note": [
+              "Registered Midwifery is offered as a standalone diploma at most government nursing and midwifery training colleges.",
+              "Graduates are licenced by the Nursing and Midwifery Council of Ghana upon passing the qualifying examination."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Registered Mental Health Nursing (RMHN)",
+        "career": [
+          "Mental Health Nurse",
+          "Psychiatric Nurse",
+          "Community Mental Health Worker",
+          "Rehabilitation Nurse",
+          "Substance Abuse Counsellor",
+          "Crisis Intervention Nurse",
+          "Mental Health Educator",
+          "Forensic Psychiatric Nurse",
+          "Mental Health Programme Officer",
+          "Psychosocial Support Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Government Colleges: GHC 1,500 - GHC 2,500 per year",
+              "Private Colleges: GHC 4,000 - GHC 6,000 per year",
+              "Additional levies (SRC, Hall, Exams): approx. GHC 660 per year"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Psychiatric Nursing Theory",
+              "Psychology and Behaviour",
+              "Community Mental Health",
+              "Substance Abuse and Rehabilitation",
+              "Forensic Psychiatry",
+              "Mental Health Law and Ethics"
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - GHS 58,000 annually",
+              "USA: $55,000 - $85,000",
+              "Europe: €35,000 - €62,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 36 or better (WASSCE)",
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2023: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time residential programme",
+              "Theory and psychiatric clinical rotations",
+              "Placements at psychiatric hospitals and community mental health units"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three elective subjects",
+              "Overall aggregate of 36 or better",
+              "Age limit: 16-35 years; medical and psychological fitness required"
+            ],
+            "level_note": [
+              "Offered primarily at Accra Psychiatric Hospital School of Nursing and select government colleges.",
+              "Graduates play a key role in addressing Ghana's growing mental health workforce gap."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Registered Community Health Nursing (RCHN)",
+        "career": [
+          "Community Health Nurse",
+          "Public Health Nurse",
+          "Health Promotion Officer",
+          "Disease Surveillance Officer",
+          "School Health Nurse",
+          "Family Health Nurse",
+          "Immunisation Programme Officer",
+          "Environmental Health Educator",
+          "Non-Governmental Organisation Health Worker",
+          "District Health Information Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Government Colleges: GHC 1,500 - GHC 2,500 per year",
+              "Private Colleges: GHC 4,000 - GHC 6,000 per year",
+              "Additional levies (SRC, Hall, Exams): approx. GHC 660 per year"
+            ],
+            "duration": "3 years",
+            "electives": [
+              "Community Health Nursing",
+              "Epidemiology and Disease Control",
+              "Health Promotion and Education",
+              "Environmental Health",
+              "Family Health and Nutrition",
+              "Primary Health Care"
+            ],
+            "salary": [
+              "Ghana: GHS 22,000 - GHS 55,000 annually",
+              "USA: $50,000 - $80,000",
+              "Europe: €32,000 - €58,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 36 or better (WASSCE)",
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2023: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time residential programme",
+              "Community field postings and health outreach",
+              "Clinic and district health facility rotations"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three elective subjects",
+              "Overall aggregate of 36 or better",
+              "Age limit: 16-35 years; fitness for community deployment required"
+            ],
+            "level_note": [
+              "Community Health Nursing is central to Ghana Health Service's community-based primary healthcare delivery.",
+              "Graduates are frequently posted to rural and underserved communities across all regions of Ghana."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Nurse Assistant Clinical (NAC)",
+        "career": [
+          "Clinical Nurse Assistant",
+          "Hospital Support Nurse",
+          "Care Aide",
+          "Patient Care Technician",
+          "Ward Assistant",
+          "Home Care Aide",
+          "Clinic Support Worker",
+          "Healthcare Support Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Government Colleges: GHC 800 - GHC 1,500 per year",
+              "Private Colleges: GHC 2,500 - GHC 4,500 per year",
+              "Additional levies: approx. GHC 400 per year"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Basic Nursing Care",
+              "Anatomy and Physiology",
+              "First Aid and Emergency Care",
+              "Infection Prevention and Control",
+              "Patient Hygiene and Mobility",
+              "Medical Terminology"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - GHS 30,000 annually",
+              "USA: $30,000 - $50,000",
+              "Europe: €20,000 - €38,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 40 or better (WASSCE); passes accepted in elective subjects",
+              "2024: Aggregate 40 or better (WASSCE)",
+              "2023: Aggregate 40 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time classroom and clinical sessions",
+              "Hospital and clinic-based practical training",
+              "Supervised patient care attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Passes (A1-E8) in three elective subjects",
+              "Overall aggregate of 40 or better",
+              "Age limit: 16-35 years; medical fitness required"
+            ],
+            "level_note": [
+              "The NAC certificate is an entry-level clinical qualification that can be topped up to a Diploma in Nursing (2 years) or BSc Nursing (3 years).",
+              "Accredited by the Nursing and Midwifery Council of Ghana and regulated under the Ghana Health Service."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Nurse Assistant Preventive (NAP)",
+        "career": [
+          "Preventive Health Assistant",
+          "Environmental Health Aide",
+          "Disease Prevention Worker",
+          "Community Health Extension Worker",
+          "Health Education Assistant",
+          "Vector Control Technician",
+          "Sanitation and Hygiene Officer",
+          "Health Programme Field Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Government Colleges: GHC 800 - GHC 1,500 per year",
+              "Private Colleges: GHC 2,500 - GHC 4,000 per year",
+              "Additional levies: approx. GHC 400 per year"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Preventive Health Principles",
+              "Environmental Health and Sanitation",
+              "Disease Surveillance",
+              "Health Promotion and Behaviour Change",
+              "Nutrition and Food Safety",
+              "Community Mobilisation"
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - GHS 28,000 annually",
+              "USA: $28,000 - $48,000",
+              "Europe: €18,000 - €35,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 40 or better (WASSCE)",
+              "2024: Aggregate 40 or better (WASSCE)",
+              "2023: Aggregate 40 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time classroom and field-based sessions",
+              "Community health outreach postings",
+              "Environmental and public health practicals"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Passes (A1-E8) in three elective subjects",
+              "Overall aggregate of 40 or better",
+              "Age limit: 16-35 years; suitable for candidates with General Arts or General Agriculture background"
+            ],
+            "level_note": [
+              "The NAP certificate focuses on disease prevention and community environmental health, distinct from clinical bedside nursing.",
+              "Holders may top up to diploma or degree programmes after one year of rotation or internship."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Post-Basic Specialist Nursing Programmes",
+    "note": [],
+    "courses": [
+      {
+        "course_name": "Ophthalmic Nursing",
+        "career": [
+          "Ophthalmic Nurse",
+          "Eye Care Specialist",
+          "Ophthalmic Theatre Nurse",
+          "Vision Rehabilitation Nurse",
+          "Community Eye Health Worker",
+          "Ophthalmic Clinic Coordinator",
+          "Eye Health Programme Officer",
+          "Ophthalmic Nurse Educator",
+          "NGO Eye Health Specialist",
+          "Trachoma and Onchocerciasis Control Nurse"
+        ],
+        "levels": [
+          {
+            "level_name": "Post-Basic Diploma / BSc Top-Up",
+            "fees": [
+              "Post-Basic Diploma: GHC 3,000 - GHC 5,000 per year",
+              "BSc Top-Up (if applicable): GHC 5,000 - GHC 8,000 per year",
+              "Application voucher: GHC 150 - GHC 220"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Ocular Anatomy and Physiology",
+              "Ophthalmic Pharmacology",
+              "Refractive Errors and Low Vision",
+              "Ophthalmic Theatre Practice",
+              "Community Eye Health",
+              "Trachoma and Onchocerciasis Control"
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - GHS 72,000 annually",
+              "USA: $60,000 - $95,000",
+              "Europe: €42,000 - €72,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time post-basic programme",
+              "Theory and ophthalmic clinical rotations",
+              "Specialist placements at eye hospitals and outreach programmes"
+            ],
+            "entry_requirements": [
+              "Must hold a Diploma in General Nursing (RGN), Midwifery, or equivalent registered qualification",
+              "Valid PIN with the Nursing and Midwifery Council of Ghana",
+              "Minimum 3 years post-qualification work experience in relevant field",
+              "Currently in active service with a recognised health facility"
+            ],
+            "level_note": [
+              "Offered at the Ophthalmic Nursing School, Accra, one of the few specialist eye nursing training centres in West Africa.",
+              "Graduates play a critical role in Ghana's national eye health programme targeting preventable blindness."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Critical Care Nursing",
+        "career": [
+          "Critical Care Nurse",
+          "Intensive Care Unit Nurse",
+          "Emergency Nurse",
+          "Trauma Nurse",
+          "Cardiac Care Nurse",
+          "Neonatal Intensive Care Nurse",
+          "Flight and Transport Nurse",
+          "Resuscitation Team Nurse",
+          "Critical Care Nurse Educator",
+          "Hospital Critical Care Coordinator"
+        ],
+        "levels": [
+          {
+            "level_name": "Post-Basic Diploma / BSc Top-Up",
+            "fees": [
+              "Post-Basic Diploma: GHC 3,000 - GHC 5,500 per year",
+              "BSc Top-Up: GHC 5,000 - GHC 8,500 per year",
+              "Application voucher: GHC 150 - GHC 220"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Cardiovascular Nursing",
+              "Mechanical Ventilation and Respiratory Care",
+              "Renal Replacement Therapy",
+              "Haemodynamic Monitoring",
+              "Sepsis and Shock Management",
+              "Critical Care Pharmacology"
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 84,000 annually",
+              "USA: $70,000 - $110,000",
+              "Europe: €50,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time post-basic programme",
+              "Advanced clinical simulations and ICU rotations",
+              "Attachments at teaching hospital critical care units"
+            ],
+            "entry_requirements": [
+              "Must hold a Diploma in General Nursing (RGN), Midwifery, or equivalent registered qualification",
+              "Valid PIN with the Nursing and Midwifery Council of Ghana",
+              "Minimum 3 years post-qualification work experience",
+              "Currently in active service with a recognised health facility"
+            ],
+            "level_note": [
+              "Offered at the School of Peri-Operative and Critical Care Nursing, Korle-Bu, affiliated with the University of Cape Coast.",
+              "One of the most competitive post-basic nursing specialisations in Ghana due to high ICU demand in teaching hospitals."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Peri-Operative Nursing",
+        "career": [
+          "Theatre Nurse",
+          "Scrub Nurse",
+          "Circulating Nurse",
+          "Anaesthesia Assistant Nurse",
+          "Post-Anaesthesia Care Nurse",
+          "Surgical Nurse Specialist",
+          "Operating Theatre Coordinator",
+          "Sterile Supply Technician",
+          "Peri-Operative Nurse Educator",
+          "Hospital Theatre Manager"
+        ],
+        "levels": [
+          {
+            "level_name": "Post-Basic Diploma / BSc Top-Up",
+            "fees": [
+              "Post-Basic Diploma: GHC 3,000 - GHC 5,500 per year",
+              "BSc Top-Up: GHC 5,000 - GHC 8,500 per year",
+              "Application voucher: GHC 150 - GHC 220"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Surgical Anatomy",
+              "Sterile Technique and Infection Control",
+              "Anaesthesia Principles",
+              "Surgical Instrumentation",
+              "Post-Anaesthesia Recovery Care",
+              "Peri-Operative Patient Safety"
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - GHS 80,000 annually",
+              "USA: $65,000 - $105,000",
+              "Europe: €48,000 - €82,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time post-basic programme",
+              "Operating theatre clinical placements",
+              "Supervised surgical and anaesthesia rotations"
+            ],
+            "entry_requirements": [
+              "Must hold a Diploma in General Nursing (RGN), Midwifery, or Psychiatry",
+              "Valid PIN with the Nursing and Midwifery Council of Ghana",
+              "Minimum 3 years post-qualification work experience",
+              "Currently in active service with a recognised health facility"
+            ],
+            "level_note": [
+              "Offered at the School of Peri-Operative and Critical Care Nursing, Korle-Bu, the only dedicated peri-operative nursing school in Ghana.",
+              "Advanced diploma holders may apply for a BSc top-up programme, requiring a further two semesters of study."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Public Health Nursing",
+        "career": [
+          "Public Health Nurse",
+          "Health Promotion Specialist",
+          "Epidemiologist",
+          "Disease Control Officer",
+          "Immunisation Programme Manager",
+          "Maternal and Child Health Officer",
+          "Health Policy Advisor",
+          "NGO Public Health Nurse",
+          "International Health Worker",
+          "Community Nutrition and Health Educator"
+        ],
+        "levels": [
+          {
+            "level_name": "Post-Basic Diploma / BSc Top-Up",
+            "fees": [
+              "Post-Basic Diploma: GHC 3,000 - GHC 5,000 per year",
+              "BSc Top-Up: GHC 5,000 - GHC 8,000 per year",
+              "Application voucher: GHC 150 - GHC 220"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Epidemiology and Biostatistics",
+              "Health Promotion and Behaviour Change",
+              "Environmental Health",
+              "Maternal and Child Health",
+              "Health Policy and Planning",
+              "Communicable Disease Control"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - GHS 72,000 annually",
+              "USA: $58,000 - $95,000",
+              "Europe: €42,000 - €75,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time post-basic or sandwich programme",
+              "District health service field postings",
+              "Public health research and community projects"
+            ],
+            "entry_requirements": [
+              "Must hold a Diploma in General Nursing (RGN) or equivalent registered qualification",
+              "Valid PIN with the Nursing and Midwifery Council of Ghana",
+              "Minimum 3 years post-qualification work experience",
+              "Currently in active service with a recognised health or public health facility"
+            ],
+            "level_note": [
+              "Public Health Nursing post-basic training is offered at select nursing colleges affiliated with public health institutions in Ghana.",
+              "Graduates are eligible for senior roles within the Ghana Health Service and international health organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "ENT Nursing",
+        "career": [
+          "ENT Nurse Specialist",
+          "Ear, Nose and Throat Theatre Nurse",
+          "Audiology Support Nurse",
+          "Head and Neck Surgical Nurse",
+          "Hearing Loss Rehabilitation Nurse",
+          "ENT Clinic Coordinator",
+          "Community ENT Health Worker",
+          "ENT Nurse Educator",
+          "Paediatric ENT Nurse",
+          "ENT Programme Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Post-Basic Diploma",
+            "fees": [
+              "Post-Basic Diploma: GHC 3,000 - GHC 5,000 per year",
+              "Application voucher: GHC 150 - GHC 220"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Ear, Nose and Throat Anatomy",
+              "Audiometry and Hearing Assessment",
+              "ENT Surgical Nursing",
+              "Endoscopy and ENT Procedures",
+              "Paediatric ENT Nursing",
+              "ENT Pharmacology"
+            ],
+            "salary": [
+              "Ghana: GHS 34,000 - GHS 70,000 annually",
+              "USA: $58,000 - $90,000",
+              "Europe: €40,000 - €70,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time post-basic programme",
+              "Clinical rotations at ENT departments of teaching hospitals",
+              "Specialist ENT outpatient and theatre placements"
+            ],
+            "entry_requirements": [
+              "Must hold a Diploma in General Nursing (RGN) or equivalent registered qualification",
+              "Valid PIN with the Nursing and Midwifery Council of Ghana",
+              "Minimum 3 years post-qualification work experience in relevant field",
+              "Currently in active service with a recognised health facility"
+            ],
+            "level_note": [
+              "ENT Nursing is a rare and highly specialised post-basic programme offered at a limited number of accredited centres in Ghana.",
+              "Graduates address a critical shortage of ear, nose and throat specialist nurses across Ghana's public hospitals."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Post Basic Midwifery",
+        "career": [
+          "Registered Midwife",
+          "Senior Midwife",
+          "Labour Ward Coordinator",
+          "Antenatal Clinic Manager",
+          "Safe Motherhood Programme Officer",
+          "Midwifery Educator",
+          "Neonatal Care Specialist",
+          "Family Planning Specialist",
+          "Maternal Health Researcher",
+          "International Maternal Health Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Post-Basic Diploma",
+            "fees": [
+              "Government Colleges: GHC 1,800 - GHC 3,000 per year",
+              "Private Colleges: GHC 4,000 - GHC 6,500 per year",
+              "Application voucher: GHC 150 - GHC 220"
+            ],
+            "duration": "2 years",
+            "electives": [
+              "Advanced Obstetric Nursing",
+              "Neonatal Resuscitation and Care",
+              "High-Risk Pregnancy Management",
+              "Postnatal and Breastfeeding Support",
+              "Family Planning Methods",
+              "Maternal Mental Health"
+            ],
+            "salary": [
+              "Ghana: GHS 28,000 - GHS 65,000 annually",
+              "USA: $58,000 - $95,000",
+              "Europe: €38,000 - €68,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time post-basic programme",
+              "Theory combined with obstetric clinical placements",
+              "Supervised deliveries and neonatal care rotations"
+            ],
+            "entry_requirements": [
+              "Must hold a Diploma in General Nursing (RGN) or equivalent registered nursing qualification",
+              "Valid PIN with the Nursing and Midwifery Council of Ghana",
+              "Minimum 1-2 years post-qualification work experience",
+              "Pass entrance examination conducted by the admitting college"
+            ],
+            "level_note": [
+              "Post Basic Midwifery is designed for qualified registered nurses who did not initially train as midwives but wish to obtain the additional midwifery qualification.",
+              "Successful graduates are registered as midwives with the Nursing and Midwifery Council of Ghana and can practise both nursing and midwifery."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

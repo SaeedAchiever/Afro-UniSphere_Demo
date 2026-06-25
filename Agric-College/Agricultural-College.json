@@ -1,0 +1,1114 @@
+[
+  {
+    "name": "Agricultural College"
+  },
+  {
+    "faculty_name": "Certificate Programmes",
+    "note": [
+      "Certificate programmes in agriculture are offered at government agricultural colleges including Kwadaso, Ejura, Ohawu, Damongo, and the Animal Health and Production College, Pong.",
+      "Admissions are centralised through the Ministry of Food and Agriculture Schools portal at mofaschools.edu.gh; application vouchers are purchased at GCB Bank branches.",
+      "Certificate graduates may progress to Diploma programmes (2 years via sandwich/weekend) upon completion and at least 2 years of working experience.",
+      "All programmes are accredited by the Ghana Tertiary Education Commission (GTEC) and overseen by the Ministry of Food and Agriculture."
+    ],
+    "courses": [
+      {
+        "course_name": "Certificate in General Agriculture",
+        "career": [
+          "Farm Manager",
+          "Agricultural Extension Officer",
+          "Crop Production Technician",
+          "Agro-Input Dealer",
+          "Community Farmer Trainer",
+          "Irrigation Technician",
+          "Soil Conservation Worker",
+          "Agricultural Field Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Government Agricultural Colleges: GHC 1,200 - GHC 2,500 per year",
+              "Additional levies (SRC, Hall, Exams): approx. GHC 500 per year",
+              "Application voucher: GHC 150"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["General Agriculture", "Biology", "Chemistry", "Animal Husbandry", "Horticulture"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - GHS 36,000 annually",
+              "USA: $30,000 - $50,000",
+              "Europe: €20,000 - €38,000"
+            ],
+            "cutt_off": [
+              "2025: 5 passes including English, Mathematics, Integrated Science and two electives",
+              "2024: 5 passes including English, Mathematics, Integrated Science and two electives",
+              "2023: 5 passes including English, Mathematics, Integrated Science and two electives"
+            ],
+            "mode": [
+              "Full-time residential programme",
+              "Classroom theory and farm practical sessions",
+              "Supervised field attachments and project work"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum passes (D7) in English, Mathematics, and Integrated Science",
+              "Passes (A1-E8) in at least two elective subjects in science, agricultural science, or related areas",
+              "Five (5) passes overall including core and elective subjects",
+              "Age limit: 16-35 years; interview may be required"
+            ],
+            "level_note": [
+              "The Certificate in General Agriculture is the foundational agricultural qualification at Ghana's government agricultural colleges.",
+              "Certificate holders can top up to a Diploma in General Agriculture via a 2-year sandwich or weekend programme after 2 years of work experience."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Animal Health",
+        "career": [
+          "Animal Health Assistant",
+          "Livestock Farmer",
+          "Veterinary Support Technician",
+          "Animal Vaccination Officer",
+          "Poultry Health Worker",
+          "Disease Surveillance Field Officer",
+          "Abattoir Inspector Assistant",
+          "Livestock Extension Worker"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Government Agricultural Colleges: GHC 1,200 - GHC 2,500 per year",
+              "Animal Health and Production College, Pong: fees similar to peer government colleges",
+              "Additional levies (SRC, Hall, Exams): approx. GHC 500 per year"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["Biology", "Chemistry", "Animal Husbandry", "General Agriculture", "Physics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 14,000 - GHS 36,000 annually",
+              "USA: $30,000 - $50,000",
+              "Europe: €20,000 - €38,000"
+            ],
+            "cutt_off": [
+              "2025: 5 passes including English, Mathematics, Integrated Science and two relevant electives",
+              "2024: 5 passes including English, Mathematics, Integrated Science and two relevant electives",
+              "2023: 5 passes including English, Mathematics, Integrated Science and two relevant electives"
+            ],
+            "mode": [
+              "Full-time residential programme",
+              "Theory combined with livestock practical sessions",
+              "Field attachments at veterinary clinics and farms"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum passes (D7) in English, Mathematics, and Integrated Science",
+              "Passes in at least two elective subjects preferably Biology, Chemistry, or Animal Husbandry",
+              "Five (5) passes overall",
+              "Age limit: 16-35 years; passion for animal husbandry and livestock management advantageous"
+            ],
+            "level_note": [
+              "The Certificate in Animal Health is primarily offered at the Animal Health and Production College, Pong, in the Northern Region.",
+              "Graduates work within Ghana Health Service veterinary units, livestock farms, and the Ghana Health Service animal health surveillance network."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Certificate in Greenhouse Technology",
+        "career": [
+          "Greenhouse Manager",
+          "Commercial Vegetable Grower",
+          "Horticulture Technician",
+          "Nursery Farm Operator",
+          "Agri-Entrepreneur",
+          "Urban Farming Specialist",
+          "Floriculture Producer",
+          "Irrigation and Climate Control Technician"
+        ],
+        "levels": [
+          {
+            "level_name": "Certificate",
+            "fees": [
+              "Government and Private Agricultural Colleges: GHC 2,000 - GHC 4,500 per year",
+              "Ohawu Agricultural College (CGT Programme): contact institution for exact fee",
+              "Additional levies: approx. GHC 500 per year"
+            ],
+            "duration": "1 year",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["General Agriculture", "Biology", "Chemistry", "Horticulture", "Food and Nutrition"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 48,000 annually",
+              "USA: $32,000 - $58,000",
+              "Europe: €22,000 - €42,000"
+            ],
+            "cutt_off": [
+              "2025: 5 passes including English, Mathematics, Integrated Science and two electives; prior agricultural knowledge an advantage",
+              "2024: 5 passes including English, Mathematics, Integrated Science and two electives",
+              "2023: 5 passes including English, Mathematics, Integrated Science and two electives"
+            ],
+            "mode": [
+              "Full-time practical and hands-on programme",
+              "In-greenhouse crop production training",
+              "Entrepreneurship and farm business management sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Minimum passes (D7) in English, Mathematics, and Integrated Science",
+              "Passes in at least two elective subjects; agricultural background preferred",
+              "Prior knowledge or experience in agriculture is an advantage",
+              "Programme targets aspiring agri-entrepreneurs and farm managers"
+            ],
+            "level_note": [
+              "The Certificate in Greenhouse Technology is a short practical programme developed in partnership with agricultural professionals, notably at Ohawu Agricultural College.",
+              "Graduates are equipped to run commercial greenhouse vegetable and flower operations, a growing sector in Ghana's urban and peri-urban farming landscape."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Diploma Programmes",
+    "note": [
+      "Diploma programmes are the flagship offerings of Ghana's government agricultural colleges and are fully accredited by the Ghana Tertiary Education Commission (GTEC).",
+      "The Diploma in General Agriculture is a 3-year programme for direct WASSCE/SSSCE entry; a 2-year sandwich route exists for Certificate holders with 2 years of work experience.",
+      "Key agricultural colleges offering Diploma programmes include Kwadaso (Kumasi), Ejura (Ejura), Ohawu (Volta Region), and Damongo (Savannah Region).",
+      "Diploma holders with a Final Grade Point Average (FGPA) of 3.00 or better are eligible to apply for BSc Agriculture programmes at universities such as UG and KNUST, entering at Level 200."
+    ],
+    "courses": [
+      {
+        "course_name": "Diploma in General Agriculture",
+        "career": [
+          "Agricultural Extension Officer",
+          "Farm Supervisor",
+          "Crop Production Manager",
+          "Agribusiness Operator",
+          "Agricultural Input Supplier",
+          "Soil and Water Management Technician",
+          "Irrigation Officer",
+          "Post-Harvest Technology Technician",
+          "Agricultural Project Coordinator",
+          "Rural Development Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Government Agricultural Colleges: GHC 1,500 - GHC 3,000 per year",
+              "Additional levies (SRC, Hall, Exams): approx. GHC 660 per year",
+              "Application voucher: GHC 150"
+            ],
+            "duration": "3 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["General Agriculture", "Biology", "Chemistry", "Physics", "Animal Husbandry", "Horticulture", "Fisheries"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 48,000 annually",
+              "USA: $35,000 - $60,000",
+              "Europe: €24,000 - €45,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 or better (WASSCE); Credits (A1-C6) in English, Mathematics, Integrated Science and three electives",
+              "2024: Aggregate 24 or better (WASSCE)",
+              "2023: Aggregate 24 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time residential programme",
+              "Lecture-based theory and farm practical work",
+              "Field attachments, project work, and industry visits"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three elective subjects from Physics, Chemistry, Biology, General Agriculture, Fisheries, Animal Husbandry, or Horticulture",
+              "Overall aggregate of 24 or better",
+              "Age limit: 16-35 years; interview required at most colleges"
+            ],
+            "level_note": [
+              "The Diploma in General Agriculture is the most widely enrolled agricultural programme in Ghana, offered at all five government agricultural colleges.",
+              "Graduates are eligible for roles within the Ghana Health Service agricultural directorates, NGOs, and can upgrade to a BSc Agriculture degree at accredited universities."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Diploma in Animal Health",
+        "career": [
+          "Animal Health Technician",
+          "Livestock Production Officer",
+          "Veterinary Laboratory Technician",
+          "Disease Control Officer",
+          "Poultry Farm Manager",
+          "Animal Feed and Nutrition Specialist",
+          "Abattoir and Meat Inspection Officer",
+          "Livestock Extension Officer",
+          "Aquaculture Health Technician",
+          "Zoonotic Disease Field Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Diploma",
+            "fees": [
+              "Animal Health and Production College, Pong: GHC 1,500 - GHC 3,000 per year",
+              "Additional levies (SRC, Hall, Exams): approx. GHC 660 per year",
+              "Application voucher: GHC 150"
+            ],
+            "duration": "3 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["Biology", "Chemistry", "Animal Husbandry", "General Agriculture", "Physics", "Elective Mathematics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 50,000 annually",
+              "USA: $35,000 - $65,000",
+              "Europe: €25,000 - €48,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 or better (WASSCE); Credits in English, Mathematics, Integrated Science and three relevant electives",
+              "2024: Aggregate 24 or better (WASSCE)",
+              "2023: Aggregate 24 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time residential programme",
+              "Veterinary clinical practicals and livestock farm rotations",
+              "Field disease surveillance and outreach attachments"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three elective subjects preferably Biology, Chemistry, and Animal Husbandry or General Agriculture",
+              "Overall aggregate of 24 or better",
+              "Age limit: 16-35 years; must be in good health and pass a medical examination"
+            ],
+            "level_note": [
+              "The Diploma in Animal Health is the primary qualification for mid-level animal health officers within the Ghana Veterinary Service and Ghana Health Service.",
+              "Graduates support national programmes in livestock disease surveillance, vaccination campaigns, and food safety inspection at slaughterhouses."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Undergraduate Degree Programmes",
+    "note": [
+      "BSc Agriculture programmes in Ghana are offered at public universities including the University of Ghana (UG, Legon), KNUST (Kumasi), University for Development Studies (UDS), and University of Energy and Natural Resources (UENR).",
+      "The general WASSCE entry requirement for all BSc Agriculture-related degree programmes is an aggregate of 24 or better with credits in English, Mathematics, Integrated Science, and three relevant elective subjects.",
+      "Diploma holders from accredited agricultural colleges with a FGPA of 3.00 or better may be admitted to Level 200 of BSc Agriculture programmes, reducing the duration to 3 years.",
+      "All degree programmes are accredited by the Ghana Tertiary Education Commission (GTEC) and graduates are recognised for professional registration with bodies such as the Ghana Institute of Agronomists."
+    ],
+    "courses": [
+      {
+        "course_name": "BSc Agriculture",
+        "career": [
+          "Agronomist",
+          "Agricultural Scientist",
+          "Farm Business Manager",
+          "Soil Scientist",
+          "Crop Specialist",
+          "Animal Scientist",
+          "Post-Harvest Technology Specialist",
+          "Agricultural Policy Analyst",
+          "Food Security Researcher",
+          "International Development Agricultural Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "University of Ghana (Regular): GHC 3,500 - GHC 4,500 per year",
+              "KNUST (Regular): GHC 3,000 - GHC 5,000 per year",
+              "UDS (Regular): approx. GHC 2,165 per year",
+              "Fee-paying options available at KNUST and UG at higher rates"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["Biology", "Chemistry", "General Agriculture", "Physics", "Elective Mathematics", "Geography", "Economics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - GHS 84,000 annually",
+              "USA: $45,000 - $80,000",
+              "Europe: €35,000 - €65,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 or better (WASSCE); UG and KNUST competitive from Aggregate 12-18",
+              "2024: Aggregate 24 or better (WASSCE)",
+              "2023: Aggregate 24 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time 4-year degree programme",
+              "Lectures, laboratory work, field trips, and farm internships",
+              "Final-year capstone project or research thesis"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three elective subjects from Biology, Chemistry, Physics, Elective Mathematics, General Agriculture, Geography, or Economics",
+              "Overall aggregate of 24 or better",
+              "Diploma holders from accredited agricultural colleges (FGPA 3.00+) admitted to Level 200"
+            ],
+            "level_note": [
+              "BSc Agriculture at UG and KNUST offers specialisations including Crop Science, Animal Science, Soil Science, Agricultural Economics, Agribusiness, and Post-Harvest Technology.",
+              "Graduates are eligible for postgraduate study (MPhil, PhD) and careers in Ghana Health Service agricultural directorates, research institutions, NGOs, and international organisations."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Agribusiness Management",
+        "career": [
+          "Agribusiness Manager",
+          "Agricultural Finance Specialist",
+          "Food Value Chain Analyst",
+          "Agricultural Marketing Manager",
+          "Farm Enterprise Consultant",
+          "Commodity Trader",
+          "Agricultural Project Manager",
+          "Rural Development Banker",
+          "Supply Chain Manager",
+          "Agricultural Policy Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "University of Ghana (Regular): GHC 3,500 - GHC 4,500 per year",
+              "KNUST (Regular): GHC 3,000 - GHC 5,000 per year",
+              "Fee-paying options available at higher rates"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["Economics", "Elective Mathematics", "Biology", "General Agriculture", "Business Management", "Accounting", "Geography"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 96,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €38,000 - €72,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 or better (WASSCE); competitive admission at UG and KNUST",
+              "2024: Aggregate 24 or better (WASSCE)",
+              "2023: Aggregate 24 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time 4-year degree programme",
+              "Case studies, farm enterprise simulations, and business projects",
+              "Industry internships and agribusiness field visits"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three elective subjects; Science, Business, or General Arts backgrounds accepted",
+              "Science applicants: Biology or Chemistry plus Economics or Mathematics preferred",
+              "Overall aggregate of 24 or better"
+            ],
+            "level_note": [
+              "BSc Agribusiness Management combines agriculture, economics, and business principles to train graduates for commercial roles across the agricultural value chain.",
+              "Offered at the University of Ghana School of Agriculture and KNUST Department of Agricultural Economics, Agribusiness and Extension."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Agricultural Biotechnology",
+        "career": [
+          "Agricultural Biotechnologist",
+          "Plant Breeder",
+          "Molecular Biologist",
+          "Genetic Resources Specialist",
+          "Biosafety Officer",
+          "Crop Improvement Researcher",
+          "Bioinformatics Analyst",
+          "Food Biotechnology Scientist",
+          "GMO Regulatory Specialist",
+          "Research and Development Scientist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "University of Ghana (Regular): GHC 3,500 - GHC 5,000 per year",
+              "KNUST (Regular): GHC 3,500 - GHC 5,500 per year",
+              "Fee-paying options available at higher rates"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["Biology", "Chemistry", "Physics", "Elective Mathematics", "General Agriculture"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - GHS 108,000 annually",
+              "USA: $65,000 - $110,000",
+              "Europe: €50,000 - €90,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 or better (WASSCE); Biology and Chemistry credits essential",
+              "2024: Aggregate 24 or better (WASSCE)",
+              "2023: Aggregate 24 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time 4-year science-intensive programme",
+              "Molecular laboratory practicals and bioinformatics training",
+              "Research projects and attachments at CSIR and biotechnology institutes"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in Biology, Chemistry, and one of Physics, Elective Mathematics, or General Agriculture",
+              "Overall aggregate of 24 or better",
+              "Strong science background required; Biology and Chemistry are mandatory electives"
+            ],
+            "level_note": [
+              "BSc Agricultural Biotechnology is offered at the University of Ghana (Legon) and KNUST, both of which have dedicated biotechnology laboratories and research facilities.",
+              "Graduates support Ghana's crop improvement programmes, including work on drought-resistant and pest-resistant varieties through institutions such as CSIR-SARI and CSIR-PGRRI."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Dairy and Meat Science and Technology",
+        "career": [
+          "Dairy Technologist",
+          "Meat Science Specialist",
+          "Food Processing Officer",
+          "Quality Assurance Manager",
+          "Abattoir and Meat Inspection Officer",
+          "Dairy Farm Manager",
+          "Food Safety Auditor",
+          "Product Development Scientist",
+          "Cold Chain and Storage Manager",
+          "Livestock Value Chain Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "University of Ghana (Regular): GHC 3,500 - GHC 5,000 per year",
+              "KNUST (Regular): GHC 3,500 - GHC 5,500 per year",
+              "Fee-paying options available at higher rates"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["Biology", "Chemistry", "Animal Husbandry", "Physics", "Food and Nutrition", "General Agriculture"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 40,000 - GHS 90,000 annually",
+              "USA: $50,000 - $85,000",
+              "Europe: €38,000 - €72,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 or better (WASSCE); Biology and Chemistry credits required",
+              "2024: Aggregate 24 or better (WASSCE)",
+              "2023: Aggregate 24 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time 4-year programme",
+              "Food processing laboratory practicals and abattoir visits",
+              "Industrial attachments at dairy and meat processing facilities"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in Biology, Chemistry, and one of Animal Husbandry, Physics, Food and Nutrition, or General Agriculture",
+              "Overall aggregate of 24 or better",
+              "Interest in animal-based food science and technology advantageous"
+            ],
+            "level_note": [
+              "BSc Dairy and Meat Science and Technology is a niche but growing programme at KNUST and UG, addressing Ghana's expanding livestock and food processing sectors.",
+              "Graduates are well-positioned for careers in Ghana's rapidly growing dairy and meat value chains, as well as in food safety regulation and export compliance."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "BSc Landscape Design and Management",
+        "career": [
+          "Landscape Designer",
+          "Urban Horticulturalist",
+          "Environmental Planner",
+          "Golf Course Manager",
+          "Estate and Parks Manager",
+          "Green Infrastructure Consultant",
+          "Nursery and Ornamental Plants Manager",
+          "Landscape Project Manager",
+          "Urban Agriculture Specialist",
+          "Environmental Restoration Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Undergraduate",
+            "fees": [
+              "University of Ghana (Regular): GHC 3,500 - GHC 5,000 per year",
+              "KNUST (Regular): GHC 3,500 - GHC 5,500 per year",
+              "Fee-paying options available at higher rates"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["English Language", "Core Mathematics", "Integrated Science"]
+              },
+              {
+                "additional": ["Biology", "Chemistry", "Geography", "Horticulture", "General Agriculture", "Physics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - GHS 84,000 annually",
+              "USA: $48,000 - $82,000",
+              "Europe: €36,000 - €68,000"
+            ],
+            "cutt_off": [
+              "2025: Aggregate 24 or better (WASSCE)",
+              "2024: Aggregate 24 or better (WASSCE)",
+              "2023: Aggregate 24 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time 4-year programme",
+              "Design studios, field practicals, and landscape site visits",
+              "Industry attachments with landscape firms and estate management companies"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three electives from Biology, Chemistry, Geography, Horticulture, General Agriculture, or Physics",
+              "Overall aggregate of 24 or better",
+              "Aptitude for design, aesthetics, and environmental planning is advantageous"
+            ],
+            "level_note": [
+              "BSc Landscape Design and Management is offered at KNUST's Faculty of Biosciences and at the University of Ghana School of Agriculture.",
+              "The programme addresses Ghana's growing demand for professional landscape architects and urban green space managers in real estate and municipal development."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Postgraduate Programmes",
+    "note": [
+      "MPhil and PhD Agriculture programmes are offered at the University of Ghana (Legon), KNUST (Kumasi), and the University for Development Studies (UDS).",
+      "MPhil programmes typically run for 2 years (coursework and research) while PhD programmes run for 3-4 years and require an MPhil or equivalent research degree for entry.",
+      "Specialisations available at the MPhil and PhD level include Crop Science, Animal Science, Soil Science, Agribusiness, Post-Harvest Technology, Biotechnology, Agricultural Economics, Agroforestry, and more.",
+      "KNUST MPhil Agriculture tuition fees are approximately GHC 4,773 per year plus additional charges of GHC 3,280, totalling approximately GHC 8,000 - GHC 10,000 per year."
+    ],
+    "courses": [
+      {
+        "course_name": "MPhil Agriculture Programmes",
+        "career": [
+          "University Lecturer",
+          "Agricultural Research Scientist",
+          "Senior Agronomist",
+          "Policy and Programme Analyst",
+          "International Agricultural Development Consultant",
+          "Food Systems Researcher",
+          "CSIR Research Fellow",
+          "Agricultural Innovation Specialist",
+          "NGO Agricultural Programme Manager",
+          "FAO and World Bank Agricultural Advisor"
+        ],
+        "levels": [
+          {
+            "level_name": "Masters",
+            "fees": [
+              "KNUST MPhil Agriculture: approx. GHC 4,773 tuition + GHC 3,487 other charges per year",
+              "University of Ghana MPhil Agriculture: approx. GHC 5,000 - GHC 7,500 per year",
+              "UDS MPhil Agriculture: approx. GHC 3,500 - GHC 5,000 per year"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": ["Good first degree (minimum Second Class Lower) in Agriculture or related field"]
+              },
+              {
+                "additional": ["Research proposal in chosen specialisation", "Two academic referees", "Interview at some institutions"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - GHS 144,000 annually",
+              "USA: $55,000 - $100,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time coursework and research programme",
+              "Thesis-based research in specialisation area",
+              "Seminars, lab work, and field research"
+            ],
+            "entry_requirements": [
+              "Good first degree (minimum Second Class Lower Division) in Agriculture, Biological Sciences, or a relevant field",
+              "Research proposal outlining intended area of study",
+              "Two academic or professional referees",
+              "Interview required at most institutions; GRE or equivalent may be needed for some universities"
+            ],
+            "level_note": [
+              "MPhil Agriculture programmes at UG and KNUST cover over 20 specialisations including Agronomy, Animal Breeding, Biotechnology, Post-Harvest Technology, and Agricultural Economics.",
+              "MPhil graduates are eligible to register for PhD programmes and pursue academic or high-level research careers locally and internationally."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "PhD Agriculture Programmes",
+        "career": [
+          "University Professor",
+          "Principal Research Scientist",
+          "Director of Agricultural Research",
+          "Senior FAO Specialist",
+          "World Bank Agricultural Economist",
+          "CGIAR Research Programme Lead",
+          "National Agricultural Policy Director",
+          "Biotechnology Innovation Lead",
+          "International Food Systems Consultant",
+          "Agricultural Think Tank Fellow"
+        ],
+        "levels": [
+          {
+            "level_name": "Doctorate",
+            "fees": [
+              "KNUST PhD Agriculture: approx. GHC 5,000 - GHC 8,000 per year plus research fees",
+              "University of Ghana PhD Agriculture: approx. GHC 6,000 - GHC 10,000 per year",
+              "Research and thesis fees charged separately; international students pay in USD"
+            ],
+            "duration": "3 to 4 years",
+            "electives": [
+              {
+                "required": ["MPhil degree (with research) in Agriculture or a closely related field"]
+              },
+              {
+                "additional": ["Detailed research proposal", "Two academic referees", "Publications or research experience advantageous"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 96,000 - GHS 240,000 annually",
+              "USA: $80,000 - $150,000",
+              "Europe: €65,000 - €130,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time or part-time research programme",
+              "Original research, thesis, and seminars",
+              "International collaborations and conference presentations"
+            ],
+            "entry_requirements": [
+              "MPhil degree (with research component) in Agriculture or a closely related field from a recognised institution",
+              "Detailed research proposal accepted by a faculty supervisor",
+              "Two academic referees with strong research credentials",
+              "Evidence of research capacity (publications, presentations, or research experience) is an advantage"
+            ],
+            "level_note": [
+              "PhD Agriculture programmes at UG, KNUST, and UDS are open to specialisations spanning the full breadth of agricultural science, from plant breeding and soil science to agricultural economics and food systems.",
+              "PhD graduates are the primary pipeline for academic staff, national research institute scientists, and senior roles in international agricultural organisations operating in Ghana and Africa."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faculty_name": "Short Courses",
+    "note": [
+      "Short courses in agriculture are offered at government agricultural colleges including Kwadaso, Ejura, Ohawu, and Damongo, as well as at private agri-training centres.",
+      "Duration ranges from 1 to 16 weeks depending on the course; no formal WASSCE requirement applies — basic literacy and interest in the subject area are sufficient.",
+      "Short courses are designed for farmers, agri-entrepreneurs, rural youth, and professionals seeking practical skills to start or improve farm enterprises.",
+      "Certificates of completion are issued by the training institution and may be recognised for access to agricultural loans, government grants, and extension support programmes."
+    ],
+    "courses": [
+      {
+        "course_name": "Short Course in Apiculture (Beekeeping)",
+        "career": [
+          "Commercial Beekeeper",
+          "Honey Producer and Processor",
+          "Beeswax and By-Product Entrepreneur",
+          "Pollination Services Provider",
+          "Apiculture Trainer",
+          "Agricultural Extension Worker (Apiculture)",
+          "Organic Farm Support Specialist",
+          "Agri-Eco Tourism Operator"
+        ],
+        "levels": [
+          {
+            "level_name": "Short Course",
+            "fees": [
+              "Government Agricultural Colleges: GHC 500 - GHC 1,500 per course",
+              "Private Training Centres: GHC 800 - GHC 2,500 per course",
+              "Includes training materials and field practical sessions"
+            ],
+            "duration": "2 to 8 weeks",
+            "electives": [
+              {
+                "required": ["Basic literacy in English and numeracy"]
+              },
+              {
+                "additional": ["Prior farming experience", "Interest in bee management and honey production"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - GHS 60,000 annually (enterprise income)",
+              "USA: $30,000 - $70,000",
+              "Europe: €20,000 - €55,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Practical hands-on training at apiary sites",
+              "Classroom sessions on bee biology and hive management",
+              "Field demonstrations and take-home starter kits at some centres"
+            ],
+            "entry_requirements": [
+              "No formal WASSCE requirement",
+              "Basic literacy (reading and writing in English) required",
+              "Open to farmers, rural youth, and agri-entrepreneurs aged 18 and above",
+              "Interest in beekeeping and willingness to work with live bees required"
+            ],
+            "level_note": [
+              "Apiculture is a rapidly growing income-generating enterprise in Ghana, with strong demand for quality honey and beeswax in domestic and export markets.",
+              "Short course graduates can access start-up support through Planting for Export and Rural Development (PERD) and other MOFA-linked programmes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Short Course in Poultry Production",
+        "career": [
+          "Poultry Farm Operator",
+          "Broiler and Layer Producer",
+          "Hatchery Manager",
+          "Poultry Feed Specialist",
+          "Poultry Disease Management Technician",
+          "Egg and Poultry Meat Trader",
+          "Agri-Entrepreneur",
+          "Poultry Extension Trainer"
+        ],
+        "levels": [
+          {
+            "level_name": "Short Course",
+            "fees": [
+              "Government Agricultural Colleges: GHC 500 - GHC 1,500 per course",
+              "Private Training Centres: GHC 800 - GHC 2,500 per course"
+            ],
+            "duration": "2 to 8 weeks",
+            "electives": [
+              {
+                "required": ["Basic literacy in English and numeracy"]
+              },
+              {
+                "additional": ["Prior farming experience", "Interest in livestock and poultry management"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 72,000 annually (enterprise income)",
+              "USA: $28,000 - $55,000",
+              "Europe: €20,000 - €45,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Practical training on poultry farms",
+              "Classroom sessions on nutrition, disease, and biosecurity",
+              "Farm visits and enterprise planning workshops"
+            ],
+            "entry_requirements": [
+              "No formal WASSCE requirement",
+              "Basic literacy required",
+              "Open to farmers, youth, and agri-entrepreneurs aged 18 and above"
+            ],
+            "level_note": [
+              "Poultry production is one of the most accessible and high-demand agricultural enterprises in Ghana, with strong domestic markets for eggs and broiler meat.",
+              "Graduates can access MOFA's Poultry for Food and Jobs programme and ADB Bank agricultural loan schemes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Short Course in Mushroom Production",
+        "career": [
+          "Mushroom Farmer",
+          "Substrate and Spawn Producer",
+          "Organic Food Entrepreneur",
+          "Mushroom Processor and Packager",
+          "Agricultural Trainer (Mushrooms)",
+          "Health Food Supplier",
+          "Indoor and Urban Farm Operator",
+          "Export Produce Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Short Course",
+            "fees": [
+              "Government Agricultural Colleges: GHC 500 - GHC 1,500 per course",
+              "Private Training Centres: GHC 800 - GHC 2,000 per course"
+            ],
+            "duration": "1 to 4 weeks",
+            "electives": [
+              {
+                "required": ["Basic literacy in English and numeracy"]
+              },
+              {
+                "additional": ["Interest in indoor or controlled-environment farming", "Prior agricultural experience an advantage"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - GHS 48,000 annually (enterprise income)",
+              "USA: $25,000 - $55,000",
+              "Europe: €18,000 - €45,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Hands-on indoor cultivation training",
+              "Substrate preparation and spawn inoculation practicals",
+              "Business and marketing guidance for mushroom enterprises"
+            ],
+            "entry_requirements": [
+              "No formal WASSCE requirement",
+              "Basic literacy required",
+              "Open to all ages 18 and above with interest in agri-enterprise"
+            ],
+            "level_note": [
+              "Mushroom production is a growing high-value enterprise in Ghana, requiring low land area and capital while offering fast returns.",
+              "Kwadaso Agricultural College and Ohawu Agricultural College are among the leading centres offering mushroom production training in Ghana."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Short Course in Cattle Production",
+        "career": [
+          "Cattle Farmer",
+          "Beef Production Manager",
+          "Dairy Cattle Operator",
+          "Livestock Feed Specialist",
+          "Cattle Breeding Technician",
+          "Ranch Manager",
+          "Livestock Trader",
+          "Pasture and Range Management Specialist"
+        ],
+        "levels": [
+          {
+            "level_name": "Short Course",
+            "fees": [
+              "Government Agricultural Colleges: GHC 500 - GHC 1,500 per course",
+              "Private Training Centres: GHC 800 - GHC 2,500 per course"
+            ],
+            "duration": "2 to 8 weeks",
+            "electives": [
+              {
+                "required": ["Basic literacy in English and numeracy"]
+              },
+              {
+                "additional": ["Prior livestock experience", "Interest in beef or dairy cattle management"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 18,000 - GHS 84,000 annually (enterprise income)",
+              "USA: $30,000 - $65,000",
+              "Europe: €22,000 - €50,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Farm-based practical training with live cattle",
+              "Classroom sessions on nutrition, health, and breeding",
+              "Field visits to commercial cattle ranches"
+            ],
+            "entry_requirements": [
+              "No formal WASSCE requirement",
+              "Basic literacy required",
+              "Open to farmers and agri-entrepreneurs aged 18 and above"
+            ],
+            "level_note": [
+              "Cattle production training is particularly relevant in the savannah regions of Ghana where cattle farming is a major livelihood activity.",
+              "Graduates can access MOFA's Ruminant for Food and Jobs initiative and the Ghana Commercial Agriculture Project (GCAP) support schemes."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Short Course in Sheep and Goat Production",
+        "career": [
+          "Sheep and Goat Farmer",
+          "Small Ruminant Enterprise Manager",
+          "Livestock Feed and Health Specialist",
+          "Meat and Hide Trader",
+          "Rural Livestock Trainer",
+          "Community Animal Health Worker",
+          "Agri-Entrepreneur",
+          "Livestock Extension Officer"
+        ],
+        "levels": [
+          {
+            "level_name": "Short Course",
+            "fees": [
+              "Government Agricultural Colleges: GHC 500 - GHC 1,500 per course",
+              "Private Training Centres: GHC 600 - GHC 2,000 per course"
+            ],
+            "duration": "2 to 6 weeks",
+            "electives": [
+              {
+                "required": ["Basic literacy in English and numeracy"]
+              },
+              {
+                "additional": ["Prior livestock experience", "Interest in small ruminant farming"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 12,000 - GHS 48,000 annually (enterprise income)",
+              "USA: $25,000 - $55,000",
+              "Europe: €18,000 - €42,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Practical training on sheep and goat farms",
+              "Classroom sessions on nutrition, disease control, and breeding",
+              "Enterprise planning and market linkage sessions"
+            ],
+            "entry_requirements": [
+              "No formal WASSCE requirement",
+              "Basic literacy required",
+              "Open to farmers and rural youth aged 18 and above"
+            ],
+            "level_note": [
+              "Sheep and goat farming is widely practised across all regions of Ghana and forms a key component of household food security and income.",
+              "Short course graduates may access financing through the Agricultural Development Bank (ADB) and MOFA's Ruminant for Food and Jobs programme."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Short Course in Rabbit Farming",
+        "career": [
+          "Rabbit Farm Operator",
+          "Rabbit Meat Producer",
+          "Small Animal Agri-Entrepreneur",
+          "Organic Protein Supplier",
+          "Rabbit Breeding Specialist",
+          "Pet and Show Rabbit Breeder",
+          "Rabbit Feed Supplier",
+          "Agricultural Trainer (Small Animals)"
+        ],
+        "levels": [
+          {
+            "level_name": "Short Course",
+            "fees": [
+              "Government Agricultural Colleges: GHC 400 - GHC 1,200 per course",
+              "Private Training Centres: GHC 600 - GHC 1,800 per course"
+            ],
+            "duration": "1 to 4 weeks",
+            "electives": [
+              {
+                "required": ["Basic literacy in English and numeracy"]
+              },
+              {
+                "additional": ["Interest in small livestock or peri-urban farming", "Prior animal husbandry experience an advantage"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - GHS 36,000 annually (enterprise income)",
+              "USA: $22,000 - $45,000",
+              "Europe: €15,000 - €35,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Hands-on practical training with live rabbits",
+              "Classroom sessions on housing, feeding, and disease management",
+              "Business planning for rabbit enterprise start-up"
+            ],
+            "entry_requirements": [
+              "No formal WASSCE requirement",
+              "Basic literacy required",
+              "Open to youth, urban and peri-urban agri-entrepreneurs aged 18 and above"
+            ],
+            "level_note": [
+              "Rabbit farming is promoted in Ghana as a low-cost, high-protein meat enterprise suitable for urban, peri-urban, and rural settings.",
+              "Kwadaso Agricultural College includes rabbit production as part of its portfolio of short courses for agri-entrepreneurship development."
+            ]
+          }
+        ]
+      },
+      {
+        "course_name": "Short Course in Grasscutter Farming",
+        "career": [
+          "Grasscutter (Cane Rat) Farm Operator",
+          "Bushmeat Alternative Producer",
+          "Wildlife Farming Entrepreneur",
+          "Grasscutter Breeding Specialist",
+          "Protein Food Supplier",
+          "Agricultural Trainer (Grasscutter)",
+          "Agri-Eco Tourism Operator",
+          "Small Animal Livestock Trader"
+        ],
+        "levels": [
+          {
+            "level_name": "Short Course",
+            "fees": [
+              "Government Agricultural Colleges: GHC 400 - GHC 1,200 per course",
+              "Private Training Centres: GHC 600 - GHC 1,800 per course"
+            ],
+            "duration": "1 to 4 weeks",
+            "electives": [
+              {
+                "required": ["Basic literacy in English and numeracy"]
+              },
+              {
+                "additional": ["Interest in alternative livestock farming", "Prior small animal husbandry experience an advantage"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 10,000 - GHS 42,000 annually (enterprise income)",
+              "USA: $22,000 - $48,000",
+              "Europe: €15,000 - €38,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Hands-on practical training with live grasscutters",
+              "Classroom sessions on housing design, feeding, and health management",
+              "Market linkage and agribusiness sessions"
+            ],
+            "entry_requirements": [
+              "No formal WASSCE requirement",
+              "Basic literacy required",
+              "Open to farmers, rural youth, and agri-entrepreneurs aged 18 and above"
+            ],
+            "level_note": [
+              "Grasscutter (Thryonomys swinderianus) farming is a high-demand, culturally accepted bushmeat alternative in Ghana, with strong urban and rural market uptake.",
+              "Kwadaso Agricultural College and Ejura Agricultural College are among the key institutions offering grasscutter production training in Ghana."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

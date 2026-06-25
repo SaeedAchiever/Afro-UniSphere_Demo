@@ -30,22 +30,10 @@
             "duration": "4 years",
             "electives": [
               {
-                "required": [
-                  "English",
-                  "Core Math",
-                  "Integrated Science",
-                  "Elective Math"
-                ]
+                "required": ["Physics", "Elective Math"]
               },
               {
-                "additional": [
-                  "Software Engineering",
-                  "Database Systems",
-                  "Strategic Management",
-                  "Organizational Behaviour",
-                  "Artificial Intelligence",
-                  "E-Business"
-                ]
+                "additional": ["Chemistry", "Electronics", "Elective ICT"]
               }
             ],
             "salary": [
