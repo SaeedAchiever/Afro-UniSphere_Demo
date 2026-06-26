@@ -82,7 +82,7 @@
               }
             ],
             "salary": [
-              "Ghana: GHS50,000  (estimated)",
+              "Ghana: GHS50,000 (estimated)",
               "USA: $85,000 - $105,000 (estimated)",
               "Europe: €38,000 - €60,000 (estimated)"
             ],
@@ -124,7 +124,7 @@
               }
             ],
             "salary": [
-              "Ghana: ~45,000 - 55,000 GHS (estimated)",
+              "Ghana: GHS 45,000 - 55,000 (estimated)",
               "USA: $70,000 - $95,000 (estimated)",
               "Europe: €35,000 - €55,000 (estimated)"
             ],
@@ -170,7 +170,7 @@
               }
             ],
             "salary": [
-              "Ghana: ~36,000 - 60,000 GHS",
+              "Ghana: GHS 36,000 - 60,000",
               "USA: $75,000 - $95,000 (estimated)",
               "Europe: €40,000 - €60,000 (estimated)"
             ],
@@ -212,7 +212,7 @@
               }
             ],
             "salary": [
-              "Ghana: ~50,000 GHS (estimated)",
+              "Ghana: GHS 50,000 (estimated)",
               "USA: $70,000 - $90,000 (estimated)",
               "Europe: €40,000 - €58,000 (estimated)"
             ],
@@ -254,7 +254,7 @@
               }
             ],
             "salary": [
-              "Ghana: ~50,000 - 60,000 GHS (estimated)",
+              "Ghana: GHS 50,000 - 60,000 (estimated)",
               "USA: $80,000 - $100,000 (estimated)",
               "Europe: €45,000 - €65,000 (estimated)"
             ],
@@ -296,7 +296,7 @@
               }
             ],
             "salary": [
-              "Ghana: ~40,000 - 55,000 GHS (estimated)",
+              "Ghana: GHS 40,000 - 55,000 (estimated)",
               "USA: $75,000 - $110,000 (estimated)",
               "Europe: €45,000 - €70,000 (estimated)"
             ],
@@ -314,90 +314,355 @@
   },
   {
     "faculty_name": "Business",
-    "note": [],
+    "note": [
+      "Academic City's Business programmes are fully accredited by the Ghana Tertiary Education Commission (GTEC) and lead to the award of a Bachelor of Business Administration (BBA) degree.",
+      "Business programmes share a common entry requirement: credits in English, Mathematics, and Integrated Science plus three elective subjects with an overall WASSCE aggregate of 36 or better.",
+      "The Business faculty emphasises entrepreneurship, leadership, and real-world case-based learning, with guest lectures and industry partnerships integrated into each programme.",
+      "Graduates are eligible for professional certification pathways including ICAG, ACCA, CIMA, CIM, and CIPD, depending on their specialisation."
+    ],
     "courses": [
       {
         "course_name": "Accounting",
-        "career": [],
+        "career": [
+          "Chartered Accountant",
+          "Financial Analyst",
+          "Auditor",
+          "Tax Consultant",
+          "Management Accountant",
+          "Forensic Accountant",
+          "Budget Analyst",
+          "Finance Manager",
+          "Chief Financial Officer",
+          "Investment Analyst"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 29,700 per semester (upfront)",
+              "Total per year: GHC 59,400",
+              "Discounted rate: GHC 22,280 per semester",
+              "Payment plan option: GHC 29,000 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Core Mathematics",
+                  "Integrated Science"
+                ]
+              },
+              {
+                "additional": [
+                  "Financial Accounting",
+                  "Business Management",
+                  "Economics",
+                  "Elective Mathematics",
+                  "ICT"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 36,000 - GHS 84,000 annually",
+              "USA: $55,000 - $95,000",
+              "Europe: €40,000 - €75,000"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and seminars",
+              "Case studies, group projects, and industry attachments",
+              "Blended learning with online materials available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects (Business, Science, Arts, or Technical)",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better with passes in relevant subjects"
+            ],
+            "level_note": [
+              "Academic City's Accounting programme is structured to align with ICAG and ACCA professional certification pathways.",
+              "Students undertake a compulsory internship in their third year, gaining hands-on exposure in financial institutions and corporate firms."
+            ]
           }
         ]
       },
       {
         "course_name": "Banking & Finance",
-        "career": [],
+        "career": [
+          "Banker",
+          "Financial Advisor",
+          "Investment Analyst",
+          "Credit Analyst",
+          "Risk Manager",
+          "Treasury Officer",
+          "Portfolio Manager",
+          "Microfinance Officer",
+          "Insurance Analyst",
+          "Financial Planning Manager"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 29,700 per semester (upfront)",
+              "Total per year: GHC 59,400",
+              "Discounted rate: GHC 22,280 per semester",
+              "Payment plan option: GHC 29,000 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Core Mathematics",
+                  "Integrated Science"
+                ]
+              },
+              {
+                "additional": [
+                  "Financial Accounting",
+                  "Economics",
+                  "Business Management",
+                  "Elective Mathematics",
+                  "Geography"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 38,000 - GHS 90,000 annually",
+              "USA: $58,000 - $100,000",
+              "Europe: €42,000 - €80,000"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and seminars",
+              "Financial modelling labs and Bloomberg terminal access",
+              "Blended learning with online materials available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects (Business, Science, Arts, or Technical)",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better with passes in relevant subjects"
+            ],
+            "level_note": [
+              "The Banking & Finance programme prepares graduates for careers in Ghana's rapidly growing financial services sector including commercial banks, fintechs, and capital markets.",
+              "Students gain exposure to financial analysis tools and regulatory frameworks governing the Bank of Ghana and SEC-supervised institutions."
+            ]
           }
         ]
       },
       {
         "course_name": "Human Resource Management",
-        "career": [],
+        "career": [
+          "HR Manager",
+          "Recruitment Consultant",
+          "Training and Development Officer",
+          "Compensation and Benefits Analyst",
+          "Labour Relations Officer",
+          "Talent Acquisition Specialist",
+          "Organisational Development Consultant",
+          "HR Business Partner",
+          "Payroll Manager",
+          "Chief People Officer"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 29,700 per semester (upfront)",
+              "Total per year: GHC 59,400",
+              "Discounted rate: GHC 22,280 per semester",
+              "Payment plan option: GHC 29,000 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Core Mathematics",
+                  "Integrated Science"
+                ]
+              },
+              {
+                "additional": [
+                  "Business Management",
+                  "Economics",
+                  "Government",
+                  "History",
+                  "Literature in English"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 32,000 - GHS 78,000 annually",
+              "USA: $52,000 - $92,000",
+              "Europe: €38,000 - €70,000"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and workshops",
+              "Role-play, case studies, and HR simulation exercises",
+              "Blended learning with online materials available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects (Business, Arts, Science, or Technical)",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better with passes in relevant subjects"
+            ],
+            "level_note": [
+              "The HRM programme aligns with CIPD professional certification standards, allowing graduates to pursue chartered HR membership.",
+              "Students complete an industry internship and capstone HR project as part of their final year requirements."
+            ]
           }
         ]
       },
       {
         "course_name": "Marketing",
-        "career": [],
+        "career": [
+          "Marketing Manager",
+          "Brand Manager",
+          "Digital Marketing Specialist",
+          "Market Research Analyst",
+          "Advertising Executive",
+          "Product Manager",
+          "Social Media Manager",
+          "Sales Manager",
+          "Public Relations Officer",
+          "E-Commerce Manager"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 29,700 per semester (upfront)",
+              "Total per year: GHC 59,400",
+              "Discounted rate: GHC 22,280 per semester",
+              "Payment plan option: GHC 29,000 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Core Mathematics",
+                  "Integrated Science"
+                ]
+              },
+              {
+                "additional": [
+                  "Business Management",
+                  "Economics",
+                  "ICT",
+                  "Graphic Design",
+                  "Literature in English"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - GHS 72,000 annually",
+              "USA: $50,000 - $90,000",
+              "Europe: €36,000 - €68,000"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus lectures and creative workshops",
+              "Live brand campaigns, digital marketing practicals, and industry visits",
+              "Blended learning with online materials available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects (Business, Arts, Science, or Technical)",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better with passes in relevant subjects"
+            ],
+            "level_note": [
+              "Academic City's Marketing programme integrates digital and traditional marketing, with students running real campaigns for partner companies.",
+              "Graduates are eligible to pursue CIM (Chartered Institute of Marketing) professional qualifications upon completing the degree."
+            ]
           }
         ]
       },
       {
         "course_name": "Entrepreneurship",
-        "career": [],
+        "career": [
+          "Entrepreneur and Startup Founder",
+          "Business Development Manager",
+          "Innovation Consultant",
+          "Venture Capital Analyst",
+          "Social Enterprise Manager",
+          "Product Manager",
+          "Startup Ecosystem Coordinator",
+          "Small and Medium Enterprise Advisor",
+          "Corporate Innovation Manager",
+          "Business Incubator Manager"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 35,640 per semester (upfront)",
+              "Total per year: GHC 71,280",
+              "Discounted rate: GHC 26,730 per semester",
+              "Payment plan option: GHC 34,700 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Core Mathematics",
+                  "Integrated Science"
+                ]
+              },
+              {
+                "additional": [
+                  "Business Management",
+                  "Economics",
+                  "ICT",
+                  "Elective Mathematics",
+                  "Financial Accounting"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 30,000 - GHS 120,000+ annually (highly variable)",
+              "USA: $45,000 - $150,000+ (highly variable)",
+              "Europe: €35,000 - €120,000+ (highly variable)"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus with project-based and startup studio learning",
+              "Mentorship from entrepreneurs-in-residence and investor pitch sessions",
+              "Blended learning with online materials available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects (Business, Arts, Science, or Technical)",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better with passes in relevant subjects"
+            ],
+            "level_note": [
+              "Entrepreneurship is Academic City's flagship BBA programme, positioned at the intersection of business, technology, and innovation.",
+              "Students are embedded in the ACity Startup Studio from Year 1, with access to seed funding competitions, incubator networks, and investor connections."
+            ]
           }
         ]
       }
@@ -405,84 +670,307 @@
   },
   {
     "faculty_name": "Infomatics",
-    "note": [],
+    "note": [
+      "Academic City's Informatics faculty offers both undergraduate BSc degrees and postgraduate Masters programmes, all accredited by the Ghana Tertiary Education Commission (GTEC).",
+      "Undergraduate Informatics programmes require credits in English, Mathematics, and Integrated Science plus three relevant elective subjects with a WASSCE aggregate of 36 or better.",
+      "Masters programmes require a BSc degree from an accredited university with a minimum Second Class Upper or Second Class Lower (CWA above 50%), with preference given to backgrounds in Statistics, Mathematics, Computer Science, or Engineering.",
+      "All Informatics programmes are delivered in state-of-the-art computing labs with high-speed internet, cloud computing infrastructure, and access to AI and data science toolkits."
+    ],
     "courses": [
       {
         "course_name": "Artificial Intelligence",
-        "career": [],
+        "career": [
+          "AI Engineer",
+          "Machine Learning Engineer",
+          "Data Scientist",
+          "Natural Language Processing Specialist",
+          "Computer Vision Engineer",
+          "AI Research Scientist",
+          "Robotics AI Developer",
+          "AI Product Manager",
+          "Deep Learning Engineer",
+          "AI Ethics and Policy Analyst"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 49,000 per semester (upfront)",
+              "Total per year: GHC 98,000",
+              "Discounted rate: GHC 36,750 per semester",
+              "Payment plan option: GHC 43,500 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": ["ICT", "Chemistry", "Geography", "Economics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 60,000 - GHS 120,000 annually",
+              "USA: $95,000 - $160,000",
+              "Europe: €60,000 - €120,000"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus with computing lab intensives",
+              "Project-based learning with real AI applications and datasets",
+              "Blended learning with online components and weekend workshops"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects including Elective Mathematics and Physics",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better"
+            ],
+            "level_note": [
+              "BSc Artificial Intelligence is one of the most competitively priced and technically advanced AI undergraduate programmes in West Africa.",
+              "Students have access to GPU computing clusters, AI research labs, and partnerships with global technology companies for internships and live project briefs."
+            ]
           }
         ]
       },
       {
-        "course_name": "Information Technolog",
-        "career": [],
+        "course_name": "Information Technology",
+        "career": [
+          "IT Support Engineer",
+          "Systems Administrator",
+          "Network Engineer",
+          "Database Administrator",
+          "IT Project Manager",
+          "Cloud Solutions Architect",
+          "IT Security Analyst",
+          "Software Developer",
+          "IT Consultant",
+          "ERP Systems Manager"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 41,580 per semester (upfront)",
+              "Total per year: GHC 83,160",
+              "Discounted rate: GHC 31,190 per semester",
+              "Payment plan option: GHC 40,500 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": ["ICT", "Chemistry", "Geography", "Economics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 48,000 - GHS 96,000 annually",
+              "USA: $65,000 - $110,000",
+              "Europe: €45,000 - €85,000"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus with computing lab sessions",
+              "Hands-on networking, systems, and cloud deployment practicals",
+              "Blended learning with online materials available"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects including Elective Mathematics and Physics",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better"
+            ],
+            "level_note": [
+              "Academic City's IT programme is designed to produce industry-ready graduates with hands-on skills in networking, cloud infrastructure, and enterprise systems.",
+              "Students pursue vendor certifications (e.g. Cisco, AWS, Microsoft Azure) alongside their academic coursework, strengthening employability from graduation."
+            ]
           }
         ]
       },
       {
         "course_name": "Computer Science",
-        "career": [],
+        "career": [
+          "Software Engineer",
+          "Full-Stack Developer",
+          "Backend Developer",
+          "Mobile App Developer",
+          "DevOps Engineer",
+          "Cybersecurity Analyst",
+          "Game Developer",
+          "Research Scientist (Computing)",
+          "Systems Architect",
+          "Blockchain Developer"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 41,580 per semester (upfront)",
+              "Total per year: GHC 83,160",
+              "Discounted rate: GHC 31,190 per semester",
+              "Payment plan option: GHC 40,500 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": ["Elective Mathematics", "Physics"]
+              },
+              {
+                "additional": ["ICT", "Chemistry", "Geography", "Economics"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 54,000 - GHS 108,000 annually",
+              "USA: $85,000 - $145,000",
+              "Europe: €55,000 - €105,000"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus with computing labs and coding bootcamp sessions",
+              "Project-based software development with real client briefs",
+              "Blended learning with online components and hackathons"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Mathematics, and Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects including Elective Mathematics and Physics",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better"
+            ],
+            "level_note": [
+              "Computer Science is Academic City's most versatile Informatics degree, covering algorithms, software engineering, and emerging technologies from Year 1.",
+              "Graduates have gone on to roles at major technology firms regionally and internationally, with nearly all securing employment or further studies within six months of graduation."
+            ]
           }
         ]
       },
       {
         "course_name": "Data Science and Analytics",
-        "career": [],
+        "career": [
+          "Data Scientist",
+          "Data Analyst",
+          "Business Intelligence Analyst",
+          "Machine Learning Engineer",
+          "Statistical Analyst",
+          "Data Engineer",
+          "Quantitative Analyst",
+          "Research Data Scientist",
+          "AI and Analytics Consultant",
+          "Chief Data Officer"
+        ],
         "levels": [
           {
             "level_name": "Masters",
-            "fees": [],
-            "duration": "",
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 45,000 per semester (upfront)",
+              "Total per year: GHC 90,000",
+              "Discounted rate: GHC 29,250 per semester",
+              "Payment plan option: GHC 38,000 per semester in 3 instalments"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "BSc in Statistics, Mathematics, Computer Science, Engineering, or related field"
+                ]
+              },
+              {
+                "additional": [
+                  "Graduates from other backgrounds considered on a case-by-case basis"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 72,000 - GHS 144,000 annually",
+              "USA: $95,000 - $160,000",
+              "Europe: €65,000 - €120,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time on-campus with data lab sessions and cloud computing tools",
+              "Research-led with industry capstone projects and real datasets",
+              "Flexible intake: September and January cohorts"
+            ],
+            "entry_requirements": [
+              "BSc degree from an accredited university with minimum Second Class Upper or Second Class Lower (CWA above 50%)",
+              "Background in Statistics, Mathematics, Computer Science, or Engineering preferred",
+              "Applicants from other backgrounds may be considered on a case-by-case basis",
+              "Application includes submission of transcripts, CV, and government-issued ID"
+            ],
+            "level_note": [
+              "The MSc Data Science and Analytics programme equips graduates with the statistical, computational, and business intelligence skills demanded by Ghana's growing data economy.",
+              "Students work with real industry datasets through Academic City's corporate partnerships, culminating in a supervised capstone research project."
+            ]
           }
         ]
       },
       {
         "course_name": "Cyber Security",
-        "career": [],
+        "career": [
+          "Cybersecurity Analyst",
+          "Information Security Officer",
+          "Penetration Tester",
+          "Security Operations Centre Analyst",
+          "Digital Forensics Specialist",
+          "Cloud Security Engineer",
+          "Incident Response Analyst",
+          "Cybersecurity Consultant",
+          "Chief Information Security Officer",
+          "Risk and Compliance Manager"
+        ],
         "levels": [
           {
             "level_name": "Masters",
-            "fees": [],
-            "duration": "",
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 45,000 per semester (upfront)",
+              "Total per year: GHC 90,000",
+              "Discounted rate: GHC 29,250 per semester",
+              "Payment plan option: GHC 38,000 per semester in 3 instalments"
+            ],
+            "duration": "2 years",
+            "electives": [
+              {
+                "required": [
+                  "BSc in Computer Science, Engineering, IT, or related field"
+                ]
+              },
+              {
+                "additional": [
+                  "Graduates from other backgrounds considered on a case-by-case basis"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 72,000 - GHS 150,000 annually",
+              "USA: $95,000 - $165,000",
+              "Europe: €65,000 - €125,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time on-campus with dedicated cybersecurity labs and simulation environments",
+              "Ethical hacking practicals, CTF competitions, and live threat simulations",
+              "Flexible intake: September and January cohorts"
+            ],
+            "entry_requirements": [
+              "BSc degree from an accredited university with minimum Second Class Upper or Second Class Lower (CWA above 50%)",
+              "Background in Computer Science, Engineering, Information Technology, or related field preferred",
+              "Applicants from other backgrounds may be considered on a case-by-case basis",
+              "Application includes submission of transcripts, CV, and government-issued ID"
+            ],
+            "level_note": [
+              "MSc Cyber Security at Academic City is one of the few dedicated postgraduate cybersecurity programmes in Ghana, addressing a critical skills gap in the region.",
+              "Students gain hands-on experience with industry-standard security tools and platforms, and are supported in pursuing certifications such as CompTIA Security+, CEH, and CISSP."
+            ]
           }
         ]
       }
@@ -490,39 +978,148 @@
   },
   {
     "faculty_name": "Communication Arts",
-    "note": [],
+    "note": [
+      "Communication Arts programmes lead to the award of a Bachelor of Arts (BA) degree and are fully accredited by the Ghana Tertiary Education Commission (GTEC).",
+      "Entry requires credits in English Language, Core Mathematics, and Social Studies or Integrated Science, plus three relevant elective subjects with a WASSCE aggregate of 36 or better.",
+      "The faculty emphasises practical, studio-based learning with access to a professional media studio, newsroom simulation lab, and digital content creation facilities on campus.",
+      "Graduates are eligible for further studies at postgraduate level and for professional membership with bodies such as the Ghana Journalists Association (GJA) and the Institute of Public Relations Ghana (IPRG)."
+    ],
     "courses": [
       {
         "course_name": "Journalism & Mass Communication",
-        "career": [],
+        "career": [
+          "Journalist",
+          "Broadcast Presenter",
+          "News Editor",
+          "Documentary Filmmaker",
+          "Online Content Creator",
+          "Media Relations Officer",
+          "Radio and TV Producer",
+          "Photojournalist",
+          "Media Analyst",
+          "Communications Manager"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 29,700 per semester (upfront)",
+              "Total per year: GHC 59,400",
+              "Discounted rate: GHC 22,280 per semester",
+              "Payment plan option: GHC 29,000 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Core Mathematics",
+                  "Social Studies or Integrated Science"
+                ]
+              },
+              {
+                "additional": [
+                  "Literature in English",
+                  "History",
+                  "Government",
+                  "French",
+                  "ICT"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - GHS 60,000 annually",
+              "USA: $45,000 - $85,000",
+              "Europe: €30,000 - €65,000"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus with newsroom lab and media studio practicals",
+              "Field reporting assignments, live broadcasts, and editorial workshops",
+              "Blended learning with online components and industry guest sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies or Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects (Arts, Languages, Humanities, or Business)",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better; Level 200 entry available for HND holders in Journalism or Mass Communication"
+            ],
+            "level_note": [
+              "Academic City's Journalism & Mass Communication programme combines traditional media training with digital storytelling, social media, and multimedia production skills.",
+              "Students produce live broadcasts, publish articles in the university's student media outlet, and complete an industry internship at leading Ghanaian and international media houses."
+            ]
           }
         ]
       },
       {
         "course_name": "Advertising & Public Relations",
-        "career": [],
+        "career": [
+          "Advertising Executive",
+          "Public Relations Officer",
+          "Brand Strategist",
+          "Social Media Manager",
+          "Account Manager (Advertising Agency)",
+          "Corporate Communications Manager",
+          "Media Buyer and Planner",
+          "Crisis Communications Specialist",
+          "Event and Campaign Manager",
+          "Digital Marketing and PR Consultant"
+        ],
         "levels": [
           {
             "level_name": "Undergraduate",
-            "fees": [],
-            "duration": "",
-            "electives": [],
-            "salary": [],
-            "cutt_off": [],
-            "mode": [],
-            "entry_requirements": [],
-            "level_note": []
+            "fees": [
+              "Ghanaian Students: GHC 29,700 per semester (upfront)",
+              "Total per year: GHC 59,400",
+              "Discounted rate: GHC 22,280 per semester",
+              "Payment plan option: GHC 29,000 per semester in 3 instalments"
+            ],
+            "duration": "4 years",
+            "electives": [
+              {
+                "required": [
+                  "English Language",
+                  "Core Mathematics",
+                  "Social Studies or Integrated Science"
+                ]
+              },
+              {
+                "additional": [
+                  "Literature in English",
+                  "History",
+                  "Government",
+                  "Graphic Design",
+                  "Business Management"
+                ]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 24,000 - GHS 66,000 annually",
+              "USA: $48,000 - $90,000",
+              "Europe: €32,000 - €68,000"
+            ],
+            "cutt_off": [
+              "2024: Aggregate 36 or better (WASSCE)",
+              "2025: Aggregate 36 or better (WASSCE)"
+            ],
+            "mode": [
+              "Full-time on-campus with creative studio and digital lab practicals",
+              "Live brand pitches, PR campaign simulations, and client brief projects",
+              "Blended learning with online components and industry guest sessions"
+            ],
+            "entry_requirements": [
+              "WASSCE: Credits (A1-C6) in English Language, Core Mathematics, and Social Studies or Integrated Science",
+              "Credits (A1-C6) in three relevant elective subjects (Arts, Languages, Business, or Creative Arts)",
+              "Overall aggregate of 36 or better",
+              "SSSCE equivalent: aggregate 24 or better; Level 200 entry available for HND holders in Advertising or Public Relations"
+            ],
+            "level_note": [
+              "The Advertising & Public Relations programme integrates creative strategy, digital media, and corporate communications, preparing graduates for Ghana's fast-growing marketing and PR industry.",
+              "Students build a professional portfolio through live client campaigns and are supported in pursuing membership with the Institute of Public Relations Ghana (IPRG) after graduation."
+            ]
           }
         ]
       }
