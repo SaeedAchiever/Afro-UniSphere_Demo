@@ -44,9 +44,7 @@
               "USA: $45,000 - $90,000",
               "Europe: €35,000 - €70,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures and practical newsroom sessions",
               "Internships at media houses during programme"
@@ -98,9 +96,7 @@
               "USA: $50,000 - $95,000",
               "Europe: €38,000 - €75,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures and practical sessions",
               "Industry internships and PR campaign projects"
@@ -152,9 +148,7 @@
               "USA: $45,000 - $95,000",
               "Europe: €35,000 - €75,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus with practical radio and TV studio sessions",
               "Field reporting exercises and industry attachments"
@@ -206,9 +200,7 @@
               "USA: $48,000 - $100,000",
               "Europe: €38,000 - €80,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures with beat reporting practice",
               "Internships at sports desks, parliamentary press corps, and business news outlets"
@@ -260,9 +252,7 @@
               "USA: $52,000 - $110,000",
               "Europe: €40,000 - €85,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures and tutorials",
               "Practical campaign projects and industry internships"
@@ -314,9 +304,7 @@
               "USA: $50,000 - $100,000",
               "Europe: €40,000 - €80,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus with community fieldwork components",
               "Internships at NGOs, international development agencies, and government institutions"
@@ -368,9 +356,7 @@
               "USA: $50,000 - $105,000",
               "Europe: €40,000 - €85,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus lectures and tutorials",
               "Industry attachment and case-based business communication projects"
@@ -422,9 +408,7 @@
               "USA: $55,000 - $110,000",
               "Europe: €42,000 - €90,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus with bilingual instruction (English and French)",
               "Business internships at Francophone and international organisations"
@@ -476,9 +460,7 @@
               "USA: $50,000 - $100,000",
               "Europe: €40,000 - €85,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus with language laboratory sessions",
               "Translation workshops and interpreting booth practice"
@@ -530,9 +512,7 @@
               "USA: $50,000 - $95,000",
               "Europe: €38,000 - €80,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus with language laboratory immersion",
               "Cultural exchange and study-abroad opportunities"
@@ -584,9 +564,7 @@
               "USA: $50,000 - $100,000",
               "Europe: €40,000 - €85,000"
             ],
-            "cutt_off": [
-              "Typical WASSCE aggregate: 24 - 36"
-            ],
+            "cutt_off": ["Typical WASSCE aggregate: 24 - 36"],
             "mode": [
               "Full-time on-campus with language laboratory and bilingual instruction",
               "Exchange programmes with Francophone universities"
@@ -1016,9 +994,7 @@
               "USA: $28,000 - $50,000",
               "Europe: €24,000 - €42,000"
             ],
-            "cutt_off": [
-              "WASSCE/SSSCE passes in core and elective subjects"
-            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
             "mode": [
               "Full-time on-campus lectures and practical newsroom sessions",
               "Supervised fieldwork and media attachment"
@@ -1070,9 +1046,7 @@
               "USA: $28,000 - $50,000",
               "Europe: €24,000 - €42,000"
             ],
-            "cutt_off": [
-              "WASSCE/SSSCE passes in core and elective subjects"
-            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
             "mode": [
               "Full-time on-campus lectures and practical sessions",
               "Industry attachment component"
@@ -1178,9 +1152,7 @@
               "USA: $30,000 - $55,000",
               "Europe: €25,000 - €45,000"
             ],
-            "cutt_off": [
-              "WASSCE/SSSCE passes in core and elective subjects"
-            ],
+            "cutt_off": ["WASSCE/SSSCE passes in core and elective subjects"],
             "mode": [
               "Full-time on-campus with language immersion sessions",
               "Cultural exchange activities"
@@ -1690,7 +1662,7 @@
         ],
         "levels": [
           {
-            "level_name": "Doctoral",
+            "level_name": "PhD",
             "fees": [
               "Ghanaian Students: GHC 17,250 per year (Year One, subject to review)",
               "International Students: USD 6,000 - 8,000 per year"
