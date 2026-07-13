@@ -779,7 +779,7 @@
             ]
           },
           {
-            "level_name": "MSc (IT for Business)",
+            "level_name": "MSc",
             "fees": ["GHC 20,835 per year (Evening/Weekend — IT for Business)"],
             "duration": "1-2 years",
             "electives": [
@@ -1147,7 +1147,7 @@
             ]
           },
           {
-            "level_name": "MSc (Applied Geochemistry / Applied Geophysics / Geology / Economic Geology / Engineering Geology / Hydrogeology / Mineral Exploration / Petroleum Geoscience)",
+            "level_name": "MSc",
             "fees": [
               "GHC 14,434 per year (1-yr MSc 1st tier) | GHC 12,888 (2nd tier) | GHC 8,794 (3rd tier)"
             ],
@@ -1284,7 +1284,7 @@
             ]
           },
           {
-            "level_name": "MPhil (Agribusiness / Agricultural Economics / Agricultural Administration / Agricultural Extension / Crop Science / Animal Science / Seed Science / Nuclear Agriculture)",
+            "level_name": "MPhil",
             "fees": [
               "GHC 14,911 Yr1 / GHC 13,685 Yr2 (MPhil 1st tier) | GHC 13,365/12,139 (2nd) | GHC 9,270/8,044 (3rd)"
             ],
@@ -1322,7 +1322,7 @@
             ]
           },
           {
-            "level_name": "PhD (Applied Agricultural Economics / Agribusiness / Agricultural Engineering / Crop Science / Animal Science / Plant Breeding / Food Processing Engineering / Food Science)",
+            "level_name": "PhD",
             "fees": [
               "GHC 12,093 Yr1 | GHC 12,158 Yr2 | GHC 15,965 Yr3 | GHC 12,158 Yr4 (full-time)"
             ],
@@ -1375,7 +1375,7 @@
         ],
         "levels": [
           {
-            "level_name": "Undergraduate - Family and Child Studies",
+            "level_name": "Undergraduate",
             "fees": [
               "GHC 3,544 per semester (Regular) | GHC 7,487 per semester (Fee-paying)"
             ],
@@ -1421,7 +1421,7 @@
             ]
           },
           {
-            "level_name": "Undergraduate - Food and Clothing",
+            "level_name": "Undergraduate",
             "fees": [
               "GHC 3,544 per semester (Regular) | GHC 7,487 per semester (Fee-paying)"
             ],
@@ -1467,7 +1467,7 @@
             ]
           },
           {
-            "level_name": "MPhil (Family & Child Studies / Food Utilization & Community Nutrition / Family Resource Management / Textiles & Clothing / Women Development & Family Welfare)",
+            "level_name": "MPhil",
             "fees": [
               "GHC 14,911 Yr1 / GHC 13,685 Yr2 (MPhil 1st tier) | GHC 13,365/12,139 (2nd) | GHC 9,270/8,044 (3rd)"
             ],
@@ -2458,7 +2458,41 @@
             ]
           },
           {
-            "level_name": "MSc / MPhil",
+            "level_name": "Masters",
+            "fees": ["GHC 13,877 Yr1 / GHC 12,591 Yr2 (MPhil 1st tier)"],
+            "duration": "1-2 years",
+            "electives": [
+              {
+                "required": [
+                  "BSc. Midwifery or equivalent registered qualification (min. Second Class Lower)"
+                ]
+              },
+              {
+                "additional": ["Clinical midwifery experience preferred"]
+              }
+            ],
+            "salary": [
+              "Ghana: GHS 48,000-120,000 annually",
+              "USA: $65,000-$140,000",
+              "Europe: EUR 50,000-115,000"
+            ],
+            "cutt_off": [],
+            "mode": [
+              "Full-time research with coursework seminars",
+              "Supervised thesis and oral (viva voce) examination"
+            ],
+            "entry_requirements": [
+              "Good first degree in relevant discipline (minimum Second Class Lower)",
+              "Research proposal required",
+              "Academic referee letters required"
+            ],
+            "level_note": [
+              "MSc/MPhil Midwifery at UG advances clinical knowledge and research in maternal and neonatal care.",
+              "Graduates pursue senior midwifery management, education, and research careers."
+            ]
+          },
+          {
+            "level_name": "MPhil",
             "fees": ["GHC 13,877 Yr1 / GHC 12,591 Yr2 (MPhil 1st tier)"],
             "duration": "1-2 years",
             "electives": [
